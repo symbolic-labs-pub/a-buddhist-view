@@ -2,6 +2,15 @@
 
 [![white_tara](white_tara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#white-tārā--the-teaching-of-sustaining-conditions)
 
+<details open>
+<summary>Explanation</summary>
+
+**White Tārā** (Sanskrit: *Sitatārā*, Tibetan: *སྒྲོལ་དཀར་*, *Drolkar*) is a **female Buddha** in [Vajrayāna](../../05_yanas/README.md#4-vajrayāna-tantrayāna-mantrayāna---the-diamond-vehicle) Buddhism, embodying **[compassion](../../02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching) as sustaining care**. She is recognized by her **seven eyes** (on face, palms, and soles) representing continuous, distributed [awareness](../../10_concepts/README.md#2-awareness-rigpa-vijñāna-knowing) that maintains favorable conditions for [awakening](../../10_concepts/README.md#3-enlightenment-bodhi-awakening). Her white color symbolizes purity and healing, and she is traditionally associated with **longevity, health, and the protection of causal continuity**—not through miraculous intervention, but through the wisdom of maintaining viable conditions.
+
+</details>
+
+---
+
 <details>
 <summary>Teaching</summary>
 

@@ -2,6 +2,15 @@
 
 [![avalokitesvara](avalokitesvara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#the-teaching-of-infinite-responsiveness)
 
+<details open>
+<summary>Explanation</summary>
+
+**Avalokiteśvara** (Sanskrit: *"The Lord Who Looks Down"*, Tibetan: *སྤྱན་རས་གཟིགས་*, *Chenrezig*; Chinese: *Guanyin*) is the **[Bodhisattva](../08_bodhisattva/README.md#4-the-bodhisattva-vow-as-structural-alignment) of [Compassion](../../02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching)** in [Mahāyāna](../../05_yanas/README.md#limitation-from-mahāyāna-view) and [Vajrayāna](../../05_yanas/README.md#4-vajrayāna-tantrayāna-mantrayāna---the-diamond-vehicle) Buddhism. Often depicted with **one thousand arms and eleven heads**, these represent the **infinite capacity to respond skillfully to all forms of [suffering](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha)**. Each hand holds a different implement, symbolizing the diverse methods ([upāya](../../01_core_teachings/perfections/README.md#7-upāya-kauśalya-skillful-means--teaching-without-attachment)) needed to meet beings where they are. Avalokiteśvara embodies **compassion as adaptive intelligence** rather than fixed sentiment.
+
+</details>
+
+---
+
 <details>
 <summary>Teaching</summary>
 

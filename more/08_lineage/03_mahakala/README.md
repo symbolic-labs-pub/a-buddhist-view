@@ -2,6 +2,15 @@
 
 [![mahakala](mahakala.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#mahākāla-and-the-dharma-of-non-regression)
 
+<details open>
+<summary>Explanation</summary>
+
+**Mahākāla** (Sanskrit: *"Great Black One"*, Tibetan: *ནག་པོ་ཆེན་པོ་*, *Nagpo Chenpo*) is a **wrathful protector deity** in [Vajrayāna](../../05_yanas/README.md#4-vajrayāna-tantrayāna-mantrayāna---the-diamond-vehicle) Buddhism, embodying **fierce [compassion](../../02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching) that prevents regression on the path**. His dark blue-black color represents the **dharmakāya** (absolute reality beyond concepts), and his wrathful appearance symbolizes the **uncompromising elimination of obstacles**—both external disturbances and internal tendencies toward spiritual compromise. Mahākāla is particularly revered as a **Dharma protector** who ensures practitioners do not abandon their vows or fall back into confusion once they have entered the path.
+
+</details>
+
+---
+
 <details>
 <summary>Teaching</summary>
 

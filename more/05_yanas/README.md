@@ -121,10 +121,6 @@ Cultivate that.
 
 The path unfolds naturally when nothing essential is skipped.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 0ffb90f63988166d749a83ba88e2bfad5781a9a7
 </details>
 
 ---

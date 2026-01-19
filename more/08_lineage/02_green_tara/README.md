@@ -2,6 +2,15 @@
 
 [![green_tara](green_tara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/02_green_tara/README.md#a-kagyü-teaching-on-green-tārā-compassion-that-does-not-hesitate)
 
+<details open>
+<summary>Explanation</summary>
+
+**Green Tārā** (Sanskrit: *Śyāmatārā*, Tibetan: *སྒྲོལ་ལྗང་*, *Drolyang*) is a **female Buddha** embodying **swift, fearless [compassion](../../02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching)**. Her green color represents vigorous activity and her **half-standing posture** (right leg extended, ready to step forward) symbolizes **immediate responsiveness without hesitation**. She is invoked for protection from fear, obstacles, and dangers—both external threats and internal paralysis caused by doubt or confusion.
+
+</details>
+
+---
+
 <details>
 <summary>Teaching</summary>
 
