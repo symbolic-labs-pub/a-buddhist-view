@@ -416,3 +416,11 @@ flowchart LR
 [17]: https://www.karmapa.org/a-joint-statement-regarding-the-reincarnation-of-kunzig-shamar-rinpoche/?utm_source=chatgpt.com "A joint statement regarding the reincarnation of Kunzig ..."
 [18]: https://www.buddhism-london.org/recognition-of-the-15th-shamarpa-karma-kagyu-organizations-request-of-hh-karmapa/?utm_source=chatgpt.com "Recognition of the 15th Shamarpa: Karma Kagyu ..."
 [19]: https://www.padmasambhava.org/the-nyingma-lineage?utm_source=chatgpt.com "The Nyingma Lineage | Padmasambhava.Org"
+
+---
+
+< [Yesterdays](past.md) | [History](README.md) >
+
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
+
+---

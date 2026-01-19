@@ -400,3 +400,9 @@ flowchart TB
 
 
 ---
+
+< [History](README.md) | [Nowadays](present.md) >
+
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
+
+---
