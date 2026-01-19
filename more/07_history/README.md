@@ -2,7 +2,7 @@
 
 |                       [Nowadays](present.md)                        |                     [Yesterdays](past.md)                      |
 |:-------------------------------------------------------------------:|:--------------------------------------------------------------:|
-|     [![16thKarmapa.jpg](16thKarmapa.jpg)](present.md)     |     [![history_small.png](history_small.png)](present.md)      |
+|     [![16thKarmapa.jpg](16thKarmapa.jpg)](present.md)     |     [![history_small.png](history_small.png)](past.md)      |
 |  [The 16th Karmapa](https://www.youtube.com/watch?v=XokE6yKhH8g)    | [Siddhartha Gautama](https://en.wikipedia.org/wiki/The_Buddha) | 
 
 </div>
