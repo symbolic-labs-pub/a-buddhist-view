@@ -155,17 +155,15 @@ This is called **dwelling in the [Dharmakāya](../../04_kayas/README.md#1-dharma
 
 </details>
 
+
 ---
 
 <details open>
 <summary>Explanation</summary>
 
-In Buddhist teachings—especially [**Mahāyāna**](../../05_yanas/README.md#limitation-from-mahāyāna-view) and **Vajrayāna**—**Vairocana** is not a historical person but the **cosmic principle of awakening itself**. He represents **the totality of reality experienced as awakened awareness**.
-
 ---
 
 ## 1. Core Meaning
-
 
 **Vairocana** literally means *“The All-Illuminating One.”*
 He embodies **Dharma as such**—reality seen clearly, without distortion.
@@ -181,8 +179,7 @@ He corresponds to **Dharmakāya** (the *truth body* of the Buddha), the **ground
 
 ## 2. Place in the Five Dhyāni Buddhas
 
-
-Vairocana sits at the **center** of the **Five Dhyāni ([Wisdom](../../01_core_teachings/the_noble_eightfold_path/README.md#1-wisdom-paññā)) Buddhas** system.
+Vairocana sits at the **center** of the **Five Dhyāni (Wisdom) Buddhas** system.
 
 | Aspect     | Meaning                                              |
 | ---------- | ---------------------------------------------------- |
@@ -191,14 +188,13 @@ Vairocana sits at the **center** of the **Five Dhyāni ([Wisdom](../../01_core_t
 | Transforms | Ignorance / confusion                                |
 | Element    | Space (ākāśa)                                        |
 | Color      | White (or sometimes radiant gold)                    |
-| Mudrā      | **[Dharma](../../01_core_teachings/the_three_jewels/README.md#2-dharma--the-path-and-the-law-of-reality)chakra Mudrā** (turning the Wheel of Dharma) |
+| Mudrā      | **Dharmachakra Mudrā** (turning the Wheel of Dharma) |
 
 While other Buddhas transform specific poisons (anger, desire, pride), **Vairocana dissolves ignorance at its root**—the belief in separation.
 
 ---
 
 ## 3. Philosophical Role
-
 
 Vairocana represents:
 
@@ -210,7 +206,7 @@ This is closely aligned with teachings such as:
 
 * **Śūnyatā** (emptiness)
 * **Indra’s Net** (everything reflects everything else)
-* **Tathāgatagarbha** ([Buddha-nature](../../02_from_ignorance_to_awakening/6_buddha_nature/README.md#buddha-nature-tathāgatagarbha--explained-through-buddhist-teachings))
+* **Tathāgatagarbha** (Buddha-nature)
 
 In this view:
 
@@ -220,7 +216,6 @@ In this view:
 ---
 
 ## 4. Scriptural Foundation
-
 
 Vairocana is central in:
 
@@ -234,7 +229,6 @@ Reality is not neutral—it is **instructional**.
 ---
 
 ## 5. Practice Meaning (Vajrayāna)
-
 
 Meditation on Vairocana trains:
 
@@ -252,7 +246,6 @@ This is why Vairocana is often depicted **radiant, symmetrical, and central**—
 
 ## 6. Practical Insight
 
-
 From Vairocana’s perspective:
 
 * Confusion is **misrecognition**, not sin
@@ -265,9 +258,6 @@ From Vairocana’s perspective:
 
 ## 7. One-Line Teaching
 
-
-> **Vairocana teaches that awakening is not elsewhere.
-> It is the nature of awareness itself—when nothing is excluded.**
 
 </details>
 

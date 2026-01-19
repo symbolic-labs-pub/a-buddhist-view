@@ -2,6 +2,7 @@
 
 [![vajrasattva](vajrasattva.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa)
 
+
 <details>
 <summary>Teaching</summary>
 
@@ -114,10 +115,11 @@ This is the teaching of Vajrasattva:
 
 ---
 
+
+---
+
 <details open>
 <summary>Explanation</summary>
-
-**The Embodiment of the Diamond (Indestructible) Mind in Vajrayāna Buddhism**
 
 ### 1. Who is Vajrasattva according to Buddhist teachings?
 
@@ -144,7 +146,7 @@ Every detail is instructional, not decorative:
 * **Vajra (right hand)** → skillful means, compassionate action
 * **Bell (left hand)** → wisdom, emptiness (*śūnyatā*)
 * **Royal ornaments** → awakening expressed **within the world**, not withdrawal from it
-* **[Lotus](../../09_symbols/08_lotus/README.md#the-lotus-in-buddhist-teaching) posture** → purity that arises **through conditions**, not apart from them
+* **Lotus posture** → purity that arises **through conditions**, not apart from them
 
 > **Key teaching:** the Diamond Mind is the **union of method and wisdom**.
 
@@ -156,7 +158,7 @@ Vajrasattva practice is structured around the **Four Powers**, a core Vajrayāna
 
 1. **Recognition / remorse** – clear seeing of cause and effect, not guilt
 2. **Reliance** – taking refuge in awakened awareness and direction
-3. **Antidotal application** – mantra, visualization, [mindful](../../01_core_teachings/the_noble_eightfold_path/README.md#7-right-mindfulness-sammā-sati) presence
+3. **Antidotal application** – mantra, visualization, mindful presence
 4. **Resolution** – structural reorientation of mind and behavior
 
 This is a **deep cognitive and karmic re-patterning**, not a moral judgment.
@@ -182,7 +184,7 @@ Together, they synchronize **body, speech, and mind**, allowing obscurations to 
 
 ### 6. Vajrasattva’s role on the path
 
-* Central to [**Ngöndro**](../../11_ngondro/README.md#what-is-ngöndro-in-mahāyāna-buddhism) (preliminary practices)
+* Central to **Ngöndro** (preliminary practices)
 * Foundation for **Mahāmudrā** and **Dzogchen**
 * Considered **structural purification**, not optional devotion
 
@@ -203,17 +205,3 @@ Without purification, higher realization becomes unstable.
 ### 8. In one sentence
 
 **Vajrasattva teaches that the mind is originally pure, and practice removes obscurations rather than adding anything new.**
-
-</details>
-
----
-
-
-
----
-
-< [The Teaching of the Wrathful Protector](../12_six_armed_mahakala/README.md) | [**Amitābha** — according to Buddhist teachings](../14_amitabha/README.md) >
-
-_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
-
----

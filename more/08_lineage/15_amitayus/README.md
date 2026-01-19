@@ -176,12 +176,11 @@ That is the teaching of Amitāyus.
 
 </details>
 
+
 ---
 
 <details open>
 <summary>Explanation</summary>
-
-**Amitāyus** (Sanskrit: *"Boundless Life"*) is the **[sambhogakāya (enjoyment-body)](../../04_kayas/README.md#2-sambhogakāya--the-body-of-enjoyment)** form of **Amitābha**, revered across Mahāyāna and Vajrayāna as the embodiment of **life sustained by wisdom**. Where Amitābha emphasizes *infinite light* (clarity), Amitāyus emphasizes *infinite life* (continuity). They are two aspects of the same awakened reality.
 
 ---
 
@@ -265,8 +264,6 @@ Amitāyus is not about living forever.
 He is about **living without inner erosion**.
 
 **Longevity = sustained clarity.
-Clarity = freedom from fear.
-Freedom from fear = awakened life.**
 
 </details>
 
