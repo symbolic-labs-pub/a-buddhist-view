@@ -4,7 +4,7 @@ Lineage and Buddhas
 
 At this point it is very important to emphasize the role of the Sangha - our friends on the way. If you did still note yet contacted a Buddhist center or community near to you, grab your search engine and find one. 
 
-The rule is the same as with meditation, you may have learned that so far. So the thing is, that it is structurally impossible to improve and develop without the Sanga, so get up, and find them!
+The rule is the same as with meditation, you may have learned that so far. So the thing is, that it is structurally impossible to improve and develop without the Sangha, so get up, and find them!
 
 ---
 
