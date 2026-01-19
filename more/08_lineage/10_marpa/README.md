@@ -246,6 +246,6 @@ Return to this practice whenever the path feels vague, sentimental, or self-serv
 
 < [**A Buddhist Teaching: Milarepa and the Law of Irreversible Transformation**](../09_milarepa/README.md) | [Vajradhara and the Teaching of Recognition](../11_vajradhara/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

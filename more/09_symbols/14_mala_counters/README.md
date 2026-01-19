@@ -117,6 +117,6 @@ through quiet, repeated, unglamorous fidelity to what one has chosen.**
 
 < [Skull Cup (Kapāla) — explained according to Buddhist teachings](../13_skull_cup/README.md) | [Thangka — Visual Transmission of the Path](../15_thangka/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

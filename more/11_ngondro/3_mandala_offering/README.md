@@ -160,6 +160,6 @@ Only **false claims of possession** are released.
 
 < [2. Vajrasattva — Purification of Obscurations](../2_purification/README.md) | [The Fourth Ngöndro Practice](../4_guru_yoga/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

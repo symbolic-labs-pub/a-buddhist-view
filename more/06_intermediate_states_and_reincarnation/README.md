@@ -531,6 +531,6 @@ Train there.
 
 < [1) How they *structure* the path](../05_yanas/zen_and_theravada/README.md) | [Core Orientation of the Kagyu School](../07_history/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

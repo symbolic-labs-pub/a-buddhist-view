@@ -141,6 +141,6 @@ It is **what awakening looks like when it moves**.
 
 < [**Buddha-Nature (Tathāgatagarbha)** — explained through Buddhist teachings](../6_buddha_nature/README.md) | [1. The Three Marks of Existence](../README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

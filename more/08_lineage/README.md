@@ -258,6 +258,6 @@ They are not symbolic decorations; they are **functional necessities** in a line
 
 < [**Vairocana** — the Buddha of **Universal Illumination**](16_vairocana/README.md) | [Blessing Cord (Protection Cord) — Buddhist Meaning](../09_symbols/01_blessing_cord/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

@@ -147,6 +147,6 @@ This is why many traditions say:
 
 < [The Two Truths in Buddhist Teaching](../5_the_two_truths/README.md) | [1. Wisdom and Compassion Are Functionally Inseparable](../7_compassion/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

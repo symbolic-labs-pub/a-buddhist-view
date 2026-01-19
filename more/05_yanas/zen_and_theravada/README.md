@@ -183,6 +183,6 @@ Think of them as three optimization strategies for the same objective function (
 
 < [Shared baseline: 3 knobs of attention](../shikantaza_and_vipassana/README.md) | [Intermediate States (*Bardo*) and Reincarnation](../../06_intermediate_states_and_reincarnation/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

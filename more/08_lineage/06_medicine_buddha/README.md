@@ -482,6 +482,6 @@ Healing here means:
 
 < [Buddhist Teaching: **Awakening as Skillful Adaptation**](../05_padmasambhava/README.md) | [Kalu Rinpoche](../07_kalu_rinpoche/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

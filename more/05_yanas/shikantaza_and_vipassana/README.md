@@ -267,6 +267,6 @@ And when you’re off:
 
 < [What is a Yāna?](../README.md) | [1) How they *structure* the path](../zen_and_theravada/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

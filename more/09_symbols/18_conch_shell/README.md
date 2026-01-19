@@ -113,6 +113,6 @@ When speaking today, ask:
 
 < [Dharma Wheel (Dharmachakra) — according to Buddhist teachings](../17_dharma_wheel/README.md) | [The Golden Fish — according to Buddhist teachings](../19_golden_fish/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

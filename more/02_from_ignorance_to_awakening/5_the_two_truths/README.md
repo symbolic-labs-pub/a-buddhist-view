@@ -169,6 +169,6 @@ but **clarity inside life as it is**.
 
 < [Emptiness (Śūnyatā) in Mahāyāna Buddhism](../4_emptiness/README.md) | [**Buddha-Nature (Tathāgatagarbha)** — explained through Buddhist teachings](../6_buddha_nature/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

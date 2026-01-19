@@ -139,6 +139,6 @@ Skipping it is like deploying a powerful optimizer on corrupted data.
 
 < [The Fourth Ngöndro Practice](4_guru_yoga/README.md) | [Frequently Asked Questions](../80_faq/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

@@ -180,6 +180,6 @@ This is why Pure Land has survived centuries—it **meets people where they actu
 
 < [Vajrasattva (Dorje Sempa)](../13_vajrasattva/README.md) | [Amitāyus — The Buddha of Boundless Life](../15_amitayus/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

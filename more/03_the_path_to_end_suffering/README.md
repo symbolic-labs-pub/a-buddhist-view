@@ -168,6 +168,6 @@ Deep mental unification ([meditative](../08_lineage/README.md) absorption), enab
 
 < [1. The Three Marks of Existence](../02_from_ignorance_to_awakening/README.md) | [A Teaching on the Three Bodies of Awakening](../04_kayas/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

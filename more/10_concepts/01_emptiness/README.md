@@ -548,6 +548,6 @@ That is Vajrayāna emptiness in action.
 
 < [Symbols](../../09_symbols/README.md) | [Concepts](../README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

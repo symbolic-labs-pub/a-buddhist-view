@@ -126,6 +126,6 @@ This is why the Kapāla belongs only to those ready to **see without flinching**
 
 < [The Bell (Ghanta)](../12_bell/README.md) | [Mala Counters — explained through Buddhist teachings](../14_mala_counters/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

@@ -149,6 +149,6 @@ This is why the Buddha said:
 
 < [The Four Noble Truths — as the Buddha meant them](../2_the_four_noble_truths/README.md) | [Emptiness (Śūnyatā) in Mahāyāna Buddhism](../4_emptiness/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

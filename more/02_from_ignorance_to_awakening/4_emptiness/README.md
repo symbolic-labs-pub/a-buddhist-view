@@ -154,6 +154,6 @@ In Mahāyāna Buddhism, **Emptiness (Śūnyatā)** means:
 
 < [Dependent Origination (Paṭicca-samuppāda)](../3_dependent_origination/README.md) | [The Two Truths in Buddhist Teaching](../5_the_two_truths/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

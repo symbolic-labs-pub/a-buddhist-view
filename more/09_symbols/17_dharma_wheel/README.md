@@ -121,6 +121,6 @@ Practice is the art of **keeping the wheel true**.
 
 < [Endless Knot (Śrīvatsa) — according to Buddhist teachings](../16_endless_knot/README.md) | [🐚 The Conch Shell (Śaṅkha) in Buddhist Teachings](../18_conch_shell/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

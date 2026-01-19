@@ -365,6 +365,6 @@ Many modern practitioners fail not due to lack of teachings, but due to **skippi
 
 < [1. Dharmakāya → *Ground Recognition*](../04_kayas/mahamudra_and_dzogcsen/README.md) | [Shared baseline: 3 knobs of attention](shikantaza_and_vipassana/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

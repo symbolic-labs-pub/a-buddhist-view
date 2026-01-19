@@ -362,6 +362,6 @@ Remain still for a few breaths.
 
 < [Vajradhara and the Teaching of Recognition](../11_vajradhara/README.md) | [Vajrasattva (Dorje Sempa)](../13_vajrasattva/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

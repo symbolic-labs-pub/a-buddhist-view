@@ -422,6 +422,6 @@ They are not decorative motifs—they are **cognitive and ethical instructions**
 
 < [Victory Banner (Skt. *Dhvaja*) — Buddhist Meaning](22_victory_banner/README.md) | [Emptiness (Śūnyatā) in Vajrayāna Buddhism](../10_concepts/01_emptiness/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

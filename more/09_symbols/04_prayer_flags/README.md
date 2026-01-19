@@ -124,6 +124,6 @@ That is pure Buddhist practice.
 
 < [Prayer Wheel (Mani Wheel) — Explained Through Buddhist Teachings](../03_prayer_wheel/README.md) | [1. What a Stupa *Is* (Beyond Architecture)](../05_stupa/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

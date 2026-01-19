@@ -151,6 +151,6 @@ This is the real sign of progress.
 
 < [Concepts](../../10_concepts/README.md) | [2. Vajrasattva — Purification of Obscurations](../2_purification/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

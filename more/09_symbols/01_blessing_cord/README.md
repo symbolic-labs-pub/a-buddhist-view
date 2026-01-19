@@ -146,6 +146,6 @@ it is **portable [mindfulness](../../01_core_teachings/the_noble_eightfold_path/
 
 < [White Tārā (Sitatārā) – The Mother of Longevity & Compassion](../../08_lineage/README.md) | [Dorje (Vajra) — explained according to Buddhist teachings](../02_dorje/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

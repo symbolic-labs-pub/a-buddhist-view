@@ -92,6 +92,6 @@ It is not a promise of riches—it is a correction of **how the mind relates to 
 
 < [The Parasol (Chatra) — according to Buddhist teachings](../20_parasol/README.md) | [Victory Banner (Skt. *Dhvaja*) — Buddhist Meaning](../22_victory_banner/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

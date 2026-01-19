@@ -176,6 +176,6 @@ These are not secrets—they are **high-bandwidth instructions** that require:
 
 < [1. Wisdom and Compassion Are Functionally Inseparable](7_compassion/README.md) | [What “Ending Suffering” Actually Means](../03_the_path_to_end_suffering/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

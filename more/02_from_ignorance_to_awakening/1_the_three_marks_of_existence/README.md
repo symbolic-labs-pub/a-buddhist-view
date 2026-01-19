@@ -168,6 +168,6 @@ Together they form the **ontological core of Buddhism**.
 
 < [The Three Jewels (Triple Gem) — *Ti-ratana*](../../01_core_teachings/the_three_jewels/README.md) | [The Four Noble Truths — as the Buddha meant them](../2_the_four_noble_truths/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

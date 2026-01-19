@@ -13,6 +13,6 @@ interview: https://www.youtube.com/watch?v=N_W7t6fl73Q
 
 < [Medicine Buddha](../06_medicine_buddha/README.md) | [The Bodhisattva Path](../08_bodhisattva/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

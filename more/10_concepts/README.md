@@ -224,6 +224,6 @@ True realization:
 
 < [Emptiness (Śūnyatā) in Vajrayāna Buddhism](01_emptiness/README.md) | [The First Ngöndro Practice](../11_ngondro/1_prostrations/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

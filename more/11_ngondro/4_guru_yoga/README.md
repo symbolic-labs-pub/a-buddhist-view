@@ -139,6 +139,6 @@ It **removes the final obstruction**: the belief that awakening belongs to someo
 
 < [The Third Ngöndro Practice](../3_mandala_offering/README.md) | [The Preliminary Practices (Ngöndro)](../README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

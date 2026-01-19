@@ -98,6 +98,6 @@ The symbol gently reminds us:
 
 < [🐚 The Conch Shell (Śaṅkha) in Buddhist Teachings](../18_conch_shell/README.md) | [The Parasol (Chatra) — according to Buddhist teachings](../20_parasol/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

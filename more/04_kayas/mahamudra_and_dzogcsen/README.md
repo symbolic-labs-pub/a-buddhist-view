@@ -197,6 +197,6 @@ If any is missing, realization is incomplete.
 
 < [A Teaching on the Three Bodies of Awakening](../README.md) | [What is a Yāna?](../../05_yanas/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

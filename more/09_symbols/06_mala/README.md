@@ -130,6 +130,6 @@ They **train you not to leave awareness behind**.
 
 < [1. What a Stupa *Is* (Beyond Architecture)](../05_stupa/README.md) | [1. What a mandala *is* (ontologically)](../07_mandala/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

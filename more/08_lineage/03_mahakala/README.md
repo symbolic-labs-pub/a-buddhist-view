@@ -326,6 +326,6 @@ Remain still for a few moments before moving.
 
 < [**A Kagyü Teaching on Green Tārā: Compassion That Does Not Hesitate**](../02_green_tara/README.md) | [The Teaching of Infinite Responsiveness](../04_avalokitesvara/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

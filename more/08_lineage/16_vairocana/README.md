@@ -478,6 +478,6 @@ Silently conclude:
 
 < [Amitāyus — The Buddha of Boundless Life](../15_amitayus/README.md) | [White Tārā (Sitatārā) – The Mother of Longevity & Compassion](../README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

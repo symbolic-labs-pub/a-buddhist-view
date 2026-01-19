@@ -97,6 +97,6 @@ It is not symbolic art—it is **operational [dharma](../../01_core_teachings/th
 
 < [Mala Counters — explained through Buddhist teachings](../14_mala_counters/README.md) | [Endless Knot (Śrīvatsa) — according to Buddhist teachings](../16_endless_knot/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

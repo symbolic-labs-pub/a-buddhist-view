@@ -146,6 +146,6 @@ Karma is not erased by effort—it is **rendered non-binding** when awareness is
 
 < [The First Ngöndro Practice](../1_prostrations/README.md) | [The Third Ngöndro Practice](../3_mandala_offering/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

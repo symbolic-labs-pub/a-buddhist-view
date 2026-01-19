@@ -91,6 +91,6 @@ The Victory Banner proclaims that **freedom is possible, stable, and repeatable*
 
 < [🏺 The Treasure Vase (Skt. *Nidhāna-kumbha*, Tib. *Bumpa*)](../21_treasure_vase/README.md) | [Symbols](../README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

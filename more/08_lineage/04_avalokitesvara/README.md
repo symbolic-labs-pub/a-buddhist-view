@@ -378,6 +378,6 @@ Compassion is **structural orientation**, not mood.
 
 < [Mahākāla Protector Invocation](../03_mahakala/README.md) | [Buddhist Teaching: **Awakening as Skillful Adaptation**](../05_padmasambhava/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

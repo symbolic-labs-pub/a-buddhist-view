@@ -131,6 +131,6 @@ You **orbit it**—as planets orbit truth.
 
 < [Prayer Flags (Lungta) — Explained Through Buddhist Teachings](../04_prayer_flags/README.md) | [Mala (Prayer Beads) — Explained According to Buddhist Teachings](../06_mala/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

@@ -138,6 +138,6 @@ With awareness, it becomes **practice-in-motion**.
 
 < [Dorje (Vajra) — explained according to Buddhist teachings](../02_dorje/README.md) | [Prayer Flags (Lungta) — Explained Through Buddhist Teachings](../04_prayer_flags/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

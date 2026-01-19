@@ -118,6 +118,6 @@ The dorje teaches that **awakening is indestructible clarity—compassionate, pr
 
 < [Blessing Cord (Protection Cord) — Buddhist Meaning](../01_blessing_cord/README.md) | [Prayer Wheel (Mani Wheel) — Explained Through Buddhist Teachings](../03_prayer_wheel/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

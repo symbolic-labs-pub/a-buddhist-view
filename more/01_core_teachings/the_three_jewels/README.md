@@ -108,6 +108,6 @@ But refuge is not a single event. It deepens as:
 
 < [What the Noble Eightfold Path *is* (in Buddhism)](../the_noble_eightfold_path/README.md) | [The Three Marks of Existence — Buddhist Explanation](../../02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

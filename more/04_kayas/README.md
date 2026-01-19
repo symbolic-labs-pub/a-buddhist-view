@@ -596,6 +596,6 @@ This is how the meditation **enters life**.
 
 < [What “Ending Suffering” Actually Means](../03_the_path_to_end_suffering/README.md) | [1. Dharmakāya → *Ground Recognition*](mahamudra_and_dzogcsen/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

@@ -214,6 +214,6 @@ Without purification, higher realization becomes unstable.
 
 < [The Teaching of the Wrathful Protector](../12_six_armed_mahakala/README.md) | [**Amitābha** — according to Buddhist teachings](../14_amitabha/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

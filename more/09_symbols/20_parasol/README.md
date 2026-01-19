@@ -114,6 +114,6 @@ but **knowing how to stand within it without burning**.
 
 < [The Golden Fish — according to Buddhist teachings](../19_golden_fish/README.md) | [🏺 The Treasure Vase (Skt. *Nidhāna-kumbha*, Tib. *Bumpa*)](../21_treasure_vase/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

@@ -189,6 +189,6 @@ Low-cost, high-impact starting point today:
 
 < [Intermediate States (*Bardo*) and Reincarnation](../06_intermediate_states_and_reincarnation/README.md) | [White Tārā Meditation](../08_lineage/01_white_tara/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

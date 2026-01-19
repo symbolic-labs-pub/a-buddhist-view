@@ -334,6 +334,6 @@ When ignorance ends:
 
 < [The Preliminary Practices (Ngöndro)](../11_ngondro/README.md) | [A Buddhist View](../../README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

@@ -123,6 +123,6 @@ If the bell is used correctly, it teaches this without explanation.
 
 < [Mudrās in Buddhist Teachings](../11_mudra/README.md) | [Skull Cup (Kapāla) — explained according to Buddhist teachings](../13_skull_cup/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---

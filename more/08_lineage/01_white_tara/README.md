@@ -331,6 +331,6 @@ It requires **conditions that last**.
 
 < [Core Orientation of the Kagyu School](../../07_history/README.md) | [**A Kagyü Teaching on Green Tārā: Compassion That Does Not Hesitate**](../02_green_tara/README.md) >
 
-_source: [github.com/sybolic-labs-pub](https://github.com/sybolic-labs-pub)_
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
 ---
