@@ -13,7 +13,7 @@ This makes the framework *experiential*, not philosophical.
 
 ---
 
-## [1. There is suffering — **Dukkha**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha)
+## 1. There is suffering — **Dukkha**
 
 
 ### What this means in Buddhism
@@ -48,7 +48,7 @@ There are three layers:
 
 ---
 
-## [2. Suffering has causes — **Samudaya**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#2-suffering-has-causes--samudaya)
+## 2. Suffering has causes — **Samudaya**
 
 
 ### What causes suffering?
@@ -79,7 +79,7 @@ Not suppressed, not judged—**seen clearly and released**.
 
 ---
 
-## [3. Suffering can cease — **Nirodha**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#3-suffering-can-cease--nirodha)
+## 3. Suffering can cease — **Nirodha**
 
 
 ### What cessation really means
@@ -117,7 +117,7 @@ Not believed—**directly known**.
 
 ---
 
-## [4. There is a path — **Magga**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#4-there-is-a-path--magga)
+## 4. There is a path — **Magga**
 
 
 ### Why a path is necessary
@@ -148,7 +148,7 @@ Not optional.
 
 ---
 
-## [Why Buddhism is “therapeutic”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#why-buddhism-is-therapeutic)
+## Why Buddhism is “therapeutic”
 
 
 The Buddha avoided metaphysical speculation because it:
@@ -171,7 +171,7 @@ More than theology.
 
 ---
 
-## [The deeper diagnostic loop (often missed)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#the-deeper-diagnostic-loop-often-missed)
+## The deeper diagnostic loop (often missed)
 
 
 Each Noble Truth corresponds to a **mode of practice**:
@@ -187,7 +187,7 @@ Liberation happens **only when all four tasks are fulfilled**.
 
 ---
 
-## [Final synthesis](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#final-synthesis)
+## Final synthesis
 
 
 The Four Noble Truths are not doctrines to accept.

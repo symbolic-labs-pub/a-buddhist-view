@@ -24,7 +24,7 @@ It functions by **restructuring cognition**, not by persuasion or belief.
 
 ---
 
-## [Why Sound Matters in Buddhism](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/10_mantra/README.md#why-sound-matters-in-buddhism)
+## Why Sound Matters in Buddhism
 
 
 Buddhism treats **mind and perception as patterned processes**.
@@ -42,7 +42,7 @@ This is why mantra is considered a **direct method**, especially in [Vajrayāna]
 
 ---
 
-## [Three Levels of Mantra Function](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/10_mantra/README.md#three-levels-of-mantra-function)
+## Three Levels of Mantra Function
 
 
 ### 1. **Coarse Level — Attention Training**
@@ -93,7 +93,7 @@ At this point:
 
 ---
 
-## [Example: *Om Mani Padme Hum*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/10_mantra/README.md#example-om-mani-padme-hum)
+## Example: *Om Mani Padme Hum*
 
 
 Traditionally understood as:
@@ -116,7 +116,7 @@ it does **not** activate it.
 
 ---
 
-## [Why Mantra Is Called “Mind Protection”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/10_mantra/README.md#why-mantra-is-called-mind-protection)
+## Why Mantra Is Called “Mind Protection”
 
 
 In Tibetan, mantra is often described as:
@@ -133,7 +133,7 @@ This is *cognitive hygiene*, not superstition.
 
 ---
 
-## [Common Misunderstandings (Corrected)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/10_mantra/README.md#common-misunderstandings-corrected)
+## Common Misunderstandings (Corrected)
 
 
 | Misunderstanding         | Buddhist Clarification                 |
@@ -145,7 +145,7 @@ This is *cognitive hygiene*, not superstition.
 
 ---
 
-## [Mantra in Relation to Other Practices](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/10_mantra/README.md#mantra-in-relation-to-other-practices)
+## Mantra in Relation to Other Practices
 
 
 Mantra integrates with:
@@ -160,7 +160,7 @@ In Vajrayāna, mantra is never isolated — it’s **part of a system**.
 
 ---
 
-## [The Core Insight](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/10_mantra/README.md#the-core-insight)
+## The Core Insight
 
 
 > **Mantra is frequency discipline, not affirmation.**

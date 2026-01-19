@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [The Teaching of Infinite Responsiveness](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#the-teaching-of-infinite-responsiveness)
+## The Teaching of Infinite Responsiveness
 
 
 ### Compassion as Structure, Not Sentiment
@@ -17,7 +17,7 @@ in the **thousand-armed form** is not presented as a deity to worship, but as a 
 
 ---
 
-## [1. The Core Problem: Self-Fixation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#1-the-core-problem-self-fixation)
+## 1. The Core Problem: Self-Fixation
 
 
 According to Buddhist analysis, [suffering](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha) does not primarily arise from pain, loss, or difficulty.
@@ -38,7 +38,7 @@ This creates **burnout, pride, guilt, and aversion**.
 
 ---
 
-## [2. The Radical Shift: Compassion Without a Center](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#2-the-radical-shift-compassion-without-a-center)
+## 2. The Radical Shift: Compassion Without a Center
 
 
 The thousand-armed form teaches something radical:
@@ -64,7 +64,7 @@ It is what happens when **self-reference loosens**.
 
 ---
 
-## [3. Skillful Means Everywhere](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#3-skillful-means-everywhere)
+## 3. Skillful Means Everywhere
 
 
 In [Mahāyāna](../../05_yanas/README.md#limitation-from-mahāyāna-view) Buddhism, compassion is inseparable from **prajñā** ([wisdom](../../01_core_teachings/the_noble_eightfold_path/README.md#1-wisdom-paññā)).
@@ -87,7 +87,7 @@ There is only **context-sensitive response**.
 
 ---
 
-## [4. Why This Practice Softens Without Weakening](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#4-why-this-practice-softens-without-weakening)
+## 4. Why This Practice Softens Without Weakening
 
 
 The teaching explicitly avoids two extremes:
@@ -115,7 +115,7 @@ This is compassion that **does not collapse under pressure**.
 
 ---
 
-## [5. Lojong Integration: Structural Mind Training](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#5-lojong-integration-structural-mind-training)
+## 5. Lojong Integration: Structural Mind Training
 
 
 In the Kagyü tradition, this teaching integrates directly with **lojong (mind training)**.
@@ -138,7 +138,7 @@ It is **architectural change in mind**.
 
 ---
 
-## [6. The Deepest Point: No Owner of Compassion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#6-the-deepest-point-no-owner-of-compassion)
+## 6. The Deepest Point: No Owner of Compassion
 
 
 At the deepest level, the teaching points to **non-ownership**.
@@ -161,7 +161,7 @@ Compassion is **a property of awakened awareness**, not a personality trait.
 
 ---
 
-## [7. Practical Teaching Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#7-practical-teaching-summary)
+## 7. Practical Teaching Summary
 
 
 You can carry this teaching into daily life with one principle:
@@ -173,7 +173,7 @@ If you remember only this, the teaching is alive.
 
 ---
 
-## [Closing Instruction](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#closing-instruction)
+## Closing Instruction
 
 
 Do not try to *be* compassionate.
@@ -194,7 +194,7 @@ When that happens,
 <details>
 <summary>Meditation</summary>
 
-## [Thousand-Armed Chenrezig](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#thousand-armed-chenrezig)
+## Thousand-Armed Chenrezig
 
 
 ### Meditation on Infinite Compassion as Action
@@ -213,7 +213,7 @@ It is **structural re-orientation of mind**.
 
 ---
 
-## [1. Preparation (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#1-preparation-23-minutes)
+## 1. Preparation (2–3 minutes)
 
 
 Sit comfortably. Spine upright but relaxed.
@@ -230,7 +230,7 @@ Let it be **quiet and sincere**.
 
 ---
 
-## [2. Visualization (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#2-visualization-35-minutes)
+## 2. Visualization (3–5 minutes)
 
 
 Visualize **Thousand-Armed Chenrezig** appearing in front of you or above your head.
@@ -251,7 +251,7 @@ Understand:
 
 ---
 
-## [3. Identification (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#3-identification-23-minutes)
+## 3. Identification (2–3 minutes)
 
 
 Now gently **merge the visualization with yourself**.
@@ -271,7 +271,7 @@ Only this recognition:
 
 ---
 
-## [4. Mantra with Structural Attention (5–10 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#4-mantra-with-structural-attention-510-minutes)
+## 4. Mantra with Structural Attention (5–10 minutes)
 
 
 Recite softly or silently:
@@ -297,7 +297,7 @@ If thoughts arise:
 
 ---
 
-## [5. Compassion as Field (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#5-compassion-as-field-35-minutes)
+## 5. Compassion as Field (3–5 minutes)
 
 
 Now release mantra.
@@ -322,7 +322,7 @@ Nothing is forced.
 
 ---
 
-## [6. Dedication (1 minute)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#6-dedication-1-minute)
+## 6. Dedication (1 minute)
 
 
 Conclude gently:
@@ -336,7 +336,7 @@ Remain briefly in **ordinary awareness**, unchanged, grounded.
 
 ---
 
-## [Key Practice Insight (Very Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#key-practice-insight-very-important)
+## Key Practice Insight (Very Important)
 
 
 This meditation trains **capacity**, not emotion.
@@ -356,7 +356,7 @@ The true sign of progress is this:
 
 ---
 
-## [Practical Integration (Off-Cushion)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#practical-integration-off-cushion)
+## Practical Integration (Off-Cushion)
 
 
 During daily life:

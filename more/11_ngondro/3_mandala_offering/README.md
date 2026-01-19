@@ -10,7 +10,7 @@ This practice trains the mind to **relinquish ownership itself**, not merely pos
 
 ---
 
-## [1. What Is Being Offered?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#1-what-is-being-offered)
+## 1. What Is Being Offered?
 
 
 In the Mandala Offering, the practitioner symbolically offers **the entire universe**—not as metaphor, but as a **cognitive re-patterning exercise**.
@@ -29,7 +29,7 @@ This is why the mandala is called a **total offering**—it leaves no refuge for
 
 ---
 
-## [2. Why This Practice Is Necessary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#2-why-this-practice-is-necessary)
+## 2. Why This Practice Is Necessary
 
 
 From a deep Buddhist perspective, **[suffering](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha) is maintained by subtle possession**, even spiritual possession:
@@ -53,7 +53,7 @@ It is **de-identification from control**.
 
 ---
 
-## [3. The Core Psychological Mechanism](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#3-the-core-psychological-mechanism)
+## 3. The Core Psychological Mechanism
 
 
 The practice works through **repetitive symbolic relinquishment**.
@@ -76,7 +76,7 @@ This is **neuro-symbolic retraining** using sacred geometry.
 
 ---
 
-## [4. Relationship to Karma (Cause & Effect)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#4-relationship-to-karma-cause--effect)
+## 4. Relationship to Karma (Cause & Effect)
 
 
 The third Ngöndro follows **Karma (Cause & Effect)** deliberately.
@@ -99,7 +99,7 @@ It creates the karmic condition for **unobstructed insight**.
 
 ---
 
-## [5. Devotion Without Externalization](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#5-devotion-without-externalization)
+## 5. Devotion Without Externalization
 
 
 In the Kagyu understanding, the mandala is offered:
@@ -117,7 +117,7 @@ The offering returns as **recognition**, not reward.
 
 ---
 
-## [6. Why It Prepares for Guru Yoga](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#6-why-it-prepares-for-guru-yoga)
+## 6. Why It Prepares for Guru Yoga
 
 
 [Guru Yoga](../4_guru_yoga/README.md#samsāra’s-unsatisfactoriness-→-guru-yoga) (the fourth Ngöndro)](#the-third-ngöndro-practice)) requires:
@@ -136,14 +136,14 @@ Without this practice, Guru Yoga easily becomes psychological dependence.
 
 ---
 
-## [7. One Sentence Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#7-one-sentence-summary)
+## 7. One Sentence Summary
 
 
 **The Mandala Offering trains the practitioner to experience total abundance without ownership—so realization can arise without obstruction.**
 
 ---
 
-## [Structural Insight (Advanced)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/3_mandala_offering/README.md#structural-insight-advanced)
+## Structural Insight (Advanced)
 
 
 Think of the Mandala Offering as:

@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [**White Tārā — The Teaching of Sustaining Conditions**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#white-tārā--the-teaching-of-sustaining-conditions)
+## **White Tārā — The Teaching of Sustaining Conditions**
 
 
 *(A teaching on compassion as continuity rather than rescue)*
@@ -140,7 +140,7 @@ To exhaust, rush, or destabilize beings in the name of progress is **anti-compas
 <details>
 <summary>[Meditation](../README.md)</summary>
 
-# [White Tārā Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#white-tārā-meditation)
+# White Tārā Meditation
 
 
 > ⚠️ **Note on scope**
@@ -158,7 +158,7 @@ It is a way of **stabilizing the conditions that allow awakening to continue**.
 
 ---
 
-## [1. Preparation — Settling the Field (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#1-preparation--settling-the-field-23-minutes)
+## 1. Preparation — Settling the Field (2–3 minutes)
 
 
 Sit comfortably, spine upright but soft.
@@ -179,7 +179,7 @@ This intention aligns the practice with White Tārā’s function.
 
 ---
 
-## [2. Generation — Presence of White Tārā (5–7 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#2-generation--presence-of-white-tārā-57-minutes)
+## 2. Generation — Presence of White Tārā (5–7 minutes)
 
 
 Visualize **White Tārā** appearing **in front of you or above your crown**, formed of **luminous white light**—clear, cool, and alive.
@@ -202,7 +202,7 @@ Let her gaze rest on you with **unconditional attentiveness**—as a physician w
 
 ---
 
-## [3. Healing Light — Sustaining Life and Practice (8–12 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#3-healing-light--sustaining-life-and-practice-812-minutes)
+## 3. Healing Light — Sustaining Life and Practice (8–12 minutes)
 
 
 From White Tārā’s heart, a **soft white nectar-light** flows.
@@ -230,7 +230,7 @@ If the mind wanders, return not with force, but with the attitude:
 
 ---
 
-## [4. Mantra (Optional but Traditional) — Rhythmic Continuity (5–10 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#4-mantra-optional-but-traditional--rhythmic-continuity-510-minutes)
+## 4. Mantra (Optional but Traditional) — Rhythmic Continuity (5–10 minutes)
 
 
 If [mantra](../../09_symbols/10_mantra/README.md#what-a-mantra-is-buddhist-view) is appropriate for you, recite silently or aloud:
@@ -246,7 +246,7 @@ not to produce trance, but to **entrain steadiness**.
 
 ---
 
-## [5. Dissolution — Care Becomes Innate (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#5-dissolution--care-becomes-innate-35-minutes)
+## 5. Dissolution — Care Becomes Innate (3–5 minutes)
 
 
 White Tārā slowly dissolves into **light**, which then dissolves into **your own heart**.
@@ -268,7 +268,7 @@ Remain here briefly.
 
 ---
 
-## [6. Dedication — Extending the Field](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#6-dedication--extending-the-field)
+## 6. Dedication — Extending the Field
 
 
 Conclude with a simple dedication:
@@ -281,7 +281,7 @@ Dedication is **continuity extended outward**.
 
 ---
 
-## [How to Work With This Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#how-to-work-with-this-practice)
+## How to Work With This Practice
 
 
 **When to use it**
@@ -303,7 +303,7 @@ Dedication is **continuity extended outward**.
 
 ---
 
-## [Advanced Integration (Kagyü-style)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/01_white_tara/README.md#advanced-integration-kagyü-style)
+## Advanced Integration (Kagyü-style)
 
 
 * Pair this practice with **Mahamudra resting** afterward

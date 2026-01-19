@@ -1,5 +1,5 @@
 
-## [1. The Three Marks of Existence](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#1-the-three-marks-of-existence)
+## 1. The Three Marks of Existence
 
 [![from_ignorance_to_awakening](from_ignorance_to_awakening.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#1-the-three-marks-of-existence)
 *(Often taught together; you already touched the first)*
@@ -20,7 +20,7 @@ All conditioned phenomena share three characteristics:
 
 ---
 
-## [2. The Four Noble Truths](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#2-the-four-noble-truths)
+## 2. The Four Noble Truths
 
 
 *(The diagnostic framework)*
@@ -41,7 +41,7 @@ Buddhism is radically *therapeutic*, not metaphysical speculation.
 
 ---
 
-## [3. Dependent Origination (Paṭicca-samuppāda)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#3-dependent-origination-paṭicca-samuppāda)
+## 3. Dependent Origination (Paṭicca-samuppāda)
 
 
 *(The deep causal engine of reality)*
@@ -63,7 +63,7 @@ Key insight:
 
 ---
 
-## [4. Emptiness (Śūnyatā) — *Often mistaken for "secret"*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#4-emptiness-śūnyatā--often-mistaken-for-secret)
+## 4. Emptiness (Śūnyatā) — *Often mistaken for "secret"*
 
 
 
@@ -88,7 +88,7 @@ Why it’s taught later:
 
 ---
 
-## [5. The Two Truths](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#5-the-two-truths)
+## [5. The Two Truths](5_the_two_truths/README.md)
 
 
 * [**Conventional Truth**](5_the_two_truths/README.md#the-two-truths-in-buddhist-teaching)
@@ -103,7 +103,7 @@ Why it’s taught later:
 
 ---
 
-## [6. Buddha-Nature (Tathāgatagarbha)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#6-buddha-nature-tathāgatagarbha)
+## 6. Buddha-Nature (Tathāgatagarbha)
 
 
 Teaching:
@@ -121,7 +121,7 @@ This counters despair and spiritual elitism.
 
 ---
 
-## [7. Compassion as a Structural Principle](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#7-compassion-as-a-structural-principle)
+## 7. Compassion as a Structural Principle
 
 
 *(Not optional)*
@@ -140,7 +140,7 @@ This is why [Mahāyāna](../05_yanas/README.md#limitation-from-mahāyāna-view) 
 
 ---
 
-## [8. Are There “Secret Teachings”?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#8-are-there-secret-teachings)
+## 8. Are There “Secret Teachings”?
 
 
 **No hidden truths are withheld.**
@@ -166,7 +166,7 @@ These are not secrets—they are **high-bandwidth instructions** that require:
 
 ---
 
-## [One-Sentence Synthesis](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#one-sentence-synthesis)
+## One-Sentence Synthesis
 
 
 **Buddhism is a precision system for eliminating unnecessary suffering by seeing reality clearly, acting ethically, and cultivating compassion—without clinging to fixed identities or metaphysical absolutes.**

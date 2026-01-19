@@ -7,7 +7,7 @@ In [Vajrayāna](../../05_yanas/README.md#4-vajrayāna-tantrayāna-mantrayāna---
 
 ---
 
-## [1. Precious Human Birth — the Cognitive Ground](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/1_prostrations/README.md#1-precious-human-birth--the-cognitive-ground)
+## 1. Precious Human Birth — the Cognitive Ground
 
 
 Before any movement begins, the practitioner reflects on **Precious Human Birth**.
@@ -26,7 +26,7 @@ Without this reflection, practice becomes mechanical or egoic. With it, urgency 
 
 ---
 
-## [2. Refuge & Prostrations — the Embodied Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/1_prostrations/README.md#2-refuge--prostrations--the-embodied-practice)
+## 2. Refuge & Prostrations — the Embodied Practice
 
 
 This is the **first Inner Ngöndro** practice and is traditionally completed in **large numbers** (often 100,000+ repetitions). Quantity matters because repetition **rewires habits**, not because of superstition.
@@ -47,7 +47,7 @@ This re-anchors trust **outside egoic control**.
 
 ---
 
-## [3. The Threefold Transformation (Body, Speech, Mind)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/1_prostrations/README.md#3-the-threefold-transformation-body-speech-mind)
+## 3. The Threefold Transformation (Body, Speech, Mind)
 
 
 ### A. **Body — Prostration**
@@ -93,7 +93,7 @@ Speech becomes a *carrier of orientation*, not expression of habit.
 
 ---
 
-## [4. Why This Practice Comes First](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/1_prostrations/README.md#4-why-this-practice-comes-first)
+## 4. Why This Practice Comes First
 
 
 Refuge & Prostrations are first because they address the **core obstacle**:
@@ -110,7 +110,7 @@ It prepares the practitioner to safely engage deeper Vajrayāna methods.
 
 ---
 
-## [5. A Critical Clarification](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/1_prostrations/README.md#5-a-critical-clarification)
+## 5. A Critical Clarification
 
 
 Ngöndro is often misunderstood as:
@@ -128,7 +128,7 @@ It is **training**, not performance.
 
 ---
 
-## [6. The Resulting Shift](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/1_prostrations/README.md#6-the-resulting-shift)
+## 6. The Resulting Shift
 
 
 Over time, practitioners report:

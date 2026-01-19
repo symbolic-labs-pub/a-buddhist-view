@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [A Buddhist Teaching on **Vairocana**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#a-buddhist-teaching-on-vairocana)
+## A Buddhist Teaching on **Vairocana**
 
 
 ### *Universal Illumination as the Path of Recognition*
@@ -164,7 +164,7 @@ In Buddhist teachings—especially [**Mahāyāna**](../../05_yanas/README.md#lim
 
 ---
 
-## [1. Core Meaning](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#1-core-meaning)
+## 1. Core Meaning
 
 
 **Vairocana** literally means *“The All-Illuminating One.”*
@@ -179,7 +179,7 @@ He corresponds to **Dharmakāya** (the *truth body* of the Buddha), the **ground
 
 ---
 
-## [2. Place in the Five Dhyāni Buddhas](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#2-place-in-the-five-dhyāni-buddhas)
+## 2. Place in the Five Dhyāni Buddhas
 
 
 Vairocana sits at the **center** of the **Five Dhyāni ([Wisdom](../../01_core_teachings/the_noble_eightfold_path/README.md#1-wisdom-paññā)) Buddhas** system.
@@ -197,7 +197,7 @@ While other Buddhas transform specific poisons (anger, desire, pride), **Vairoca
 
 ---
 
-## [3. Philosophical Role](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#3-philosophical-role)
+## 3. Philosophical Role
 
 
 Vairocana represents:
@@ -219,7 +219,7 @@ In this view:
 
 ---
 
-## [4. Scriptural Foundation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#4-scriptural-foundation)
+## 4. Scriptural Foundation
 
 
 Vairocana is central in:
@@ -233,7 +233,7 @@ Reality is not neutral—it is **instructional**.
 
 ---
 
-## [5. Practice Meaning (Vajrayāna)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#5-practice-meaning-vajrayāna)
+## 5. Practice Meaning (Vajrayāna)
 
 
 Meditation on Vairocana trains:
@@ -250,7 +250,7 @@ This is why Vairocana is often depicted **radiant, symmetrical, and central**—
 
 ---
 
-## [6. Practical Insight](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#6-practical-insight)
+## 6. Practical Insight
 
 
 From Vairocana’s perspective:
@@ -263,7 +263,7 @@ From Vairocana’s perspective:
 
 ---
 
-## [7. One-Line Teaching](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#7-one-line-teaching)
+## 7. One-Line Teaching
 
 
 > **Vairocana teaches that awakening is not elsewhere.
@@ -276,7 +276,7 @@ From Vairocana’s perspective:
 <details>
 <summary>Meditation</summary>
 
-## [**Vairocana Meditation Practice**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#vairocana-meditation-practice)
+## **Vairocana Meditation Practice**
 
 
 > ⚠️ **Note on scope**
@@ -295,7 +295,7 @@ Use it as a **daily core practice** or as a **grounding meditation** before othe
 
 ---
 
-## [1. Preparation (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#1-preparation-23-minutes)
+## 1. Preparation (2–3 minutes)
 
 
 **Posture**
@@ -315,7 +315,7 @@ Silently acknowledge:
 
 ---
 
-## [2. Establish the Field (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#2-establish-the-field-35-minutes)
+## 2. Establish the Field (3–5 minutes)
 
 
 Bring attention to **what is already present**:
@@ -337,7 +337,7 @@ This open presence is the **field**.
 
 ---
 
-## [3. Vairocana Visualization (Optional but Powerful)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#3-vairocana-visualization-optional-but-powerful)
+## 3. Vairocana Visualization (Optional but Powerful)
 
 
 If visualization is natural for you:
@@ -356,7 +356,7 @@ The visualization is a **pointer**, not a deity external to you.
 
 ---
 
-## [4. Core Recognition Practice (10–20 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#4-core-recognition-practice-1020-minutes)
+## 4. Core Recognition Practice (10–20 minutes)
 
 
 Rest in awareness and observe:
@@ -382,7 +382,7 @@ This recognition is the **wisdom of Vairocana**:
 
 ---
 
-## [5. Inclusion Training (Key Instruction)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#5-inclusion-training-key-instruction)
+## 5. Inclusion Training (Key Instruction)
 
 
 When distraction occurs:
@@ -400,7 +400,7 @@ Ignorance dissolves by **inclusion**, not rejection.
 
 ---
 
-## [6. Stabilization (5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#6-stabilization-5-minutes)
+## 6. Stabilization (5 minutes)
 
 
 Let effort drop further.
@@ -420,7 +420,7 @@ Vairocana is **present in both**.
 
 ---
 
-## [7. Integration into Daily Life](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#7-integration-into-daily-life)
+## 7. Integration into Daily Life
 
 
 After the session, silently carry this instruction:
@@ -440,7 +440,7 @@ This is **post-meditation Vairocana practice**.
 
 ---
 
-## [8. Signs of Correct Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#8-signs-of-correct-practice)
+## 8. Signs of Correct Practice
 
 
 ✔ Reduced need to control experience
@@ -453,7 +453,7 @@ If you feel dull, dissociated, or blank → **reintroduce vivid sensory awarenes
 
 ---
 
-## [9. Closing Dedication (Optional)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/16_vairocana/README.md#9-closing-dedication-optional)
+## 9. Closing Dedication (Optional)
 
 
 Silently conclude:

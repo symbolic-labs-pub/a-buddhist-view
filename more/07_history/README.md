@@ -11,7 +11,7 @@ The **Kagyu (Bka’ brgyud)** school is often called the **“practice lineage�
 
 ---
 
-## [Core Orientation of the Kagyu School](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#core-orientation-of-the-kagyu-school)
+## Core Orientation of the Kagyu School
 
 The Kagyu path answers one question:
 
@@ -21,7 +21,7 @@ All practices—preliminary, tantric, yogic, and formless—are **skillful means
 
 ---
 
-## [1. **Mahamudra**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#1-mahamudra)
+## 1. **Mahamudra**
 
 
 ### *(The Central Kagyu Meditation Target)*
@@ -51,7 +51,7 @@ Mahamudra is often taught **gradually or suddenly**, depending on the student.
 
 ---
 
-## [2. **Ngöndro (Preliminary Practices)**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#2-ngöndro-preliminary-practices)
+## 2. **Ngöndro (Preliminary Practices)**
 
 
 ### *(Preparing the Mind for Mahamudra)*
@@ -75,7 +75,7 @@ Ngöndro is not “beginner stuff”—it is **neuro-ethical rewiring**.
 
 ---
 
-## [3. **Guru Yoga**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#3-guru-yoga)
+## 3. **Guru Yoga**
 
 
 ### *(The Fastest Path in Kagyu)*
@@ -97,7 +97,7 @@ Devotion here is not belief—it is a **precision instrument for ego dissolution
 
 ---
 
-## [4. **Deity Yoga (Yidam Practice)**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#4-deity-yoga-yidam-practice)
+## 4. **Deity Yoga (Yidam Practice)**
 
 
 ### *(Re-patterning Perception)*
@@ -121,7 +121,7 @@ Deity yoga supports Mahamudra—it does **not replace it**.
 
 ---
 
-## [5. **Six Yogas of Naropa**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#5-six-yogas-of-naropa)
+## 5. **Six Yogas of Naropa**
 
 
 ### *(Advanced Completion-Stage Yogas)*
@@ -146,7 +146,7 @@ These practices **require strong Mahamudra grounding**.
 
 ---
 
-## [6. **Dzogchen (Occasionally Practiced)**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#6-dzogchen-occasionally-practiced)
+## 6. **Dzogchen (Occasionally Practiced)**
 
 
 Some Kagyu masters also teach [**Dzogchen**](../04_kayas/mahamudra_and_dzogcsen/README.md#dzogchen-rigpa-རིག་པ་---direct-introduction), especially in the **Shangpa Kagyu** and Rimé (non-sectarian) context.
@@ -158,7 +158,7 @@ Target:
 
 ---
 
-## [🧭 One-Line Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#-one-line-summary)
+## 🧭 One-Line Summary
 
 
 > **Kagyu meditation targets the recognition of mind’s nature, using devotion, embodiment, and yogic precision as accelerators.**
@@ -167,7 +167,7 @@ Everything converges on **Mahamudra**.
 
 ---
 
-## [🔍 Practical Insight](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/07_history/README.md#-practical-insight)
+## 🔍 Practical Insight
 
 
 If translated into modern systems language:

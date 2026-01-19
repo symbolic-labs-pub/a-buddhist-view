@@ -3,7 +3,7 @@ It is not moral self-judgment and not psychological catharsis—it is a **techni
 
 ---
 
-## [2. Vajrasattva — Purification of Obscurations](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#2-vajrasattva--purification-of-obscurations)
+## 2. Vajrasattva — Purification of Obscurations
 
 [![purification](purification.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#2-vajrasattva--purification-of-obscurations)
 ### Core function
@@ -19,7 +19,7 @@ This practice works on **three levels simultaneously**:
 
 ---
 
-## [Who Vajrasattva Represents](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#who-vajrasattva-represents)
+## Who Vajrasattva Represents
 
 
 **Vajrasattva** is not an external god.
@@ -34,7 +34,7 @@ You are **recognizing purity as already present** and dissolving what blocks tha
 
 ---
 
-## [The Four Powers (Structural Core)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#the-four-powers-structural-core)
+## The Four Powers (Structural Core)
 
 
 Vajrasattva purification is effective because it applies the **Four Opponent Powers**, a precise causal framework:
@@ -97,7 +97,7 @@ This seals the purification so it does not rebound.
 
 ---
 
-## [Why This Practice Comes Second](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#why-this-practice-comes-second)
+## Why This Practice Comes Second
 
 
 [Ngöndro](../README.md#what-is-ngöndro-in-mahāyāna-buddhism) is **ordered engineering**, not devotion folklore.
@@ -115,7 +115,7 @@ If you skip purification:
 
 ---
 
-## [Key Insight (Often Missed)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#key-insight-often-missed)
+## Key Insight (Often Missed)
 
 
 > **Purification does not make you pure.
@@ -125,7 +125,7 @@ Karma is not erased by effort—it is **rendered non-binding** when awareness is
 
 ---
 
-## [Signs the Practice Is Working](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#signs-the-practice-is-working)
+## Signs the Practice Is Working
 
 
 * Reduced compulsive reactivity
@@ -136,7 +136,7 @@ Karma is not erased by effort—it is **rendered non-binding** when awareness is
 
 ---
 
-## [One-Sentence Teaching](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/2_purification/README.md#one-sentence-teaching)
+## One-Sentence Teaching
 
 
 **Vajrasattva practice restores the mind to functional clarity so that realization can actually take hold.**

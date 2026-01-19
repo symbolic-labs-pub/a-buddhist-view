@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [Buddhist Teaching: **Awakening as Skillful Adaptation**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
+## Buddhist Teaching: **Awakening as Skillful Adaptation**
 
 
 ### Based on the Principle of **Guru Rinpoche**
@@ -266,7 +266,7 @@ Conclude with this reflection:
 
 ---
 
-## [Key Insight of the Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/05_padmasambhava/README.md#key-insight-of-the-practice)
+## Key Insight of the Practice
 
 
 This meditation trains **non-fragile awakening**.

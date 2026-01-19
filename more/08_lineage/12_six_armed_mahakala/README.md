@@ -5,10 +5,10 @@
 <details>
 <summary>Teaching</summary>
 
-# [The Teaching of the Wrathful Protector](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#the-teaching-of-the-wrathful-protector)
+# The Teaching of the Wrathful Protector
 
 
-## [Mahākāla as the Discipline of Awakening](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
+## Mahākāla as the Discipline of Awakening
 
 
 ### 1. Why Wrath Appears on the Path
@@ -167,7 +167,7 @@ The function is **internalized**.
 
 ---
 
-## [Closing Instruction](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#closing-instruction)
+## Closing Instruction
 
 
 > **Do not ask the protector to make life easier.**
@@ -189,7 +189,7 @@ That is the real protection.
 <details>
 <summary>Invocation</summary>
 
-# [Black Six-Armed Mahākāla](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#black-six-armed-mahākāla)
+# Black Six-Armed Mahākāla
 
 
 > ⚠️ **Note on scope**
@@ -197,7 +197,7 @@ That is the real protection.
 > It does **not** replace lineage transmission (*wang, lung, tri*).
 > Its function is **stabilization, aspiration, and causal alignment**, not tantric authorization.
 
-## [Protector Invocation Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#protector-invocation-meditation)
+## Protector Invocation Meditation
 
 
 *(For Protection of Realization and Discipline)*
@@ -208,7 +208,7 @@ That is the real protection.
 
 ---
 
-## [1. Preparation — Establish the Ground (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#1-preparation--establish-the-ground-23-minutes)
+## 1. Preparation — Establish the Ground (2–3 minutes)
 
 
 Sit in **stable meditation posture**.
@@ -224,7 +224,7 @@ Let the mind become **clear, sober, and alert** — not relaxed, not tense.
 
 ---
 
-## [2. Visualization — The Protector Presence (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#2-visualization--the-protector-presence-35-minutes)
+## 2. Visualization — The Protector Presence (3–5 minutes)
 
 
 In the space **in front of you**, slightly above eye level, visualize:
@@ -245,7 +245,7 @@ This is **compassion that does not negotiate with ego**.
 
 ---
 
-## [3. Invocation — Calling the Protector (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#3-invocation--calling-the-protector-35-minutes)
+## 3. Invocation — Calling the Protector (3–5 minutes)
 
 
 From your heart, recite slowly (aloud or silently):
@@ -265,7 +265,7 @@ After the verbal invocation, remain silent and **feel the presence stabilize**.
 
 ---
 
-## [4. Cutting Phase — Inner Obstacle Removal (5–10 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#4-cutting-phase--inner-obstacle-removal-510-minutes)
+## 4. Cutting Phase — Inner Obstacle Removal (5–10 minutes)
 
 
 Now shift focus inward.
@@ -291,7 +291,7 @@ Feel the **space that remains**.
 
 ---
 
-## [5. Absorption — Protector and Mind Unite (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#5-absorption--protector-and-mind-unite-35-minutes)
+## 5. Absorption — Protector and Mind Unite (3–5 minutes)
 
 
 Mahākāla dissolves into **black light**.
@@ -310,7 +310,7 @@ Rest in this state **without visualization**.
 
 ---
 
-## [6. Dedication — Seal the Practice (1 minute)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#6-dedication--seal-the-practice-1-minute)
+## 6. Dedication — Seal the Practice (1 minute)
 
 
 Dedicate the energy:
@@ -325,7 +325,7 @@ Remain still for a few breaths.
 
 ---
 
-## [Key Practice Notes (Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#key-practice-notes-important)
+## Key Practice Notes (Important)
 
 
 * This is a **protector invocation**, not a tantric self-generation.
@@ -335,7 +335,7 @@ Remain still for a few breaths.
 
 ---
 
-## [When to Use This Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/12_six_armed_mahakala/README.md#when-to-use-this-practice)
+## When to Use This Practice
 
 
 ✔ Before retreat or intensive practice

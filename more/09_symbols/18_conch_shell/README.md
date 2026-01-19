@@ -8,7 +8,7 @@ The **conch shell** is one of the **Eight Auspicious Symbols (Aṣṭamaṅgala)
 
 ---
 
-## [Core Meaning](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/18_conch_shell/README.md#core-meaning)
+## Core Meaning
 
 
 **The far-reaching sound of [Dharma](../../01_core_teachings/the_three_jewels/README.md#2-dharma--the-path-and-the-law-of-reality) that awakens beings.**
@@ -17,7 +17,7 @@ The conch’s clear, penetrating sound symbolizes the **Buddha’s teaching spre
 
 ---
 
-## [Key Symbolic Dimensions](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/18_conch_shell/README.md#key-symbolic-dimensions)
+## Key Symbolic Dimensions
 
 
 ### 1. **Awakened Speech**
@@ -66,7 +66,7 @@ In this sense, the conch is the opposite of vague spirituality—it is **precisi
 
 ---
 
-## [Ritual and Practice Context](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/18_conch_shell/README.md#ritual-and-practice-context)
+## Ritual and Practice Context
 
 
 * Blown during:
@@ -79,7 +79,7 @@ In this sense, the conch is the opposite of vague spirituality—it is **precisi
 
 ---
 
-## [Deeper Insight (Non-Obvious)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/18_conch_shell/README.md#deeper-insight-non-obvious)
+## Deeper Insight (Non-Obvious)
 
 
 The conch teaches that **awakening must express itself**.
@@ -92,14 +92,14 @@ The conch teaches that **awakening must express itself**.
 
 ---
 
-## [One-Line Teaching](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/18_conch_shell/README.md#one-line-teaching)
+## One-Line Teaching
 
 
 **The conch shell reminds practitioners that truth must be spoken clearly, fearlessly, and for the benefit of all beings.**
 
 ---
 
-## [Practice Reflection (Optional)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/18_conch_shell/README.md#practice-reflection-optional)
+## Practice Reflection (Optional)
 
 
 When speaking today, ask:

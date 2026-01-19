@@ -12,7 +12,7 @@ Instead, it shows **how reality functions on two inseparable levels at once**.
 
 ---
 
-## [1. Conventional Truth (Saṃvṛti-satya)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#1-conventional-truth-saṃvṛti-satya)
+## 1. Conventional Truth (Saṃvṛti-satya)
 
 
 This is the **functional, everyday level of reality**.
@@ -42,7 +42,7 @@ The Buddha taught **in conventional language**, lived in society, followed rules
 
 ---
 
-## [2. Ultimate Truth (Paramārtha-satya)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#2-ultimate-truth-paramārtha-satya)
+## 2. Ultimate Truth (Paramārtha-satya)
 
 
 Ultimate truth points to **how things actually exist when examined deeply**.
@@ -68,7 +68,7 @@ The “self”:
 
 ---
 
-## [3. Why Two Truths Are Necessary (Not Optional)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#3-why-two-truths-are-necessary-not-optional)
+## 3. Why Two Truths Are Necessary (Not Optional)
 
 
 If you hold **only conventional truth**:
@@ -91,7 +91,7 @@ They are **not two realities**, but **two ways of seeing the same reality**.
 
 ---
 
-## [4. “Form Is Emptiness; Emptiness Is Form”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#4-form-is-emptiness-emptiness-is-form)
+## 4. “Form Is Emptiness; Emptiness Is Form”
 
 
 This famous line from the Heart Sūtra **is the Two Truths in one sentence**.
@@ -105,7 +105,7 @@ Illusion dissolves, **function remains**.
 
 ---
 
-## [5. Awakening According to Buddhism](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#5-awakening-according-to-buddhism)
+## 5. Awakening According to Buddhism
 
 
 [Awakening](../../10_concepts/README.md#3-enlightenment-bodhi-awakening) is **not escaping the world**.
@@ -139,7 +139,7 @@ The difference is **internal**:
 
 ---
 
-## [6. Practical Implication](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#6-practical-implication)
+## 6. Practical Implication
 
 
 The Two Truths teach you to:

@@ -8,7 +8,7 @@
 >
 > For those beginning this practice, it is highly recommended to receive a formal reading transmission (lung) and specific instructions from a qualified teacher.  
 
-## [What is **Ngöndro** in Mahāyāna Buddhism?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#what-is-ngöndro-in-mahāyāna-buddhism)
+## What is **Ngöndro** in Mahāyāna Buddhism?
 
 
 **Ngöndro** (Tibetan: *sngon ’gro*, “that which goes before”) is a **foundational training path** used primarily in Tibetan Mahāyāna—especially within [Vajrayāna](../05_yanas/README.md#4-vajrayāna-tantrayāna-mantrayāna---the-diamond-vehicle) lineages—to **prepare the mind-stream** for deeper [meditation](../08_lineage/README.md) such as [Mahāmudrā](../04_kayas/mahamudra_and_dzogcsen/README.md#mahāmudrā-nature-of-mind-སེམས་ཀྱི་གནས་ལུགས་) or [Dzogchen](../04_kayas/mahamudra_and_dzogcsen/README.md#dzogchen-rigpa-རིག་པ་---direct-introduction).
@@ -18,7 +18,7 @@ Ngöndro is **structural conditioning**: it rewires motivation, perception, and 
 
 ---
 
-## [1. Where Ngöndro Fits in Mahāyāna](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#1-where-ngöndro-fits-in-mahāyāna)
+## 1. Where Ngöndro Fits in Mahāyāna
 
 
 In classical Mahāyāna terms, Ngöndro integrates:
@@ -32,7 +32,7 @@ Tibetan lineages systematized this into a **precise psycho-spiritual curriculum*
 
 ---
 
-## [2. The Two Layers of Ngöndro](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#2-the-two-layers-of-ngöndro)
+## 2. The Two Layers of Ngöndro
 
 
 ### A. **Outer Ngöndro** – Cognitive Reorientation
@@ -85,7 +85,7 @@ These are **quantified practices** (often 100,000+ repetitions), not symbolic ge
 
 ---
 
-## [3. Why Ngöndro Is Necessary (Not Optional)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#3-why-ngöndro-is-necessary-not-optional)
+## 3. Why Ngöndro Is Necessary (Not Optional)
 
 
 From a systems perspective:
@@ -104,7 +104,7 @@ Many realized masters completed Ngöndro **multiple times**—not because they w
 
 ---
 
-## [4. A Modern Analogy (Engineering View)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#4-a-modern-analogy-engineering-view)
+## 4. A Modern Analogy (Engineering View)
 
 
 Think of Ngöndro as:
@@ -117,7 +117,7 @@ Skipping it is like deploying a powerful optimizer on corrupted data.
 
 ---
 
-## [5. What Ngöndro Is *Not*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#5-what-ngöndro-is-not)
+## 5. What Ngöndro Is *Not*
 
 
 * ❌ Not superstition
@@ -128,7 +128,7 @@ Skipping it is like deploying a powerful optimizer on corrupted data.
 
 ---
 
-## [6. Key Insight](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#6-key-insight)
+## 6. Key Insight
 
 
 > **Ngöndro is already awakening—

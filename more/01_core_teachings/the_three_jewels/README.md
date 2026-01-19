@@ -5,7 +5,7 @@ In classical Buddhist teaching, **taking refuge** in the Three Jewels is not a p
 
 ---
 
-## [1) **Buddha** — the Awakened One, and awakening itself](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_three_jewels/README.md#1-buddha--the-awakened-one-and-awakening-itself)
+## 1) **Buddha** — the Awakened One, and awakening itself
 
 
 Historically, the Buddha refers to **Siddhārtha Gautama**, who realized liberation through direct insight into the nature of mind and reality.
@@ -20,7 +20,7 @@ Doctrinally, **Buddha** has three inseparable meanings:
 
 ---
 
-## [2) **Dharma** — the path and the law of reality](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_three_jewels/README.md#2-dharma--the-path-and-the-law-of-reality)
+## 2) **Dharma** — the path and the law of reality
 
 
 **Dharma (Dhamma)** operates on two levels simultaneously:
@@ -50,7 +50,7 @@ The teachings are compared to a **raft**—essential for crossing the river, but
 
 ---
 
-## [3) **Sangha** — the living continuity of awakening](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_three_jewels/README.md#3-sangha--the-living-continuity-of-awakening)
+## 3) **Sangha** — the living continuity of awakening
 
 
 Traditionally, **Sangha** means the community of ordained monks and nuns who preserve the teachings and discipline (*Vinaya*).
@@ -65,7 +65,7 @@ The Buddha repeatedly emphasized that **isolation weakens practice**, while wise
 
 ---
 
-## [Functional Unity of the Three Jewels](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_three_jewels/README.md#functional-unity-of-the-three-jewels)
+## Functional Unity of the Three Jewels
 
 
 The [Three Jewels](#the-three-jewels-triple-gem---ti-ratana) are not separate objects but **one integrated system**:
@@ -84,7 +84,7 @@ Remove one, and practice collapses:
 
 ---
 
-## [Refuge as an ongoing practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_three_jewels/README.md#refuge-as-an-ongoing-practice)
+## Refuge as an ongoing practice
 
 
 In early texts, refuge is taken **three times**, symbolizing:

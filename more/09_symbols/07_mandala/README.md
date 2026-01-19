@@ -8,7 +8,7 @@ In Buddhism (especially [Vajrayāna](../../05_yanas/README.md#4-vajrayāna-tantr
 
 ---
 
-## [1. What a mandala *is* (ontologically)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/07_mandala/README.md#1-what-a-mandala-is-ontologically)
+## 1. What a mandala *is* (ontologically)
 
 A mandala is a **representation of enlightened mind as structure**.
 
@@ -23,7 +23,7 @@ In Buddhist terms, the mandala is a **display of [dependent origination](../../0
 
 ---
 
-## [2. Why geometry matters](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/07_mandala/README.md#2-why-geometry-matters)
+## 2. Why geometry matters
 
 Mandala geometry is not aesthetic—it is **cognitive engineering**.
 
@@ -39,7 +39,7 @@ A distorted mandala trains a distorted mind.
 
 ---
 
-## [3. Visualization practice (generation stage)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/07_mandala/README.md#3-visualization-practice-generation-stage)
+## 3. Visualization practice (generation stage)
 
 When a practitioner visualizes a mandala:
 
@@ -62,7 +62,7 @@ Eventually, **the boundary between observer and mandala collapses**.
 
 ---
 
-## [4. Dissolution and impermanence (completion stage)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/07_mandala/README.md#4-dissolution-and-impermanence-completion-stage)
+## 4. Dissolution and impermanence (completion stage)
 
 After construction, the mandala is **dissolved**.
 
@@ -78,7 +78,7 @@ This directly trains **non-attachment to realization itself**.
 
 ---
 
-## [5. Why mandala is called “cognitive architecture”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/07_mandala/README.md#5-why-mandala-is-called-cognitive-architecture)
+## 5. Why mandala is called “cognitive architecture”
 
 Because it does what philosophy cannot:
 
@@ -98,7 +98,7 @@ Without these, mandala practice becomes aesthetic fantasy.
 
 ---
 
-## [6. The deepest point](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/07_mandala/README.md#6-the-deepest-point)
+## 6. The deepest point
 
 Ultimately, Buddhist teaching states:
 

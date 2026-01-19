@@ -9,7 +9,7 @@ Let’s unpack this through core Buddhist doctrines.
 
 ---
 
-## [1. Wisdom and Compassion Are Functionally Inseparable](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/7_compassion/README.md#1-wisdom-and-compassion-are-functionally-inseparable)
+## 1. Wisdom and Compassion Are Functionally Inseparable
 
 Buddhist [wisdom (**prajñā**)](../../01_core_teachings/the_noble_eightfold_path/README.md#1-wisdom-paññā) is not abstract knowledge. It is *direct insight* into:
 
@@ -33,7 +33,7 @@ Classical texts repeatedly stress this balance. The Buddha did not praise insigh
 
 ---
 
-## [2. Why Insight Naturally Expresses Itself as Compassion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/7_compassion/README.md#2-why-insight-naturally-expresses-itself-as-compassion)
+## 2. Why Insight Naturally Expresses Itself as Compassion
 
 ### a) Softening of Self / Other Boundaries
 
@@ -70,7 +70,7 @@ From this view, compassion is not sentimental—it is **accurate diagnosis**.
 
 ---
 
-## [3. The Mahāyāna Resolution: The Bodhisattva Ideal](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/7_compassion/README.md#3-the-mahāyāna-resolution-the-bodhisattva-ideal)
+## 3. The Mahāyāna Resolution: The Bodhisattva Ideal
 
 [Mahāyāna](../../05_yanas/README.md#limitation-from-mahāyāna-view) Buddhism radicalizes this logic.
 
@@ -97,7 +97,7 @@ Rather:
 
 ---
 
-## [4. Compassion as a Structural Property of Reality-Seen-Clearly](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/7_compassion/README.md#4-compassion-as-a-structural-property-of-reality-seen-clearly)
+## 4. Compassion as a Structural Property of Reality-Seen-Clearly
 
 In advanced Buddhist understanding:
 
@@ -113,7 +113,7 @@ but because there is no longer a conceptual boundary preventing it.
 
 ---
 
-## [5. Practical Implication for Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/7_compassion/README.md#5-practical-implication-for-practice)
+## 5. Practical Implication for Practice
 
 This teaching functions as a **diagnostic tool**:
 

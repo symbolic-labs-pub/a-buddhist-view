@@ -8,7 +8,7 @@ _This section was inspired by [Kyabje Kalu Rinpoche](https://treasuryoflives.org
 <details>
 <summary>Teaching</summary>
 
-## [A Vajrayāna Teaching on Emptiness](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/01_emptiness/README.md#a-vajrayāna-teaching-on-emptiness)
+## A Vajrayāna Teaching on Emptiness
 
 
 **Emptiness as the Freedom of Appearance**
@@ -352,7 +352,7 @@ Yet everything appears.
 <details>
 <summary>Meditation</summary>
 
-## [Emptiness Recognition Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/01_emptiness/README.md#emptiness-recognition-meditation)
+## Emptiness Recognition Meditation
 
 
 *(Vajrayāna / Mahāmudrā–Dzogchen style)*
@@ -508,7 +508,7 @@ Silently conclude:
 
 ---
 
-## [Key practice instructions (very important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/01_emptiness/README.md#key-practice-instructions-very-important)
+## Key practice instructions (very important)
 
 
 * ❌ Do not *think* about emptiness
@@ -527,7 +527,7 @@ Short sessions, many times a day, are superior to long strained sessions.
 
 ---
 
-## [Integration tip (daily life)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/01_emptiness/README.md#integration-tip-daily-life)
+## Integration tip (daily life)
 
 
 Several times a day, pause for **3 seconds** and ask:

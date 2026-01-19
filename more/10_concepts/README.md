@@ -8,7 +8,7 @@
 - [Enlightenment](#3-enlightenment-bodhi--awakening)
 
 
-## [1. **Emptiness (Śūnyatā)**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/README.md#1-emptiness-śūnyatā)
+## 1. **Emptiness (Śūnyatā)**
 
 
 
@@ -64,7 +64,7 @@ Emptiness removes **ontological fixation**, not appearance.
 
 ---
 
-## [2. **Awareness (Rigpa / Vijñāna / Knowing)**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/README.md#2-awareness-rigpa--vijñāna--knowing)
+## 2. **Awareness (Rigpa / Vijñāna / Knowing)**
 
 
 
@@ -118,7 +118,7 @@ Awareness is not a thing — it is **knowing itself**, empty of owner.
 
 ---
 
-## [3. **Enlightenment (Bodhi / Awakening)**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/README.md#3-enlightenment-bodhi--awakening)
+## 3. **Enlightenment (Bodhi / Awakening)**
 
 
 
@@ -174,7 +174,7 @@ Enlightenment is **not becoming something else** — it is ceasing misrecognitio
 
 ---
 
-## [How the Three Interlock (Critical Insight)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/README.md#how-the-three-interlock-critical-insight)
+## How the Three Interlock (Critical Insight)
 
 
 | Aspect            | Function                 |
@@ -191,7 +191,7 @@ Enlightenment is **not becoming something else** — it is ceasing misrecognitio
 
 ---
 
-## [Practical Diagnostic (Very Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/README.md#practical-diagnostic-very-important)
+## Practical Diagnostic (Very Important)
 
 
 If someone says:
@@ -212,7 +212,7 @@ True realization:
 
 ---
 
-## [One-Sentence Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/10_concepts/README.md#one-sentence-summary)
+## One-Sentence Summary
 
 
 > **Emptiness** is how things exist,

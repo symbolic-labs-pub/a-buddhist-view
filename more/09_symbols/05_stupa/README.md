@@ -38,7 +38,7 @@ Circumambulating means **placing your own body into this elemental [mandala](../
 
 ---
 
-## [2. Why Circumambulation Is Clockwise](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/05_stupa/README.md#2-why-circumambulation-is-clockwise)
+## 2. Why Circumambulation Is Clockwise
 
 
 Clockwise movement is not cultural—it is **cosmological and psychological**.
@@ -71,7 +71,7 @@ This subtly trains the mind to **orient experience around [wisdom](../../01_core
 
 ---
 
-## [3. Circumambulation as Walking Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/05_stupa/README.md#3-circumambulation-as-walking-meditation)
+## 3. Circumambulation as Walking Meditation
 
 
 In Buddhist teaching, this practice integrates **body, speech, and mind**:
@@ -90,7 +90,7 @@ Even a single [mindful](../../01_core_teachings/the_noble_eightfold_path/README.
 
 ---
 
-## [4. Why It Is *Not* Tourism](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/05_stupa/README.md#4-why-it-is-not-tourism)
+## 4. Why It Is *Not* Tourism
 
 
 Tourism moves **around an object**.
@@ -107,7 +107,7 @@ A sincere passerby gains benefit.
 
 ---
 
-## [5. Deep Teaching Encoded in the Act](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/05_stupa/README.md#5-deep-teaching-encoded-in-the-act)
+## 5. Deep Teaching Encoded in the Act
 
 
 At the deepest level, circumambulation teaches:
@@ -121,7 +121,7 @@ You **orbit it**—as planets orbit truth.
 
 ---
 
-## [In One Sentence (Traditional Insight)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/05_stupa/README.md#in-one-sentence-traditional-insight)
+## In One Sentence (Traditional Insight)
 
 
 > **To walk clockwise around a stupa is to rehearse enlightenment with the body before the mind fully understands it.**

@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [A Buddhist Teaching](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/06_medicine_buddha/README.md#a-buddhist-teaching)
+## A Buddhist Teaching
 
 
 ### *Healing Is Clear Seeing*
@@ -309,7 +309,7 @@ The Medicine Buddha teaches that:
 <details>
 <summary>Meditation</summary>
 
-## [Medicine Buddha Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/06_medicine_buddha/README.md#medicine-buddha-meditation)
+## Medicine Buddha Meditation
 
 
 ### *Healing as Clear Seeing*
@@ -444,7 +444,7 @@ Open the eyes slowly.
 
 ---
 
-## [Practice Notes (Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/06_medicine_buddha/README.md#practice-notes-important)
+## Practice Notes (Important)
 
 
 * This meditation works best **without emotional dramatization**
@@ -458,7 +458,7 @@ Open the eyes slowly.
 
 ---
 
-## [Structural Insight (Why This Works)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/06_medicine_buddha/README.md#structural-insight-why-this-works)
+## Structural Insight (Why This Works)
 
 
 This practice is powerful because it:

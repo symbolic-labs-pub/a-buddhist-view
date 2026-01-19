@@ -10,7 +10,7 @@ In [Mahāyāna](../../05_yanas/README.md#limitation-from-mahāyāna-view), the p
 
 ---
 
-## [1. **Dāna (Generosity)** — Undoing Grasping](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#1-dāna-generosity--undoing-grasping)
+## 1. **Dāna (Generosity)** — Undoing Grasping
 
 
 **Core problem addressed:** attachment and scarcity-mind
@@ -32,7 +32,7 @@ At deeper levels, one gives:
 
 ---
 
-## [2. **Śīla (Ethical Conduct)** — Stabilizing Karma and Mind](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#2-śīla-ethical-conduct--stabilizing-karma-and-mind)
+## 2. **Śīla (Ethical Conduct)** — Stabilizing Karma and Mind
 
 
 **Core problem addressed:** harmful action driven by confusion
@@ -54,7 +54,7 @@ In Buddhist psychology:
 
 ---
 
-## [3. **Kṣānti (Patience)** — Freedom from Reactivity](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#3-kṣānti-patience--freedom-from-reactivity)
+## 3. **Kṣānti (Patience)** — Freedom from Reactivity
 
 
 **Core problem addressed:** aversion and anger
@@ -76,7 +76,7 @@ Anger is seen as a **moment of ignorance**—a contraction around a false self.
 
 ---
 
-## [4. **Vīrya (Diligent Effort)** — Right Energy, Not Strain](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#4-vīrya-diligent-effort--right-energy-not-strain)
+## 4. **Vīrya (Diligent Effort)** — Right Energy, Not Strain
 
 
 **Core problem addressed:** lethargy, avoidance, misdirected effort
@@ -98,7 +98,7 @@ Right effort:
 
 ---
 
-## [5. **Dhyāna (Meditative Concentration)** — Unification of Mind](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#5-dhyāna-meditative-concentration--unification-of-mind)
+## 5. **Dhyāna (Meditative Concentration)** — Unification of Mind
 
 
 **Core problem addressed:** distraction and fragmentation
@@ -123,7 +123,7 @@ In Mahāyāna, [concentration](../the_noble_eightfold_path/README.md#8-right-con
 
 ---
 
-## [6. **Prajñā (Wisdom)** — Seeing Reality as It Is](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#6-prajñā-wisdom--seeing-reality-as-it-is)
+## 6. **Prajñā (Wisdom)** — Seeing Reality as It Is
 
 
 **Core problem addressed:** ignorance (avidyā)
@@ -146,7 +146,7 @@ In Mahāyāna, prajñā is inseparable from **compassion**—because when self-c
 
 ---
 
-## [How the Pāramitās Work Together](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#how-the-pāramitās-work-together)
+## How the Pāramitās Work Together
 
 
 They are **not sequential steps**, but a **mutually reinforcing system**:
@@ -163,7 +163,7 @@ With wisdom, they become **spontaneous expressions of awakening**.
 
 ---
 
-## [In One Sentence (Buddhist View)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/perfections/README.md#in-one-sentence-buddhist-view)
+## In One Sentence (Buddhist View)
 
 
 > The pāramitās are not virtues to acquire, but **patterns of being that emerge as ignorance fades**.

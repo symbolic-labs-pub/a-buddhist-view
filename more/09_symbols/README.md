@@ -2,7 +2,7 @@
 
 [![symbols.png](symbols.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#symbols)
 
-## [1. Blessing Cord (Protection Cord)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#1-blessing-cord-protection-cord)
+## [1. Blessing Cord (Protection Cord)](01_blessing_cord/README.md)
 
 
 [![blessing_cord_small](01_blessing_cord/blessing_cord_small.png)](01_blessing_cord/README.md#blessing-cord-protection-cord-buddhist-meaning)
@@ -24,7 +24,7 @@ A consecrated cord, often tied around the neck or wrist.
 
 ---
 
-## [2. Dorje (Vajra)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#2-dorje-vajra)
+## [2. Dorje (Vajra)](02_dorje/README.md)
 
 
 [![dorje_small](02_dorje/dorje_small.png)](02_dorje/README.md#dorje-vajra-explained-according-to-buddhist-teachings)
@@ -43,7 +43,7 @@ A consecrated cord, often tied around the neck or wrist.
 
 ---
 
-## [3. Prayer Wheel (Mani Wheel)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#3-prayer-wheel-mani-wheel)
+## [3. Prayer Wheel (Mani Wheel)](03_prayer_wheel/README.md)
 
 
 [![prayer_wheel_small](03_prayer_wheel/prayer_wheel_small.png)](03_prayer_wheel/README.md#prayer-wheel-mani-wheel-explained-through-buddhist-teachings)
@@ -61,7 +61,7 @@ A consecrated cord, often tied around the neck or wrist.
 
 ---
 
-## [4. Prayer Flags (Lungta)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#4-prayer-flags-lungta)
+## [4. Prayer Flags (Lungta)](04_prayer_flags/README.md)
 
 
 [![prayer_flags_small](04_prayer_flags/prayer_flags_small.png)](04_prayer_flags/README.md#prayer-flags-lungta-explained-through-buddhist-teachings)
@@ -84,7 +84,7 @@ As flags fade, the **ego dissolves**—the blessing remains.
 
 ---
 
-## [5. Stupa](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#5-stupa)
+## [5. Stupa](05_stupa/README.md)
 
 
 [![stupa_small](05_stupa/stupa_small.png)](05_stupa/README.md#1-what-a-stupa-is-beyond-architecture) (Why Clockwise Circumambulation)
@@ -106,7 +106,7 @@ Circumambulation is **walking [meditation](../08_lineage/README.md)**, not touri
 
 ---
 
-## [6. Mala](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#6-mala)
+## [6. Mala](06_mala/README.md)
 
 
 [![mala_small](06_mala/mala_small.png)](06_mala/README.md#mala-prayer-beads-explained-according-to-buddhist-teachings) (Prayer Beads)
@@ -129,7 +129,7 @@ Each bead = **one moment of awareness reclaimed**
 
 ---
 
-## [7. Mandala](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#7-mandala)
+## [7. Mandala](07_mandala/README.md)
 
 
 [![mandala_small](07_mandala/mandala_small.png)](07_mandala/README.md#1-what-a-mandala-is-ontologically)
@@ -149,7 +149,7 @@ Each bead = **one moment of awareness reclaimed**
 
 ---
 
-## [8. Lotus](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#8-lotus)
+## [8. Lotus](08_lotus/README.md)
 
 
 [![lotus_small](08_lotus/lotus_small.png)](08_lotus/README.md#1-purity-without-rejection)
@@ -165,7 +165,7 @@ Mud nourishes the lotus.
 
 ---
 
-## [9. Lotus Posture (Padmāsana)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#9-lotus-posture-padmāsana)
+## 9. Lotus Posture (Padmāsana)
 
 
 
@@ -183,7 +183,7 @@ Awareness > flexibility.
 
 ---
 
-## [10. Mantra](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#10-mantra)
+## [10. Mantra](10_mantra/README.md)
 
 
 [![mantra_small](10_mantra/mantra_small.png)](10_mantra/README.md#what-a-mantra-is-buddhist-view)
@@ -205,7 +205,7 @@ Awareness > flexibility.
 
 ---
 
-## [11. Mudra](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#11-mudra)
+## [11. Mudra](11_mudra/README.md)
 
 
 [![mudra_small](11_mudra/mudra_small.png)](11_mudra/README.md#mudrās-in-buddhist-teachings)
@@ -227,7 +227,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [12. Bell](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#12-bell)
+## [12. Bell](12_bell/README.md)
 
 
 [![bell_small](12_bell/bell_small.png)](12_bell/README.md#the-bell-ghanta) (Ghanta)
@@ -238,7 +238,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [13. Skull Cup](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#13-skull-cup)
+## [13. Skull Cup](13_skull_cup/README.md)
 
 
 [![skull_cup_small](13_skull_cup/skull_cup_small.png)](13_skull_cup/README.md#skull-cup-kapāla-explained-according-to-buddhist-teachings) (Kapala)
@@ -249,7 +249,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [14. Mala Counters](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#14-mala-counters)
+## [14. Mala Counters](14_mala_counters/README.md)
 
 
 [![mala_counters_small](14_mala_counters/mala_counters_small.png)](14_mala_counters/README.md#mala-counters-explained-through-buddhist-teachings)
@@ -259,7 +259,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [15. Thangka](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#15-thangka)
+## [15. Thangka](15_thangka/README.md)
 
 
 [![thangka_small](15_thangka/thangka_small.png)](15_thangka/README.md#thangka-visual-transmission-of-the-path)
@@ -270,7 +270,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [16. Endless Knot](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#16-endless-knot)
+## [16. Endless Knot](16_endless_knot/README.md)
 
 
 [![endless_knot_small](16_endless_knot/endless_knot_small.png)](16_endless_knot/README.md#endless-knot-śrīvatsa-according-to-buddhist-teachings)
@@ -281,7 +281,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [17. Dharma Wheel](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#17-dharma-wheel)
+## [17. Dharma Wheel](17_dharma_wheel/README.md)
 
 
 [![dharma_wheel_small](17_dharma_wheel/dharma_wheel_small.png)](17_dharma_wheel/README.md#dharma-wheel-dharmachakra-according-to-buddhist-teachings)
@@ -292,7 +292,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [18. Conch Shell](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#18-conch-shell)
+## [18. Conch Shell](18_conch_shell/README.md)
 
 
 [![conch_shell_small](18_conch_shell/conch_shell_small.png)](18_conch_shell/README.md#the-conch-shell-śaṅkha-in-buddhist-teachings)
@@ -302,7 +302,7 @@ Mudra trains **embodied wisdom**, not symbolism alone.
 
 ---
 
-## [Structural Insight (Very Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#structural-insight-very-important)
+## Structural Insight (Very Important)
 
 
 Tibetan Buddhist symbols are **not metaphors**.
@@ -322,7 +322,7 @@ They work **only when integrated** with:
 
 ---
 
-## [The Golden Fish](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#the-golden-fish)
+## [The Golden Fish](19_golden_fish/README.md)
 
 
 [![golden_fish_small](19_golden_fish/golden_fish_small.png)](19_golden_fish/README.md#the-golden-fish-according-to-buddhist-teachings)
@@ -343,7 +343,7 @@ Golden Fish remind practitioners that awakening is *fluidity of mind*, not withd
 
 ---
 
-## [️ The Parasol](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#-the-parasol)
+## [️ The Parasol](20_parasol/README.md)
 
 
 [![parasol_small](20_parasol/parasol_small.png)](20_parasol/README.md#the-parasol-chatra-according-to-buddhist-teachings)
@@ -364,7 +364,7 @@ The Parasol teaches that **wisdom provides shade**, not isolation.
 
 ---
 
-## [The Treasure Vase](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#the-treasure-vase)
+## [The Treasure Vase](21_treasure_vase/README.md)
 
 
 [![treasure_vase_small](21_treasure_vase/treasure_vase_small.png)](21_treasure_vase/README.md#the-treasure-vase-skt-nidhāna-kumbha-tib-bumpa)
@@ -385,7 +385,7 @@ The Treasure Vase teaches **abundance without attachment**.
 
 ---
 
-## [The Victory Banner](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/README.md#the-victory-banner)
+## [The Victory Banner](22_victory_banner/README.md)
 
 
 [![victory_banner_small](22_victory_banner/victory_banner_small.png)](22_victory_banner/README.md#victory-banner-skt-dhvaja-buddhist-meaning)

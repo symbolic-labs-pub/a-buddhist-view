@@ -5,14 +5,14 @@
 <details>
 <summary>Teaching</summary>
 
-# [A Teaching on the Three Bodies of Awakening](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#a-teaching-on-the-three-bodies-of-awakening)
+# A Teaching on the Three Bodies of Awakening
 
 
 *(How Reality, Experience, and [Compassion](../02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching) Are One)*
 
 ---
 
-## [Introduction: Why the Buddha Spoke of “Bodies”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#introduction-why-the-buddha-spoke-of-bodies)
+## Introduction: Why the Buddha Spoke of “Bodies”
 
 
 The Buddha did not teach [enlightenment](../10_concepts/README.md#3-enlightenment-bodhi-awakening) as an abstract idea.
@@ -26,7 +26,7 @@ They are **dimensions to recognize**.
 
 ---
 
-## [1. Dharmakāya — The Body of Truth](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#1-dharmakāya--the-body-of-truth)
+## 1. Dharmakāya — The Body of Truth
 
 
 At the deepest level, awakening is [**empty**](../10_concepts/01_emptiness/README.md#emptiness-śūnyatā-in-vajrayāna-buddhism).
@@ -57,7 +57,7 @@ True emptiness is **alive**.
 
 ---
 
-## [2. Sambhogakāya — The Body of Enjoyment](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#2-sambhogakāya--the-body-of-enjoyment)
+## 2. Sambhogakāya — The Body of Enjoyment
 
 
 Because emptiness is not dead, it naturally **knows**.
@@ -92,7 +92,7 @@ Clarity must remain **unowned**.
 
 ---
 
-## [3. Nirmāṇakāya — The Body of Emanation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#3-nirmāṇakāya--the-body-of-emanation)
+## 3. Nirmāṇakāya — The Body of Emanation
 
 
 When emptiness is clear, it naturally **responds**.
@@ -123,7 +123,7 @@ True compassion is **effortless and precise**.
 
 ---
 
-## [The Unity of the Three](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#the-unity-of-the-three)
+## The Unity of the Three
 
 
 The three kāyas are not three things.
@@ -145,7 +145,7 @@ You recognize all three **at once**.
 
 ---
 
-## [The Practitioner’s Error — and the Correction](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#the-practitioners-error--and-the-correction)
+## The Practitioner’s Error — and the Correction
 
 
 **Common errors**
@@ -165,7 +165,7 @@ You recognize all three **at once**.
 
 ---
 
-## [How This Teaching Is Practiced](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#how-this-teaching-is-practiced)
+## How This Teaching Is Practiced
 
 
 * Sit and recognize openness → **Dharmakāya**
@@ -179,7 +179,7 @@ It is **continuity**.
 
 ---
 
-## [Closing Instruction](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#closing-instruction)
+## Closing Instruction
 
 
 Do not try to be a Buddha.
@@ -297,7 +297,7 @@ When nothing is blocked,
 
 ---
 
-## [How the Kāyas Relate (Crucial Tibetan Insight)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#how-the-kāyas-relate-crucial-tibetan-insight)
+## How the Kāyas Relate (Crucial Tibetan Insight)
 
 
 They are **not three separate things**.
@@ -316,7 +316,7 @@ All three are **simultaneously present** in [awakening](../10_concepts/README.md
 
 ---
 
-## [Advanced Tibetan Extensions (Briefly)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#advanced-tibetan-extensions-briefly)
+## Advanced Tibetan Extensions (Briefly)
 
 
 Some Tibetan systems speak of **five kāyas**:
@@ -328,7 +328,7 @@ These are **refinements**, not contradictions.
 
 ---
 
-## [Why the Kāyas Matter Practically](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#why-the-kāyas-matter-practically)
+## Why the Kāyas Matter Practically
 
 
 Tibetan Buddhism uses the kāyas to answer:
@@ -344,7 +344,7 @@ They ensure Buddhism avoids:
 
 ---
 
-## [One-Sentence Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#one-sentence-summary)
+## One-Sentence Summary
 
 
 > **Dharmakāya** is awakening as truth,
@@ -358,14 +358,14 @@ They ensure Buddhism avoids:
 <details>
 <summary>Meditation</summary>
 
-# [Trikāya Meditation Sequence](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#trikāya-meditation-sequence)
+# Trikāya Meditation Sequence
 
 
 *(From Ground → Radiance → Compassion)*
 
 ---
 
-## [Preparation (2–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#preparation-25-minutes)
+## Preparation (2–5 minutes)
 
 
 **Posture**
@@ -386,7 +386,7 @@ They ensure Buddhism avoids:
 
 ---
 
-## [Phase I — Dharmakāya](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#phase-i--dharmakāya)
+## Phase I — Dharmakāya
 
 
 **Resting as Open Awareness** (10–15 minutes)
@@ -436,7 +436,7 @@ Rest here.
 
 ---
 
-## [Phase II — Sambhogakāya](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#phase-ii--sambhogakāya)
+## Phase II — Sambhogakāya
 
 
 **Allowing Luminous Presence** (8–12 minutes)
@@ -486,7 +486,7 @@ Rest.
 
 ---
 
-## [Phase III — Nirmāṇakāya](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#phase-iii--nirmāṇakāya)
+## Phase III — Nirmāṇakāya
 
 
 **Compassion in Form** (8–12 minutes)
@@ -530,7 +530,7 @@ If images arise of helping, listening, or presence — let them pass naturally.
 
 ---
 
-## [Integration — The Three as One (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#integration--the-three-as-one-35-minutes)
+## Integration — The Three as One (3–5 minutes)
 
 
 Now notice:
@@ -547,7 +547,7 @@ Sit without modifying anything.
 
 ---
 
-## [Closing (1–2 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#closing-12-minutes)
+## Closing (1–2 minutes)
 
 
 Before standing:
@@ -564,7 +564,7 @@ Before standing:
 
 ---
 
-## [Daily-Life Micro-Practice (Very Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#daily-life-micro-practice-very-important)
+## Daily-Life Micro-Practice (Very Important)
 
 
 Several times a day, pause for **3 seconds**:
@@ -577,7 +577,7 @@ This is how the meditation **enters life**.
 
 ---
 
-## [Signs You’re Practicing Correctly](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/README.md#signs-youre-practicing-correctly)
+## Signs You’re Practicing Correctly
 
 
 * Less reactivity

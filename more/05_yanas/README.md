@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [A Teaching on the Vehicles of the Path](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#a-teaching-on-the-vehicles-of-the-path)
+## A Teaching on the Vehicles of the Path
 
 
 *(The Yānas as a Single Living Way)*
@@ -146,7 +146,7 @@ They differ **not by truth**, but by **skillful means**, depth, and speed.
 
 ---
 
-## [1. Śrāvakayāna — *The Listener’s Vehicle*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#1-śrāvakayāna--the-listeners-vehicle)
+## 1. Śrāvakayāna — *The Listener’s Vehicle*
 
 
 *(Often grouped under “Hīnayāna” in Tibetan texts)*
@@ -180,7 +180,7 @@ Cessation of suffering for oneself.
 
 ---
 
-## [2. Pratyekabuddhayāna — *The Solitary Realizer’s Vehicle*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#2-pratyekabuddhayāna--the-solitary-realizers-vehicle)
+## 2. Pratyekabuddhayāna — *The Solitary Realizer’s Vehicle*
 
 
 ### Core Aim
@@ -209,7 +209,7 @@ Liberation, but without teaching others.
 
 ---
 
-## [3. Mahāyāna — *The Great Vehicle*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#3-mahāyāna--the-great-vehicle)
+## 3. Mahāyāna — *The Great Vehicle*
 
 
 ### Core Aim
@@ -244,7 +244,7 @@ Complete Buddhahood — omniscient, compassionate activity.
 
 ---
 
-## [4. Vajrayāna (Tantrayāna / Mantrayāna) — *The Diamond Vehicle*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#4-vajrayāna-tantrayāna--mantrayāna--the-diamond-vehicle)
+## 4. Vajrayāna (Tantrayāna / Mantrayāna) — *The Diamond Vehicle*
 
 
 ### Core Aim
@@ -283,7 +283,7 @@ Bliss inseparable from wisdom
 
 ---
 
-## [5. Dzogchen — *The Great Perfection*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#5-dzogchen--the-great-perfection)
+## 5. Dzogchen — *The Great Perfection*
 
 
 *(Often presented as the pinnacle of Vajrayāna in Nyingma)*
@@ -318,7 +318,7 @@ Without preparation, practitioners mistake:
 
 ---
 
-## [Integrated Tibetan View (Very Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#integrated-tibetan-view-very-important)
+## Integrated Tibetan View (Very Important)
 
 
 Tibetan Buddhism does **not** see yānas as competing paths:
@@ -334,7 +334,7 @@ Tibetan Buddhism does **not** see yānas as competing paths:
 
 ---
 
-## [A Crucial Tibetan Analogy](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#a-crucial-tibetan-analogy)
+## A Crucial Tibetan Analogy
 
 
 > *You don’t climb a mountain by denying the lower slopes.*
@@ -345,7 +345,7 @@ Trying to “jump” to Dzogchen without ethics and compassion is described as:
 
 ---
 
-## [Practical Guidance (Modern Application)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/README.md#practical-guidance-modern-application)
+## Practical Guidance (Modern Application)
 
 
 **Low-hanging fruit / quick wins**:

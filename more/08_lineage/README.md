@@ -8,7 +8,7 @@ The rule is the same as with meditation, you may have learned that so far. So th
 
 ---
 
-## [White Tārā (Sitatārā) – The Mother of Longevity & Compassion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#white-tārā-sitatārā--the-mother-of-longevity--compassion)
+## [White Tārā (Sitatārā) – The Mother of Longevity & Compassion](01_white_tara/README.md)
 
 | [![white_tara_small](01_white_tara/white_tara_small.png)](01_white_tara/README.md#white-tārā--the-teaching-of-sustaining-conditions) | 
 
@@ -24,7 +24,7 @@ White Tārā is not abstract mercy—she is **care that sustains the conditions 
 
 ---
 
-## [Green Tārā (Syamatārā) – Swift Compassion in Action](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#green-tārā-syamatārā--swift-compassion-in-action)
+## [Green Tārā (Syamatārā) – Swift Compassion in Action](02_green_tara/README.md)
 
 [![green_tara_small](02_green_tara/green_tara_small.png)](02_green_tara/README.md#a-kagyü-teaching-on-green-tārā-compassion-that-does-not-hesitate)
 
@@ -40,7 +40,7 @@ Green Tārā trains the practitioner to **act from clarity, not hesitation**.
 
 ---
 
-## [Mahākāla – Black Cloak Protector (Dharma Guardian)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#mahākāla--black-cloak-protector-dharma-guardian)
+## [Mahākāla – Black Cloak Protector (Dharma Guardian)](03_mahakala/README.md)
 
 [![mahakala_small](03_mahakala/mahakala_small.png)](03_mahakala/README.md#mahākāla-and-the-dharma-of-non-regression)
 
@@ -56,7 +56,7 @@ Mahākāla is **the energy that prevents regression**.
 
 ---
 
-## [Thousand-Armed Avalokiteśvara (Chenrezig) – Infinite Compassion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#thousand-armed-avalokiteśvara-chenrezig--infinite-compassion)
+## [Thousand-Armed Avalokiteśvara (Chenrezig) – Infinite Compassion](04_avalokitesvara/README.md)
 
 [![avalokitesvara_small](04_avalokitesvara/avalokitesvara_small.png)](04_avalokitesvara/README.md#the-teaching-of-infinite-responsiveness)
 
@@ -72,7 +72,7 @@ This practice **softens self-fixation while strengthening resolve**.
 
 ---
 
-## [Guru Rinpoche / Padmasambhava – The Tantric Master](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#guru-rinpoche--padmasambhava--the-tantric-master)
+## [Guru Rinpoche / Padmasambhava – The Tantric Master](05_padmasambhava/README.md)
 
 [![padmasambhava_small](05_padmasambhava/padmasambhava_small.png)](05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
 
@@ -88,7 +88,7 @@ Guru Rinpoche shows that **awakening adapts to conditions**.
 
 ---
 
-## [Medicine Buddha (Blue Bhaisajyaguru) – Healing Wisdom](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#medicine-buddha-blue-bhaisajyaguru--healing-wisdom)
+## [Medicine Buddha (Blue Bhaisajyaguru) – Healing Wisdom](06_medicine_buddha/README.md)
 
 [![medicine_buddha_small](06_medicine_buddha/medicine_buddha_small.png)](06_medicine_buddha/README.md#a-buddhist-teaching)
 
@@ -104,7 +104,7 @@ Healing here means **seeing clearly what must be changed**.
 
 ---
 
-## [Kalu Rinpoche – Modern Kagyü Master](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#kalu-rinpoche--modern-kagyü-master)
+## [Kalu Rinpoche – Modern Kagyü Master](07_kalu_rinpoche/README.md)
 
 [![kalu_rinpoche_small](07_kalu_rinpoche/kalu_rinpoche_small.jpg)](07_kalu_rinpoche/README.md#kalu-rinpoche)
 
@@ -120,7 +120,7 @@ He represents **living lineage, not mythology**.
 
 ---
 
-## [Bodhisattva – The Vow of Awakening-for-All](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#bodhisattva--the-vow-of-awakening-for-all)
+## [Bodhisattva – The Vow of Awakening-for-All](08_bodhisattva/README.md)
 
 [![bodhisattva_small](08_bodhisattva/bodhisattva_small.png)](08_bodhisattva/README.md#awakening-is-not-private)
 
@@ -136,7 +136,7 @@ A bodhisattva is **awakening in motion**.
 
 ---
 
-## [Structural Insight (Kagyü Lens)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#structural-insight-kagyü-lens)
+## Structural Insight (Kagyü Lens)
 
 These figures are **not worship objects**, but **functional archetypes**:
 
@@ -150,7 +150,7 @@ Together they form a **practice ecosystem**, not a pantheon.
 
 ---
 
-## [Milarepa — The Archetype of Radical Transformation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#milarepa--the-archetype-of-radical-transformation)
+## [Milarepa — The Archetype of Radical Transformation](09_milarepa/README.md)
 
 [![milarepa_small](09_milarepa/milarepa_small.png)](09_milarepa/README.md#a-buddhist-teaching-milarepa-and-the-law-of-irreversible-transformation)
 
@@ -172,7 +172,7 @@ Milarepa shows that **nothing disqualifies awakening except refusal to practice*
 
 ---
 
-## [Marpa the Translator — Holder of Authentic Transmission](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#marpa-the-translator--holder-of-authentic-transmission)
+## [Marpa the Translator — Holder of Authentic Transmission](10_marpa/README.md)
 
 [![marpa_small](10_marpa/marpa_small.png)](10_marpa/README.md#a-buddhist-teaching-marpa-the-translator-the-dharma-that-refuses-to-be-softened)
 
@@ -194,7 +194,7 @@ Marpa represents **structural integrity of awakening**—truth transmitted witho
 
 ---
 
-## [Vajradhara — The Source of Mahāmudrā](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#vajradhara--the-source-of-mahāmudrā)
+## [Vajradhara — The Source of Mahāmudrā](11_vajradhara/README.md)
 
 [![vajradhara_small](11_vajradhara/vajradhara_small.png)](11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
 
@@ -216,7 +216,7 @@ Vajradhara is **awakening before concepts arise**.
 
 ---
 
-## [Black Six-Armed Mahākāla — Esoteric Dharma Protector](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#black-six-armed-mahākāla--esoteric-dharma-protector)
+## [Black Six-Armed Mahākāla — Esoteric Dharma Protector](12_six_armed_mahakala/README.md)
 
 [![six_armed_mahakala_small](12_six_armed_mahakala/six_armed_mahakala_small.png)](12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
 
@@ -238,7 +238,7 @@ This Mahākāla does not protect comfort—**he protects realization**.
 
 ---
 
-## [Structural Insight (Kagyü Perspective)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/README.md#structural-insight-kagyü-perspective)
+## Structural Insight (Kagyü Perspective)
 
 Together, these four form a **complete vertical axis of the Kagyü path**:
 

@@ -105,7 +105,7 @@ The sense of “I” is a *pattern*, not an entity.
 
 ---
 
-## [Why the Three Must Be Taught Together](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md#why-the-three-must-be-taught-together)
+## Why the Three Must Be Taught Together
 
 
 Buddhism insists they are **inseparable**:
@@ -122,7 +122,7 @@ This triad prevents misunderstanding.
 
 ---
 
-## [The Purpose of the Teaching](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md#the-purpose-of-the-teaching)
+## The Purpose of the Teaching
 
 
 The Three Marks are **not doctrine** to believe.
@@ -139,7 +139,7 @@ but because there is **nothing left to defend**.
 
 ---
 
-## [The Buddha’s Radical Conclusion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md#the-buddhas-radical-conclusion)
+## The Buddha’s Radical Conclusion
 
 
 Liberation is not:

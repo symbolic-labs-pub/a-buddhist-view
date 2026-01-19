@@ -43,7 +43,7 @@ Great canonical hubs:
 
 ---
 
-## [2) What “awakening” means (and where it “lands”)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/zen_and_theravada/README.md#2-what-awakening-means-and-where-it-lands)
+## 2) What “awakening” means (and where it “lands”)
 
 
 ### Tibetan
@@ -78,7 +78,7 @@ Theravāda is often more explicit about **cognitive markers** (fetters) and **[m
 
 ---
 
-## [3) View: emptiness, non-self, and “suchness” (same direction, different dialects)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/zen_and_theravada/README.md#3-view-emptiness-non-self-and-suchness-same-direction-different-dialects)
+## 3) View: emptiness, non-self, and “suchness” (same direction, different dialects)
 
 
 ### Shared core
@@ -112,7 +112,7 @@ A useful bridge conceptually:
 
 ---
 
-## [4) Practice mapping (what corresponds to what)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/zen_and_theravada/README.md#4-practice-mapping-what-corresponds-to-what)
+## 4) Practice mapping (what corresponds to what)
 
 
 | Training domain      | Theravāda                                    | Zen                            | Tibetan                                            |
@@ -125,7 +125,7 @@ A useful bridge conceptually:
 
 ---
 
-## [5) The biggest “false friends” (terms that mislead across traditions)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/zen_and_theravada/README.md#5-the-biggest-false-friends-terms-that-mislead-across-traditions)
+## 5) The biggest “false friends” (terms that mislead across traditions)
 
 
 ### “Sudden awakening”
@@ -146,7 +146,7 @@ Zen avoids over-explaining; Tibetan explains it carefully; Theravāda emphasizes
 
 ---
 
-## [6) A practical “translation guide” (if you’re moving between them)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/zen_and_theravada/README.md#6-a-practical-translation-guide-if-youre-moving-between-them)
+## 6) A practical “translation guide” (if you’re moving between them)
 
 
 If you’re fluent in one tradition, here’s how to “port” skills:
@@ -168,7 +168,7 @@ If you’re fluent in one tradition, here’s how to “port” skills:
 
 ---
 
-## [My “architect’s summary”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/zen_and_theravada/README.md#my-architects-summary)
+## My “architect’s summary”
 
 
 Think of them as three optimization strategies for the same objective function (liberation):

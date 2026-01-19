@@ -2,7 +2,7 @@
 
 [![core_teachings.png](core_teachings.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/README.md#core-teachings)
 
-## [1. "All Conditioned Things Are Impermanent"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/README.md#1-all-conditioned-things-are-impermanent)
+## 1. ["All Conditioned Things Are Impermanent"](impermanence/README.md)
 
 
 *(Pāli: **sabbe saṅkhārā aniccā**)*
@@ -28,7 +28,7 @@ This principle states that **everything that arises due to causes and conditions
 
 ---
 
-## [2. The Three Jewels (The Triple Gem)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/README.md#2-the-three-jewels-the-triple-gem)
+## [2. The Three Jewels (The Triple Gem)](the_three_jewels/README.md)
 
 
 The [**Three Jewels**](the_three_jewels/README.md#the-three-jewels-triple-gem--ti-ratana) are the foundational orientation of Buddhist life—what one *takes refuge in*.
@@ -58,7 +58,7 @@ The [**Three Jewels**](the_three_jewels/README.md#the-three-jewels-triple-gem--t
 
 ---
 
-## [3. The Pāramitās (Perfections)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/README.md#3-the-pāramitās-perfections)
+## 3. The Pāramitās (Perfections)
 
 
 The **pāramitās** are **qualities cultivated to cross from ignorance to awakening**.
@@ -116,7 +116,7 @@ The number depends on tradition.
 
 ---
 
-## [4. The Noble Eightfold Path](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/README.md#4-the-noble-eightfold-path)
+## [4. The Noble Eightfold Path](the_noble_eightfold_path/README.md)
 
 
 The [**Noble Eightfold Path**](the_noble_eightfold_path/README.md#what-the-noble-eightfold-path-is-in-buddhism) is the **practical structure of liberation**.
@@ -152,7 +152,7 @@ It is not linear—it is a **mutually reinforcing system**.
 
 ---
 
-## [Big Picture Synthesis](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/README.md#big-picture-synthesis)
+## Big Picture Synthesis
 
 
 | Concept        | Core Role                         |

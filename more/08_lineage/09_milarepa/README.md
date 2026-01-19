@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [**A Buddhist Teaching: Milarepa and the Law of Irreversible Transformation**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#a-buddhist-teaching-milarepa-and-the-law-of-irreversible-transformation)
+## **A Buddhist Teaching: Milarepa and the Law of Irreversible Transformation**
 
 
 **Milarepa** stands in the Buddhist tradition not as a saintly ideal, but as a **proof of principle**.
@@ -18,7 +18,7 @@ the belief that one’s past actions, character, or psychological makeup *disqua
 
 ---
 
-## [1. The Error of Moral Determinism](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#1-the-error-of-moral-determinism)
+## 1. The Error of Moral Determinism
 
 
 Many practitioners unconsciously hold this view:
@@ -39,7 +39,7 @@ His realization proves:
 
 ---
 
-## [2. Renunciation as Structural Clarity](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#2-renunciation-as-structural-clarity)
+## 2. Renunciation as Structural Clarity
 
 
 Milarepa did not renounce society out of hatred or fear.
@@ -61,7 +61,7 @@ Milarepa shows the opposite:
 
 ---
 
-## [3. Devotion Without Sentimentality](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#3-devotion-without-sentimentality)
+## 3. Devotion Without Sentimentality
 
 
 Milarepa’s devotion to [Marpa](../10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened) was not emotional dependence.
@@ -82,7 +82,7 @@ This is why devotion accelerates realization—not mystically, but **mechanicall
 
 ---
 
-## [4. Perseverance as the Engine of Liberation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#4-perseverance-as-the-engine-of-liberation)
+## 4. Perseverance as the Engine of Liberation
 
 
 Milarepa’s practice was extreme, but the principle is universal:
@@ -110,7 +110,7 @@ When grasping fails repeatedly, **clarity remains**.
 
 ---
 
-## [5. The Doctrine of Irreversibility](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#5-the-doctrine-of-irreversibility)
+## 5. The Doctrine of Irreversibility
 
 
 A central lesson of Milarepa’s life is this:
@@ -132,7 +132,7 @@ This is why the Kagyu lineage emphasizes **direct experience over conceptual pur
 
 ---
 
-## [6. The Teaching in One Sentence](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#6-the-teaching-in-one-sentence)
+## 6. The Teaching in One Sentence
 
 
 Milarepa teaches:
@@ -147,7 +147,7 @@ Only avoidance.
 
 ---
 
-## [Closing Reflection](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#closing-reflection)
+## Closing Reflection
 
 
 This teaching is demanding—but profoundly hopeful.
@@ -176,7 +176,7 @@ This practice uses his life as a *functional template* for inner transformation.
 
 ---
 
-## [1. Intention (5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#1-intention-5-minutes)
+## 1. Intention (5 minutes)
 
 
 Sit comfortably. Let the body settle.
@@ -190,7 +190,7 @@ This frames the session correctly: **practice over self-judgment**.
 
 ---
 
-## [2. Grounding the Body (5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#2-grounding-the-body-5-minutes)
+## 2. Grounding the Body (5 minutes)
 
 
 Bring attention to:
@@ -209,7 +209,7 @@ This represents **renunciation**, not as rejection of life, but as **freedom fro
 
 ---
 
-## [3. Contemplation: The Weight of Karma (10 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#3-contemplation-the-weight-of-karma-10-minutes)
+## 3. Contemplation: The Weight of Karma (10 minutes)
 
 
 Gently bring to mind:
@@ -230,7 +230,7 @@ Let the weight be **seen**, not resisted.
 
 ---
 
-## [4. Turning the Mind (Devotion Phase) (10 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#4-turning-the-mind-devotion-phase-10-minutes)
+## 4. Turning the Mind (Devotion Phase) (10 minutes)
 
 
 Visualize Milarepa seated above you:
@@ -254,7 +254,7 @@ trust in the *path itself*.
 
 ---
 
-## [5. Perseverance Meditation (15–20 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#5-perseverance-meditation-1520-minutes)
+## 5. Perseverance Meditation (15–20 minutes)
 
 
 Now release imagery.
@@ -282,7 +282,7 @@ Return to presence.
 
 ---
 
-## [6. Sealing the Practice (5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#6-sealing-the-practice-5-minutes)
+## 6. Sealing the Practice (5 minutes)
 
 
 Dedicate the session:
@@ -295,7 +295,7 @@ once walked sincerely, it does not reverse.
 
 ---
 
-## [Practice Notes (Very Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/09_milarepa/README.md#practice-notes-very-important)
+## Practice Notes (Very Important)
 
 
 * This practice is **not gentle**—but it is [compassionate](../../02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching).

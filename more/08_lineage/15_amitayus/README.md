@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [**The Teaching of Boundless Life**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#the-teaching-of-boundless-life)
+## **The Teaching of Boundless Life**
 
 
 *A Buddhist instruction revealed through Amitāyus practice*
@@ -275,7 +275,7 @@ Freedom from fear = awakened life.**
 <details>
 <summary>Meditation</summary>
 
-## [**Amitāyus Longevity Meditation**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#amitāyus-longevity-meditation)
+## **Amitāyus Longevity Meditation**
 
 
 > ⚠️ **Note on scope**
@@ -285,7 +285,7 @@ Freedom from fear = awakened life.**
 
 ---
 
-## [0. Preparation (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#0-preparation-23-minutes)
+## 0. Preparation (2–3 minutes)
 
 
 **Posture**
@@ -305,7 +305,7 @@ Silently establish the motivation:
 
 ---
 
-## [1. Refuge & Orientation (1–2 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#1-refuge--orientation-12-minutes)
+## 1. Refuge & Orientation (1–2 minutes)
 
 
 Bring awareness to the **field of awakened support**:
@@ -320,7 +320,7 @@ Longevity begins when **fear dissolves**.
 
 ---
 
-## [2. Visualization of Amitāyus (5–7 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#2-visualization-of-amitāyus-57-minutes)
+## 2. Visualization of Amitāyus (5–7 minutes)
 
 
 Visualize **Amitāyus** appearing in the space before you, at eye level:
@@ -338,7 +338,7 @@ Let the image be **clear but gentle**.
 
 ---
 
-## [3. Identity Alignment (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#3-identity-alignment-35-minutes)
+## 3. Identity Alignment (3–5 minutes)
 
 
 Shift from observer to resonance.
@@ -365,7 +365,7 @@ Presence deepens.
 
 ---
 
-## [4. Longevity Mantra (Optional, 5–10 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#4-longevity-mantra-optional-510-minutes)
+## 4. Longevity Mantra (Optional, 5–10 minutes)
 
 
 If you use [mantra](../../09_symbols/10_mantra/README.md#what-a-mantra-is-buddhist-view), recite softly or mentally:
@@ -384,7 +384,7 @@ If mantra feels artificial, rest instead in **wordless continuity**.
 
 ---
 
-## [5. Absorption (3–5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#5-absorption-35-minutes)
+## 5. Absorption (3–5 minutes)
 
 
 Let the visualization **dissolve into light**.
@@ -403,7 +403,7 @@ life no longer leaking through distraction.
 
 ---
 
-## [6. Dedication of Life (2 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#6-dedication-of-life-2-minutes)
+## 6. Dedication of Life (2 minutes)
 
 
 Conclude with deliberate dedication:
@@ -418,7 +418,7 @@ Feel resolve—not emotion.
 
 ---
 
-## [Key Teaching Encoded in This Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#key-teaching-encoded-in-this-practice)
+## Key Teaching Encoded in This Practice
 
 
 * **Longevity is not biological luck**
@@ -431,7 +431,7 @@ He **removes what shortens them**.
 
 ---
 
-## [When This Practice Is Especially Appropriate](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/15_amitayus/README.md#when-this-practice-is-especially-appropriate)
+## When This Practice Is Especially Appropriate
 
 
 * During illness or recovery

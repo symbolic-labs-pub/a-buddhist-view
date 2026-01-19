@@ -8,7 +8,7 @@ The lotus is one of the clearest *instructional symbols* in Buddhism. It is not 
 
 ---
 
-## [1. Purity *without* Rejection](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/08_lotus/README.md#1-purity-without-rejection)
+## 1. Purity *without* Rejection
 
 In Buddhism, purity does **not** mean avoiding the world or erasing difficulty.
 
@@ -31,7 +31,7 @@ This directly counters spiritual bypassing—the idea that one must escape [suff
 
 ---
 
-## [2. Awakening *Through* Conditions, Not Away From Them](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/08_lotus/README.md#2-awakening-through-conditions-not-away-from-them)
+## 2. Awakening *Through* Conditions, Not Away From Them
 
 The lotus does not grow *despite* mud.
 It grows **because of it**.
@@ -54,7 +54,7 @@ Without challenge:
 
 ---
 
-## [3. Dependent Origination Made Visible](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/08_lotus/README.md#3-dependent-origination-made-visible)
+## 3. Dependent Origination Made Visible
 
 The lotus is a living diagram of [**dependent origination**](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#the-twelve-links-the-classic-formulation):
 
@@ -75,7 +75,7 @@ This removes:
 
 ---
 
-## [4. Non-Dual Wisdom: Samsara and Nirvana Are Not Two](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/08_lotus/README.md#4-non-dual-wisdom-samsara-and-nirvana-are-not-two)
+## 4. Non-Dual Wisdom: Samsara and Nirvana Are Not Two
 
 The lotus stands *in* the world while pointing *beyond* confusion.
 
@@ -94,7 +94,7 @@ When ignorance is removed:
 
 ---
 
-## [5. Practical Instruction (Not Just Symbolism)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/08_lotus/README.md#5-practical-instruction-not-just-symbolism)
+## 5. Practical Instruction (Not Just Symbolism)
 
 The lotus teaches **how to practice**:
 

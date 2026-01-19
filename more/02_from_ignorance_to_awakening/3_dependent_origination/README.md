@@ -15,7 +15,7 @@ Nothing appears on its own. Nothing stands alone. Everything depends on conditio
 
 ---
 
-## [The Core Meaning](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#the-core-meaning)
+## The Core Meaning
 
 
 Dependent Origination asserts three inseparable truths:
@@ -39,7 +39,7 @@ things are **real as processes**, but **[empty](../../10_concepts/01_emptiness/R
 
 ---
 
-## [The Twelve Links (The Classic Formulation)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#the-twelve-links-the-classic-formulation)
+## The Twelve Links (The Classic Formulation)
 
 
 The Buddha often expressed Dependent Origination as **12 interdependent links** (*nidānas*). These are not a linear timeline but a **self-reinforcing loop**.
@@ -84,7 +84,7 @@ The Buddha often expressed Dependent Origination as **12 interdependent links** 
 
 ---
 
-## [The Crucial Insight: This Is Reversible](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#the-crucial-insight-this-is-reversible)
+## The Crucial Insight: This Is Reversible
 
 
 This teaching is **not fatalistic**.
@@ -102,7 +102,7 @@ Only conditions—arising and ceasing.
 
 ---
 
-## [Why This Is So Radical](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#why-this-is-so-radical)
+## Why This Is So Radical
 
 
 ### 1. No First Cause
@@ -119,7 +119,7 @@ Because actions condition future experience, **responsibility remains**, without
 
 ---
 
-## [Practical Meaning in Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#practical-meaning-in-practice)
+## Practical Meaning in Practice
 
 
 In [meditation](../../08_lineage/README.md) and daily life, Dependent Origination becomes **directly observable**:
@@ -139,7 +139,7 @@ This is why the Buddha said:
 
 ---
 
-## [In One Sentence](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#in-one-sentence)
+## In One Sentence
 
 
 **Dependent Origination is the Buddha’s precise explanation of how suffering arises without a self—and how freedom is possible without annihilation.**

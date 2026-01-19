@@ -7,7 +7,7 @@ In the Kagyu understanding of **Ngöndro**, the **fourth practice** completes th
 
 ---
 
-## [1) Samsāra’s Unsatisfactoriness (Duḥkha of Cyclic Existence)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/4_guru_yoga/README.md#1-samsāras-unsatisfactoriness-duḥkha-of-cyclic-existence)
+## 1) Samsāra’s Unsatisfactoriness (Duḥkha of Cyclic Existence)
 
 
 This contemplation is **not pessimism** and not moral judgment. It is *diagnosis*.
@@ -39,7 +39,7 @@ That cut creates *space*.
 
 ---
 
-## [2) Guru Yoga (The Turning Point)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/4_guru_yoga/README.md#2-guru-yoga-the-turning-point)
+## 2) Guru Yoga (The Turning Point)
 
 
 When hope in samsāra collapses, the mind is finally *available*.
@@ -60,7 +60,7 @@ In Kagyu, the guru is the **interface** between:
 
 ---
 
-## [3) Devotion as a Cognitive Technology](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/4_guru_yoga/README.md#3-devotion-as-a-cognitive-technology)
+## 3) Devotion as a Cognitive Technology
 
 
 Devotion here is **precision alignment**, not emotion.
@@ -86,7 +86,7 @@ This is why Kagyu emphasizes **lineage continuity** over philosophical novelty.
 
 ---
 
-## [4) The 17th Karmapa Thaye Dorje in This Context](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/4_guru_yoga/README.md#4-the-17th-karmapa-thaye-dorje-in-this-context)
+## 4) The 17th Karmapa Thaye Dorje in This Context
 
 
 In contemporary Kagyu practice, **17th Karmapa Thaye [Dorje](../../09_symbols/02_dorje/README.md#dorje-vajra--explained-according-to-buddhist-teachings)** functions as a **living reference point** of lineage integrity.
@@ -103,7 +103,7 @@ The Karmapa principle is *structural*, not personal:
 
 ---
 
-## [5) Why Guru Yoga Comes Last in Ngöndro](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/4_guru_yoga/README.md#5-why-guru-yoga-comes-last-in-ngöndro)
+## 5) Why Guru Yoga Comes Last in Ngöndro
 
 
 The sequence matters.
@@ -119,7 +119,7 @@ Guru Yoga **shows what was always there**.
 
 ---
 
-## [6) Core Insight of the Fourth Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/4_guru_yoga/README.md#6-core-insight-of-the-fourth-practice)
+## 6) Core Insight of the Fourth Practice
 
 
 > **Liberation is not achieved by fixing experience,

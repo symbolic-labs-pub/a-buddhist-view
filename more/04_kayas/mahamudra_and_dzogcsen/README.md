@@ -48,7 +48,7 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-## [2. Sambhogakāya → *Clarity & Luminous Display*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/mahamudra_and_dzogcsen/README.md#2-sambhogakāya--clarity--luminous-display)
+## 2. Sambhogakāya → *Clarity & Luminous Display*
 
 
 ### Dzogchen: **Spontaneous Presence (ལྷུན་གྲུབ་)**
@@ -100,7 +100,7 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-## [3. Nirmāṇakāya → *Embodied Compassion*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/mahamudra_and_dzogcsen/README.md#3-nirmāṇakāya--embodied-compassion)
+## 3. Nirmāṇakāya → *Embodied Compassion*
 
 
 ### Dzogchen: **Conduct (སྤྱོད་པ་)**
@@ -138,7 +138,7 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-## [Unified View: How the Kāyas Unfold](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/mahamudra_and_dzogcsen/README.md#unified-view-how-the-kāyas-unfold)
+## Unified View: How the Kāyas Unfold
 
 
 | Stage      | Kāya             | What is realized       |
@@ -151,7 +151,7 @@ They are **simultaneous**, but **recognized progressively**.
 
 ---
 
-## [Subtle but Essential Insight](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/mahamudra_and_dzogcsen/README.md#subtle-but-essential-insight)
+## Subtle but Essential Insight
 
 
 * **Dzogchen** emphasizes:
@@ -172,7 +172,7 @@ Yet the **realization is identical**.
 
 ---
 
-## [Diagnostic Question (Used by Tibetan Masters)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/mahamudra_and_dzogcsen/README.md#diagnostic-question-used-by-tibetan-masters)
+## Diagnostic Question (Used by Tibetan Masters)
 
 
 Ask a practitioner:
@@ -185,7 +185,7 @@ If any is missing, realization is incomplete.
 
 ---
 
-## [One-Line Integration Formula](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/04_kayas/mahamudra_and_dzogcsen/README.md#one-line-integration-formula)
+## One-Line Integration Formula
 
 
 > **Recognize emptiness ([Dharmakāya)](../../10_concepts/01_emptiness/README.md#emptiness-śūnyatā-in-mahāyāna-buddhism),

@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [A Buddhist Teaching on the Six Bardos](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#a-buddhist-teaching-on-the-six-bardos)
+## A Buddhist Teaching on the Six Bardos
 
 
 *(A practical teaching distilled from the bardo map)*
@@ -161,14 +161,14 @@ A *bardo* is any **transitional phase** in which consciousness is not fixed in a
 
 ---
 
-## [What is a *Bardo*?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#what-is-a-bardo)
+## What is a *Bardo*?
 
 
 A *bardo* is a **gap, interval, or threshold**—a moment when habitual identity loosens and **transformation is possible**. Tibetan tradition systematizes this insight into **six bardos**, offering a precise **map for [awakening](../10_concepts/README.md#3-enlightenment-bodhi-awakening)**.
 
 ---
 
-## [The Six Bardos](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#the-six-bardos)
+## The Six Bardos
 
 
 ### 1. **The Bardo of This Life** (*Shiné Bardo*)
@@ -233,7 +233,7 @@ This is ordinary waking life.
 
 ---
 
-## [What Is Reincarnation in Tibetan Buddhism?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#what-is-reincarnation-in-tibetan-buddhism)
+## What Is Reincarnation in Tibetan Buddhism?
 
 
 There is **no eternal soul** that transmigrates.
@@ -253,7 +253,7 @@ This is **continuity without identity**.
 
 ---
 
-## [What Determines Reincarnation?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#what-determines-reincarnation)
+## What Determines Reincarnation?
 
 
 1. **Karma** (intentional actions)
@@ -265,7 +265,7 @@ This is **continuity without identity**.
 
 ---
 
-## [Why Is the Tibetan System So Detailed?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#why-is-the-tibetan-system-so-detailed)
+## Why Is the Tibetan System So Detailed?
 
 
 Tibetan Buddhism offers a **practical technology of dying and reincarnation**:
@@ -278,7 +278,7 @@ This is why texts such as the **Bardo Thödol** exist—designed to be **heard**
 
 ---
 
-## [Core Teaching in One Line](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#core-teaching-in-one-line)
+## Core Teaching in One Line
 
 
 > The question is not whether reincarnation occurs,
@@ -296,7 +296,7 @@ For one trained in awareness during life, death becomes **not a threat, but a ga
 <details>
 <summary>Meditation</summary>
 
-## [A Six Bardos Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#a-six-bardos-meditation)
+## A Six Bardos Meditation
 
 
 *A complete contemplative practice based on Tibetan Buddhist insight*
@@ -308,7 +308,7 @@ You are training **recognition in transitions**.
 
 ---
 
-## [Core Principle (hold this lightly)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#core-principle-hold-this-lightly)
+## Core Principle (hold this lightly)
 
 
 > **Whatever arises is not a problem.
@@ -318,7 +318,7 @@ The practice is about **seeing**, not controlling.
 
 ---
 
-## [Structure of the Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#structure-of-the-practice)
+## Structure of the Practice
 
 
 * **Duration**: 20–40 minutes
@@ -329,7 +329,7 @@ This practice has **six phases**, mirroring the six bardos.
 
 ---
 
-## [1. Life Bardo Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#1-life-bardo-meditation)
+## 1. Life Bardo Meditation
 
 
 *Stabilizing awareness in ordinary experience*
@@ -353,7 +353,7 @@ This establishes **confidence in awareness during life**.
 
 ---
 
-## [2. Dream Bardo Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#2-dream-bardo-meditation)
+## 2. Dream Bardo Meditation
 
 
 *Seeing experience as constructed*
@@ -376,7 +376,7 @@ This weakens fixation and prepares the mind for non-physical states.
 
 ---
 
-## [3. Meditation Bardo Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#3-meditation-bardo-meditation)
+## 3. Meditation Bardo Meditation
 
 
 *Resting in openness*
@@ -400,7 +400,7 @@ This builds **familiarity with groundless clarity**.
 
 ---
 
-## [4. Death Moment Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#4-death-moment-meditation)
+## 4. Death Moment Meditation
 
 
 *Practicing dissolution*
@@ -424,7 +424,7 @@ This trains fearlessness toward dissolution.
 
 ---
 
-## [5. Reality Bardo Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#5-reality-bardo-meditation)
+## 5. Reality Bardo Meditation
 
 
 *Meeting intense appearances*
@@ -448,7 +448,7 @@ This dissolves fear of strong inner experience.
 
 ---
 
-## [6. Becoming Bardo Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#6-becoming-bardo-meditation)
+## 6. Becoming Bardo Meditation
 
 
 *Interrupting momentum*
@@ -472,7 +472,7 @@ This weakens karmic momentum at its root.
 
 ---
 
-## [Closing Integration (5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#closing-integration-5-minutes)
+## Closing Integration (5 minutes)
 
 
 Rest naturally.
@@ -486,7 +486,7 @@ Dedicate the practice to clarity—for yourself and others.
 
 ---
 
-## [How This Practice Works (Quietly, Precisely)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#how-this-practice-works-quietly-precisely)
+## How This Practice Works (Quietly, Precisely)
 
 
 * **Life bardo** → stabilizes mindfulness
@@ -500,7 +500,7 @@ Practiced daily, this meditation **pre-trains the mind** so that death becomes *
 
 ---
 
-## [Minimal Daily Version (10 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#minimal-daily-version-10-minutes)
+## Minimal Daily Version (10 minutes)
 
 
 1. Sit (2 min)
@@ -512,7 +512,7 @@ That alone is sufficient.
 
 ---
 
-## [Final Instruction](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/06_intermediate_states_and_reincarnation/README.md#final-instruction)
+## Final Instruction
 
 
 > You do not prepare for death by thinking about death.

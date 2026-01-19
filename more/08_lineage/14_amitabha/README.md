@@ -13,7 +13,7 @@
 <details>
 <summary>Meditation</summary>
 
-## [**A Pure Land Meditation Practice — Amitābha Path of Vow and Trust**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#a-pure-land-meditation-practice--amitābha-path-of-vow-and-trust)
+## **A Pure Land Meditation Practice — Amitābha Path of Vow and Trust**
 
 
 > ⚠️ **Note on scope**
@@ -23,7 +23,7 @@
 
 ---
 
-## [1. Intention (Orientation of the Mind)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#1-intention-orientation-of-the-mind)
+## 1. Intention (Orientation of the Mind)
 
 
 Sit comfortably. Formal posture is helpful but not required.
@@ -42,7 +42,7 @@ This step **reorients agency**:
 
 ---
 
-## [2. Grounding the Breath (Stabilization)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#2-grounding-the-breath-stabilization)
+## 2. Grounding the Breath (Stabilization)
 
 
 For 1–3 minutes:
@@ -56,7 +56,7 @@ Pure Land practice works best on a **settled but ordinary mind**, not a forced o
 
 ---
 
-## [3. Name-Recitation (Core Practice)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#3-name-recitation-core-practice)
+## 3. Name-Recitation (Core Practice)
 
 
 Begin **audible or silent recitation**:
@@ -86,7 +86,7 @@ If thoughts arise:
 
 ---
 
-## [4. Subtle Visualization (Optional, Later)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#4-subtle-visualization-optional-later)
+## 4. Subtle Visualization (Optional, Later)
 
 
 Only if the mind naturally stabilizes:
@@ -104,7 +104,7 @@ If visualization fades → return to recitation.
 
 ---
 
-## [5. Trust Phase (The Essential Point)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#5-trust-phase-the-essential-point)
+## 5. Trust Phase (The Essential Point)
 
 
 At some point, let go of **doing** the practice.
@@ -121,7 +121,7 @@ This is the **heart of Pure Land**:
 
 ---
 
-## [6. Dedication of Merit (Closure)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#6-dedication-of-merit-closure)
+## 6. Dedication of Merit (Closure)
 
 
 Conclude with:
@@ -133,7 +133,7 @@ Stop reciting. Sit quietly for a few breaths.
 
 ---
 
-## [7. Integration into Daily Life (Critical)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#7-integration-into-daily-life-critical)
+## 7. Integration into Daily Life (Critical)
 
 
 Pure Land practice **must leak into life**:
@@ -151,7 +151,7 @@ This is why Pure Land has survived centuries—it **meets people where they actu
 
 ---
 
-## [Key Clarifications (Very Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#key-clarifications-very-important)
+## Key Clarifications (Very Important)
 
 
 * ❌ This is **not** blind faith
@@ -164,7 +164,7 @@ This is why Pure Land has survived centuries—it **meets people where they actu
 
 ---
 
-## [One-Line Essence](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/14_amitabha/README.md#one-line-essence)
+## One-Line Essence
 
 
 > **Pure Land meditation trains the mind to rest in compassion when control is exhausted.**

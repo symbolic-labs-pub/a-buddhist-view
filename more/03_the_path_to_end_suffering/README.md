@@ -18,7 +18,7 @@ This cessation is called **nirvāṇa**: the *unbinding* of the mechanisms that 
 
 ---
 
-## [The Core Diagnosis (Why Suffering Arises)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#the-core-diagnosis-why-suffering-arises)
+## The Core Diagnosis (Why Suffering Arises)
 
 
 Suffering arises because of **ignorance (avidyā)**—specifically:
@@ -38,14 +38,14 @@ The path is therefore **not moral punishment or reward**, but **causal correctio
 
 ---
 
-## [The Path to End Suffering: The Noble Eightfold Path](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#the-path-to-end-suffering-the-noble-eightfold-path)
+## The Path to End Suffering: The Noble Eightfold Path
 
 
 The Buddha taught **one integrated path**, traditionally grouped into **three mutually reinforcing domains**.
 
 ---
 
-## [1. Wisdom (Paññā) — *Correcting Misunderstanding*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#1-wisdom-paññā--correcting-misunderstanding)
+## 1. Wisdom (Paññā) — *Correcting Misunderstanding*
 
 
 ### Right View
@@ -70,7 +70,7 @@ Orienting the mind toward:
 
 ---
 
-## [2. Ethical Conduct (Śīla) — *Stabilizing Life Conditions*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#2-ethical-conduct-śīla--stabilizing-life-conditions)
+## 2. Ethical Conduct (Śīla) — *Stabilizing Life Conditions*
 
 
 ### Right Speech
@@ -92,7 +92,7 @@ Ethics is not moralism; it is **system stabilization**.
 
 ---
 
-## [3. Mental Discipline (Samādhi) — *Rewiring the Mind*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#3-mental-discipline-samādhi--rewiring-the-mind)
+## 3. Mental Discipline (Samādhi) — *Rewiring the Mind*
 
 
 ### Right Effort
@@ -123,7 +123,7 @@ Deep mental unification ([meditative](../08_lineage/README.md) absorption), enab
 
 ---
 
-## [How the Path Ends Suffering (Causal Logic)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#how-the-path-ends-suffering-causal-logic)
+## How the Path Ends Suffering (Causal Logic)
 
 
 1. **Ethics reduces external and internal chaos**
@@ -138,7 +138,7 @@ Deep mental unification ([meditative](../08_lineage/README.md) absorption), enab
 
 ---
 
-## [What This Is *Not*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#what-this-is-not)
+## What This Is *Not*
 
 
 * Not blind faith
@@ -154,7 +154,7 @@ Deep mental unification ([meditative](../08_lineage/README.md) absorption), enab
 
 ---
 
-## [One-Sentence Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/03_the_path_to_end_suffering/README.md#one-sentence-summary)
+## One-Sentence Summary
 
 
 **The path to end suffering works by aligning understanding, conduct, and attention with how reality actually functions—so that craving, fear, and false identity no longer arise.**

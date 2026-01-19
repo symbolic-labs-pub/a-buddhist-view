@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [A Buddhist Teaching on **Vajrasattva**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/13_vajrasattva/README.md#a-buddhist-teaching-on-vajrasattva)
+## A Buddhist Teaching on **Vajrasattva**
 
 
 **Purification as Recognition of the Diamond Mind**

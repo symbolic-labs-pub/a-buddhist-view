@@ -12,7 +12,7 @@ In Vajrayāna and Tibetan Buddhism especially, **body, speech, and mind are trai
 
 ---
 
-## [What Mudrās Actually Do (Functionally)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/11_mudra/README.md#what-mudrās-actually-do-functionally)
+## What Mudrās Actually Do (Functionally)
 
 
 From a Buddhist technical perspective, mudrās serve four core functions:
@@ -51,7 +51,7 @@ Certain mudrās are **lineage-specific instructions** transmitted without words.
 
 ---
 
-## [Core Principle: Mudrā ≠ Symbol](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/11_mudra/README.md#core-principle-mudrā--symbol)
+## Core Principle: Mudrā ≠ Symbol
 
 
 A critical Buddhist distinction:
@@ -67,7 +67,7 @@ Mudrās work **only when paired with correct intention and view**. Without that,
 
 ---
 
-## [Examples of Meaning at the Structural Level](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/11_mudra/README.md#examples-of-meaning-at-the-structural-level)
+## Examples of Meaning at the Structural Level
 
 
 ### Dhyāna Mudrā (Meditation Gesture)
@@ -95,7 +95,7 @@ Mudrās work **only when paired with correct intention and view**. Without that,
 
 ---
 
-## [Why Mudrās Are Powerful (Even Without Belief)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/11_mudra/README.md#why-mudrās-are-powerful-even-without-belief)
+## Why Mudrās Are Powerful (Even Without Belief)
 
 
 Mudrās function **pre-conceptually**.
@@ -116,7 +116,7 @@ Buddhism discovered this **2,500 years ago**, empirically.
 
 ---
 
-## [A Subtle but Crucial Teaching](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/11_mudra/README.md#a-subtle-but-crucial-teaching)
+## A Subtle but Crucial Teaching
 
 
 > Mudrās do not *cause* [awakening](../../10_concepts/README.md#3-enlightenment-bodhi-awakening).
@@ -126,7 +126,7 @@ They are **constraints that reduce noise**, allowing clarity to appear.
 
 ---
 
-## [How to Use Mudrās Correctly (Practice Advice)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/11_mudra/README.md#how-to-use-mudrās-correctly-practice-advice)
+## How to Use Mudrās Correctly (Practice Advice)
 
 
 1. **Do not over-tighten** — relaxed precision is key
@@ -138,7 +138,7 @@ If tension appears, the mudrā has turned into control — release and reset.
 
 ---
 
-## [Final Insight](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/11_mudra/README.md#final-insight)
+## Final Insight
 
 
 Mudrās are **silent instructions**.

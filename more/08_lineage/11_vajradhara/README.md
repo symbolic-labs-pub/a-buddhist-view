@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [Vajradhara and the Teaching of Recognition](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
+## Vajradhara and the Teaching of Recognition
 
 
 **A Mahāmudrā Teaching of the Kagyü Lineage**
@@ -23,7 +23,7 @@ This teaching is radical in its simplicity:
 
 ---
 
-## [1. The Ground: Timeless Awareness](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#1-the-ground-timeless-awareness)
+## 1. The Ground: Timeless Awareness
 
 
 In Kagyü understanding, Vajradhara represents the **ground state** (gzhi):
@@ -41,7 +41,7 @@ confusion does not stain awareness.
 
 ---
 
-## [2. The Error: Seeking What Is Already Present](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#2-the-error-seeking-what-is-already-present)
+## 2. The Error: Seeking What Is Already Present
 
 
 Ordinary beings suffer not because awareness is absent, but because it is **overlooked**.
@@ -60,7 +60,7 @@ Vajradhara corrects this error by pointing directly:
 
 ---
 
-## [3. Method and Wisdom United](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#3-method-and-wisdom-united)
+## 3. Method and Wisdom United
 
 
 Vajradharadhara-and-the-teaching-of-recognition) holds **vajra and bell** crossed at the heart:
@@ -77,7 +77,7 @@ Mahāmudrā is **their inseparability**, lived directly.
 
 ---
 
-## [4. The Path: Recognition, Not Construction](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#4-the-path-recognition-not-construction)
+## 4. The Path: Recognition, Not Construction
 
 
 Kagyü teaching emphasizes **pointing-out instruction**:
@@ -96,7 +96,7 @@ It does not depend on silence, posture, or retreat.
 
 ---
 
-## [5. The Fruit: Natural Presence in Daily Life](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#5-the-fruit-natural-presence-in-daily-life)
+## 5. The Fruit: Natural Presence in Daily Life
 
 
 The fruit of Vajradhara realization is not withdrawal from life, but **uncontrived presence**:
@@ -115,7 +115,7 @@ But without the extra burden of self-fabrication.
 
 ---
 
-## [6. Why This Teaching Is Given Last](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#6-why-this-teaching-is-given-last)
+## 6. Why This Teaching Is Given Last
 
 
 Vajradhara teachings are traditionally given **after** [ethics](../../01_core_teachings/the_noble_eightfold_path/README.md#2-ethical-conduct-śīla), devotion, and discipline because:
@@ -128,7 +128,7 @@ When foundations are stable, Mahāmudrā is **safe and liberating**.
 
 ---
 
-## [Summary Seal](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#summary-seal)
+## Summary Seal
 
 
 * Vajradhara is not historical — **he is timeless**
@@ -161,7 +161,7 @@ This is a **recognition practice**, not a visualization to fabricate something n
 
 ---
 
-## [Orientation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#orientation)
+## Orientation
 
 
 **Vajradhara** represents **timeless awareness itself**—the *already-present nature of mind*.
@@ -172,7 +172,7 @@ This meditation trains **recognition**, not attainment.
 
 ---
 
-## [1. Preparation (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#1-preparation-23-minutes)
+## 1. Preparation (2–3 minutes)
 
 
 * Sit comfortably: cushion or chair, spine upright but relaxed.
@@ -186,7 +186,7 @@ Silently acknowledge:
 
 ---
 
-## [2. Settling the Mind (5 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#2-settling-the-mind-5-minutes)
+## 2. Settling the Mind (5 minutes)
 
 
 * Allow thoughts, sensations, and emotions to arise freely.
@@ -202,7 +202,7 @@ Notice the **space in which they appear**.
 
 ---
 
-## [3. Pointing-Out Recognition (10–15 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#3-pointing-out-recognition-1015-minutes)
+## 3. Pointing-Out Recognition (10–15 minutes)
 
 
 Gently inquire—not conceptually, but experientially:
@@ -229,7 +229,7 @@ That recognition *is* Vajradhara-nature.
 
 ---
 
-## [4. Symbolic Seal (optional, 2 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#4-symbolic-seal-optional-2-minutes)
+## 4. Symbolic Seal (optional, 2 minutes)
 
 
 Briefly recall Vajradhara:
@@ -246,7 +246,7 @@ This reminds the mind:
 
 ---
 
-## [5. Integration (2–3 minutes)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#5-integration-23-minutes)
+## 5. Integration (2–3 minutes)
 
 
 Before ending, reflect gently:
@@ -261,7 +261,7 @@ Dedication (optional):
 
 ---
 
-## [Common Pitfalls (and Corrections)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#common-pitfalls-and-corrections)
+## Common Pitfalls (and Corrections)
 
 
 * ❌ **Trying to stop thoughts** → ✔ Let them self-liberate
@@ -271,7 +271,7 @@ Dedication (optional):
 
 ---
 
-## [Structural Insight (Kagyü view)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/11_vajradhara/README.md#structural-insight-kagyü-view)
+## Structural Insight (Kagyü view)
 
 
 * Ethics stabilize the field

@@ -20,7 +20,7 @@ Instead, liberation arises when **view, conduct, and mind are aligned with reali
 
 ---
 
-## [The Threefold Structure (as taught in the suttas)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_noble_eightfold_path/README.md#the-threefold-structure-as-taught-in-the-suttas)
+## The Threefold Structure (as taught in the suttas)
 
 
 The Eightfold Path is traditionally grouped into **three trainings (tisikkhā)**:
@@ -36,7 +36,7 @@ This structure is not theoretical — it mirrors *causal dependency*:
 
 ---
 
-## [1. Wisdom (Paññā)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_noble_eightfold_path/README.md#1-wisdom-paññā)
+## 1. Wisdom (Paññā)
 
 
 ### 1. Right View (Sammā-diṭṭhi)
@@ -87,7 +87,7 @@ Right Intention weakens craving (*taṇhā*) at its emotional root.
 
 ---
 
-## [2. Ethical Conduct (Śīla)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_noble_eightfold_path/README.md#2-ethical-conduct-śīla)
+## 2. Ethical Conduct (Śīla)
 
 
 Ethics in Buddhism is **functional**, not moralistic.
@@ -156,7 +156,7 @@ The deeper principle:
 
 ---
 
-## [3. Mental Discipline (Samādhi)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_noble_eightfold_path/README.md#3-mental-discipline-samādhi)
+## 3. Mental Discipline (Samādhi)
 
 
 This section is often misunderstood as “just meditation.”
@@ -221,7 +221,7 @@ In Buddhism:
 
 ---
 
-## [Structural Insight (Buddhist causality)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_noble_eightfold_path/README.md#structural-insight-buddhist-causality)
+## Structural Insight (Buddhist causality)
 
 
 Your summary is accurate and deeply Buddhist:
@@ -239,7 +239,7 @@ This is why the Buddha called it a **path**, not a ladder.
 
 ---
 
-## [Final Buddhist Framing](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/01_core_teachings/the_noble_eightfold_path/README.md#final-buddhist-framing)
+## Final Buddhist Framing
 
 
 In the Buddha’s own words (paraphrased):

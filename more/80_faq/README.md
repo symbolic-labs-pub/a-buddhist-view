@@ -59,7 +59,7 @@ Both lead to **the same realization**.
 
 ---
 
-## [Mantras & Invocations](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/80_faq/README.md#mantras--invocations)
+## Mantras & Invocations
 
 
 ---
@@ -184,7 +184,7 @@ Dissolves dualistic perception before practice.
 
 ---
 
-## [Core Philosophical Questions](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/80_faq/README.md#core-philosophical-questions)
+## Core Philosophical Questions
 
 
 ---
@@ -317,7 +317,7 @@ In Mahāmudrā and Dzogchen:
 
 ---
 
-## [Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/80_faq/README.md#summary)
+## Summary
 
 
 Mahāmudrā and Dzogchen do **not add anything**.

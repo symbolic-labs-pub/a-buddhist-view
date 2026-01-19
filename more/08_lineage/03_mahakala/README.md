@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [**Mahākāla and the Dharma of Non-Regression**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#mahākāla-and-the-dharma-of-non-regression)
+## **Mahākāla and the Dharma of Non-Regression**
 
 
 ### *Fierce Compassion as a Condition for Awakening*
@@ -22,7 +22,7 @@ Mahākāla is the antidote to that compromise.
 
 ---
 
-## [1. Wrathful Form Does Not Mean Anger](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#1-wrathful-form-does-not-mean-anger)
+## 1. Wrathful Form Does Not Mean Anger
 
 
 In Buddhism, appearances are **pedagogical**.
@@ -42,7 +42,7 @@ This teaches us:
 
 ---
 
-## [2. Protection Is Not Comfort](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#2-protection-is-not-comfort)
+## 2. Protection Is Not Comfort
 
 
 A common misunderstanding is to treat protection as safety from difficulty.
@@ -66,7 +66,7 @@ Thus, he is called:
 
 ---
 
-## [3. Non-Regression as a Core Dharma Principle](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#3-non-regression-as-a-core-dharma-principle)
+## 3. Non-Regression as a Core Dharma Principle
 
 
 In [Mahāyāna](../../05_yanas/README.md#limitation-from-mahāyāna-view) and Vajrayāna, one of the gravest dangers is **regression**—not dramatic collapse, but quiet backsliding.
@@ -89,7 +89,7 @@ It requires a **protective clarity** that exposes self-deception instantly.
 
 ---
 
-## [4. The True Enemy Is Ego-Clinging](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#4-the-true-enemy-is-ego-clinging)
+## 4. The True Enemy Is Ego-Clinging
 
 
 Mahākāla’s wrath is always directed inward.
@@ -111,7 +111,7 @@ This teaches that [awakening](../../10_concepts/README.md#3-enlightenment-bodhi-
 
 ---
 
-## [5. The Protector Is Not External](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#5-the-protector-is-not-external)
+## 5. The Protector Is Not External
 
 
 At the deepest level, Mahākāla is **not other**.
@@ -132,7 +132,7 @@ Thus, the ultimate meaning is:
 
 ---
 
-## [6. Integration into Daily Life](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#6-integration-into-daily-life)
+## 6. Integration into Daily Life
 
 
 This teaching is not confined to ritual.
@@ -148,7 +148,7 @@ In these moments, fierce compassion is alive.
 
 ---
 
-## [Closing Teaching Statement](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#closing-teaching-statement)
+## Closing Teaching Statement
 
 
 > **Gentle compassion opens the path.
@@ -164,7 +164,7 @@ In these moments, fierce compassion is alive.
 <details>
 <summary>Invocation</summary>
 
-# [Mahākāla Protector Invocation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#mahākāla-protector-invocation)
+# Mahākāla Protector Invocation
 
 
 **Meditation of Fierce Compassion and Non-Regression**
@@ -178,7 +178,7 @@ In these moments, fierce compassion is alive.
 
 ---
 
-## [1. Preparation — Establish the Ground (3–5 min)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#1-preparation--establish-the-ground-35-min)
+## 1. Preparation — Establish the Ground (3–5 min)
 
 
 Sit in a stable posture.
@@ -200,7 +200,7 @@ Let this intention settle.
 
 ---
 
-## [2. Recollection — Understanding the Protector (2–3 min)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#2-recollection--understanding-the-protector-23-min)
+## 2. Recollection — Understanding the Protector (2–3 min)
 
 
 Before visualization, **clarify meaning**.
@@ -217,7 +217,7 @@ Mahākāla here is **a functional principle of awakened energy**.
 
 ---
 
-## [3. Visualization — Arising of Mahākāla (5–7 min)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#3-visualization--arising-of-mahākāla-57-min)
+## 3. Visualization — Arising of Mahākāla (5–7 min)
 
 
 From the open space in front of you—or from the center of awareness itself—
@@ -240,7 +240,7 @@ Feel the presence as **closer than thought**, yet not personal.
 
 ---
 
-## [4. Invocation — Calling the Function (5–7 min)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#4-invocation--calling-the-function-57-min)
+## 4. Invocation — Calling the Function (5–7 min)
 
 
 On the out-breath, silently invoke:
@@ -265,7 +265,7 @@ Let Mahākāla **face it directly through you**.
 
 ---
 
-## [5. Union — Protector as Your Own Capacity (3–5 min)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#5-union--protector-as-your-own-capacity-35-min)
+## 5. Union — Protector as Your Own Capacity (3–5 min)
 
 
 Now dissolve the visualization.
@@ -287,7 +287,7 @@ This is the crucial point:
 
 ---
 
-## [6. Dedication — Seal the Practice (2–3 min)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#6-dedication--seal-the-practice-23-min)
+## 6. Dedication — Seal the Practice (2–3 min)
 
 
 Gently conclude:
@@ -303,7 +303,7 @@ Remain still for a few moments before moving.
 
 ---
 
-## [Integration Notes (Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#integration-notes-important)
+## Integration Notes (Important)
 
 
 * This practice is **especially effective** when motivation weakens
@@ -313,7 +313,7 @@ Remain still for a few moments before moving.
 
 ---
 
-## [One-Line Essence (to remember during daily life)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#one-line-essence-to-remember-during-daily-life)
+## One-Line Essence (to remember during daily life)
 
 
 > **“Fierce compassion protects what comfort would destroy.”**

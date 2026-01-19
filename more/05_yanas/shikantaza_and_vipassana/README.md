@@ -15,7 +15,7 @@ A useful mental model:
 
 ---
 
-## [1) Vipassanā (Theravāda insight) — “feature extraction + de-reification”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/shikantaza_and_vipassana/README.md#1-vipassanā-theravāda-insight--feature-extraction--de-reification)
+## 1) Vipassanā (Theravāda insight) — “feature extraction + de-reification”
 
 
 ### Object model
@@ -58,7 +58,7 @@ Stability comes from repeated cycles:
 
 ---
 
-## [2) Shikantaza (Zen “just sitting”) — “global awareness with minimal intervention”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/shikantaza_and_vipassana/README.md#2-shikantaza-zen-just-sitting--global-awareness-with-minimal-intervention)
+## 2) Shikantaza (Zen “just sitting”) — “global awareness with minimal intervention”
 
 
 ### Object model
@@ -105,7 +105,7 @@ Repeatedly returning to **non-interference** rewires attention:
 
 ---
 
-## [3) Mahāmudrā (Kagyu/Sakya, etc.) — “object-to-awareness pivot (nondual shamatha/insight)”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/shikantaza_and_vipassana/README.md#3-mahāmudrā-kagyusakya-etc--object-to-awareness-pivot-nondual-shamathainsight)
+## 3) Mahāmudrā (Kagyu/Sakya, etc.) — “object-to-awareness pivot (nondual shamatha/insight)”
 
 
 [Mahāmudrā](../../04_kayas/mahamudra_and_dzogcsen/README.md#mahāmudrā-nature-of-mind-སེམས་ཀྱི་གནས་ལུགས་) usually has two phases (or two “modes”):
@@ -163,7 +163,7 @@ You train “nondual stability”:
 
 ---
 
-## [4) Dzogchen (Nyingma, etc.) — “recognition of rigpa + self-liberation (no fabrication)”](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/shikantaza_and_vipassana/README.md#4-dzogchen-nyingma-etc--recognition-of-rigpa--self-liberation-no-fabrication)
+## 4) Dzogchen (Nyingma, etc.) — “recognition of rigpa + self-liberation (no fabrication)”
 
 
 [Dzogchen](../../04_kayas/mahamudra_and_dzogcsen/README.md#dzogchen-rigpa-རིག་པ་---direct-introduction) is more “recognition-first” (ideally via *direct introduction*), then stabilization.
@@ -212,7 +212,7 @@ Stability means:
 
 ---
 
-## [The attention-mechanics map (at a glance)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/shikantaza_and_vipassana/README.md#the-attention-mechanics-map-at-a-glance)
+## The attention-mechanics map (at a glance)
 
 
 | Practice   |            Selectivity | Effort style           | Primary move                       | “Unit” of progress                  |
@@ -224,7 +224,7 @@ Stability means:
 
 ---
 
-## [The four “gotchas” (most common mis-implementations)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/shikantaza_and_vipassana/README.md#the-four-gotchas-most-common-mis-implementations)
+## The four “gotchas” (most common mis-implementations)
 
 
 1. **Vipassanā → narration**
@@ -245,7 +245,7 @@ Stability means:
 
 ---
 
-## [A practical way to self-diagnose (attention signals)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/05_yanas/shikantaza_and_vipassana/README.md#a-practical-way-to-self-diagnose-attention-signals)
+## A practical way to self-diagnose (attention signals)
 
 
 When you’re “doing it right,” you typically see:

@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [**A Buddhist Teaching: Marpa the Translator — The Dharma That Refuses to Be Softened**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened)
+## **A Buddhist Teaching: Marpa the Translator — The Dharma That Refuses to Be Softened**
 
 
 ### **1. The Problem This Teaching Addresses**
@@ -132,7 +132,7 @@ It is a teaching for those who want the real thing.
 <details>
 <summary>Meditation</summary>
 
-## [**Meditation Practice: Marpa the Translator — Integrity of Transmission**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/10_marpa/README.md#meditation-practice-marpa-the-translator--integrity-of-transmission)
+## **Meditation Practice: Marpa the Translator — Integrity of Transmission**
 
 
 **Purpose**
@@ -221,7 +221,7 @@ Let the practice end **without emotional closure**—clean, unfinished, real.
 
 ---
 
-## [**Practice Notes & Integration**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/10_marpa/README.md#practice-notes--integration)
+## **Practice Notes & Integration**
 
 
 * This meditation pairs well with **ethical discipline** and **long-term commitment**.

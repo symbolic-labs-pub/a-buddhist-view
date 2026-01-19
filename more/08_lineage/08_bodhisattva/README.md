@@ -5,17 +5,17 @@
 <details>
 <summary>Teaching</summary>
 
-# [The Bodhisattva Path](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#the-bodhisattva-path)
+# The Bodhisattva Path
 
 
-## [Awakening Is Not Private](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#awakening-is-not-private)
+## Awakening Is Not Private
 
 
 ### A Teaching on Awakening-in-Relation
 
 ---
 
-## [1. The Core Reversal](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#1-the-core-reversal)
+## 1. The Core Reversal
 
 
 Ordinary thinking assumes:
@@ -34,7 +34,7 @@ Where self-clinging remains, awakening is incomplete.
 
 ---
 
-## [2. Why Enlightenment Cannot Be Private](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#2-why-enlightenment-cannot-be-private)
+## 2. Why Enlightenment Cannot Be Private
 
 
 From the Buddhist view:
@@ -51,7 +51,7 @@ To awaken while excluding others would be like trying to breathe while denying a
 
 ---
 
-## [3. Wisdom and Compassion: Not Two Things](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#3-wisdom-and-compassion-not-two-things)
+## 3. Wisdom and Compassion: Not Two Things
 
 
 In early practice, wisdom and compassion appear distinct:
@@ -71,7 +71,7 @@ Thus, compassion is **emptiness in action**.
 
 ---
 
-## [4. The Bodhisattva Vow as Structural Alignment](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#4-the-bodhisattva-vow-as-structural-alignment)
+## 4. The Bodhisattva Vow as Structural Alignment
 
 
 The vow is often misunderstood as a promise to *save all beings*.
@@ -90,7 +90,7 @@ It is a **direction**, not a finish line.
 
 ---
 
-## [5. Awakening in Motion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#5-awakening-in-motion)
+## 5. Awakening in Motion
 
 
 A Buddha represents **complete realization at rest**.
@@ -118,7 +118,7 @@ It is a **way of functioning**.
 
 ---
 
-## [6. The Ethical Consequence](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#6-the-ethical-consequence)
+## 6. The Ethical Consequence
 
 
 Because awakening is relational:
@@ -143,7 +143,7 @@ This is why morality precedes, supports, and expresses realization.
 
 ---
 
-## [7. The Silent Criterion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#7-the-silent-criterion)
+## 7. The Silent Criterion
 
 
 A simple test reveals bodhisattva alignment:
@@ -168,7 +168,7 @@ It **inhabits it intelligently**.
 
 ---
 
-## [8. Final Pointing](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#8-final-pointing)
+## 8. Final Pointing
 
 
 The bodhisattva is not a saint, savior, or hero.
@@ -203,7 +203,7 @@ This is the **bodhisattva teaching**.
 <details>
 <summary>Meditation</summary>
 
-## [Bodhisattva Meditation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#bodhisattva-meditation)
+## Bodhisattva Meditation
 
 
 ### *Awakening-in-Relation Practice*
@@ -218,7 +218,7 @@ It is a **training in orientation**.
 
 ---
 
-## [1. Preparation — Establish the Ground](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#1-preparation--establish-the-ground)
+## 1. Preparation — Establish the Ground
 
 
 Sit comfortably. Spine upright, body relaxed.
@@ -233,7 +233,7 @@ Let it land as a **structural fact**.
 
 ---
 
-## [2. Opening Contemplation — The Bodhisattva Vow](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#2-opening-contemplation--the-bodhisattva-vow)
+## 2. Opening Contemplation — The Bodhisattva Vow
 
 
 Silently reflect:
@@ -253,7 +253,7 @@ This intention is the **axis** of the meditation.
 
 ---
 
-## [3. Core Practice — Co-Arising of Wisdom and Compassion](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#3-core-practice--co-arising-of-wisdom-and-compassion)
+## 3. Core Practice — Co-Arising of Wisdom and Compassion
 
 
 ### Phase A: Wisdom (Seeing Clearly)
@@ -314,7 +314,7 @@ This is the **bodhisattva mode**:
 
 ---
 
-## [4. Working with Obstacles](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#4-working-with-obstacles)
+## 4. Working with Obstacles
 
 
 If pride arises:
@@ -339,7 +339,7 @@ Obstacles are **diagnostics**, not failures.
 
 ---
 
-## [5. Dedication — Sealing the Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#5-dedication--sealing-the-practice)
+## 5. Dedication — Sealing the Practice
 
 
 Conclude with dedication:
@@ -352,7 +352,7 @@ Dedication **stabilizes causality**.
 
 ---
 
-## [6. Off-Cushion Continuation — The Real Practice](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#6-off-cushion-continuation--the-real-practice)
+## 6. Off-Cushion Continuation — The Real Practice
 
 
 The bodhisattva vow lives **outside meditation**.
@@ -375,7 +375,7 @@ Just **consistent orientation**.
 
 ---
 
-## [Key Insight to Carry](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/08_bodhisattva/README.md#key-insight-to-carry)
+## Key Insight to Carry
 
 
 > A bodhisattva is not someone who saves the world.

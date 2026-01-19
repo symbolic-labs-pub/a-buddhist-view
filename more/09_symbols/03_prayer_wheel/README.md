@@ -8,7 +8,7 @@ The **prayer wheel** (*mani wheel*) is not a shortcut, superstition, or mechanic
 
 ---
 
-## [1. What the Prayer Wheel Really Represents](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/03_prayer_wheel/README.md#1-what-the-prayer-wheel-really-represents)
+## 1. What the Prayer Wheel Really Represents
 
 
 At its core, the prayer wheel embodies **[dependent origination](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#the-twelve-links-the-classic-formulation) in action**.
@@ -27,7 +27,7 @@ This unifies the **Three Gates** (body, speech, mind), which is the **entire pat
 
 ---
 
-## [2. Why Clockwise Rotation Matters](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/03_prayer_wheel/README.md#2-why-clockwise-rotation-matters)
+## 2. Why Clockwise Rotation Matters
 
 
 Clockwise movement is not arbitrary.
@@ -44,7 +44,7 @@ So clockwise turning is an **act of harmony with [Dharma](../../01_core_teaching
 
 ---
 
-## [3. “Each Turn Equals a Recitation” — What This Really Means](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/03_prayer_wheel/README.md#3-each-turn-equals-a-recitation--what-this-really-means)
+## 3. “Each Turn Equals a Recitation” — What This Really Means
 
 
 This does **not** mean mechanical merit accumulation.
@@ -61,7 +61,7 @@ A distracted person reciting 1,000 mantras gains less clarity than a focused per
 
 ---
 
-## [4. The Deeper Purpose: Training Non-Fragmentation](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/03_prayer_wheel/README.md#4-the-deeper-purpose-training-non-fragmentation)
+## 4. The Deeper Purpose: Training Non-Fragmentation
 
 
 The prayer wheel trains something subtle but critical:
@@ -86,7 +86,7 @@ This is why prayer wheels appear **on paths, walls, bridges, and villages**—th
 
 ---
 
-## [5. Why Speed Is Discouraged](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/03_prayer_wheel/README.md#5-why-speed-is-discouraged)
+## 5. Why Speed Is Discouraged
 
 
 Fast spinning driven by ego (“more turns = more merit”) **misses the point**.
@@ -107,7 +107,7 @@ In Vajrayāna, **quality of mind defines the result**, not the quantity of motio
 
 ---
 
-## [6. What the Prayer Wheel Is *Not*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/03_prayer_wheel/README.md#6-what-the-prayer-wheel-is-not)
+## 6. What the Prayer Wheel Is *Not*
 
 
 It is **not**:
@@ -127,7 +127,7 @@ With awareness, it becomes **practice-in-motion**.
 
 ---
 
-## [7. The Essential Teaching in One Line](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/03_prayer_wheel/README.md#7-the-essential-teaching-in-one-line)
+## 7. The Essential Teaching in One Line
 
 
 > The prayer wheel teaches that awakening is not something you stop life to do—

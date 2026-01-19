@@ -5,7 +5,7 @@
 <details>
 <summary>Teaching</summary>
 
-## [**A Kagyü Teaching on Green Tārā:](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/02_green_tara/README.md#a-kagyü-teaching-on-green-tārā)
+## **A Kagyü Teaching on Green Tārā:
 
 
 Compassion That Does Not Hesitate**
@@ -153,7 +153,7 @@ This is awakened activity in ordinary life.
 
 ---
 
-## [**Closing Instruction**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/02_green_tara/README.md#closing-instruction)
+## **Closing Instruction**
 
 
 Do not wait for fear to disappear before acting.
@@ -172,7 +172,7 @@ This is the living teaching of Green Tārā.
 <details>
 <summary>Meditation</summary>
 
-## [**Green Tārā: Meditation of Immediate Compassionate Action**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/02_green_tara/README.md#green-tārā-meditation-of-immediate-compassionate-action)
+## **Green Tārā: Meditation of Immediate Compassionate Action**
 
 
 *(Training fearlessness, clarity, and readiness to act)*
@@ -303,7 +303,7 @@ Silently dedicate:
 
 ---
 
-## [Practice Notes (Important)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/02_green_tara/README.md#practice-notes-important)
+## Practice Notes (Important)
 
 
 * This is **not a calming meditation** — it is a **functional one**
@@ -316,7 +316,7 @@ Silently dedicate:
 
 ---
 
-## [Essence Summary](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/02_green_tara/README.md#essence-summary)
+## Essence Summary
 
 
 Green Tārā practice trains this capacity:
