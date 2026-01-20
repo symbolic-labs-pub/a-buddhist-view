@@ -101,19 +101,6 @@ The number depends on tradition.
 > Wisdom without [compassion](../02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching) is incomplete.
 > Compassion without wisdom is blind.
 
-### Expanded Lists (Context)
-
-* **Theravāda** tradition often speaks of **10 pāramīs**.
-* Some Mahāyāna sources add:
-
-  * **Skillful Means (Upāya)**
-  * **Aspiration (Praṇidhāna)**
-  * **Power (Bala)**
-  * **Knowledge (Jñāna)**
-
-> Wisdom without compassion is incomplete.
-> Compassion without wisdom is blind.
-
 ---
 
 ## [4. The Noble Eightfold Path](the_noble_eightfold_path/README.md)
