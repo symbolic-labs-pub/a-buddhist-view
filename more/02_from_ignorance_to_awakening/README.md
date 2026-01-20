@@ -2,7 +2,6 @@
 ## 1. The Three Marks of Existence
 
 [![from_ignorance_to_awakening](from_ignorance_to_awakening.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#1-the-three-marks-of-existence)
-*(Often taught together; you already touched the first)*
 
 All conditioned phenomena share three characteristics:
 
