@@ -37,7 +37,7 @@ Thus impermanence is **not something that happens to things**
 
 ---
 
-### 3. Impermanence at all scales (Buddhist view)
+### 3. Impermanence at all scales
 
 **Physical**
 
