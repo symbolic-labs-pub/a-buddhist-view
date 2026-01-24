@@ -639,8 +639,6 @@ Green Tārā practice trains this capacity:
 
 
 
----
-
 < [White Tārā Meditation](../01_white_tara/README.md) | [Mahākāla Protector Invocation](../03_mahakala/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_

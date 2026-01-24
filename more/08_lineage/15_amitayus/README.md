@@ -441,9 +441,6 @@ He **removes what shortens them**.
 ---
 
 
-
----
-
 < [**Amitābha** — according to Buddhist teachings](../14_amitabha/README.md) | [**Vairocana** — the Buddha of **Universal Illumination**](../16_vairocana/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_

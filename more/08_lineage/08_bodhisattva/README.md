@@ -749,9 +749,6 @@ This is **awakening in motion**.
 
 
 
-
----
-
 < [Kalu Rinpoche](../07_kalu_rinpoche/README.md) | [**A Buddhist Teaching: Milarepa and the Law of Irreversible Transformation**](../09_milarepa/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_

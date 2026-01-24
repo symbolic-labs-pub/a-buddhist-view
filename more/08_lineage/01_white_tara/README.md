@@ -135,8 +135,6 @@ To exhaust, rush, or destabilize beings in the name of progress is **anti-compas
 
 </details>
 
----
-
 
 ---
 
@@ -268,7 +266,12 @@ To exhaust, rush, or destabilize beings in the name of progress is **anti-compas
 >
 > This is the activity of White Tārā.
 
+</details>
+
 ---
+
+<details>
+<summary>Meditation</summary>
 
 # White Tārā Meditation
 
@@ -443,197 +446,8 @@ She is **care that prevents collapse**.
 
 ---
 
-<details>
-<summary>[Meditation](../README.md)</summary>
 
-# White Tārā Meditation
 
-
-> ⚠️ **Note on scope**
-> What follows is a **non-empowerment contemplative form** (a *practice of meaning*).
-> It does **not** replace lineage transmission (*wang, lung, tri*).
-> Its function is **stabilization, aspiration, and causal alignment**, not tantric authorization.
-
----
-
-
-**Compassion as the Condition for Awakening**
-
-This is not a visualization to escape life.
-It is a way of **stabilizing the conditions that allow awakening to continue**.
-
----
-
-## 1. Preparation — Settling the Field (2–3 minutes)
-
-
-Sit comfortably, spine upright but soft.
-Let the breath fall into its **natural rhythm**.
-
-Bring attention to the body as a **living system**:
-
-* Weight supported by the ground
-* Breath nourishing without effort
-* Mind allowed to arrive gradually
-
-Silently acknowledge:
-
-> *“I am not here to force insight.
-> I am here to sustain what allows insight to arise.”*
-
-This intention aligns the practice with White Tārā’s function.
-
----
-
-## 2. Generation — Presence of White Tārā (5–7 minutes)
-
-
-Visualize **White Tārā** appearing **in front of you or above your crown**, formed of **luminous white light**—clear, cool, and alive.
-
-Key features (held gently, not rigidly):
-
-* **Seven eyes**
-
-  * Two eyes of the face
-  * One eye at the brow
-  * One in each palm
-  * One in each sole
-
-These eyes **do not judge**.
-They *recognize conditions*.
-
-Her posture is relaxed, **one leg slightly extended**, indicating readiness to act without urgency.
-
-Let her gaze rest on you with **unconditional attentiveness**—as a physician watches a patient, or a gardener watches soil.
-
----
-
-## 3. Healing Light — Sustaining Life and Practice (8–12 minutes)
-
-
-From White Tārā’s heart, a **soft white nectar-light** flows.
-
-It enters:
-
-* The crown of your head
-* The throat
-* The heart
-* The abdomen
-* The entire nervous system
-
-This light does **three things simultaneously**:
-
-1. **Heals** what is strained, injured, or depleted
-2. **Stabilizes** breath, attention, and emotional tone
-3. **Extends continuity**—of life, health, and practice
-
-You are not “fixed.”
-You are **supported**.
-
-If the mind wanders, return not with force, but with the attitude:
-
-> *“Even distraction is something being cared for.”*
-
----
-
-## 4. Mantra (Optional but Traditional) — Rhythmic Continuity (5–10 minutes)
-
-
-If [mantra](../../09_symbols/10_mantra/README.md#what-a-mantra-is-buddhist-view) is appropriate for you, recite silently or aloud:
-
-**OM TĀRE TUTTĀRE TURE MAMĀ AYUR PUṆYE JÑĀNA PUṢṬIṂ KURU YE SVAHĀ**
-
-Meaning (felt, not analyzed):
-
-> *“May life, virtue, wisdom, and nourishment increase.”*
-
-Let the mantra ride the breath naturally—
-not to produce trance, but to **entrain steadiness**.
-
----
-
-## 5. Dissolution — Care Becomes Innate (3–5 minutes)
-
-
-White Tārā slowly dissolves into **light**, which then dissolves into **your own heart**.
-
-Rest without imagery.
-
-Notice:
-
-* Breath still breathing
-* Body still alive
-* Awareness still present
-
-Recognize:
-
-> *Compassion is not outside me.*
-> *It is the condition in which clarity survives.*
-
-Remain here briefly.
-
----
-
-## 6. Dedication — Extending the Field
-
-
-Conclude with a simple dedication:
-
-> *“May this stability support awakening
-> wherever conditions are fragile.”*
-
-Do not dramatize.
-Dedication is **continuity extended outward**.
-
----
-
-## How to Work With This Practice
-
-
-**When to use it**
-
-* During illness or exhaustion
-* When practice feels brittle or forced
-* When insight is present but unstable
-
-**What it cultivates**
-
-* Nervous-system safety
-* Long-view patience
-* Compassion without urgency
-
-**Common mistake**
-
-* Trying to *extract* insight
-  White Tārā teaches **maintenance**, not extraction.
-
----
-
-## Advanced Integration (Kagyü-style)
-
-
-* Pair this practice with **Mahamudra resting** afterward
-* Use it before sleep to stabilize subtle wind (lung)
-* Practice it **even when you feel well**—that is its deepest function
-
----
-
-### Core Insight
-
-White Tārā is not mercy in response to failure.
-She is **care that prevents collapse**.
-
-Awakening does not only require insight.
-It requires **conditions that last**.
-
-</details>
-
----
-
-
-
-
----
 
 < [Core Orientation of the Kagyu School](../../07_history/README.md) | [**A Kagyü Teaching on Green Tārā: Compassion That Does Not Hesitate**](../02_green_tara/README.md) >
 

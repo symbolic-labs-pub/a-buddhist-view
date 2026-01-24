@@ -115,9 +115,6 @@ This is the teaching of Vajrasattva:
 
 ---
 
-
----
-
 <details open>
 <summary>Explanation</summary>
 
@@ -205,3 +202,222 @@ Without purification, higher realization becomes unstable.
 ### 8. In one sentence
 
 **Vajrasattva teaches that the mind is originally pure, and practice removes obscurations rather than adding anything new.**
+
+</details>
+
+---
+
+<details>
+<summary>Meditation</summary>
+
+## Vajrasattva Meditation
+
+
+> ⚠️ **Note on scope**
+> What follows is a **non-empowerment contemplative form** (a *practice of meaning*).
+> It does **not** replace lineage transmission (*wang, lung, tri*).
+> Its function is **stabilization, aspiration, and causal alignment**, not tantric authorization.
+
+---
+
+
+*(Purification of obscurations & restoration of samaya)*
+
+### Purpose (Why this practice exists)
+
+Vajrasattva practice is used to:
+
+* Purify **negative karma** (actions, speech, and thoughts)
+* Purify **mental obscurations** (ignorance, fixation, emotional patterns)
+* Repair **broken samaya** (tantric commitments)
+* Reconnect awareness with its **primordially pure nature**
+
+In Vajrayāna, purification is **not moralistic**.
+It is the *recognition that impurity was never intrinsic*.
+
+---
+
+## Preconditions (Traditional framing)
+
+Ideally, this practice is received after:
+
+* Refuge and Bodhicitta
+* Oral transmission (*lung*) of the mantra
+  However, **non-initiated practitioners** may still practice **visualization + mantra with humility**, focusing on purification and compassion rather than deity-identity.
+
+---
+
+## Structure of the Practice (Four-Part Architecture)
+
+1. **Refuge & Bodhicitta**
+2. **Visualization**
+3. **Mantra Recitation**
+4. **Dissolution into Emptiness**
+
+This mirrors the **Four Opponent Powers**, a key Vajrayāna purification framework:
+
+* Support
+* Regret
+* Remedy
+* Resolve
+
+---
+
+## 1. Refuge & Bodhicitta
+
+Sit comfortably. Spine upright, breath natural.
+
+Silently or aloud:
+
+> *I take refuge in the Buddha, Dharma, and Sangha.*
+> *For the benefit of all sentient beings,*
+> *I engage in this practice to purify obscurations*
+> *and awaken fully for the welfare of all.*
+
+Pause. Let intention settle—not as thought, but as orientation.
+
+---
+
+## 2. Visualization
+
+Above the crown of your head, about one forearm’s length away, visualize **Vajrasattva**:
+
+* **Brilliant white**, luminous like clear crystal
+* Youthful, peaceful, compassionate
+* Seated in vajra posture on a moon disc and lotus
+* Right hand holds a **vajra** at the heart
+* Left hand holds a **bell** at the hip
+* Adorned with silks and jewels (symbol of awakened qualities)
+* At his heart: a **moon disc**, with a **seed syllable HŪṂ**
+
+He is **not external** in the ordinary sense—
+He is the **pure nature of your own mind**, appearing in form.
+
+Above Vajrasattva’s head, visualize a lineage of awakened teachers if that is meaningful to you; otherwise, keep the visualization simple and stable.
+
+---
+
+## 3. Confession & Regret (Non-Judgmental)
+
+From the heart, acknowledge:
+
+> *Through ignorance and habit, I have created harmful actions,*
+> *spoken harmful words, and entertained confused thoughts.*
+> *I acknowledge them openly, without denial and without shame.*
+
+Important:
+This is **clarity**, not guilt.
+Regret means *recognition*, not self-attack.
+
+---
+
+## 4. Mantra Recitation (The Purification Engine)
+
+From the **HŪṂ** at Vajrasattva’s heart, a stream of **white nectar-light** flows:
+
+* Enters through the crown of your head
+* Fills your body completely
+* Washes away all obscurations:
+
+  * Illness, emotional residues, karmic imprints
+* They exit as **dark smoke or liquid**, dissolving into emptiness below
+
+Recite slowly, clearly, or mentally:
+
+### The Hundred-Syllable Mantra (Sanskrit – standard form)
+
+> **Oṁ Vajrasattva Samaya
+> Manupālaya
+> Vajrasattva Tvenopatiṣṭha
+> Dṛḍho Me Bhava
+> Sutoṣyo Me Bhava
+> Supoṣyo Me Bhava
+> Anurakto Me Bhava
+> Sarva Siddhiṁ Me Prayaccha
+> Sarva Karma Su Ca Me
+> Cittaṁ Śreyaḥ Kuru Hūṁ
+> Ha Ha Ha Ha Hoḥ
+> Bhagavan Sarva Tathāgata
+> Vajra Mā Me Muñca
+> Vajrī Bhava Mahā Samaya Sattva Āḥ**
+
+You may recite:
+
+* 21 times (minimum)
+* 108 times (traditional)
+* Or continuously for a set period
+
+If this mantra is too long, the **short mantra** is also widely used:
+
+> **Oṁ Vajrasattva Hūṁ**
+
+---
+
+## 5. Resolution
+
+After recitation, gently form the resolve:
+
+> *As much as I am able,*
+> *I will refrain from repeating these harmful patterns,*
+> *and cultivate clarity, compassion, and wisdom.*
+
+No perfectionism. Just sincerity.
+
+---
+
+## 6. Dissolution into Emptiness (Critical Step)
+
+Vajrasattva smiles.
+
+* He dissolves into **light**
+* The light descends through your crown
+* Dissolves into your heart
+* **No deity remains**
+* No subject, no object
+* Just **clear, open awareness**
+
+Rest here.
+
+This is the **actual purification**.
+
+---
+
+## 7. Dedication
+
+> *May the merit of this practice*
+> *Benefit all sentient beings,*
+> *Removing suffering and its causes,*
+> *And establishing all in awakening.*
+
+---
+
+## Key Clarifications (Often Misunderstood)
+
+* **Vajrasattva is not “forgiving you”**
+  → Purification occurs through *recognition of primordial purity*
+
+* **Mantra is not magical sound alone**
+  → It works through *body, speech, and mind alignment*
+
+* **Visualization quality matters less than sincerity**
+  → Stability > vividness
+
+---
+
+## Practical Advice (Modern, realistic)
+
+* 10–15 minutes daily is powerful
+* Best practiced **before sleep** or **after emotional turbulence**
+* If emotions arise → let purification imagery *continue through them*
+* Avoid turning this into self-criticism
+
+</details>
+
+
+---
+
+< [Six Armed Mahakala](../12_six_armed_mahakala/README.md) | [Amitabha](../14_amitabha/README.md) >
+
+_source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
+
+---

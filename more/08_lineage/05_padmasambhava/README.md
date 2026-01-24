@@ -555,9 +555,6 @@ he is **activated**.
 
 
 
-
----
-
 < [The Teaching of Infinite Responsiveness](../04_avalokitesvara/README.md) | [Medicine Buddha](../06_medicine_buddha/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_

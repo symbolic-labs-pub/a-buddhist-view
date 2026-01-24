@@ -607,8 +607,6 @@ Milarepa teaches:
 
 
 
----
-
 < [The Bodhisattva Path](../08_bodhisattva/README.md) | [**A Buddhist Teaching: Marpa the Translator — The Dharma That Refuses to Be Softened**](../10_marpa/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
