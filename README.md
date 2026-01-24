@@ -73,7 +73,7 @@ Meditation is what turns the key.
 
 ## The Community: Our Friends on the Way (Sangha)
 
-Buddhist meditation practices are widely available today, but the most effective way to begin is surprisingly simple: find a nearby Buddhist Center and join a few guided meditation sessions.
+Buddhist meditation practices are widely available today, but the most effective way to begin is surprisingly simple: find a nearby Buddhist center or community and join a few guided meditation sessions.
 
 If you experience positive change, you’ll naturally continue.
 If not, another community or tradition may suit you better.

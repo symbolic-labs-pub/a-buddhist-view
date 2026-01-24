@@ -2,9 +2,9 @@
 
 [![ngondro.png](ngondro.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/11_ngondro/README.md#the-preliminary-practices-ngöndro)
 
-> At this point you've arrived to a serious teaching, requiring lots of practice. If you consider to proceed with the preliminary practices and still not contacted a local Buddhist Center or community yet, please do it now. 
+> At this point you've arrived to a serious teaching, requiring lots of practice. If you consider to proceed with the preliminary practices and still not contacted a local Buddhist center or community yet, please do it now. 
 > 
-> Sangha is essential here, learn from them and together with them how to practice Ngöndro. Don't aim for numbers like 100.000+, that's for monks, aim for something reasonable in your life.
+> Sangha is essential here, learn from them, together with them how to practice Ngöndro. Don't aim for numbers like 100.000+, that's for monks, aim for something reasonable in your life.
 >
 > For those beginning this practice, it is highly recommended to receive a formal reading transmission (lung) and specific instructions from a qualified teacher.  
 

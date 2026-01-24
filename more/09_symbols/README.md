@@ -87,7 +87,7 @@ As flags fade, the **ego dissolves**—the blessing remains.
 ## [5. Stupa](05_stupa/README.md)
 
 
-[![stupa_small](05_stupa/stupa_small.png)](05_stupa/README.md#1-what-a-stupa-is-beyond-architecture) (Why Clockwise Circumambulation)
+[![stupa_small](05_stupa/stupa_small.png)](05_stupa/README.md#1-what-a-stupa-is-beyond-architecture)
 
 
 
