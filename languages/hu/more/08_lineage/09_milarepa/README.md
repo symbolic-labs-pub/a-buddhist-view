@@ -155,7 +155,7 @@ Milarepa **a remény megtestesítője**: **bárki, bárhonnan, bármilyen múltt
 
 ---
 
-< [Karma Pakshi — A Második Karmapa](../08_karma_pakshi/README.md) | [Mahasiddhák — A Megvalósított Mesterek](../10_mahasiddhas/README.md) >
+< [Bodhisattva – Az Ébredés-Mindenkiért Fogadalma](../08_bodhisattva/README.md) | [Marpa a Fordító — Az Autentikus Átvitel Birtokosa](../10_marpa/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
