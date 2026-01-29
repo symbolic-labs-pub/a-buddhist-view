@@ -1,6 +1,6 @@
 ## [Awakening Is Not Private](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/08_bodhisattva/README.md#awakening-is-not-private)
 
-[![bodhisattva.png](../../../more/08_lineage/08_bodhisattva/bodhisattva.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/08_bodhisattva/README.md#awakening-is-not-private)
+[![bodhisattva.png](../../../../../more/08_lineage/08_bodhisattva/bodhisattva.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/08_bodhisattva/README.md#awakening-is-not-private)
 
 <details>
 <summary>Tanítás</summary>
@@ -749,7 +749,7 @@ This is **awakening in motion**.
 
 
 
-< [Kalu Rinpoche](../07_kalu_rinpoche/README.md) | [**A Buddhist Teaching: Milarepa and the Law of Irreversible Transformation**](../09_milarepa/README.md) >
+< [Kalu Rinpoche](../07_kalu_rinpoche/README.md) | [**Buddhista Tanítás: Milarepa és a Visszafordíthatatlan Átalakulás Törvénye**](../09_milarepa/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

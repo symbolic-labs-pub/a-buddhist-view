@@ -1,6 +1,6 @@
 ## [Amitāyus — The Buddha of Boundless Life](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
 
-[![amitayus](../../../more/08_lineage/15_amitayus/amitayus.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
+[![amitayus](../../../../../more/08_lineage/15_amitayus/amitayus.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
 
 <details>
 <summary>Tanítás</summary>
@@ -441,7 +441,7 @@ He **removes what shortens them**.
 ---
 
 
-< [**Amitābha** — according to Buddhist teachings](../14_amitabha/README.md) | [**Vairocana** — the Buddha of **Universal Illumination**](../16_vairocana/README.md) >
+< [**Amitābha** — a buddhista tanítások szerint](../14_amitabha/README.md) | [**Vairócana** — az **Egyetemes Megvilágosodás** Buddhája](../16_vairocana/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

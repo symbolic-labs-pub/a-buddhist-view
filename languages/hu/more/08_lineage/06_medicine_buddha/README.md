@@ -1,6 +1,6 @@
 ## [Medicine Buddha](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/06_medicine_buddha/README.md#a-buddhist-teaching)
 
-[![medicine_buddha.png](../../../more/08_lineage/06_medicine_buddha/medicine_buddha.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/06_medicine_buddha/README.md#a-buddhist-teaching)
+[![medicine_buddha.png](../../../../../more/08_lineage/06_medicine_buddha/medicine_buddha.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/06_medicine_buddha/README.md#a-buddhist-teaching)
 
 <details>
 <summary>Tanítás</summary>

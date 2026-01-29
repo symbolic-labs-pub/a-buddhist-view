@@ -133,9 +133,9 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 | Stage      | Kāya             | What is realized       |
 | ---------- | ---------------- | ---------------------- |
-| Ground     | [**Dharmakāya**](#1-dharmakāya-→-ground-recognition)   | [Emptiness](../../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism)-[Tudatosság](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing)    |
-| Display    | [**Sambhogakāya**](#2-sambhogakāya-→-clarity-luminous-display) | Luminous clarity       |
-| Expression | [**Nirmāṇakāya**](#3-nirmāṇakāya-→-embodied-Együttérzés)  | [Compassionate](#3-nirmāṇakāya-→-embodied-Együttérzés) activity |
+| Ground     | [**Dharmakāya**](#1-dharmakāya-ground-recognition)   | [Emptiness](../../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism)-[Tudatosság](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing)    |
+| Display    | [**Sambhogakāya**](#2-sambhogakāya-clarity-luminous-display) | Luminous clarity       |
+| Expression | [**Nirmāṇakāya**](#3-nirmāṇakāya-embodied-együttérzés)  | [Compassionate](#3-nirmāṇakāya-embodied-együttérzés) activity |
 
 They are **simultaneous**, but **recognized progressively**.
 
@@ -182,7 +182,7 @@ If any is missing, realization is incomplete.
 
 ---
 
-< [A Tanítás on A Három Test of Awakening](../README.md) | [What is a Yāna?](../../05_yanas/README.md) >
+< [A Három Kāya (Trikāya)](../README.md) | [Mi az a Yāna?](../../05_yanas/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

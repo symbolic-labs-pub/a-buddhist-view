@@ -490,7 +490,7 @@ Train there.
 
 ---
 
-< [1) How they *structure* the path](../05_yanas/zen_and_theravada/README.md) | [Core Orientation of the Kagyu School](../07_history/README.md) >
+< [1) Hogyan *strukturálják* az utat](../05_yanas/zen_and_theravada/README.md) | [A Kagyü Iskola Alapvető Orientációja](../07_history/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

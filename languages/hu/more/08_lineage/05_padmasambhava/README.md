@@ -1,6 +1,6 @@
 ## [Buddhist Teaching: **Awakening as Skillful Adaptation**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
 
-[![padmasambhava.png](../../../more/08_lineage/05_padmasambhava/padmasambhava.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
+[![padmasambhava.png](../../../../../more/08_lineage/05_padmasambhava/padmasambhava.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
 
 <details>
 <summary>Tanítás</summary>
@@ -555,7 +555,7 @@ he is **activated**.
 
 
 
-< [The Teaching of Infinite Responsiveness](../04_avalokitesvara/README.md) | [Medicine Buddha](../06_medicine_buddha/README.md) >
+< [A Végtelen Reagálás Tanítása](../04_avalokitesvara/README.md) | [Gyógyító Buddha](../06_medicine_buddha/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

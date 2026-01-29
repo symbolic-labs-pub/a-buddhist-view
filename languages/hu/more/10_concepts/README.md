@@ -200,7 +200,7 @@ True realization:
 
 ---
 
-< [Emptiness (Śūnyatā) in Vajrayāna Buddhism](01_emptiness/README.md) | [The First Ngöndro Gyakorlat](../11_ngondro/1_prostrations/README.md) >
+< [Üresség (Śūnyatā) a Vadzsrajāna Buddhizmusban](01_emptiness/README.md) | [Az Első Ngöndro Gyakorlat](../11_ngondro/1_prostrations/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

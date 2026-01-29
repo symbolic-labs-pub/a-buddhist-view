@@ -136,7 +136,7 @@ This is the real sign of progress.
 
 ---
 
-< [Fogalmak](../../10_concepts/README.md) | [2. Vajrasattva — Purification of Obscurations](../2_purification/README.md) >
+< [Fogalmak](../../10_concepts/README.md) | [2. Vadzsraszattva — A Homályosságok Tisztítása](../2_purification/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

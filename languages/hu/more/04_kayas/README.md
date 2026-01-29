@@ -568,7 +568,7 @@ This is how the Meditáció **enters life**.
 
 ---
 
-< [What “Ending Szenvedés” Actually Means](../03_the_path_to_end_suffering/README.md) | [1. Dharmakāya → *Ground Recognition*](mahamudra_and_dzogcsen/README.md) >
+< [Mit Jelent Valójában a "Szenvedés Megszüntetése"](../03_the_path_to_end_suffering/README.md) | [1. Dharmakāya → *Alap Felismerés*](mahamudra_and_dzogcsen/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

@@ -149,7 +149,7 @@ You train “nondual stability”:
 [Dzogchen](../../04_kayas/mahamudra_and_dzogcsen/README.md#dzogchen-rigpa-direct-introduction) is more “recognition-first” (ideally via *direct introduction*), then stabilization.
 
 ### Object model
-The target is [**rigpa**](#2-shikantaza-zen-"just-sitting"---"global-Tudatosság-with-minimal-intervention"): primordial, reflexive knowing (nondual, vivid, empty).
+The target is [**rigpa**](#2-shikantaza-zen-just-sitting-global-tudatosság-with-minimal-intervention): primordial, reflexive knowing (nondual, vivid, empty).
 Phenomena are the **display** of that knowing.
 
 ### Control loop (mechanics)
@@ -237,7 +237,7 @@ And when you’re off:
 
 ---
 
-< [What is a Yāna?](../README.md) | [1) How they *structure* the path](../zen_and_theravada/README.md) >
+< [Mi az a Yāna?](../README.md) | [1) Hogyan *strukturálják* az utat](../zen_and_theravada/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

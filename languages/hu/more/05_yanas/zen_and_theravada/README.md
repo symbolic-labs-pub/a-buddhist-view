@@ -107,7 +107,7 @@ A useful bridge conceptually:
 | -------------------- | -------------------------------------------- | ------------------------------ | -------------------------------------------------- |
 | [Ethics](../../01_core_teachings/the_noble_eightfold_path/README.md#2-etikus-magatartas-la)               | precepts, monastic vinaya                    | precepts + communal Gyakorlat   | vows (pratimoksha / [bodhisattva](../../08_lineage/08_bodhisattva/README.md#4-the-bodhisattva-vow-as-structural-alignment) / samaya)          |
 | [Concentration](../../01_core_teachings/the_noble_eightfold_path/README.md#8-helyes-koncentracio-samm-samdhi)        | jhāna / samatha                              | zazen stability                | shamatha + [deity yoga](../../03_the_path_to_end_suffering/README.md#helyes-cselekvés) stabilization                |
-| Insight              | [vipassanā](../shikantaza_and_vipassana/README.md#1-vipassan-theravda-insight-feature-extraction-de-reification) (anicca/dukkha/anattā)/[dukkha](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-van-szenvedés-dukkha)/[anattā](#3-view-emptiness-non-self-and-“suchness”-same-direction-different-dialects))             | direct seeing (kenshō), koan   | analytical insight + [emptiness](#emptiness-nothing-exists) reasoning           |
+| Insight              | [vipassanā](../shikantaza_and_vipassana/README.md#1-vipassan-theravda-insight-feature-extraction-de-reification) (anicca/dukkha/anattā)/[dukkha](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-van-szenvedés-dukkha)/[anattā](#3-view-emptiness-non-self-and-suchness-same-direction-different-dialects))             | direct seeing (kenshō), koan   | analytical insight + [emptiness](#emptiness-nothing-exists) reasoning           |
 | [Együttérzés](../../02_from_ignorance_to_awakening/7_compassion/README.md#az-együttérzés-mint-strukturális-elv-a-buddhista-tanításban) as method | present, but less central in “path identity” | present (bodhisattva ethos)    | central: **bodhicitta** is non-negotiable          |
 | Esoteric methods     | generally no                                 | generally no (rare exceptions) | yes: [mantra](../../09_symbols/10_mantra/README.md#mi-is-a-mantra-valójában-buddhista-nézet), deity yoga, subtle body, empowerments |
 
@@ -163,7 +163,7 @@ Think of them as three optimization strategies for the same objective function (
 
 ---
 
-< [Shared baseline: 3 knobs of attention](../shikantaza_and_vipassana/README.md) | [Intermediate States (*Bardo*) and Reincarnation](../../06_intermediate_states_and_reincarnation/README.md) >
+< [Közös alap: A figyelem 3 gombja](../shikantaza_and_vipassana/README.md) | [Köztes Állapotok (*Bardo*) és Újjászületés](../../06_intermediate_states_and_reincarnation/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

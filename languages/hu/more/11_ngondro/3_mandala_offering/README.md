@@ -148,7 +148,7 @@ Only **false claims of possession** are released.
 
 ---
 
-< [2. Vajrasattva — Purification of Obscurations](../2_purification/README.md) | [The Fourth Ngöndro Gyakorlat](../4_guru_yoga/README.md) >
+< [2. Vadzsraszattva — A Homályosságok Tisztítása](../2_purification/README.md) | [A Negyedik Ngöndro Gyakorlat](../4_guru_yoga/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

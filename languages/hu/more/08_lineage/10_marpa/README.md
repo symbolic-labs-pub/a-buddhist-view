@@ -1,6 +1,6 @@
 ## [**A Buddhist Teaching: Marpa the Translator — The Dharma That Refuses to Be Softened**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened)
 
-[![marpa.png](../../../more/08_lineage/10_marpa/marpa.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened)
+[![marpa.png](../../../../../more/08_lineage/10_marpa/marpa.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened)
 
 <details>
 <summary>Tanítás</summary>
@@ -469,7 +469,7 @@ Return to this practice whenever the path feels vague, sentimental, or self-serv
 
 
 
-< [**A Buddhist Teaching: Milarepa and the Law of Irreversible Transformation**](../09_milarepa/README.md) | [Vajradhara and the Teaching of Recognition](../11_vajradhara/README.md) >
+< [**Buddhista Tanítás: Milarepa és a Visszafordíthatatlan Átalakulás Törvénye**](../09_milarepa/README.md) | [Vadzsradhara és a Felismerés Tanítása](../11_vajradhara/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

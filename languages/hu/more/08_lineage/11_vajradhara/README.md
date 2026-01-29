@@ -1,6 +1,6 @@
 ## [Vajradhara and the Teaching of Recognition](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
 
-[![vajradhara.png](../../../more/08_lineage/11_vajradhara/vajradhara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
+[![vajradhara.png](../../../../../more/08_lineage/11_vajradhara/vajradhara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
 
 <details>
 <summary>Tanítás</summary>
@@ -554,7 +554,7 @@ Vajradhara is **recognized at the beginning**.
 
 ---
 
-< [**A Buddhist Teaching: Marpa the Translator — The Dharma That Refuses to Be Softened**](../10_marpa/README.md) | [The Teaching of the Wrathful Protector](../12_six_armed_mahakala/README.md) >
+< [**Buddhista Tanítás: Marpa a Fordító — A Dharma, Amely Nem Enged Lágyulást**](../10_marpa/README.md) | [A Haragvó Védelmező Tanítása](../12_six_armed_mahakala/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

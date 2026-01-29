@@ -1,6 +1,6 @@
 ## [**Vairocana** — the Buddha of **Universal Illumination**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/16_vairocana/README.md#vairocana--the-buddha-of-universal-illumination)
 
-[![vairocana](../../../more/08_lineage/16_vairocana/vairocana.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/16_vairocana/README.md#vairocana--the-buddha-of-universal-illumination)
+[![vairocana](../../../../../more/08_lineage/16_vairocana/vairocana.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/16_vairocana/README.md#vairocana--the-buddha-of-universal-illumination)
 
 <details>
 <summary>Tanítás</summary>
@@ -463,7 +463,7 @@ Silently conclude:
 
 ---
 
-< [Amitāyus — The Buddha of Boundless Life](../15_amitayus/README.md) | [White Tārā (Sitatārā) – The Mother of Longevity & Compassion](../README.md) >
+< [Amitāyus — A Határtalan Élet Buddhája](../15_amitayus/README.md) | [Fehér Tārā (Sitatārā) – A Hosszú Élet és Együttérzés Anyja](../README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

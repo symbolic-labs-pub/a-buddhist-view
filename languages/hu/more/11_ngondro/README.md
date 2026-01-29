@@ -127,7 +127,7 @@ Skipping it is like deploying a powerful optimizer on corrupted data.
 
 ---
 
-< [The Fourth Ngöndro Gyakorlat](4_guru_yoga/README.md) | [Gyakran Ismételt Kérdések](../80_faq/README.md) >
+< [A Negyedik Ngöndro Gyakorlat](4_guru_yoga/README.md) | [Gyakran Ismételt Kérdések](../80_faq/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

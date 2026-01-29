@@ -1,6 +1,6 @@
 ## [**Amitābha** — according to Buddhist teachings](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/14_amitabha/README.md#amitābha--according-to-buddhist-teachings)
 
-[![amitabha](../../../more/08_lineage/14_amitabha/amitabha.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/14_amitabha/README.md#amitābha--according-to-buddhist-teachings)
+[![amitabha](../../../../../more/08_lineage/14_amitabha/amitabha.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/14_amitabha/README.md#amitābha--according-to-buddhist-teachings)
 
 <details>
 <summary>Tanítás</summary>
@@ -418,7 +418,7 @@ This is why Pure Land has survived centuries—it **meets people where they actu
 
 ---
 
-< [Vajrasattva (Dorje Sempa)](../13_vajrasattva/README.md) | [Amitāyus — The Buddha of Boundless Life](../15_amitayus/README.md) >
+< [Vadzsraszattva (Dordzsé Szempa)](../13_vajrasattva/README.md) | [Amitāyus — A Határtalan Élet Buddhája](../15_amitayus/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

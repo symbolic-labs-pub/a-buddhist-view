@@ -1,6 +1,6 @@
 ## [Áldászsinór (Védőzsinór) — Buddhista Jelentés](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/01_blessing_cord/README.md#blessing-cord-protection-cord--buddhist-meaning)
 
-[![blessing_cord](blessing_cord.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/01_blessing_cord/README.md#blessing-cord-protection-cord--buddhist-meaning)
+[![blessing_cord](../../../../../more/09_symbols/01_blessing_cord/blessing_cord.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/01_blessing_cord/README.md#blessing-cord-protection-cord--buddhist-meaning)
 
 ---
 

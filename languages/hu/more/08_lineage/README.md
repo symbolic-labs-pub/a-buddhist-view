@@ -12,7 +12,7 @@ A szabály ugyanaz, mint a meditációval, amit eddig tanulhattál. A dolog az, 
 
 | [![white_tara_small](../../../../more/08_lineage/01_white_tara/white_tara_small.png)](01_white_tara/README.md#white-tārā--the-teaching-of-sustaining-conditions) |
 
-**Fehér [Tara](#zöld-tārā-syamatārā-gyors-együttérzés-cselekvésben)** az **[együttérzést](#green-tārā--syamatārā---swift-compassion-in-action) testesíti meg gyógyításként és hosszú életként**.
+**Fehér [Tara](02_green_tara/README.md)** az **[együttérzést](02_green_tara/README.md) testesíti meg gyógyításként és hosszú életként**.
 
 A Kagyü hagyományban:
 

@@ -1,6 +1,6 @@
 ## [Vajrasattva (Dorje Sempa)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa)
 
-[![vajrasattva](../../../more/08_lineage/13_vajrasattva/vajrasattva.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa)
+[![vajrasattva](../../../../../more/08_lineage/13_vajrasattva/vajrasattva.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa)
 
 
 <details>

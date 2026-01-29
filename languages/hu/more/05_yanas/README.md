@@ -281,7 +281,7 @@ A tibeti buddhizmus **nem** látja a yānákat versengő ösvényekként:
 | Yāna        | Mit Tréningez                 |
 | ----------- | ------------------------------ |
 | Śrāvakayāna | Fegyelem, lemondás       |
-| [Mahāyāna](#korlát-mahāyāna-nézőpontból)    | [Együttérzés](#a-nagy-fordulat---együttérző-ébredés), [üresség](../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism)          |
+| [Mahāyāna](#korlát-mahāyāna-nézőpontból)    | [Együttérzés](#a-nagy-fordulat-együttérző-ébredés), [üresség](../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism)          |
 | [Vajrayāna](#4-vajrayāna-tantrayāna-mantrayāna-the-diamond-vehicle)   | Ügyes eszközök, átalakulás |
 | [Dzogchen](#5-dzogchen-the-great-perfection)    | Az elme természetének felismerése  |
 
@@ -316,7 +316,7 @@ Sok modern gyakorló nem a tanítások hiánya miatt bukik el, hanem a **jármű
 
 ---
 
-< [1. Dharmakāya → *Ground Recognition*](../04_kayas/mahamudra_and_dzogcsen/README.md) | [Shared baseline: 3 knobs of attention](shikantaza_and_vipassana/README.md) >
+< [1. Dharmakāya → *Alap Felismerés*](../04_kayas/mahamudra_and_dzogcsen/README.md) | [Közös alap: A figyelem 3 gombja](shikantaza_and_vipassana/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

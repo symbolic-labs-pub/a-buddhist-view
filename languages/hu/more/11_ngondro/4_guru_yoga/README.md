@@ -122,7 +122,7 @@ It **removes the final obstruction**: the belief that awakening belongs to someo
 
 ---
 
-< [The Third Ngöndro Gyakorlat](../3_mandala_offering/README.md) | [The Előkészítő Gyakorlatok (Ngöndro)](../README.md) >
+< [A Harmadik Ngöndro Gyakorlat](../3_mandala_offering/README.md) | [Az Előkészítő Gyakorlatok (Ngöndro)](../README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

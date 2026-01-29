@@ -132,7 +132,7 @@ Karma is not erased by effort—it is **rendered non-binding** when Tudatosság 
 
 ---
 
-< [The First Ngöndro Gyakorlat](../1_prostrations/README.md) | [The Third Ngöndro Gyakorlat](../3_mandala_offering/README.md) >
+< [Az Első Ngöndro Gyakorlat](../1_prostrations/README.md) | [A Harmadik Ngöndro Gyakorlat](../3_mandala_offering/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

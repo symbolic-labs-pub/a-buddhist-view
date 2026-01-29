@@ -1,6 +1,6 @@
 ## [Mahākāla as the Discipline of Awakening](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
 
-[![six_armed_mahakala.png](../../../more/08_lineage/12_six_armed_mahakala/six_armed_mahakala.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
+[![six_armed_mahakala.png](../../../../../more/08_lineage/12_six_armed_mahakala/six_armed_mahakala.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
 
 <details>
 <summary>Tanítás</summary>
@@ -697,7 +697,7 @@ Remain still for a few breaths.
 
 ---
 
-< [Vajradhara and the Teaching of Recognition](../11_vajradhara/README.md) | [Vajrasattva (Dorje Sempa)](../13_vajrasattva/README.md) >
+< [Vadzsradhara és a Felismerés Tanítása](../11_vajradhara/README.md) | [Vadzsraszattva (Dordzsé Szempa)](../13_vajrasattva/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
