@@ -17,8 +17,8 @@ Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a
 
 ### Fontos Pontosítások
 
-* Egy **tanítót nem "választanak" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflekció révén
-* **A Menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
+* Egy **tanítót nem "választunk" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflekció révén
+* **A menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
 * **Az átadások elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a leszármazási vonaltól és közvetlen bevezetéstől
 * **Az előkészítő gyakorlatok nem gyógyítanak** — teljes utak, amelyek tisztítják a homályosságot és érlelik a betekintést
 
