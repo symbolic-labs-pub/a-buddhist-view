@@ -1,4 +1,4 @@
-## [Gyakran Ismételt Kérdések](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/80_faq/README.md#gyakran-ismetelt-kerdesek)
+## [Gyakran ismételt kérdések](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/80_faq/README.md#gyakran-ismetelt-kerdesek)
 
 [![faq.png](../../../../more/80_faq/faq.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/80_faq/README.md#gyakran-ismetelt-kerdesek)
 
@@ -59,7 +59,7 @@ Mindkettő **ugyanahhoz a felismeréshez** vezet.
 
 ---
 
-## Mantrák és Felhívások
+## Mantrák és felhívások
 
 
 ---
@@ -108,7 +108,7 @@ Vajrī bhava
 Mahā samaya sattva āḥ
 ```
 
-#### Magyar (Jelentés)
+#### Magyar (jelentés)
 
 > "Ó [Vajrasattva](../08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa), tartsd meg a szent elkötelezettségedet.
 > Lakozz bennem.
@@ -143,7 +143,7 @@ Karmikus elhomályosulások és megtört samaya megtisztítása.
 Oṁ āḥ hūṁ vajra guru padma siddhi hūṁ
 ```
 
-#### Magyar (Jelentés)
+#### Magyar (jelentés)
 
 > "Oṁ — a Vajra Guru teste, beszéde és elméje,
 > [Lótusz](../09_symbols/08_lotus/README.md#a-lótusz-a-buddhista-tanításban)-ból született mester, adj felismerést. Hūṁ."
@@ -172,7 +172,7 @@ Mahājāla jelentése **"Nagy Háló"**—az ébredett tudat egymásba szőtt me
 Oṁ svabhāva śuddhaḥ sarva dharmāḥ svabhāva śuddho 'ham
 ```
 
-#### Magyar (Jelentés)
+#### Magyar (jelentés)
 
 > "Minden jelenség természete szerint tiszta.
 > Én is ez a belső tisztaság vagyok."
@@ -184,7 +184,7 @@ Feloldja a kettős észlelést a gyakorlat előtt.
 
 ---
 
-## Alapvető Filozófiai Kérdések
+## Alapvető filozófiai kérdések
 
 
 ---
@@ -332,7 +332,7 @@ Amikor a tudatlanság véget ér:
 
 ---
 
-< [Az Előkészítő Gyakorlatok (Ngöndro)](../11_ngondro/README.md) | [Buddhista Nézőpont](../../README.md) >
+< [Az előkészítő gyakorlatok (Ngöndro)](../11_ngondro/README.md) | [Buddhista nézőpont](../../README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

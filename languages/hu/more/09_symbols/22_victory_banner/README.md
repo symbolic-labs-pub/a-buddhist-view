@@ -1,4 +1,4 @@
-## [Győzelmi Zászló (Skt. *Dhvaja*) — Buddhista Jelentés](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/22_victory_banner/README.md#győzelmi-zászló-skt-dhvaja--buddhista-jelentés)
+## [Győzelmi zászló (skt. *dhvaja*) — buddhista jelentés](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/22_victory_banner/README.md#győzelmi-zászló-skt-dhvaja--buddhista-jelentés)
 
 [![victory_banner](../../../../../more/09_symbols/22_victory_banner/victory_banner.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/22_victory_banner/README.md#győzelmi-zászló-skt-dhvaja--buddhista-jelentés)
 
@@ -8,14 +8,14 @@ A **Győzelmi Zászló** a **Nyolc Jótékony Szimbólum** egyike és **az ébre
 
 ---
 
-### Alapvető Jelentés
+### Alapvető jelentés
 
 **Győzelem a belső ellenségek felett**
 Tudatlanság (*avidyā*), vágyakozás, elutasítás, büszkeség és félelem az igazi ellenségek. A zászló hirdeti, hogy ezek legyőzhetők belátás, fegyelem és [együttérzés](../../02_from_ignorance_to_awakening/7_compassion/README.md#az-együttérzés-mint-strukturális-elv-a-buddhista-tanításban) által.
 
 ---
 
-### Doktrinális Kontextus
+### Doktrinális kontextus
 
 A buddhista tanításokban a felszabadulás **a tisztaság stratégiai győzelmeként** van keretezve:
 
@@ -27,7 +27,7 @@ A Győzelmi Zászló **ennek az edzésnek a befejezését** szimbolizálja, ahol
 
 ---
 
-### Miért Emelt
+### Miért emelt
 
 A győzelmi zászlókat hagyományosan **tetőkre, hágókra, [sztúpákra](../05_stupa/README.md#1-mi-is-a-sztúpa-valójában-az-építészeten-túl) és templomokra** helyezik. Ez a magasság szimbolikus:
 
@@ -39,7 +39,7 @@ Emlékezteti a gyakorlókat, hogy a megvalósítást **fenntartani** kell, nem c
 
 ---
 
-### Vajrayāna Értelmezés
+### Vajrayāna értelmezés
 
 A [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle)-ban a Győzelmi Zászló még élesebb jelentést hordoz:
 
@@ -51,7 +51,7 @@ Itt a zászló nem az erőfeszítést ünnepli—**a befejezést hirdeti**.
 
 ---
 
-### Pszichológiai Olvasat (Modern Lencse)
+### Pszichológiai olvasat (modern lencse)
 
 Kognitív szempontból a Győzelmi Zászló szimbolizálja:
 
@@ -63,7 +63,7 @@ A győzelem **strukturális**, nem érzelmi.
 
 ---
 
-### Finom Tanítás
+### Finom tanítás
 
 A Győzelmi Zászló **nem** jelent állandó küzdelmet.
 Paradox módon jelzi, hogy **a küzdelem véget ért**.
@@ -73,7 +73,7 @@ Paradox módon jelzi, hogy **a küzdelem véget ért**.
 
 ---
 
-### A Gyakorlatban
+### A gyakorlatban
 
 A Győzelmi Zászló contemplálása arra trenírozza a gyakorlókat:
 
@@ -89,7 +89,7 @@ A Győzelmi Zászló hirdeti, hogy **a szabadság lehetséges, stabil és megism
 
 ---
 
-< [🏺 A Kincs Váza (Skt. *Nidhāna-kumbha*, Tib. *Bumpa*)](../21_treasure_vase/README.md) | [Szimbólumok](../README.md) >
+< [🏺 A kincs váza (skt. *nidhāna-kumbha*, tib. *bumpa*)](../21_treasure_vase/README.md) | [Szimbólumok](../README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

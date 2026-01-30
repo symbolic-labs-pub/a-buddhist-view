@@ -1,4 +1,4 @@
-## [Dharma Kerék (Dharmachakra) — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/17_dharma_wheel/README.md#dharma-kerék-dharmachakra--a-buddhista-tanítások-szerint)
+## [Dharma kerék (dharmachakra) — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/17_dharma_wheel/README.md#dharma-kerék-dharmachakra--a-buddhista-tanítások-szerint)
 
 [![dharma_wheel](../../../../../more/09_symbols/17_dharma_wheel/dharma_wheel.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/17_dharma_wheel/README.md#dharma-kerék-dharmachakra--a-buddhista-tanítások-szerint)
 
@@ -8,7 +8,7 @@ A **[Dharma](../../01_core_teachings/the_three_jewels/README.md#2-dharma-az-ösv
 
 ---
 
-### 1. **Tanítás Mozgásban**
+### 1. **Tanítás mozgásban**
 
 Amikor a Buddha első tanítását adta Sarnathban, a hagyomány ezt **"a Dharma kerekének forgatásának"** nevezi.
 Ez egy alapvető belátást fejez ki:
@@ -21,7 +21,7 @@ A kerék csak akkor tölti be a célját, **amikor forog**. Hasonlóképpen a Dh
 
 ---
 
-### 2. **Etikai Orientáció (Navigáció, Nem Szabályok)**
+### 2. **Etikai orientáció (navigáció, nem szabályok)**
 
 A kerék **iránytűként** működik, nem parancsolati táblaként.
 
@@ -34,9 +34,9 @@ A jó és rossz nem erkölcsi abszolútumok, hanem **kauzális intelligenciák**
 
 ---
 
-### 3. **Nyolcas Struktúra**
+### 3. **Nyolcas struktúra**
 
-A **nyolc küllő** a [**Nemes Nyolcrétű Ösvényt**](../../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban) képviseli, három integrált tartományra osztva:
+A **nyolc küllő** a [**Nemes nyolcrétű ösvényt**](../../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban) képviseli, három integrált tartományra osztva:
 
 [**Bölcsesség**](../../01_core_teachings/the_noble_eightfold_path/README.md#1-bölcsesség-pa)
 
@@ -63,7 +63,7 @@ Kritikusan:
 
 ---
 
-### 4. **A Köldök: Nem-Duális Stabilitás**
+### 4. **A köldök: nem-duális stabilitás**
 
 A kerék mozdulatlan középpontja **az [ürességet](../../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism) és nem-ragaszkodást** szimbolizálja.
 
@@ -77,7 +77,7 @@ Ez egy finom, de mély pontot tanít:
 
 ---
 
-### 5. **Miért a Kerék, Nem Kard vagy Könyv**
+### 5. **Miért a kerék, nem kard vagy könyv**
 
 Más hagyományok hangsúlyozzák:
 
@@ -95,7 +95,7 @@ A kerék közvetíti:
 
 ---
 
-### 6. **Meditatív Belátás**
+### 6. **Meditatív belátás**
 
 A gyakorlatban a Dharma Kerék emlékezteti a gyakorlókat, hogy kérdezzék:
 
@@ -107,7 +107,7 @@ A kerék nem ítél — **a pályát tárja fel**.
 
 ---
 
-### Alapvető Tanítás Összefoglalás
+### Alapvető tanítás összefoglalás
 
 > A Dharma Kerék azt tanítja, hogy az ébredés nem birtokolandó állapot,
 > hanem **fenntartandó irány**.
@@ -119,7 +119,7 @@ A gyakorlat a művészete **a kerék egyenesen tartásának**.
 
 ---
 
-< [Végtelen Csomó (Śrīvatsa) — a buddhista tanítások szerint](../16_endless_knot/README.md) | [🐚 A Kagyló (Śaṅkha) a Buddhista Tanításokban](../18_conch_shell/README.md) >
+< [Végtelen csomó (śrīvatsa) — a buddhista tanítások szerint](../16_endless_knot/README.md) | [🐚 A kagyló (śaṅkha) a buddhista tanításokban](../18_conch_shell/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

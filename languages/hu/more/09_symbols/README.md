@@ -2,7 +2,7 @@
 
 [![symbols.png](../../../../more/09_symbols/symbols.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/hu/master/more/09_symbols/README.md#szimbólumok)
 
-## [1. Áldáskötél (Védelmi Kötél)](01_blessing_cord/README.md)
+## [1. Áldáskötél (védelmi kötél)](01_blessing_cord/README.md)
 
 
 [![blessing_cord_small](../../../../more/09_symbols/01_blessing_cord/blessing_cord_small.png)](01_blessing_cord/README.md#blessing-cord-protection-cord-buddhist-meaning)
@@ -24,7 +24,7 @@ Egy megszentelt kötél, gyakran a nyak vagy csukló köré kötve.
 
 ---
 
-## [2. Dorje (Vajra)](02_dorje/README.md)
+## [2. Dorje (vajra)](02_dorje/README.md)
 
 
 [![dorje_small](../../../../more/09_symbols/02_dorje/dorje_small.png)](02_dorje/README.md#dorje-vajra-explained-according-to-buddhist-teachings)
@@ -43,7 +43,7 @@ Egy megszentelt kötél, gyakran a nyak vagy csukló köré kötve.
 
 ---
 
-## [3. Imakerék (Mani Kerék)](03_prayer_wheel/README.md)
+## [3. Imakerék (mani kerék)](03_prayer_wheel/README.md)
 
 
 [![prayer_wheel_small](../../../../more/09_symbols/03_prayer_wheel/prayer_wheel_small.png)](03_prayer_wheel/README.md#prayer-wheel-mani-wheel-explained-through-buddhist-teachings)
@@ -61,7 +61,7 @@ Egy megszentelt kötél, gyakran a nyak vagy csukló köré kötve.
 
 ---
 
-## [4. Imazászlók (Lungta)](04_prayer_flags/README.md)
+## [4. Imazászlók (lungta)](04_prayer_flags/README.md)
 
 
 [![prayer_flags_small](../../../../more/09_symbols/04_prayer_flags/prayer_flags_small.png)](04_prayer_flags/README.md#prayer-flags-lungta-explained-through-buddhist-teachings)
@@ -165,7 +165,7 @@ A sár táplálja a lótuszt.
 
 ---
 
-## 9. Lótusz Pozíció (Padmāsana)
+## 9. Lótusz pozíció (padmāsana)
 
 
 
@@ -237,7 +237,7 @@ Mudra **megtestesült bölcsességet** gyakorol, nem csak szimbolizmust.
 
 ---
 
-## [13. Koponya Csésze](13_skull_cup/README.md)
+## [13. Koponya csésze](13_skull_cup/README.md)
 
 
 [![skull_cup_small](../../../../more/09_symbols/13_skull_cup/skull_cup_small.png)](13_skull_cup/README.md#skull-cup-kapāla-explained-according-to-buddhist-teachings) (Kapala)
@@ -248,7 +248,7 @@ Mudra **megtestesült bölcsességet** gyakorol, nem csak szimbolizmust.
 
 ---
 
-## [14. Mala Számlálók](14_mala_counters/README.md)
+## [14. Mala számlálók](14_mala_counters/README.md)
 
 
 [![mala_counters_small](../../../../more/09_symbols/14_mala_counters/mala_counters_small.png)](14_mala_counters/README.md#mala-counters-explained-through-buddhist-teachings)
@@ -269,7 +269,7 @@ Mudra **megtestesült bölcsességet** gyakorol, nem csak szimbolizmust.
 
 ---
 
-## [16. Végtelen Csomó](16_endless_knot/README.md)
+## [16. Végtelen csomó](16_endless_knot/README.md)
 
 
 [![endless_knot_small](../../../../more/09_symbols/16_endless_knot/endless_knot_small.png)](16_endless_knot/README.md#endless-knot-śrīvatsa-according-to-buddhist-teachings)
@@ -280,7 +280,7 @@ Mudra **megtestesült bölcsességet** gyakorol, nem csak szimbolizmust.
 
 ---
 
-## [17. Dharma Kerék](17_dharma_wheel/README.md)
+## [17. Dharma kerék](17_dharma_wheel/README.md)
 
 
 [![dharma_wheel_small](../../../../more/09_symbols/17_dharma_wheel/dharma_wheel_small.png)](17_dharma_wheel/README.md#dharma-wheel-dharmachakra-according-to-buddhist-teachings)
@@ -301,7 +301,7 @@ Mudra **megtestesült bölcsességet** gyakorol, nem csak szimbolizmust.
 
 ---
 
-## Strukturális Betekintés (Nagyon Fontos)
+## Strukturális betekintés (nagyon fontos)
 
 
 A tibeti buddhista szimbólumok **nem metaforák**.
@@ -321,7 +321,7 @@ Ezek:
 
 ---
 
-## [Az Arany Halak](19_golden_fish/README.md)
+## [Az arany halak](19_golden_fish/README.md)
 
 
 [![golden_fish_small](../../../../more/09_symbols/19_golden_fish/golden_fish_small.png)](19_golden_fish/README.md#the-golden-fish-according-to-buddhist-teachings)
@@ -342,7 +342,7 @@ Az Arany Halak emlékeztetik a gyakorlókat, hogy az ébredés *az elme folyéko
 
 ---
 
-## [️ A Napernyő](20_parasol/README.md)
+## [️ A napernyő](20_parasol/README.md)
 
 
 [![parasol_small](../../../../more/09_symbols/20_parasol/parasol_small.png)](20_parasol/README.md#the-parasol-chatra-according-to-buddhist-teachings)
@@ -363,7 +363,7 @@ A Napernyő tanítja, hogy **a bölcsesség árnyékot nyújt**, nem elszigetelt
 
 ---
 
-## [A Kincs Váza](21_treasure_vase/README.md)
+## [A kincs váza](21_treasure_vase/README.md)
 
 
 [![treasure_vase_small](../../../../more/09_symbols/21_treasure_vase/treasure_vase_small.png)](21_treasure_vase/README.md#the-treasure-vase-skt-nidhāna-kumbha-tib-bumpa)
@@ -384,7 +384,7 @@ A Kincs Váza **bőséget tanít ragaszkodás nélkül**.
 
 ---
 
-## [A Győzelmi Zászló](22_victory_banner/README.md)
+## [A győzelmi zászló](22_victory_banner/README.md)
 
 
 [![victory_banner_small](../../../../more/09_symbols/22_victory_banner/victory_banner_small.png)](22_victory_banner/README.md#victory-banner-skt-dhvaja-buddhist-meaning)
@@ -419,7 +419,7 @@ Nem dekoratív motívumok—**kognitív és etikai utasítások**, szimbolikus f
 
 ---
 
-< [Győzelmi Zászló (Skt. *Dhvaja*) — Buddhista Jelentés](22_victory_banner/README.md) | [Üresség (Śūnyatā) a Vajrayāna Buddhizmusban](../10_concepts/01_emptiness/README.md) >
+< [Győzelmi zászló (skt. *dhvaja*) — buddhista jelentés](22_victory_banner/README.md) | [Üresség (śūnyatā) a Vajrayāna buddhizmusban](../10_concepts/01_emptiness/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

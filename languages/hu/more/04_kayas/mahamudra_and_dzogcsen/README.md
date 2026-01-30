@@ -1,6 +1,6 @@
-## [1. Dharmakāya → *Ground Recognition*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/04_kayas/mahamudra_and_dzogcsen/README.md#1-dharmakāya--ground-recognition)
+## [1. Dharmakāya → *ground recognition*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/04_kayas/mahamudra_and_dzogcsen/README.md#1-dharmakāya--ground-recognition)
 [![mahamudra_and_dzogcsen](../../../../../more/04_kayas/mahamudra_and_dzogcsen/stages_of_awakening.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/04_kayas/mahamudra_and_dzogcsen/README.md#1-dharmakāya--ground-recognition)
-### Dzogchen: **Rigpa (རིག་པ་) — Direct Introduction**
+### Dzogchen: **rigpa (རིག་པ་) — direct introduction**
 **What happens**
 
 * The Tanító introduces the **nature of mind** (*sems nyid*)
@@ -25,7 +25,7 @@
 
 ---
 
-### Mahāmudrā: **Nature of Mind (སེམས་ཀྱི་གནས་ལུགས་)**
+### Mahāmudrā: **nature of mind (སེམས་ཀྱི་གནས་ལུགས་)**
 **What happens**
 
 * Progressive settling of mind
@@ -45,9 +45,9 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-## 2. Sambhogakāya → *Clarity & Luminous Display*
+## 2. Sambhogakāya → *clarity & luminous display*
 
-### Dzogchen: **Spontaneous Presence (ལྷུན་གྲུབ་)**
+### Dzogchen: **spontaneous presence (ལྷུན་གྲུབ་)**
 
 
 
@@ -76,7 +76,7 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-### Mahāmudrā: **Bliss–Clarity–Nonthought**
+### Mahāmudrā: **bliss–clarity–nonthought**
 **What happens**
 
 * Meditative absorption deepens
@@ -94,9 +94,9 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-## 3. Nirmāṇakāya → *Embodied Együttérzés*
+## 3. Nirmāṇakāya → *embodied együttérzés*
 
-### Dzogchen: **Conduct (སྤྱོད་པ་)**
+### Dzogchen: **conduct (སྤྱོད་པ་)**
 
 
 
@@ -115,7 +115,7 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-### Mahāmudrā: **Post-Meditáció Integration**
+### Mahāmudrā: **post-meditáció integration**
 **What happens**
 
 * No split between session and life
@@ -129,7 +129,7 @@ Dharmakāya is fully evident at **Simplicity → One Taste**.
 
 ---
 
-## Unified View: How the Kāyas Unfold
+## Unified view: how the kāyas unfold
 
 | Stage      | Kāya             | What is realized       |
 | ---------- | ---------------- | ---------------------- |
@@ -141,7 +141,7 @@ They are **simultaneous**, but **recognized progressively**.
 
 ---
 
-## Subtle but Essential Insight
+## Subtle but essential insight
 
 * **Dzogchen** emphasizes:
 
@@ -161,7 +161,7 @@ Yet the **realization is identical**.
 
 ---
 
-## Diagnostic Question (Used by Tibetan Masters)
+## Diagnostic question (used by tibetan masters)
 
 Ask a practitioner:
 
@@ -173,7 +173,7 @@ If any is missing, realization is incomplete.
 
 ---
 
-## One-Line Integration Formula
+## One-line integration formula
 
 > **Recognize emptiness ([Dharmakāya)](../../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism),
 > allow clarity to shine (Sambhogakāya),
@@ -182,7 +182,7 @@ If any is missing, realization is incomplete.
 
 ---
 
-< [A Három Kāya (Trikāya)](../README.md) | [Mi az a Yāna?](../../05_yanas/README.md) >
+< [A három kāya (Trikāya)](../README.md) | [Mi az a yāna?](../../05_yanas/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

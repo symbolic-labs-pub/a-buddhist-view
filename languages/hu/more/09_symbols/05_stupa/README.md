@@ -1,4 +1,4 @@
-## [1. Mi is a Sztúpa *Valójában* (Az Építészeten Túl)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/05_stupa/README.md#1-mi-is-a-sztúpa-valójában-az-építészeten-túl)
+## [1. Mi is a sztúpa *valójában* (az építészeten túl)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/05_stupa/README.md#1-mi-is-a-sztúpa-valójában-az-építészeten-túl)
 
 [![stupa](../../../../../more/09_symbols/05_stupa/stupa.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/05_stupa/README.md#1-mi-is-a-sztúpa-valójában-az-építészeten-túl)
 
@@ -6,7 +6,7 @@
 
 A buddhista tanításban a sztúpa **nem egy emlékműv**. Hanem egy **háromdimenziós tanítás**.
 
-### a) Megtestesült Megvilágosodás
+### A) megtestesült megvilágosodás
 
 A sztúpa **magát az ébredett állapotot** képviseli—a Buddha megvalósítását láthatóvá téve.
 Hagyományosan megtestesíti:
@@ -22,7 +22,7 @@ Ez az oka annak, hogy a sztúpákat **élő jelenlétként** kezelik, nem tárgy
 
 ---
 
-### b) Az Öt Elem (Kozmikus Összhang)
+### B) az öt elem (kozmikus összhang)
 
 A [sztúpa](#1-mi-is-a-sztúpa-valójában-az-építészeten-túl) alakja közvetlenül leképezi az **öt elemet**, amelyek mind a kozmoszt, mind az embert alkotják:
 
@@ -38,12 +38,12 @@ A körüljárás azt jelenti, hogy **saját testedet helyezed ebbe az elemekből
 
 ---
 
-## 2. Miért Óramutató Járása Szerint a Körüljárás
+## 2. Miért óramutató járása szerint a körüljárás
 
 
 Az óramutató járása szerinti mozgás nem kulturális—hanem **kozmológiai és pszichológiai**.
 
-### a) Összhang a Dharma Rendjével
+### A) összhang a Dharma rendjével
 
 A buddhista kozmológiában **az óramutató járása szerint a természetes rendet tükrözi**:
 
@@ -55,7 +55,7 @@ Az óramutató járása szerinti mozgás azt jelenti, hogy **nem állunk ellen a
 
 ---
 
-### b) A Szív az Ébredés Felé Tartása
+### B) a szív az ébredés felé tartása
 
 Amikor óramutató járása szerint jársz:
 
@@ -71,7 +71,7 @@ Ez finoman arra tanítja az elmét, hogy **a tapasztalatot a [bölcsesség](../.
 
 ---
 
-## 3. Körüljárás mint Járó Meditáció
+## 3. Körüljárás mint járó meditáció
 
 
 A buddhista tanításban ez a gyakorlat integrálja a **testet, beszédet és elmét**:
@@ -90,7 +90,7 @@ Még egyetlen [tudatos](../../01_core_teachings/the_noble_eightfold_path/README.
 
 ---
 
-## 4. Miért *Nem* Turizmus
+## 4. Miért *nem* turizmus
 
 
 A turizmus **egy tárgy körül** mozog.
@@ -107,7 +107,7 @@ Egy őszinte járókelő hasznot nyer.
 
 ---
 
-## 5. Mély Tanítás Kódolva a Cselekedetben
+## 5. Mély tanítás kódolva a cselekedetben
 
 
 A legmélyebb szinten a körüljárás tanítja:
@@ -121,7 +121,7 @@ Nem hódítod meg a sztúpát.
 
 ---
 
-## Egy Mondatban (Hagyományos Belátás)
+## Egy mondatban (hagyományos belátás)
 
 
 > **Óramutató járása szerint körbe járni egy sztúpát azt jelenti, hogy a testtel próbáljuk a megvilágosodást, mielőtt az elme teljesen megértené azt.**
@@ -129,7 +129,7 @@ Nem hódítod meg a sztúpát.
 
 ---
 
-< [Imazászlók (Lungta) — Magyarázat a Buddhista Tanítások Szerint](../04_prayer_flags/README.md) | [Mala (Imazsinór) — Magyarázat a Buddhista Tanítások Szerint](../06_mala/README.md) >
+< [Imazászlók (lungta) — magyarázat a buddhista tanítások szerint](../04_prayer_flags/README.md) | [Mala (imazsinór) — magyarázat a buddhista tanítások szerint](../06_mala/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

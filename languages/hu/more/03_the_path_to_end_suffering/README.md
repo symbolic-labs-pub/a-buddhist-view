@@ -1,4 +1,4 @@
-## [Mit Jelent Valójában a "Szenvedés Megszüntetése"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/03_the_path_to_end_suffering/README.md#what-ending-Szenvedés-actually-means)
+## [Mit jelent valójában a "szenvedés megszüntetése"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/03_the_path_to_end_suffering/README.md#what-ending-Szenvedés-actually-means)
 [![the_path_to_end_suffering_triangle.png](../../../../more/03_the_path_to_end_suffering/the_path_to_end_suffering_triangle.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/03_the_path_to_end_suffering/README.md#what-ending-suffering-actually-means)
 
 A buddhista Tanításban a *Szenvedés megszüntetése* **nem** azt jelenti:
@@ -17,7 +17,7 @@ Ezt a megszűnést **nirvāṇa**-nak nevezik: a Szenvedést generáló mechaniz
 
 ---
 
-## Az Alapvető Diagnózis (Miért Keletkezik a Szenvedés)
+## Az alapvető diagnózis (miért keletkezik a szenvedés)
 
 A Szenvedés a **tudatlanságból (avidyā)** keletkezik — konkrétan:
 
@@ -36,15 +36,15 @@ Az út ezért **nem morális büntetés vagy jutalom**, hanem **okozati korrekci
 
 ---
 
-## Az Út a Szenvedés Megszüntetéséhez: A Nemes Nyolcrétű Ösvény
+## Az út a szenvedés megszüntetéséhez: a nemes nyolcrétű ösvény
 
 Buddha **egy integrált utat** tanított, amelyet hagyományosan **három egymást erősítő területre** csoportosítanak.
 
 ---
 
-## 1. Bölcsesség (Paññā) — *A Félreértés Korrigálása*
+## 1. Bölcsesség (paññā) — *a félreértés korrigálása*
 
-### Helyes Nézet
+### Helyes nézet
 A valóság pontos látása:
 
 * a dolgok múlandóak,
@@ -53,7 +53,7 @@ A valóság pontos látása:
 
 Ez nem hit — ez *fokozatosan igazolt belátás*.
 
-### Helyes Szándék
+### Helyes szándék
 Az elme orientálása:
 
 * lemondás felé (elengedés),
@@ -64,15 +64,15 @@ Az elme orientálása:
 
 ---
 
-## 2. Etikus Magatartás (Śīla) — *Az Életfeltételek Stabilizálása*
+## 2. Etikus magatartás (śīla) — *az életfeltételek stabilizálása*
 
-### Helyes Beszéd
+### Helyes beszéd
 Igazságosan, kedvesen és a megfelelő időben beszélni.
 
-### Helyes Cselekvés
+### Helyes cselekvés
 Kerülni azokat a cselekedeteket, amelyek kárt okoznak magunknak vagy másoknak.
 
-### Helyes Megélhetés
+### Helyes megélhetés
 Megélhetés szerzése exploitálás, megtévesztés vagy mások bántalmazása nélkül.
 
 **Miért számít az etika**
@@ -82,15 +82,15 @@ Az etika nem moralizálás; ez **rendszer stabilizálás**.
 
 ---
 
-## 3. Mentális Fegyelem (Samādhi) — *Az Elme Újrahuzalozása*
+## 3. Mentális fegyelem (samādhi) — *az elme újrahuzalozása*
 
-### Helyes Erőfeszítés
+### Helyes erőfeszítés
 * Megakadályozni az egészségtelen állapotok keletkezését
 * Elhagyni azokat, amelyek keletkeztek
 * Művelni az egészséges állapotokat
 * Fenntartani azokat
 
-### Helyes Tudatosság
+### Helyes tudatosság
 Tiszta [Tudatosság](../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing):
 
 * testről,
@@ -100,7 +100,7 @@ Tiszta [Tudatosság](../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-know
 
 A [Tudatosság](../01_core_teachings/the_noble_eightfold_path/README.md#7-helyes-tudatosság-sammā-sati) feltárja a vágyakozást *amint formálódik*, mielőtt Szenvedéssé keményedne.
 
-### Helyes Koncentráció
+### Helyes koncentráció
 Mély mentális egyesülés ([meditatív](../08_lineage/README.md) elmerülés), amely lehetővé teszi:
 
 * tisztaságot,
@@ -109,7 +109,7 @@ Mély mentális egyesülés ([meditatív](../08_lineage/README.md) elmerülés),
 
 ---
 
-## Hogyan Szünteti Meg az Út a Szenvedést (Okozati Logika)
+## Hogyan szünteti meg az út a szenvedést (okozati logika)
 
 1. **Az etika csökkenti a külső és belső káoszt**
 2. **A Meditáció stabilizálja a figyelmet és az érzelmeket**
@@ -123,7 +123,7 @@ Mély mentális egyesülés ([meditatív](../08_lineage/README.md) elmerülés),
 
 ---
 
-## Mi *Nem* Ez
+## Mi *nem* ez
 
 * Nem vak hit
 * Nem önmegtagadás önmagáért
@@ -138,7 +138,7 @@ Az [Ébredést](../10_concepts/README.md#3-megvilágosodás-bodhi-awakening) íg
 
 ---
 
-## Egy Mondatos Összefoglalás
+## Egy mondatos összefoglalás
 
 **Az Út a Szenvedés Megszüntetéséhez úgy működik, hogy összehangolja a megértést, a magatartást és a figyelmet azzal, ahogy a valóság valóban működik — így a vágyakozás, a félelem és a hamis identitás már nem keletkezik.**
 
@@ -149,7 +149,7 @@ Az [Ébredést](../10_concepts/README.md#3-megvilágosodás-bodhi-awakening) íg
 
 ---
 
-< [1. A Létezés Három Jele](../02_from_ignorance_to_awakening/README.md) | [Tanítás az Ébredés Három Testéről](../04_kayas/README.md) >
+< [1. A létezés három jele](../02_from_ignorance_to_awakening/README.md) | [Tanítás az ébredés három testéről](../04_kayas/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

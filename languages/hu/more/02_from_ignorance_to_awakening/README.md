@@ -1,5 +1,5 @@
 
-## 1. A Létezés Három Jele
+## 1. A létezés három jele
 
 [![from_ignorance_to_awakening](../../../../more/02_from_ignorance_to_awakening/from_ignorance_to_awakening.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/README.md#1-the-three-marks-of-existence)
 
@@ -19,7 +19,7 @@ Minden feltételezett jelenség három jellemzővel rendelkezik:
 
 ---
 
-## 2. A Négy Nemes Igazság
+## 2. A négy nemes igazság
 
 
 *(A diagnosztikai keretrendszer)*
@@ -27,7 +27,7 @@ Minden feltételezett jelenség három jellemzővel rendelkezik:
 1. **Létezik a szenvedés** (dukkha létezik)
 2. **A szenvedésnek okai vannak** (vágyakozás, tudatlanság)
 3. **A szenvedés megszűnhet** (nirvāṇa lehetséges)
-4. **Van egy ösvény, amely a megszűnéséhez vezet** (a [Nyolcrétű Ösvény](../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban))
+4. **Van egy ösvény, amely a megszűnéséhez vezet** (a [Nyolcrétű ösvény](../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban))
 
 Gondoljunk erre mint:
 
@@ -40,7 +40,7 @@ A buddhizmus radikálisan *terápiás*, nem metafizikai spekuláció.
 
 ---
 
-## 3. Függő Keletkezés (Paṭicca-samuppāda)
+## 3. Függő keletkezés (paṭicca-samuppāda)
 
 
 *(A valóság mély okozati motorja)*
@@ -62,7 +62,7 @@ Kulcsfontosságú betekintés:
 
 ---
 
-## 4. Üresség (Śūnyatā) — *Gyakran "titoknak" vélik*
+## 4. Üresség (śūnyatā) — *gyakran "titoknak" vélik*
 
 
 
@@ -87,10 +87,10 @@ Miért tanítják később:
 
 ---
 
-## [5. A Két Igazság](5_the_two_truths/README.md)
+## [5. A két igazság](5_the_two_truths/README.md)
 
 
-* [**Konvencionális Igazság**](5_the_two_truths/README.md#a-két-igazság-a-buddhista-tanításban)
+* [**Konvencionális igazság**](5_the_two_truths/README.md#a-két-igazság-a-buddhista-tanításban)
   A mindennapi világ: emberek, szabályok, felelősségek.
 
 * **Végső Igazság**
@@ -102,7 +102,7 @@ Az [ébredés](../10_concepts/README.md#3-megvilágosodás-bodhi-awakening) **ne
 
 ---
 
-## 6. Buddha-Természet (Tathāgatagarbha)
+## 6. Buddha-természet (tathāgatagarbha)
 
 
 Tanítás:
@@ -120,7 +120,7 @@ Ez ellensúlyozza a kétségbeesést és a spirituális elitizmust.
 
 ---
 
-## 7. Az Együttérzés mint Strukturális Elv
+## 7. Az együttérzés mint strukturális elv
 
 
 *(Nem opcionális)*
@@ -139,7 +139,7 @@ Ezért hangsúlyozza a [Mahāyāna](../05_yanas/README.md#limitation-from-mahyna
 
 ---
 
-## 8. Vannak "Titkos Tanítások"?
+## 8. Vannak "titkos tanítások"?
 
 
 **Nincsenek elrejtett igazságok.**
@@ -165,7 +165,7 @@ Ezek nem titkok—ezek **nagy sávszélességű utasítások**, amelyek megköve
 
 ---
 
-## Egy Mondatos Szintézis
+## Egy mondatos szintézis
 
 
 **A buddhizmus precíz rendszer a szükségtelen szenvedés megszüntetésére azáltal, hogy a valóságot tisztán látjuk, etikusan cselekszünk és együttérzést fejlesztünk—rögzített identitásokhoz vagy metafizikai abszolútumokhoz való ragaszkodás nélkül.**
@@ -173,7 +173,7 @@ Ezek nem titkok—ezek **nagy sávszélességű utasítások**, amelyek megköve
 
 ---
 
-< [1. A Bölcsesség és az Együttérzés Funkcionálisan Elválaszthatatlanok](7_compassion/README.md) | [Mit Jelent Valójában a "Szenvedés Megszüntetése"](../03_the_path_to_end_suffering/README.md) >
+< [1. A bölcsesség és az együttérzés funkcionálisan elválaszthatatlanok](7_compassion/README.md) | [Mit jelent valójában a "szenvedés megszüntetése"](../03_the_path_to_end_suffering/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

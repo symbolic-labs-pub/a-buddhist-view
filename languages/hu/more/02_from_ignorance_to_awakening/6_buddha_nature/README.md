@@ -1,4 +1,4 @@
-## [**Buddha-természet (Tathāgatagarbha)** — magyarázva a buddhista tanításokon keresztül](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/02_from_ignorance_to_awakening/6_buddha_nature/README.md#buddha-nature-tathāgatagarbha--explained-through-buddhist-teachings)
+## [**Buddha-természet (tathāgatagarbha)** — magyarázva a buddhista tanításokon keresztül](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/02_from_ignorance_to_awakening/6_buddha_nature/README.md#buddha-nature-tathāgatagarbha--explained-through-buddhist-teachings)
 
 [![buddha_nature](../../../../../more/02_from_ignorance_to_awakening/6_buddha_nature/buddha_nature.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/6_buddha_nature/README.md#buddha-nature-tathāgatagarbha--explained-through-buddhist-teachings)
 ### Mit mond valójában a tanítás
@@ -14,7 +14,7 @@ Ez a tanítás legvilágosabban olyan Mahāyāna szútrákban jelenik meg, mint 
 
 ---
 
-### Mi **nem** a Buddha-természet
+### Mi **nem** a buddha-természet
 
 Kritikus tisztázás az ortodox buddhista értelmezésben:
 
@@ -63,7 +63,7 @@ A klasszikus metaforák, amelyeket felsoroltál, nem költői kiegészítések �
 
 ---
 
-### Hogyan illeszkedik ez az ürességhez (Śūnyatā)
+### Hogyan illeszkedik ez az ürességhez (śūnyatā)
 
 Első ránézésre a Buddha-természet úgy hangozhat, mint az [üresség](../../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism) ellentmondása. Történelmileg ez valódi vitákat okozott.
 
@@ -114,7 +114,7 @@ Ha minden lénynek megvan a képessége a felébredésre, akkor:
 
 ---
 
-### Hogyan kapcsolódik a gyakorlat a Buddha-természethez
+### Hogyan kapcsolódik a gyakorlat a buddha-természethez
 
 A gyakorlat nem a tisztaság *hozzáadásáról* szól — az **elhomályosítások eltávolításáról**.
 

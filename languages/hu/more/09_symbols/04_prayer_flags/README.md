@@ -1,4 +1,4 @@
-## [Imazászlók (Lungta) — Magyarázat a Buddhista Tanítások Szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/04_prayer_flags/README.md#imazászlók-lungta--magyarázat-a-buddhista-tanítások-szerint)
+## [Imazászlók (lungta) — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/04_prayer_flags/README.md#imazászlók-lungta--magyarázat-a-buddhista-tanítások-szerint)
 
 [![prayer_flags](../../../../../more/09_symbols/04_prayer_flags/prayer_flags.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/04_prayer_flags/README.md#imazászlók-lungta--magyarázat-a-buddhista-tanítások-szerint)
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 1. A Szél mint Mozgásban Lévő Elme
+### 1. A szél mint mozgásban lévő elme
 
 A buddhizmusban **az elme nem statikus**. A gondolatok, érzelmek és szándékok úgy keletkeznek és múlnak el, mint a szél áramlatai.
 
@@ -19,11 +19,11 @@ A buddhizmusban **az elme nem statikus**. A gondolatok, érzelmek és szándéko
 > A szél nem "viszi az imákat az istenekhez."
 > **Feloldja a szándékot a megosztott tapasztalati mezőben**.
 
-Ez közvetlenül összhangban van a [**Függő Keletkezéssel**](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás): a hatások akkor keletkeznek, amikor a feltételek jelen vannak.
+Ez közvetlenül összhangban van a [**Függő keletkezéssel**](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás): a hatások akkor keletkeznek, amikor a feltételek jelen vannak.
 
 ---
 
-### 2. Miért Helyezik Ki Szabadba
+### 2. Miért helyezik ki szabadba
 
 Az imazászlókat **ki kell tenni**, nem védeni kell.
 
@@ -42,7 +42,7 @@ Ez az alapvető tanítást tükrözi: *minden kondicionált dolog múlandó*.
 
 ---
 
-### 3. Az Öt Szín = Az Öt Elem
+### 3. Az öt szín = az öt elem
 
 Minden szín egy elemnek felel meg, megmutatva, hogy a gyakorlat **a valóságba ágyazott**, nem elkülönül tőle.
 
@@ -60,7 +60,7 @@ Együtt **a nem-dualitást** fejezik ki:
 
 ---
 
-### 4. Szimbólumok és Mantrák
+### 4. Szimbólumok és mantrák
 
 A leggyakoribb kép a **Szélló (Lungta)**:
 
@@ -80,7 +80,7 @@ Ez párhuzamos magával a mantra gyakorlattal:
 
 ---
 
-### 5. Az Érdem Nem Tulajdon
+### 5. Az érdem nem tulajdon
 
 A személyes imával ellentétben az imazászlók **nem generálnak privát spirituális hitelt**.
 
@@ -95,7 +95,7 @@ Ez gyakorlati **[bodhisattva](../../08_lineage/08_bodhisattva/README.md#4-the-bo
 
 ---
 
-### 6. A Mélyebb Belátás
+### 6. A mélyebb belátás
 
 Az imazászlók legfontosabb tanítása finom:
 
@@ -113,7 +113,7 @@ Amikor a vászon végül szétesik:
 
 ---
 
-### Egy Mondatban
+### Egy mondatban
 
 **Az imazászlók arra tanítják a gyakorlót, hogy ragaszkodás nélkül engedje el a jót a világba—elfogadva a múlandóságot, miközben megbízik az okozatosságban.**
 
@@ -122,7 +122,7 @@ Ez tiszta buddhista gyakorlat.
 
 ---
 
-< [Imakerék (Mani Kerék) — Magyarázat a Buddhista Tanítások Szerint](../03_prayer_wheel/README.md) | [1. Mi is a Sztúpa *Valójában* (Az Építészeten Túl)](../05_stupa/README.md) >
+< [Imakerék (mani kerék) — magyarázat a buddhista tanítások szerint](../03_prayer_wheel/README.md) | [1. Mi is a sztúpa *valójában* (az építészeten túl)](../05_stupa/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

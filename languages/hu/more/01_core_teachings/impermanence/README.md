@@ -1,4 +1,4 @@
-## ["Minden Feltételezett Dolog Múlandó"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/impermanence/README.md)
+## ["minden feltételezett dolog múlandó"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/impermanence/README.md)
 [![impermanence](../../../../../more/01_core_teachings/impermanence/impermanence.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/impermanence/README.md#all-conditioned-things-are-impermanent)
 **(Pāli: *sabbe saṅkhārā aniccā*)**
 
@@ -109,7 +109,7 @@ A **Gautama Buddhá**nak tulajdonított szavak szerint:
 
 ---
 
-< [Alapvető Tanítások](../README.md) | [Mit Jelent a "Pāramitā" a Buddhizmusban](../perfections/README.md) >
+< [Alapvető tanítások](../README.md) | [Mit jelent a "pāramitā" a buddhizmusban](../perfections/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

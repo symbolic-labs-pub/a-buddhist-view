@@ -1,4 +1,4 @@
-## [Vajrasattva (Dorje Sempa)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa)
+## [Vajrasattva (dorje sempa)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa)
 
 [![vajrasattva](../../../../../more/08_lineage/13_vajrasattva/vajrasattva.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/13_vajrasattva/README.md#vajrasattva-dorje-sempa)
 
@@ -6,12 +6,12 @@
 <details>
 <summary>Tanítás</summary>
 
-## A Buddhist Teaching on **Vajrasattva**
+## A buddhist teaching on **Vajrasattva**
 
 
 **Purification as Recognition of the Diamond Mind**
 
-### 1) The Pointing-Out
+### 1) The pointing-out
 
 All Buddhist paths converge on a single insight: **mind is workable**.
 [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle) sharpens this by stating something stronger: **mind is already pure**. What appears as confusion is not a flaw in mind itself, but **temporary obscuration**—like clouds crossing an open sky.
@@ -20,7 +20,7 @@ Vajrasattva embodies this teaching in form: the **diamond mind** that cannot be 
 
 ---
 
-### 2) What “Purification” Really Means
+### 2) What “purification” really means
 
 Purification is often misunderstood as moral repair. In this teaching, it is **epistemic** rather than punitive.
 
@@ -32,7 +32,7 @@ When recognition occurs, patterns lose coherence—**they dissolve without force
 
 ---
 
-### 3) The Union That Liberates
+### 3) The union that liberates
 
 Vajrasattva holds:
 
@@ -46,7 +46,7 @@ United, they form the **diamond cognition** that acts without clinging and knows
 
 ---
 
-### 4) The Four Powers as a Complete Path
+### 4) The four powers as a complete path
 
 The Four Powers are not steps to earn forgiveness; they are **a complete cycle of [awakening](../../10_concepts/README.md#3-megvilágosodás-bodhi-awakening)**:
 
@@ -59,7 +59,7 @@ This cycle repeats naturally until **self-correction becomes spontaneous**.
 
 ---
 
-### 5) Mantra as Structural Medicine
+### 5) Mantra as structural medicine
 
 Mantra works because mind responds to **pattern**, not belief.
 
@@ -73,7 +73,7 @@ Thus mantra is **medicine for structure**, not affirmation for emotion.
 
 ---
 
-### 6) Why This Teaching Comes First
+### 6) Why this teaching comes first
 
 Higher teachings—[Mahāmudrā](../../04_kayas/mahamudra_and_dzogcsen/README.md#mahmudr-nature-of-mind), [Dzogchen](../../04_kayas/mahamudra_and_dzogcsen/README.md#dzogchen-rigpa-direct-introduction)—point directly to the nature of mind.
 Without purification, that pointing lands on **unprepared ground**.
@@ -88,7 +88,7 @@ Vajrasattva ensures:
 
 ---
 
-### 7) The Ethical Consequence
+### 7) The ethical consequence
 
 When one recognizes the diamond nature of mind:
 
@@ -100,7 +100,7 @@ Right action flows naturally from **unobscured perception**.
 
 ---
 
-### 8) Closing Instruction
+### 8) Closing instruction
 
 Do not try to become pure.
 Do not struggle to remove impurity.
@@ -118,7 +118,7 @@ This is the teaching of Vajrasattva:
 <details open>
 <summary>Magyarázat</summary>
 
-### 1. Who is Vajrasattva according to Buddhist teachings?
+### 1. Who is Vajrasattva according to buddhist teachings?
 
 Vajrasattva is **not a historical Buddha**, but a **symbolic embodiment of the mind’s original purity**.
 The term *vajra* means *diamond* or *thunderbolt*—that which is **indestructible and perfectly clear**. *Sattva* means *being*. Together, they signify **the indestructible awakened awareness** that cannot be damaged by confusion, emotion, or karma.
@@ -149,7 +149,7 @@ Every detail is instructional, not decorative:
 
 ---
 
-### 4. The Four Powers of purification
+### 4. The four powers of purification
 
 Vajrasattva practice is structured around the **Four Powers**, a core Vajrayāna framework:
 
@@ -210,7 +210,7 @@ Without purification, higher realization becomes unstable.
 <details>
 <summary>Meditáció</summary>
 
-## Vajrasattva Meditation
+## Vajrasattva meditation
 
 
 > ⚠️ **Note on scope**
@@ -223,7 +223,7 @@ Without purification, higher realization becomes unstable.
 
 *(Purification of obscurations & restoration of samaya)*
 
-### Purpose (Why this practice exists)
+### Purpose (why this practice exists)
 
 Vajrasattva practice is used to:
 
@@ -237,7 +237,7 @@ It is the *recognition that impurity was never intrinsic*.
 
 ---
 
-## Preconditions (Traditional framing)
+## Preconditions (traditional framing)
 
 Ideally, this practice is received after:
 
@@ -247,7 +247,7 @@ Ideally, this practice is received after:
 
 ---
 
-## Structure of the Practice (Four-Part Architecture)
+## Structure of the practice (four-part architecture)
 
 1. **Refuge & Bodhicitta**
 2. **Visualization**
@@ -263,7 +263,7 @@ This mirrors the **Four Opponent Powers**, a key Vajrayāna purification framewo
 
 ---
 
-## 1. Refuge & Bodhicitta
+## 1. Refuge & bodhicitta
 
 Sit comfortably. Spine upright, breath natural.
 
@@ -297,7 +297,7 @@ Above Vajrasattva’s head, visualize a lineage of awakened teachers if that is 
 
 ---
 
-## 3. Confession & Regret (Non-Judgmental)
+## 3. Confession & regret (non-judgmental)
 
 From the heart, acknowledge:
 
@@ -311,7 +311,7 @@ Regret means *recognition*, not self-attack.
 
 ---
 
-## 4. Mantra Recitation (The Purification Engine)
+## 4. Mantra recitation (the purification engine)
 
 From the **HŪṂ** at Vajrasattva’s heart, a stream of **white nectar-light** flows:
 
@@ -324,7 +324,7 @@ From the **HŪṂ** at Vajrasattva’s heart, a stream of **white nectar-light**
 
 Recite slowly, clearly, or mentally:
 
-### The Hundred-Syllable Mantra (Sanskrit – standard form)
+### The hundred-syllable mantra (sanskrit – standard form)
 
 > **Oṁ Vajrasattva Samaya
 > Manupālaya
@@ -365,7 +365,7 @@ No perfectionism. Just sincerity.
 
 ---
 
-## 6. Dissolution into Emptiness (Critical Step)
+## 6. Dissolution into emptiness (critical step)
 
 Vajrasattva smiles.
 
@@ -391,7 +391,7 @@ This is the **actual purification**.
 
 ---
 
-## Key Clarifications (Often Misunderstood)
+## Key clarifications (often misunderstood)
 
 * **Vajrasattva is not “forgiving you”**
   → Purification occurs through *recognition of primordial purity*
@@ -404,7 +404,7 @@ This is the **actual purification**.
 
 ---
 
-## Practical Advice (Modern, realistic)
+## Practical advice (modern, realistic)
 
 * 10–15 minutes daily is powerful
 * Best practiced **before sleep** or **after emotional turbulence**
@@ -416,7 +416,7 @@ This is the **actual purification**.
 
 ---
 
-< [Six Armed Mahakala](../12_six_armed_mahakala/README.md) | [Amitabha](../14_amitabha/README.md) >
+< [Six armed Mahakala](../12_six_armed_mahakala/README.md) | [Amitabha](../14_amitabha/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

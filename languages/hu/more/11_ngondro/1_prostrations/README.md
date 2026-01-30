@@ -1,11 +1,11 @@
-## [The First Ngöndro Gyakorlat](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/1_prostrations/README.md#the-first-ngöndro-Gyakorlat)
+## [The first Ngöndro gyakorlat](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/1_prostrations/README.md#the-first-ngöndro-Gyakorlat)
 [![prostrations](../../../../../more/11_ngondro/1_prostrations/prostrations.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/1_prostrations/README.md#the-first-ngöndro-practice)
-### **Precious Human Birth → Refuge & Prostrations**
+### **Precious human birth → refuge & prostrations**
 In [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle) Buddhism, **Ngöndro** (“that which goes before”) is not a warm-up—it is **foundational re-engineering of the practitioner**. The first Ngöndro Gyakorlat combines **contemplation** with **embodied action**, transforming how body, speech, and mind relate to the path.
 
 ---
 
-## 1. Precious Human Birth — the Cognitive Ground
+## 1. Precious human birth — the cognitive ground
 
 Before any movement begins, the practitioner reflects on **Precious Human Birth**.
 
@@ -23,11 +23,11 @@ Without this reflection, Gyakorlat becomes mechanical or egoic. With it, urgency
 
 ---
 
-## 2. Refuge & Prostrations — the Embodied Gyakorlat
+## 2. Refuge & prostrations — the embodied gyakorlat
 
 This is the **first Inner Ngöndro** Gyakorlat and is traditionally completed in **large numbers** (often 100,000+ repetitions). Quantity matters because repetition **rewires habits**, not because of superstition.
 
-### Why Refuge?
+### Why refuge?
 Refuge answers a structural question:
 
 > *Where does the mind orient when things fall apart?*
@@ -42,9 +42,9 @@ This re-anchors trust **outside egoic control**.
 
 ---
 
-## 3. The Threefold Transformation (Body, Speech, Mind)
+## 3. The threefold transformation (body, speech, mind)
 
-### A. **Body — Prostration**
+### A. **Body — prostration**
 * Standing → bowing → full length on the ground
 * The **entire body** participates
 
@@ -58,7 +58,7 @@ The body learns what the intellect resists.
 
 ---
 
-### B. **Speech — Refuge Prayer**
+### B. **Speech — refuge prayer**
 * Refuge verses are recited continuously
 * Rhythm stabilizes attention
 
@@ -72,7 +72,7 @@ Speech becomes a *carrier of orientation*, not expression of habit.
 
 ---
 
-### C. **Mind — Re-anchoring Trust**
+### C. **Mind — re-anchoring trust**
 * Visualize refuge objects (lineage, teachers, awakened figures)
 * Trust is **placed**, not asserted
 
@@ -84,7 +84,7 @@ Speech becomes a *carrier of orientation*, not expression of habit.
 
 ---
 
-## 4. Why This Gyakorlat Comes First
+## 4. Why this gyakorlat comes first
 
 Refuge & Prostrations are first because they address the **core obstacle**:
 
@@ -100,7 +100,7 @@ It prepares the practitioner to safely engage deeper Vajrayāna methods.
 
 ---
 
-## 5. A Critical Clarification
+## 5. A critical clarification
 
 Ngöndro is often misunderstood as:
 
@@ -117,7 +117,7 @@ It is **training**, not performance.
 
 ---
 
-## 6. The Resulting Shift
+## 6. The resulting shift
 
 Over time, practitioners report:
 
@@ -136,7 +136,7 @@ This is the real sign of progress.
 
 ---
 
-< [Fogalmak](../../10_concepts/README.md) | [2. Vadzsraszattva — A Homályosságok Tisztítása](../2_purification/README.md) >
+< [Fogalmak](../../10_concepts/README.md) | [2. Vadzsraszattva — a homályosságok tisztítása](../2_purification/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

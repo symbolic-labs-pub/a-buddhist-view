@@ -1,4 +1,4 @@
-## [🐚 A Kagyló (Śaṅkha) a Buddhista Tanításokban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/18_conch_shell/README.md#-a-kagyló-śaṅkha-a-buddhista-tanításokban)
+## [🐚 A kagyló (śaṅkha) a buddhista tanításokban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/18_conch_shell/README.md#-a-kagyló-śaṅkha-a-buddhista-tanításokban)
 
 [![conch_shell](../../../../../more/09_symbols/18_conch_shell/conch_shell.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/18_conch_shell/README.md#-a-kagyló-śaṅkha-a-buddhista-tanításokban)
 
@@ -8,7 +8,7 @@ A **kagyló** a **Nyolc Jótékony Szimbólum (Aṣṭamaṅgala)** egyike és *
 
 ---
 
-## Alapvető Jelentés
+## Alapvető jelentés
 
 
 **A [Dharma](../../01_core_teachings/the_three_jewels/README.md#2-dharma-az-ösvény-és-a-valóság-törvénye) messze ható hangja, amely felébreszt lényeket.**
@@ -17,10 +17,10 @@ A kagyló tiszta, átható hangja szimbolizálja **a Buddha tanításának minde
 
 ---
 
-## Kulcs Szimbolikus Dimenziók
+## Kulcs szimbolikus dimenziók
 
 
-### 1. **Ébredett Beszéd**
+### 1. **Ébredett beszéd**
 
 * **A helyes beszédet** (samyag-vāc) képviseli: igazságos, jótékony, időszerű és [együttérző](../../02_from_ignorance_to_awakening/7_compassion/README.md#az-együttérzés-mint-strukturális-elv-a-buddhista-tanításban)
 * A Dharma nem csendes [bölcsesség](../../01_core_teachings/the_noble_eightfold_path/README.md#1-bölcsesség-pa)—**rezonálnia** kell, hogy másokat felszabadítson
@@ -41,7 +41,7 @@ Ez az oka annak, hogy a kagylót gyakran nevezik:
 
 ---
 
-### 3. **Jobbra Forduló (Óramutató Járása Szerinti) Kagyló**
+### 3. **Jobbra forduló (óramutató járása szerinti) kagyló**
 
 * A legtöbb szent kagyló **jobbra** spiráloz, összhangban:
 
@@ -53,7 +53,7 @@ Ez **a valósággal való összhangot** jelzi, nem ellene való ellenállást.
 
 ---
 
-### 4. **Felébredési Hívás**
+### 4. **Felébredési hívás**
 
 * A kagyló nem suttog—**bejelent**
 * Olyan tanításokat szimbolizál, amelyek:
@@ -66,7 +66,7 @@ Ebben az értelemben a kagyló a homályos spiritualitás ellentéte—**hallhat
 
 ---
 
-## Rituális és Gyakorlati Kontextus
+## Rituális és gyakorlati kontextus
 
 
 * Fújják:
@@ -79,7 +79,7 @@ Ebben az értelemben a kagyló a homályos spiritualitás ellentéte—**hallhat
 
 ---
 
-## Mélyebb Belátás (Nem Nyilvánvaló)
+## Mélyebb belátás (nem nyilvánvaló)
 
 
 A kagyló azt tanítja, hogy **az ébredésnek ki kell fejeznie magát**.
@@ -92,14 +92,14 @@ A kagyló azt tanítja, hogy **az ébredésnek ki kell fejeznie magát**.
 
 ---
 
-## Egy Soros Tanítás
+## Egy soros tanítás
 
 
 **A kagyló emlékezteti a gyakorlókat, hogy az igazságot világosan, félelem nélkül és minden lény javára kell kimondani.**
 
 ---
 
-## Gyakorlati Reflektálás (Opcionális)
+## Gyakorlati reflektálás (opcionális)
 
 
 Amikor ma beszélsz, kérdezd:
@@ -111,7 +111,7 @@ Amikor ma beszélsz, kérdezd:
 
 ---
 
-< [Dharma Kerék (Dharmachakra) — a buddhista tanítások szerint](../17_dharma_wheel/README.md) | [Az Aranyhalak — a buddhista tanítások szerint](../19_golden_fish/README.md) >
+< [Dharma kerék (dharmachakra) — a buddhista tanítások szerint](../17_dharma_wheel/README.md) | [Az aranyhalak — a buddhista tanítások szerint](../19_golden_fish/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

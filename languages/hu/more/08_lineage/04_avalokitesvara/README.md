@@ -1,23 +1,23 @@
-## [A Végtelen Reakciókészség Tanítása](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/04_avalokitesvara/README.md)
+## [A végtelen reakciókészség tanítása](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/04_avalokitesvara/README.md)
 
 [![avalokitesvara](../../../../../more/08_lineage/04_avalokitesvara/avalokitesvara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/04_avalokitesvara/README.md#the-teaching-of-infinite-responsiveness)
 
 <details>
 <summary>Tanítás</summary>
 
-## A Végtelen Reakciókészség Tanítása
+## A végtelen reakciókészség tanítása
 
 
-### Együttérzés Mint Struktúra, Nem Érzelem
+### Együttérzés mint struktúra, nem érzelem
 
-### Központi Figura
+### Központi figura
 
 Avalokiteśvara
 az **ezerkarú formában** nem istenségként van bemutatva, akit imádni kell, hanem mint **ébredett funkció térképe**.
 
 ---
 
-## 1. A Központi Probléma: Önrögzítés
+## 1. A központi probléma: önrögzítés
 
 
 A buddhista elemzés szerint a [szenvedés](../../../../../more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha) nem elsősorban fájdalomból, veszteségből vagy nehézségből ered.
@@ -38,7 +38,7 @@ Ez **kiégést, büszkeséget, bűntudatot és ellenállást** teremt.
 
 ---
 
-## 2. A Radikális Váltás: Együttérzés Központ Nélkül
+## 2. A radikális váltás: együttérzés központ nélkül
 
 
 Az ezerkarú forma valami radikálisat tanít:
@@ -64,7 +64,7 @@ Az az, ami megtörténik, amikor **az önhivatkozás lazul**.
 
 ---
 
-## 3. Jártas Eszközök Mindenhol
+## 3. Jártas eszközök mindenhol
 
 
 A [mahájána](../../../../../more/05_yanas/README.md#limitation-from-mahāyāna-view) buddhizmusban az együttérzés elválaszthatatlan a **prajñātól** ([bölcsességtől](../../../../../more/01_core_teachings/the_noble_eightfold_path/README.md#1-wisdom-paññā)).
@@ -87,18 +87,18 @@ Csak **kontextus-érzékeny válasz** van.
 
 ---
 
-## 4. Miért Lágyít Ez a Gyakorlat Gyengítés Nélkül
+## 4. Miért lágyít ez a gyakorlat gyengítés nélkül
 
 
 A tanítás kifejezetten két szélsőséget kerül:
 
-### ❌ Szentimentális Együttérzés
+### ❌ Szentimentális együttérzés
 
 * Túl-azonosulás a szenvedéssel
 * Érzelmi elárasztás
 * A tisztaság elvesztése
 
-### ❌ Elszakadt Közömbösség
+### ❌ Elszakadt közömbösség
 
 * Visszahúzódás a szenvedéstől
 * Spirituális kikerülés
@@ -115,7 +115,7 @@ Ez olyan együttérzés, amely **nem omlik össze nyomás alatt**.
 
 ---
 
-## 5. Lojong Integráció: Strukturális Elme Edzés
+## 5. Lojong integráció: strukturális elme edzés
 
 
 A Kagyü hagyományban ez a tanítás közvetlenül integrálódik a **lojong-gal (elme edzés)**.
@@ -138,7 +138,7 @@ Ez **építészeti változás az elmében**.
 
 ---
 
-## 6. A Legmélyebb Pont: Az Együttérzésnek Nincs Tulajdonosa
+## 6. A legmélyebb pont: az együttérzésnek nincs tulajdonosa
 
 
 A legmélyebb szinten a tanítás a **nem-birtoklásra** mutat.
@@ -161,7 +161,7 @@ Az együttérzés **az ébredett tudatosság tulajdonsága**, nem személyiségj
 
 ---
 
-## 7. Gyakorlati Tanítási Összefoglaló
+## 7. Gyakorlati tanítási összefoglaló
 
 
 Ezt a tanítást a napi életbe egy elvvel viheted:
@@ -173,7 +173,7 @@ Ha csak erre emlékszel, a tanítás él.
 
 ---
 
-## Záró Utasítás
+## Záró utasítás
 
 
 Ne próbálj *együttérzővé* válni.
@@ -194,16 +194,16 @@ Amikor ez megtörténik,
 <details open>
 <summary>Magyarázat</summary>
 
-### Együttérzés Mint Struktúra, Nem Érzelem
+### Együttérzés mint struktúra, nem érzelem
 
-### Központi Figura
+### Központi figura
 
 Avalokiteśvara
 az **ezerkarú formában** nem istenségként van bemutatva, akit imádni kell, hanem mint **ébredett funkció térképe**.
 
 ---
 
-## 1. A Központi Probléma: Önrögzítés
+## 1. A központi probléma: önrögzítés
 
 A buddhista elemzés szerint a szenvedés nem elsősorban fájdalomból, veszteségből vagy nehézségből ered.
 
@@ -223,7 +223,7 @@ Ez **kiégést, büszkeséget, bűntudatot és ellenállást** teremt.
 
 ---
 
-## 2. A Radikális Váltás: Együttérzés Központ Nélkül
+## 2. A radikális váltás: együttérzés központ nélkül
 
 Az ezerkarú forma valami radikálisat tanít:
 
@@ -248,7 +248,7 @@ Az az, ami megtörténik, amikor **az önhivatkozás lazul**.
 
 ---
 
-## 3. Jártas Eszközök Mindenhol
+## 3. Jártas eszközök mindenhol
 
 A mahájána buddhizmusban az együttérzés elválaszthatatlan a **prajñātól** (bölcsességtől).
 
@@ -270,17 +270,17 @@ Csak **kontextus-érzékeny válasz** van.
 
 ---
 
-## 4. Miért Lágyít Ez a Gyakorlat Gyengítés Nélkül
+## 4. Miért lágyít ez a gyakorlat gyengítés nélkül
 
 A tanítás kifejezetten két szélsőséget kerül:
 
-### ❌ Szentimentális Együttérzés
+### ❌ Szentimentális együttérzés
 
 * Túl-azonosulás a szenvedéssel
 * Érzelmi elárasztás
 * A tisztaság elvesztése
 
-### ❌ Elszakadt Közömbösség
+### ❌ Elszakadt közömbösség
 
 * Visszahúzódás a szenvedéstől
 * Spirituális kikerülés
@@ -297,7 +297,7 @@ Ez olyan együttérzés, amely **nem omlik össze nyomás alatt**.
 
 ---
 
-## 5. Lojong Integráció: Strukturális Elme Edzés
+## 5. Lojong integráció: strukturális elme edzés
 
 A Kagyü hagyományban ez a tanítás közvetlenül integrálódik a **lojong-gal (elme edzés)**.
 
@@ -319,7 +319,7 @@ Ez **építészeti változás az elmében**.
 
 ---
 
-## 6. A Legmélyebb Pont: Az Együttérzésnek Nincs Tulajdonosa
+## 6. A legmélyebb pont: az együttérzésnek nincs tulajdonosa
 
 A legmélyebb szinten a tanítás a **nem-birtoklásra** mutat.
 
@@ -341,7 +341,7 @@ Az együttérzés **az ébredett tudatosság tulajdonsága**, nem személyiségj
 
 ---
 
-## 7. Gyakorlati Tanítási Összefoglaló
+## 7. Gyakorlati tanítási összefoglaló
 
 Ezt a tanítást a napi életbe egy elvvel viheted:
 
@@ -352,7 +352,7 @@ Ha csak erre emléksz, a tanítás él.
 
 ---
 
-## Záró Utasítás
+## Záró utasítás
 
 Ne próbálj *együttérzővé* válni.
 
@@ -369,7 +369,7 @@ Amikor ez megtörténik,
 
 ## Ezerkarú Chenrezig
 
-### Meditáció a Végtelen Együttérzésről Mint Cselekvésről
+### Meditáció a végtelen együttérzésről mint cselekvésről
 
 **Cél**
 Az elme stabilizálása **nem-önhivatkozó együttérzésben**, az önrögzítés feloldása miközben erősítjük a képességet, hogy jártas módon válaszoljunk a szenvedésre.
@@ -445,7 +445,7 @@ Csak ez a felismerés:
 
 ---
 
-## 4. Mantra Strukturális Figyelemmel (5–10 perc)
+## 4. Mantra strukturális figyelemmel (5–10 perc)
 
 
 Ismételd halkan vagy csendben:
@@ -471,7 +471,7 @@ Ha gondolatok merülnek fel:
 
 ---
 
-## 5. Együttérzés Mint Mező (3–5 perc)
+## 5. Együttérzés mint mező (3–5 perc)
 
 
 Most engedd el a mantrát.
@@ -510,7 +510,7 @@ Maradj röviden **hétköznapi tudatosságban**, változatlan, földelt.
 
 ---
 
-## Kulcsfontosságú Gyakorlati Belátás (Nagyon Fontos)
+## Kulcsfontosságú gyakorlati belátás (nagyon fontos)
 
 
 Ez a meditáció **képességet** edz, nem érzelmet.
@@ -530,7 +530,7 @@ A haladás igazi jele ez:
 
 ---
 
-## Gyakorlati Integráció (Párnán Kívül)
+## Gyakorlati integráció (párnán kívül)
 
 
 A napi élet során:
@@ -551,7 +551,7 @@ Az együttérzés **strukturális orientáció**, nem hangulat.
 ## Ezerkarú Chenrezig
 
 
-### Meditáció a Végtelen Együttérzésről Mint Cselekvésről
+### Meditáció a végtelen együttérzésről mint cselekvésről
 
 **Cél**
 Az elme stabilizálása **nem-önhivatkozó együttérzésben**, az önrögzítés feloldása miközben erősítjük a képességet, hogy jártas módon válaszoljunk a szenvedésre.
@@ -627,7 +627,7 @@ Csak ez a felismerés:
 
 ---
 
-## 4. Mantra Strukturális Figyelemmel (5–10 perc)
+## 4. Mantra strukturális figyelemmel (5–10 perc)
 
 
 Ismételd halkan vagy csendben:
@@ -653,7 +653,7 @@ Ha gondolatok merülnek fel:
 
 ---
 
-## 5. Együttérzés Mint Mező (3–5 perc)
+## 5. Együttérzés mint mező (3–5 perc)
 
 
 Most engedd el a mantrát.
@@ -692,7 +692,7 @@ Maradj röviden **hétköznapi tudatosságban**, változatlan, földelt.
 
 ---
 
-## Kulcsfontosságú Gyakorlati Belátás (Nagyon Fontos)
+## Kulcsfontosságú gyakorlati belátás (nagyon fontos)
 
 
 Ez a meditáció **képességet** edz, nem érzelmet.
@@ -712,7 +712,7 @@ A haladás igazi jele ez:
 
 ---
 
-## Gyakorlati Integráció (Párnán Kívül)
+## Gyakorlati integráció (párnán kívül)
 
 
 A napi élet során:
@@ -732,7 +732,7 @@ Az együttérzés **strukturális orientáció**, nem hangulat.
 
 ---
 
-< [Mahākāla Védelmező Megidézés](../03_mahakala/README.md) | [Buddhista Tanítás: **Ébredés Mint Jártas Adaptáció**](../05_padmasambhava/README.md) >
+< [Mahākāla védelmező megidézés](../03_mahakala/README.md) | [Buddhista tanítás: **ébredés mint jártas adaptáció**](../05_padmasambhava/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

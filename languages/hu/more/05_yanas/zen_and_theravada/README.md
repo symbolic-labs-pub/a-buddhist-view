@@ -1,6 +1,6 @@
 ## [1) How they *structure* the path](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/05_yanas/zen_and_theravada/README.md#1-how-they-structure-the-path)
 [![zen_and_theravada](../../../../../more/05_yanas/zen_and_theravada/zen_and_theravada.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/05_yanas/zen_and_theravada/README.md#1-how-they-structure-the-path)
-### Tibetan Buddhism (broadly: Gelug/Kagyu/Sakya/Nyingma)
+### Tibetan Buddhism (broadly: gelug/kagyu/sakya/nyingma)
 **Explicit multi-vehicle architecture**:
 
 * **Śrāvakayāna** foundations ([ethics](../../01_core_teachings/the_noble_eightfold_path/README.md#2-etikus-magatartas-la), renunciation, [concentration](../../01_core_teachings/the_noble_eightfold_path/README.md#8-helyes-koncentracio-samm-samdhi), insight)
@@ -10,7 +10,7 @@
 
 This is usually taught as **a layered stack** (often via *Lamrim* / graduated path).
 
-### Zen (Chan/Seon/Zen)
+### Zen (chan/seon/zen)
 **Not a “vehicle ladder” in the same explicit way.**
 Zen is **Mahāyāna** at its base, but it typically emphasizes:
 
@@ -22,13 +22,13 @@ Zen has its own “staging” (kenshō, post-kenshō cultivation), but it’s **
 Good entry points:
 
 * [Zen (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/japanese-zen/)
-* [Chan Buddhism (Britannica overview)](https://www.britannica.com/topic/Chan-Buddhism)
+* [Chan Buddhism (britannica overview)](https://www.britannica.com/topic/Chan-Buddhism)
 
 ### Theravāda
 **Single primary vehicle framing** (in its self-understanding): the path to **Nibbāna** via:
 
 * **Sīla / Samādhi / [Paññā](../../01_core_teachings/the_noble_eightfold_path/README.md#1-bölcsesség-pa)**
-* [Four Noble Truths](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#a-négy-nemes-igazság-ahogyan-buddha-értette), [Noble Eightfold Path](../../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban), [Dependent Origination](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás)
+* [Four noble truths](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#a-négy-nemes-igazság-ahogyan-buddha-értette), [Noble eightfold path](../../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban), [Dependent origination](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás)
 
 Theravāda preserves an early canonical emphasis on **arhatship** as the normative “completion” of the path (while still respecting bodhisatta ideals in various ways).
 
@@ -115,16 +115,16 @@ A useful bridge conceptually:
 
 ## 5) The biggest “false friends” (terms that mislead across traditions)
 
-### “Sudden awakening”
+### “sudden awakening”
 * **Zen**: sudden “seeing,” then long cultivation (often implicit)
 * **Tibetan Dzogchen/[Mahamudra](../../04_kayas/mahamudra_and_dzogcsen/README.md#mahmudr-nature-of-mind)**: direct introduction/recognition, then stabilization (explicitly warned not to confuse with spacing out)
 * **Theravāda**: can have sudden insight events, but the **training arc** is usually described more gradually and systematically
 
-### “Emptiness = nothing exists”
+### “emptiness = nothing exists”
 All three reject nihilism.
 Zen avoids over-explaining; Tibetan explains it carefully; Theravāda emphasizes conditionality and not-self. Different pedagogy, same safety constraint.
 
-### “Buddha-nature”
+### “buddha-nature”
 * Core language in much of Mahāyāna (including Tibetan; also present in some Zen)
 * Not a standard Theravāda doctrinal centerpiece (though there are interpretive bridges people try to build—often controversially)
 
@@ -163,7 +163,7 @@ Think of them as three optimization strategies for the same objective function (
 
 ---
 
-< [Közös alap: A figyelem 3 gombja](../shikantaza_and_vipassana/README.md) | [Köztes Állapotok (*Bardo*) és Újjászületés](../../06_intermediate_states_and_reincarnation/README.md) >
+< [Közös alap: a figyelem 3 gombja](../shikantaza_and_vipassana/README.md) | [Köztes állapotok (*bardo*) és újjászületés](../../06_intermediate_states_and_reincarnation/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

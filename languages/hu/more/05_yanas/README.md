@@ -1,10 +1,10 @@
-## [What is a Yāna?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/05_yanas/README.md#what-is-a-yāna)
+## [What is a yāna?](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/05_yanas/README.md#what-is-a-yāna)
 [![yanas.png](../../../../more/05_yanas/yanas.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/05_yanas/README.md#what-is-a-yāna)
 
 <details>
 <summary>Tanítás</summary>
 
-## Tanítás az Út Járműveiről
+## Tanítás az út járműveiről
 
 *(A Yānák mint egy Élő Egész Út)*
 
@@ -17,7 +17,7 @@ Ezek az **érés szakaszai** egyetlen kibontakozó utazásban.
 
 ---
 
-### Az Első Alap — Fegyelem és Lemondás
+### Az első alap — fegyelem és lemondás
 *(Śrāvakayāna)*
 
 Először meg kell tanulni abbahagyni az ártást.
@@ -32,7 +32,7 @@ E nélkül az alap nélkül a magasabb törekvések spirituális fantáziává o
 
 ---
 
-### A Második Belátás — Magányos Ébredés
+### A második belátás — magányos ébredés
 *(Pratyekabuddhayāna)*
 
 Egyes lények csendben ébrednek.
@@ -45,7 +45,7 @@ Mégis a belátás önmagában nem fordul természetesen kifelé.
 
 ---
 
-### A Nagy Fordulat — Együttérző Ébredés
+### A nagy fordulat — együttérző ébredés
 *(Mahāyāna)*
 
 Itt az út kiszélesedik.
@@ -60,7 +60,7 @@ A [Bölcsesség](../01_core_teachings/the_noble_eightfold_path/README.md#1-bölc
 
 ---
 
-### A Gyémánt Módszer — Átalakulás
+### A gyémánt módszer — átalakulás
 *(Vajrayāna)*
 
 Most az út felgyorsul.
@@ -74,7 +74,7 @@ Az erő megalapozás nélkül illúzióvá válik.
 
 ---
 
-### A Nagy Tökéletesség — Felismerés
+### A nagy tökéletesség — felismerés
 *(Dzogchen)*
 
 A csúcson semmit sem adnak hozzá.
@@ -89,7 +89,7 @@ Ez nem elérés, hanem **emlékezés**.
 
 ---
 
-### Egy Ösvény, Sok Ajtó
+### Egy ösvény, sok ajtó
 Ezek a járművek nem létrafokoká a világból való meneküléshez.
 Ezek módjai annak, hogy **a valóságban lakjunk zavar nélkül**.
 
@@ -102,7 +102,7 @@ Integrálva egyetlen élő [Dharma](../01_core_teachings/the_three_jewels/README
 
 ---
 
-### Végső Utasítás
+### Végső utasítás
 Ne kérdezd, *"Melyik jármű a legmagasabb?"*
 Ehelyett kérdezd:
 
@@ -133,24 +133,24 @@ Nem az **igazságban** különböznek, hanem az **ügyes eszközökben**, mélys
 
 ---
 
-## 1. Śrāvakayāna — *The Listener’s Vehicle*
+## 1. Śrāvakayāna — *the listener’s vehicle*
 
 *(Often grouped under “Hīnayāna” in Tibetan texts)*
 
-### Fő Cél
+### Fő cél
 Személyes Felszabadulás a Szenvedésből (*arhatság*).
 
-### Kulcsfontosságú Tanítások
-* [Négy Nemes Igazság](../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#a-négy-nemes-igazság-ahogyan-buddha-értette)
-* [Nyolcrétű Ösvény](../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban)
+### Kulcsfontosságú tanítások
+* [Négy nemes igazság](../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#a-négy-nemes-igazság-ahogyan-buddha-értette)
+* [Nyolcrétű ösvény](../01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban)
 * Múlandóság, Szenvedés, [nem-én](../02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md#3-nem-en-anatt)
 
-### Gyakorlat Hangsúlya
+### Gyakorlat hangsúlya
 * Etikai fegyelem (*śīla*)
 * [Koncentráció (*samādhi*)](../01_core_teachings/the_noble_eightfold_path/README.md#8-helyes-koncentracio-samm-samdhi)
 * [Elemző belátás (*vipassanā*)](shikantaza_and_vipassana/README.md#shared-baseline-3-knobs-of-attention)
 
-### Az Énről Alkotott Nézet
+### Az énről alkotott nézet
 Nincs állandó én, de **a jelenségeket hagyományosan valóságosként kezeljük**.
 
 ### Eredmény
@@ -161,16 +161,16 @@ A Szenvedés megszűnése önmagunk számára.
 
 ---
 
-## 2. Pratyekabuddhayāna — *The Solitary Realizer’s Vehicle*
+## 2. Pratyekabuddhayāna — *the solitary realizer’s vehicle*
 
-### Fő Cél
+### Fő cél
 Önébredés tanító Közösségtől való függés nélkül.
 
-### Kulcsfontosságú Jellemzők
+### Kulcsfontosságú jellemzők
 * Ébredés **közvetlen belátással a [függő keletkezésbe](../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás)**
 * Olyan korszakokban jelenik meg, amikor a Dharma nem taníttatik
 
-### Gyakorlat Hangsúlya
+### Gyakorlat hangsúlya
 * Az okság mély szemlélése
 * Természetes magány
 
@@ -184,24 +184,24 @@ Felszabadulás, de mások tanítása nélkül.
 
 ---
 
-## 3. Mahāyāna — *The Great Vehicle*
+## 3. Mahāyāna — *the great vehicle*
 
-### Fő Cél
+### Fő cél
 **Teljes Buddhaság minden lény javára.**
 
-### Meghatározó Jellemző
+### Meghatározó jellemző
 **Bodhicitta** — a fogadalom, hogy minden lényért ébredjünk.
 
-### Alapvető Tanítások
+### Alapvető tanítások
 * Śūnyatā (üresség)
-* [Két Igazság (hagyományos / végső)](../02_from_ignorance_to_awakening/5_the_two_truths/README.md#a-két-igazság-a-buddhista-tanításban)
+* [Két igazság (hagyományos / végső)](../02_from_ignorance_to_awakening/5_the_two_truths/README.md#a-két-igazság-a-buddhista-tanításban)
 * [Buddha-természet (*tathāgatagarbha*)](../02_from_ignorance_to_awakening/6_buddha_nature/README.md#buddha-nature-tathgatagarbha-explained-through-buddhist-teachings)
 
-### Gyakorlat Hangsúlya
+### Gyakorlat hangsúlya
 * Hat [Pāramitā](../01_core_teachings/perfections/README.md#hogyan-mukodnek-egyutt-a-pramitk) (nagylelkűség, etika, türelem, erőfeszítés, Meditáció, Bölcsesség)
 * Együttérzés mint módszer, Bölcsesség mint nézet
 
-### A Valóságról Alkotott Nézet
+### A valóságról alkotott nézet
 * Minden jelenség üres a belső létezéstől
 * Az Együttérzés természetesen keletkezik az ürességből
 
@@ -212,12 +212,12 @@ Teljes Buddhaság — mindentudó, együttérző tevékenység.
 
 ---
 
-## 4. Vajrayāna (Tantrayāna / Mantrayāna) — *The Diamond Vehicle*
+## 4. Vajrayāna (tantrayāna / mantrayāna) — *the diamond vehicle*
 
-### Fő Cél
+### Fő cél
 **Gyors Buddhaság egyetlen életben** (megfelelő feltételek mellett).
 
-### Kulcs Elv
+### Kulcs elv
 > *Vedd az eredményt útként.*
 
 Az ember úgy gyakorol, **mintha már felébredt volna**, használva:
@@ -227,12 +227,12 @@ Az ember úgy gyakorol, **mintha már felébredt volna**, használva:
 * Mudrā
 * [Mandala](../09_symbols/07_mandala/README.md#mandala--explained-according-to-buddhist-teachings) vizualizáció
 
-### Megkülönböztető Jellemzők
+### Megkülönböztető jellemzők
 * Guru-tanítvány átadás
 * Szent nézet: minden megjelenés tiszta
 * Átalakulás az érzelmek lemondása helyett
 
-### A Valóságról Alkotott Nézet
+### A valóságról alkotott nézet
 Üresség elválaszthatatlan a megjelenéstől
 Boldogság elválaszthatatlan a Bölcsességtől
 
@@ -245,19 +245,19 @@ Boldogság elválaszthatatlan a Bölcsességtől
 
 ---
 
-## 5. Dzogchen — *The Great Perfection*
+## 5. Dzogchen — *the great perfection*
 
 *(Often presented as the pinnacle of Vajrayāna in Nyingma)*
 
 
-### Fő Cél
+### Fő cél
 A **rigpa** közvetlen felismerése — ősi Tudatosság.
 
-### Radikális Nézet
+### Radikális nézet
 * A Megvilágosodás **már jelen van**
 * Semmit sem kell megalkotni, megtisztítani vagy kijavítani
 
-### Gyakorlat Stílusa
+### Gyakorlat stílusa
 * *Trekchö*: átvágás a fogalmi elmén
 * *Tögal*: közvetlen látás gyakorlatok (haladó)
 
@@ -274,7 +274,7 @@ Felkészülés nélkül a gyakorlók összekeverik:
 
 ---
 
-## Integrált Tibeti Nézet (Nagyon Fontos)
+## Integrált tibeti nézet (nagyon fontos)
 
 A tibeti buddhizmus **nem** látja a yānákat versengő ösvényekként:
 
@@ -289,7 +289,7 @@ A tibeti buddhizmus **nem** látja a yānákat versengő ösvényekként:
 
 ---
 
-## Egy Kulcsfontosságú Tibeti Analógia
+## Egy kulcsfontosságú tibeti analógia
 
 > *Nem mászik fel az ember egy hegyre az alacsonyabb lejtők tagadásával.*
 
@@ -299,7 +299,7 @@ A Dzogchen-re való "ugrást" etika és Együttérzés nélkül így írják le:
 
 ---
 
-## Gyakorlati Útmutatás (Modern Alkalmazás)
+## Gyakorlati útmutatás (modern alkalmazás)
 
 **Alacsony gyümölcsök / gyors győzelmek**:
 
@@ -316,7 +316,7 @@ Sok modern gyakorló nem a tanítások hiánya miatt bukik el, hanem a **jármű
 
 ---
 
-< [1. Dharmakāya → *Alap Felismerés*](../04_kayas/mahamudra_and_dzogcsen/README.md) | [Közös alap: A figyelem 3 gombja](shikantaza_and_vipassana/README.md) >
+< [1. Dharmakāya → *alap felismerés*](../04_kayas/mahamudra_and_dzogcsen/README.md) | [Közös alap: a figyelem 3 gombja](shikantaza_and_vipassana/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

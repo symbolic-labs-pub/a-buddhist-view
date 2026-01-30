@@ -1,16 +1,16 @@
-## [Vajradhara and the Teaching of Recognition](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
+## [Vajradhara and the teaching of recognition](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
 
 [![vajradhara.png](../../../../../more/08_lineage/11_vajradhara/vajradhara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
 
 <details>
 <summary>Tanítás</summary>
 
-## Vajradhara and the Teaching of Recognition
+## Vajradhara and the teaching of recognition
 
 
 **A Mahāmudrā Teaching of the Kagyü Lineage**
 
-### Core Thesis
+### Core thesis
 
 **Vajradhara** is not a distant Buddha, a god, or a metaphysical origin.
 Vajradhara names **the already-present nature of mind**—[awakening](../../10_concepts/README.md#3-megvilágosodás-bodhi-awakening) **before concepts arise**.
@@ -23,7 +23,7 @@ This teaching is radical in its simplicity:
 
 ---
 
-## 1. The Ground: Timeless Awareness
+## 1. The ground: timeless awareness
 
 
 In Kagyü understanding, Vajradhara represents the **ground state** (gzhi):
@@ -41,7 +41,7 @@ confusion does not stain awareness.
 
 ---
 
-## 2. The Error: Seeking What Is Already Present
+## 2. The error: seeking what is already present
 
 
 Ordinary beings suffer not because awareness is absent, but because it is **overlooked**.
@@ -60,7 +60,7 @@ Vajradhara corrects this error by pointing directly:
 
 ---
 
-## 3. Method and Wisdom United
+## 3. Method and wisdom united
 
 
 Vajradharadhara-and-the-teaching-of-recognition) holds **vajra and bell** crossed at the heart:
@@ -77,7 +77,7 @@ Mahāmudrā is **their inseparability**, lived directly.
 
 ---
 
-## 4. The Path: Recognition, Not Construction
+## 4. The path: recognition, not construction
 
 
 Kagyü teaching emphasizes **pointing-out instruction**:
@@ -96,7 +96,7 @@ It does not depend on silence, posture, or retreat.
 
 ---
 
-## 5. The Fruit: Natural Presence in Daily Life
+## 5. The fruit: natural presence in daily life
 
 
 The fruit of Vajradhara realization is not withdrawal from life, but **uncontrived presence**:
@@ -115,7 +115,7 @@ But without the extra burden of self-fabrication.
 
 ---
 
-## 6. Why This Teaching Is Given Last
+## 6. Why this teaching is given last
 
 
 Vajradhara teachings are traditionally given **after** [ethics](../../01_core_teachings/the_noble_eightfold_path/README.md#2-etikus-magatartas-la), devotion, and discipline because:
@@ -128,7 +128,7 @@ When foundations are stable, Mahāmudrā is **safe and liberating**.
 
 ---
 
-## Summary Seal
+## Summary seal
 
 
 * Vajradhara is not historical — **he is timeless**
@@ -152,7 +152,7 @@ That recognition is Vajradhara.
 
 **A Mahāmudrā Teaching of the Kagyü Lineage**
 
-### Core Thesis
+### Core thesis
 
 **Vajradhara** is not a distant Buddha, a god, or a metaphysical origin.
 Vajradhara names **the already-present nature of mind**—awakening **before concepts arise**.
@@ -165,7 +165,7 @@ This teaching is radical in its simplicity:
 
 ---
 
-## 1. The Ground: Timeless Awareness
+## 1. The ground: timeless awareness
 
 In Kagyü understanding, Vajradhara represents the **ground state** (gzhi):
 
@@ -182,7 +182,7 @@ confusion does not stain awareness.
 
 ---
 
-## 2. The Error: Seeking What Is Already Present
+## 2. The error: seeking what is already present
 
 Ordinary beings suffer not because awareness is absent, but because it is **overlooked**.
 
@@ -200,7 +200,7 @@ Vajradhara corrects this error by pointing directly:
 
 ---
 
-## 3. Method and Wisdom United
+## 3. Method and wisdom united
 
 Vajradhara holds **vajra and bell** crossed at the heart:
 
@@ -216,7 +216,7 @@ Mahāmudrā is **their inseparability**, lived directly.
 
 ---
 
-## 4. The Path: Recognition, Not Construction
+## 4. The path: recognition, not construction
 
 Kagyü teaching emphasizes **pointing-out instruction**:
 
@@ -234,7 +234,7 @@ It does not depend on silence, posture, or retreat.
 
 ---
 
-## 5. The Fruit: Natural Presence in Daily Life
+## 5. The fruit: natural presence in daily life
 
 The fruit of Vajradhara realization is not withdrawal from life, but **uncontrived presence**:
 
@@ -252,7 +252,7 @@ But without the extra burden of self-fabrication.
 
 ---
 
-## 6. Why This Teaching Is Given Last
+## 6. Why this teaching is given last
 
 Vajradhara teachings are traditionally given **after** ethics, devotion, and discipline because:
 
@@ -264,7 +264,7 @@ When foundations are stable, Mahāmudrā is **safe and liberating**.
 
 ---
 
-## Summary Seal
+## Summary seal
 
 * Vajradhara is not historical — **he is timeless**
 * Mahāmudrā is not gradual — **it is immediate**
@@ -278,7 +278,7 @@ That recognition is Vajradhara.
 
 ---
 
-### Vajradhara Mahāmudrā Meditation
+### Vajradhara Mahāmudrā meditation
 
 > ⚠️ **Note on scope**
 > What follows is a **non-empowerment contemplative form** (a *practice of meaning*).
@@ -314,7 +314,7 @@ Silently acknowledge:
 
 ---
 
-## 2. Settling the Mind (5 minutes)
+## 2. Settling the mind (5 minutes)
 
 * Allow thoughts, sensations, and emotions to arise freely.
 * Do **not** suppress, analyze, or follow them.
@@ -329,7 +329,7 @@ Notice the **space in which they appear**.
 
 ---
 
-## 3. Pointing-Out Recognition (10–15 minutes)
+## 3. Pointing-out recognition (10–15 minutes)
 
 Gently inquire—not conceptually, but experientially:
 
@@ -355,7 +355,7 @@ That recognition *is* Vajradhara-nature.
 
 ---
 
-## 4. Symbolic Seal (optional, 2 minutes)
+## 4. Symbolic seal (optional, 2 minutes)
 
 Briefly recall Vajradhara:
 
@@ -385,7 +385,7 @@ Dedication (optional):
 
 ---
 
-## Common Pitfalls (and Corrections)
+## Common pitfalls (and corrections)
 
 * ❌ **Trying to stop thoughts** → ✔ Let them self-liberate
 * ❌ **Searching for a special state** → ✔ Recognize what is already here
@@ -394,7 +394,7 @@ Dedication (optional):
 
 ---
 
-## Structural Insight (Kagyü view)
+## Structural insight (Kagyü view)
 
 * Ethics stabilize the field
 * Devotion opens receptivity
@@ -416,7 +416,7 @@ If you want, next we can:
 <details>
 <summary>Meditáció</summary>
 
-### Vajradhara Mahāmudrā Meditation
+### Vajradhara Mahāmudrā meditation
 
 > ⚠️ **Note on scope**
 > What follows is a **non-empowerment contemplative form** (a *practice of meaning*).
@@ -454,7 +454,7 @@ Silently acknowledge:
 
 ---
 
-## 2. Settling the Mind (5 minutes)
+## 2. Settling the mind (5 minutes)
 
 
 * Allow thoughts, sensations, and emotions to arise freely.
@@ -470,7 +470,7 @@ Notice the **space in which they appear**.
 
 ---
 
-## 3. Pointing-Out Recognition (10–15 minutes)
+## 3. Pointing-out recognition (10–15 minutes)
 
 
 Gently inquire—not conceptually, but experientially:
@@ -497,7 +497,7 @@ That recognition *is* Vajradhara-nature.
 
 ---
 
-## 4. Symbolic Seal (optional, 2 minutes)
+## 4. Symbolic seal (optional, 2 minutes)
 
 
 Briefly recall Vajradhara:
@@ -529,7 +529,7 @@ Dedication (optional):
 
 ---
 
-## Common Pitfalls (and Corrections)
+## Common pitfalls (and corrections)
 
 
 * ❌ **Trying to stop thoughts** → ✔ Let them self-liberate
@@ -539,7 +539,7 @@ Dedication (optional):
 
 ---
 
-## Structural Insight (Kagyü view)
+## Structural insight (Kagyü view)
 
 
 * Ethics stabilize the field
@@ -554,7 +554,7 @@ Vajradhara is **recognized at the beginning**.
 
 ---
 
-< [**Buddhista Tanítás: Marpa a Fordító — A Dharma, Amely Nem Enged Lágyulást**](../10_marpa/README.md) | [A Haragvó Védelmező Tanítása](../12_six_armed_mahakala/README.md) >
+< [**Buddhista tanítás: Marpa a fordító — a Dharma, amely nem enged lágyulást**](../10_marpa/README.md) | [A haragvó védelmező tanítása](../12_six_armed_mahakala/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

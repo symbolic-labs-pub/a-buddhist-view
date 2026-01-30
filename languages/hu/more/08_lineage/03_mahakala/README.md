@@ -1,4 +1,4 @@
-## [**Mahākāla és a Nem-Visszafordulás Dharmája**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/03_mahakala/README.md)
+## [**Mahākāla és a nem-visszafordulás dharmája**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/03_mahakala/README.md)
 
 [![mahakala](../../../../../more/08_lineage/03_mahakala/mahakala.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/03_mahakala/README.md#mahākāla-and-the-dharma-of-non-regression)
 
@@ -6,10 +6,10 @@
 <details>
 <summary>Tanítás</summary>
 
-## **Mahākāla és a Nem-Visszafordulás Dharmája**
+## **Mahākāla és a nem-visszafordulás dharmája**
 
 
-### *Heves Együttérzés Mint az Ébredés Feltétele*
+### *Heves együttérzés mint az ébredés feltétele*
 
 A [vadzsrajánában](../../../../../more/05_yanas/README.md#4-vajrayāna-tantrayāna-mantrayāna---the-diamond-vehicle)—és különösen a Kagyü leszármazásban—Mahākālát nem olyan istenségként közelítik meg, aki kedvezményeket nyújt, sem olyan lényként, aki az egót kényelmetlenségtől védi.
 Mahākāla az ébredett [együttérzés](../../../../../more/02_from_ignorance_to_awakening/7_compassion/README.md#compassion-as-a-structural-principle-in-buddhist-teaching) **funkcióját** képviseli: az erőt, amely **megakadályozza a visszalépést, miután az útra léptünk**.
@@ -23,7 +23,7 @@ Mahākāla ennek a kompromisszumnak az ellenszere.
 
 ---
 
-## 1. A Haragvó Forma Nem Jelent Haragot
+## 1. A haragvó forma nem jelent haragot
 
 
 A buddhizmusban a megjelenések **pedagógiaiak**.
@@ -43,7 +43,7 @@ Ez tanítja nekünk:
 
 ---
 
-## 2. A Védelem Nem Kényelem
+## 2. A védelem nem kényelem
 
 
 Egy gyakori félreértés a védelmet a nehézségektől való biztonságként kezelni.
@@ -67,7 +67,7 @@ Mahākāla nem távolítja el ezeket a fenyegetéseket.
 
 ---
 
-## 3. A Nem-Visszafordulás Mint Központi Dharma Elv
+## 3. A nem-visszafordulás mint központi Dharma elv
 
 
 A [mahájánában](../../../../../more/05_yanas/README.md#limitation-from-mahāyāna-view) és a vadzsrajánában az egyik legsúlyosabb veszély a **regresszió**—nem drámai összeomlás, hanem csendes visszacsúszás.
@@ -90,7 +90,7 @@ Egy **védelmező tisztaságot** igényel, amely azonnal lelepleezi az öncsalá
 
 ---
 
-## 4. Az Igazi Ellenség az Egó-Ragaszkodás
+## 4. Az igazi ellenség az egó-ragaszkodás
 
 
 Mahākāla haragja mindig befelé irányul.
@@ -112,7 +112,7 @@ Ez tanítja, hogy az [ébredés](../../../../../more/10_concepts/README.md#3-enl
 
 ---
 
-## 5. A Védelmező Nem Külső
+## 5. A védelmező nem külső
 
 
 A legmélyebb szinten Mahākāla **nem más**.
@@ -133,7 +133,7 @@ Mahākāla jelen van.
 
 ---
 
-## 6. Integráció a Napi Életbe
+## 6. Integráció a napi életbe
 
 
 Ez a tanítás nem korlátozódik rituáléra.
@@ -149,7 +149,7 @@ Ezekben a pillanatokban a heves együttérzés él.
 
 ---
 
-## Záró Tanítási Nyilatkozat
+## Záró tanítási nyilatkozat
 
 
 > **A gyengéd együttérzés megnyitja az utat.
@@ -165,7 +165,7 @@ Ezekben a pillanatokban a heves együttérzés él.
 <details open>
 <summary>Magyarázat</summary>
 
-### *Heves Együttérzés Mint az Ébredés Feltétele*
+### *Heves együttérzés mint az ébredés feltétele*
 
 A vadzsrajánában—és különösen a Kagyü leszármazásban—Mahākālát nem olyan istenségként közelítik meg, aki kedvezményeket nyújt, sem olyan lényként, aki az egót kényelmetlenségtől védi.
 Mahākāla az ébredett együttérzés **funkcióját** képviseli: az erőt, amely **megakadályozza a visszalépést, miután az útra léptünk**.
@@ -179,7 +179,7 @@ Mahākāla ennek a kompromisszumnak az ellenszere.
 
 ---
 
-## 1. A Haragvó Forma Nem Jelent Haragot
+## 1. A haragvó forma nem jelent haragot
 
 A buddhizmusban a megjelenések **pedagógiaiak**.
 
@@ -198,7 +198,7 @@ Ez tanítja nekünk:
 
 ---
 
-## 2. A Védelem Nem Kényelem
+## 2. A védelem nem kényelem
 
 Egy gyakori félreértés a védelmet a nehézségektől való biztonságként kezelni.
 
@@ -221,7 +221,7 @@ Mahākāla nem távolítja el ezeket a fenyegetéseket.
 
 ---
 
-## 3. A Nem-Visszafordulás Mint Központi Dharma Elv
+## 3. A nem-visszafordulás mint központi Dharma elv
 
 A mahájánában és a vadzsrajánában az egyik legsúlyosabb veszély a **regresszió**—nem drámai összeomlás, hanem csendes visszacsúszás.
 
@@ -243,7 +243,7 @@ Egy **védelmező tisztaságot** igényel, amely azonnal lelepleezi az öncsalá
 
 ---
 
-## 4. Az Igazi Ellenség az Egó-Ragaszkodás
+## 4. Az igazi ellenség az egó-ragaszkodás
 
 Mahākāla haragja mindig befelé irányul.
 
@@ -264,7 +264,7 @@ Ez tanítja, hogy az ébredés nem törékeny—csak **ragaszkodás által akad�
 
 ---
 
-## 5. A Védelmező Nem Külső
+## 5. A védelmező nem külső
 
 A legmélyebb szinten Mahākāla **nem más**.
 
@@ -284,7 +284,7 @@ Mahākāla jelen van.
 
 ---
 
-## 6. Integráció a Napi Életbe
+## 6. Integráció a napi életbe
 
 Ez a tanítás nem korlátozódik rituáléra.
 
@@ -299,7 +299,7 @@ Ezekben a pillanatokban a heves együttérzés él.
 
 ---
 
-## Záró Tanítási Nyilatkozat
+## Záró tanítási nyilatkozat
 
 > **A gyengéd együttérzés megnyitja az utat.
 > A heves együttérzés nyitva tartja.**
@@ -309,7 +309,7 @@ Ezekben a pillanatokban a heves együttérzés él.
 
 ---
 
-# Mahākāla Védelmező Megidézés
+# Mahākāla védelmező megidézés
 
 **Heves Együttérzés és Nem-Visszafordulás Meditációja**
 
@@ -322,7 +322,7 @@ Ezekben a pillanatokban a heves együttérzés él.
 
 ---
 
-## 1. Előkészítés — A Talaj Létesítése (3–5 perc)
+## 1. Előkészítés — a talaj létesítése (3–5 perc)
 
 Ülj stabil testtartásban.
 Ha lehetséges, **[lótusz](../../../../../more/09_symbols/08_lotus/README.md#the-lotus-in-buddhist-teaching) vagy fél-lótusz**, különben bármilyen kiegyensúlyozott ülő pozíció.
@@ -343,7 +343,7 @@ Hagyd, hogy ez a szándék letelepedjen.
 
 ---
 
-## 2. Felidézés — A Védelmező Megértése (2–3 perc)
+## 2. Felidézés — a védelmező megértése (2–3 perc)
 
 Vizualizáció előtt **tisztázd a jelentést**.
 
@@ -359,7 +359,7 @@ Mahākāla itt **az ébredett energia funkcionális elve**.
 
 ---
 
-## 3. Vizualizáció — Mahākāla Felbukkanása (5–7 perc)
+## 3. Vizualizáció — Mahākāla felbukkanása (5–7 perc)
 
 Az előtted lévő nyílt térből—vagy a tudatosság központjából—
 
@@ -381,7 +381,7 @@ A harag itt nem izgatottság—hanem **rendületlen tisztaság**.
 
 ---
 
-## 4. Megidézés — A Funkció Hívása (5–7 perc)
+## 4. Megidézés — a funkció hívása (5–7 perc)
 
 Kilélegzéskor csendben idézd meg:
 
@@ -405,7 +405,7 @@ Hagyd, hogy Mahākāla **közvetlenül szembenézzen vele rajtad keresztül**.
 
 ---
 
-## 5. Egyesülés — A Védelmező Mint Saját Képességed (3–5 perc)
+## 5. Egyesülés — a védelmező mint saját képességed (3–5 perc)
 
 Most old fel a vizualizációt.
 
@@ -426,7 +426,7 @@ Ez a döntő pont:
 
 ---
 
-## 6. Felajánlás — A Gyakorlat Lepecsételése (2–3 perc)
+## 6. Felajánlás — a gyakorlat lepecsételése (2–3 perc)
 
 Gyengéden fejezd be:
 
@@ -441,7 +441,7 @@ Maradj még néhány pillanatig mozdulatlan mozgás előtt.
 
 ---
 
-## Integrációs Jegyzetek (Fontos)
+## Integrációs jegyzetek (fontos)
 
 * Ez a gyakorlat **különösen hatékony**, amikor a motiváció gyengül
 * Használd **visszavonulási ülések**, nehéz munka vagy etikai kihívások előtt
@@ -450,7 +450,7 @@ Maradj még néhány pillanatig mozdulatlan mozgás előtt.
 
 ---
 
-## Egy Soros Lényeg (megjegyzendő a napi élet során)
+## Egy soros lényeg (megjegyzendő a napi élet során)
 
 </details>
 
@@ -459,7 +459,7 @@ Maradj még néhány pillanatig mozdulatlan mozgás előtt.
 <details>
 <summary>Megidézés</summary>
 
-# Mahākāla Védelmező Megidézés
+# Mahākāla védelmező megidézés
 
 
 **Heves Együttérzés és Nem-Visszafordulás Meditációja**
@@ -473,7 +473,7 @@ Maradj még néhány pillanatig mozdulatlan mozgás előtt.
 
 ---
 
-## 1. Előkészítés — A Talaj Létesítése (3–5 perc)
+## 1. Előkészítés — a talaj létesítése (3–5 perc)
 
 
 Ülj stabil testtartásban.
@@ -495,7 +495,7 @@ Hagyd, hogy ez a szándék letelepedjen.
 
 ---
 
-## 2. Felidézés — A Védelmező Megértése (2–3 perc)
+## 2. Felidézés — a védelmező megértése (2–3 perc)
 
 
 Vizualizáció előtt **tisztázd a jelentést**.
@@ -512,7 +512,7 @@ Mahākāla itt **az ébredett energia funkcionális elve**.
 
 ---
 
-## 3. Vizualizáció — Mahākāla Felbukkanása (5–7 perc)
+## 3. Vizualizáció — Mahākāla felbukkanása (5–7 perc)
 
 
 Az előtted lévő nyílt térből—vagy a tudatosság központjából—
@@ -535,7 +535,7 @@ A harag itt nem izgatottság—hanem **rendületlen tisztaság**.
 
 ---
 
-## 4. Megidézés — A Funkció Hívása (5–7 perc)
+## 4. Megidézés — a funkció hívása (5–7 perc)
 
 
 Kilélegzéskor csendben idézd meg:
@@ -560,7 +560,7 @@ Hagyd, hogy Mahākāla **közvetlenül szembenézzen vele rajtad keresztül**.
 
 ---
 
-## 5. Egyesülés — A Védelmező Mint Saját Képességed (3–5 perc)
+## 5. Egyesülés — a védelmező mint saját képességed (3–5 perc)
 
 
 Most old fel a vizualizációt.
@@ -582,7 +582,7 @@ Ez a döntő pont:
 
 ---
 
-## 6. Felajánlás — A Gyakorlat Lepecsételése (2–3 perc)
+## 6. Felajánlás — a gyakorlat lepecsételése (2–3 perc)
 
 
 Gyengéden fejezd be:
@@ -598,7 +598,7 @@ Maradj még néhány pillanatig mozdulatlan mozgás előtt.
 
 ---
 
-## Integrációs Jegyzetek (Fontos)
+## Integrációs jegyzetek (fontos)
 
 
 * Ez a gyakorlat **különösen hatékony**, amikor a motiváció gyengül
@@ -608,7 +608,7 @@ Maradj még néhány pillanatig mozdulatlan mozgás előtt.
 
 ---
 
-## Egy Soros Lényeg (megjegyzendő a napi élet során)
+## Egy soros lényeg (megjegyzendő a napi élet során)
 
 
 > **"A heves együttérzés védi, amit a kényelem elpusztítana."**
@@ -619,7 +619,7 @@ Maradj még néhány pillanatig mozdulatlan mozgás előtt.
 
 ---
 
-< [**Kagyü Tanítás Zöld Tārāról: Együttérzés, Ami Nem Habozik**](../02_green_tara/README.md) | [A Végtelen Reakciókészség Tanítása](../04_avalokitesvara/README.md) >
+< [**Kagyü tanítás zöld tārāról: együttérzés, ami nem habozik**](../02_green_tara/README.md) | [A végtelen reakciókészség tanítása](../04_avalokitesvara/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

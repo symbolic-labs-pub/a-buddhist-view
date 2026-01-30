@@ -1,4 +1,4 @@
-### A Lótusz a Buddhista Tanításban
+### A lótusz a buddhista tanításban
 
 ![lotus](../../../../../more/09_symbols/08_lotus/lotus.png)
 
@@ -8,7 +8,7 @@ A lótusz a buddhizmus egyik legvilágosabb *tanító szimbóluma*. Nem díszít
 
 ---
 
-## 1. Tisztaság *Elutasítás Nélkül*
+## 1. Tisztaság *elutasítás nélkül*
 
 A buddhizmusban a tisztaság **nem** azt jelenti, hogy elkerüljük a világot vagy kitöröljük a nehézségeket.
 
@@ -31,7 +31,7 @@ Ez közvetlenül ellentmond a spirituális megkerülésnek—annak az elképzel�
 
 ---
 
-## 2. Ébredés *Feltételeken Keresztül*, Nem Azoktól Távol
+## 2. Ébredés *feltételeken keresztül*, nem azoktól távol
 
 A lótusz nem *ellenére* nő a sárnak.
 Hanem **miatta**.
@@ -54,7 +54,7 @@ Kihívás nélkül:
 
 ---
 
-## 3. Függő Keletkezés Láthatóvá Téve
+## 3. Függő keletkezés láthatóvá téve
 
 A lótusz a [**függő keletkezés**](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás) élő diagramja:
 
@@ -75,7 +75,7 @@ Ez eltávolítja:
 
 ---
 
-## 4. Nem-Duális Bölcsesség: A Szamszára és a Nirvána Nem Kettő
+## 4. Nem-duális bölcsesség: a szamszára és a nirvána nem kettő
 
 A lótusz *a* világban áll, miközben a zavaron *túlra* mutat.
 
@@ -94,7 +94,7 @@ Amikor a tudatlanság eltávolításra kerül:
 
 ---
 
-## 5. Gyakorlati Útmutatás (Nem Csak Szimbolizmus)
+## 5. Gyakorlati útmutatás (nem csak szimbolizmus)
 
 A lótusz **hogyan kell gyakorolni** tanítja:
 
@@ -110,7 +110,7 @@ Minden irritáció, veszteség vagy félelem:
 
 ---
 
-### Alapvető Tanítás Újrafogalmazva
+### Alapvető tanítás újrafogalmazva
 
 **A sár táplálja a lótuszt.
 A szenvedés táplálja az ébredést.**
@@ -132,7 +132,7 @@ A lótusz emlékezteti a gyakorlót:
 
 ---
 
-< [1. Mi is a mandala *valójában* (ontológiailag)](../07_mandala/README.md) | [Mi is a Mantra *Valójában* (Buddhista Nézet)](../10_mantra/README.md) >
+< [1. Mi is a mandala *valójában* (ontológiailag)](../07_mandala/README.md) | [Mi is a mantra *valójában* (buddhista nézet)](../10_mantra/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

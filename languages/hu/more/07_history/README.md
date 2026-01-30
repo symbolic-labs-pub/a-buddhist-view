@@ -3,7 +3,7 @@
 |                       [Napjaink](present.md)                        |                     [Múlt](past.md)                      |
 |:-------------------------------------------------------------------:|:--------------------------------------------------------------:|
 |     [![16thKarmapa.jpg](../../../../more/07_history/16thKarmapa.jpg)](present.md)     |     [![history_small.png](../../../../more/07_history/history_small.png)](past.md)      |
-|  [A 16. Karmapa](https://www.youtube.com/watch?v=XokE6yKhH8g)    | [Siddhartha Gautama](https://en.wikipedia.org/wiki/The_Buddha) |
+|  [A 16. Karmapa](https://www.youtube.com/watch?v=XokE6yKhH8g)    | [Siddhartha gautama](https://en.wikipedia.org/wiki/The_Buddha) |
 
 </div>
 
@@ -11,7 +11,7 @@ A **Kagyu (Bka' brgyud)** iskola gyakran Tibeti Buddhizmus **"gyakorlati leszár
 
 ---
 
-## A Kagyu Iskola Alapvető Orientációja
+## A Kagyu iskola alapvető orientációja
 
 A Kagyu út egy kérdésre válaszol:
 
@@ -24,7 +24,7 @@ Minden gyakorlat—előkészítő, tantrikus, jógikus és formátlan—**ügyes
 ## 1. **Mahāmudrā**
 
 
-### *(A Központi Kagyu Meditációs Cél)*
+### *(a központi Kagyu meditációs cél)*
 
 A **[Mahāmudrā ("Nagy Pecsét")](../04_kayas/mahamudra_and_dzogcsen/README.md#mahmudr-nature-of-mind)** a Kagyu gyakorlat *szíve*.
 
@@ -51,10 +51,10 @@ A Mahāmudrā-t gyakran tanítják **fokozatosan vagy hirtelen**, a tanulótól 
 
 ---
 
-## 2. **Ngöndro (Előkészítő Gyakorlatok)**
+## 2. **Ngöndro (előkészítő gyakorlatok)**
 
 
-### *(Az Elme Felkészítése a Mahāmudrā-ra)*
+### *(az elme felkészítése a mahāmudrā-ra)*
 
 A haladó megvalósítás előtt a Kagyu a **pszichológiai és karmikus tisztítást** hangsúlyozza.
 
@@ -75,10 +75,10 @@ A Ngöndro nem "kezdő dolog"—ez **neuro-etikai újrahuzalozás**.
 
 ---
 
-## 3. **Guru Yoga**
+## 3. **Guru yoga**
 
 
-### *(A Leggyorsabb Út a Kagyu-ban)*
+### *(a leggyorsabb út a kagyu-ban)*
 
 A Guru Yoga *kivételesen központi* a Kagyu-ban.
 
@@ -97,10 +97,10 @@ Az odaadás itt nem hit—ez egy **precíziós eszköz az ego feloldásához**.
 
 ---
 
-## 4. **Istenség Yoga (Yidam Gyakorlat)**
+## 4. **Istenség yoga (yidam gyakorlat)**
 
 
-### *(Az Észlelés Újramintázása)*
+### *(az észlelés újramintázása)*
 
 Gyakori Kagyu yidam-ok:
 
@@ -121,10 +121,10 @@ Az istenség yoga támogatja a Mahāmudrā-t—**nem helyettesíti azt**.
 
 ---
 
-## 5. **Naropa Hat Yogája**
+## 5. **Naropa hat yogája**
 
 
-### *(Haladó Befejezési-Szakasz Yogák)*
+### *(haladó befejezési-szakasz yogák)*
 
 Ezek a yogák közvetlenül a **finom testtel és tudatossággal** dolgoznak.
 
@@ -146,7 +146,7 @@ Ezek a gyakorlatok **erős Mahāmudrā alapozást igényelnek**.
 
 ---
 
-## 6. **Dzogchen (Alkalmanként Gyakorolt)**
+## 6. **Dzogchen (alkalmanként gyakorolt)**
 
 
 Néhány Kagyu mester a [**Dzogchen**](../04_kayas/mahamudra_and_dzogcsen/README.md#dzogchen-rigpa-direct-introduction)-t is tanítja, különösen a **Shangpa Kagyu** és Rimé (nem-szektárius) kontextusban.
@@ -158,7 +158,7 @@ Cél:
 
 ---
 
-## 🧭 Egysoros Összefoglaló
+## 🧭 Egysoros összefoglaló
 
 
 > **A Kagyu meditáció az elme természetének felismerését célozza, az odaadást, megtestesülést és jógikus precizitást használva gyorsítóként.**
@@ -167,7 +167,7 @@ Minden a **Mahāmudrā-ba** konvergál.
 
 ---
 
-## 🔍 Gyakorlati Betekintés
+## 🔍 Gyakorlati betekintés
 
 
 Ha modern rendszernyelvre fordítjuk:
@@ -187,7 +187,7 @@ Alacsony költségű, nagy hatású kiindulópont ma:
 
 ---
 
-< [Köztes Állapotok (*Bardo*) és Újjászületés](../06_intermediate_states_and_reincarnation/README.md) | [Fehér Tārā Meditáció](../08_lineage/01_white_tara/README.md) >
+< [Köztes állapotok (*bardo*) és újjászületés](../06_intermediate_states_and_reincarnation/README.md) | [Fehér Tārā meditáció](../08_lineage/01_white_tara/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

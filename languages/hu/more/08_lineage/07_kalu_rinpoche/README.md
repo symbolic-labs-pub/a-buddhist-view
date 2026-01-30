@@ -11,7 +11,7 @@ Interview: [on youtube](https://www.youtube.com/watch?v=N_W7t6fl73Q)
 
 ---
 
-< [Gyógyító Buddha](../06_medicine_buddha/README.md) | [A Bodhiszattva Út](../08_bodhisattva/README.md) >
+< [Gyógyító Buddha](../06_medicine_buddha/README.md) | [A bodhiszattva út](../08_bodhisattva/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

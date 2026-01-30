@@ -1,21 +1,21 @@
-## [Awakening Is Not Private](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/08_bodhisattva/README.md#awakening-is-not-private)
+## [Awakening is not private](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/08_bodhisattva/README.md#awakening-is-not-private)
 
 [![bodhisattva.png](../../../../../more/08_lineage/08_bodhisattva/bodhisattva.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/08_bodhisattva/README.md#awakening-is-not-private)
 
 <details>
 <summary>Tanítás</summary>
 
-# The Bodhisattva Path
+# The Bodhisattva path
 
 
-## Awakening Is Not Private
+## Awakening is not private
 
 
-### A Teaching on Awakening-in-Relation
+### A teaching on awakening-in-relation
 
 ---
 
-## 1. The Core Reversal
+## 1. The core reversal
 
 
 Ordinary thinking assumes:
@@ -34,7 +34,7 @@ Where self-clinging remains, awakening is incomplete.
 
 ---
 
-## 2. Why Enlightenment Cannot Be Private
+## 2. Why enlightenment cannot be private
 
 
 From the Buddhist view:
@@ -51,7 +51,7 @@ To awaken while excluding others would be like trying to breathe while denying a
 
 ---
 
-## 3. Wisdom and Compassion: Not Two Things
+## 3. Wisdom and compassion: not two things
 
 
 In early practice, wisdom and compassion appear distinct:
@@ -71,7 +71,7 @@ Thus, compassion is **emptiness in action**.
 
 ---
 
-## 4. The Bodhisattva Vow as Structural Alignment
+## 4. The Bodhisattva vow as structural alignment
 
 
 The vow is often misunderstood as a promise to *save all beings*.
@@ -90,7 +90,7 @@ It is a **direction**, not a finish line.
 
 ---
 
-## 5. Awakening in Motion
+## 5. Awakening in motion
 
 
 A Buddha represents **complete realization at rest**.
@@ -118,7 +118,7 @@ It is a **way of functioning**.
 
 ---
 
-## 6. The Ethical Consequence
+## 6. The ethical consequence
 
 
 Because awakening is relational:
@@ -143,7 +143,7 @@ This is why morality precedes, supports, and expresses realization.
 
 ---
 
-## 7. The Silent Criterion
+## 7. The silent criterion
 
 
 A simple test reveals bodhisattva alignment:
@@ -168,7 +168,7 @@ It **inhabits it intelligently**.
 
 ---
 
-## 8. Final Pointing
+## 8. Final pointing
 
 
 The bodhisattva is not a saint, savior, or hero.
@@ -188,7 +188,7 @@ but because **reality is alive**.
 
 ---
 
-### Closing Line (Traditional in Spirit)
+### Closing line (traditional in spirit)
 
 > May wisdom clarify perception.
 > May compassion guide response.
@@ -205,13 +205,13 @@ This is the **bodhisattva teaching**.
 <summary>Magyarázat</summary>
 
 
-## Awakening Is Not Private
+## Awakening is not private
 
-### A Teaching on Awakening-in-Relation
+### A teaching on awakening-in-relation
 
 ---
 
-## 1. The Core Reversal
+## 1. The core reversal
 
 Ordinary thinking assumes:
 
@@ -229,7 +229,7 @@ Where self-clinging remains, awakening is incomplete.
 
 ---
 
-## 2. Why Enlightenment Cannot Be Private
+## 2. Why enlightenment cannot be private
 
 From the Buddhist view:
 
@@ -245,7 +245,7 @@ To awaken while excluding others would be like trying to breathe while denying a
 
 ---
 
-## 3. Wisdom and Compassion: Not Two Things
+## 3. Wisdom and compassion: not two things
 
 In early practice, wisdom and compassion appear distinct:
 
@@ -264,7 +264,7 @@ Thus, compassion is **emptiness in action**.
 
 ---
 
-## 4. The Bodhisattva Vow as Structural Alignment
+## 4. The Bodhisattva vow as structural alignment
 
 The vow is often misunderstood as a promise to *save all beings*.
 
@@ -282,7 +282,7 @@ It is a **direction**, not a finish line.
 
 ---
 
-## 5. Awakening in Motion
+## 5. Awakening in motion
 
 A Buddha represents **complete realization at rest**.
 A bodhisattva represents **realization in movement**.
@@ -309,7 +309,7 @@ It is a **way of functioning**.
 
 ---
 
-## 6. The Ethical Consequence
+## 6. The ethical consequence
 
 Because awakening is relational:
 
@@ -333,7 +333,7 @@ This is why morality precedes, supports, and expresses realization.
 
 ---
 
-## 7. The Silent Criterion
+## 7. The silent criterion
 
 A simple test reveals bodhisattva alignment:
 
@@ -357,7 +357,7 @@ It **inhabits it intelligently**.
 
 ---
 
-## 8. Final Pointing
+## 8. Final pointing
 
 The bodhisattva is not a saint, savior, or hero.
 
@@ -376,7 +376,7 @@ but because **reality is alive**.
 
 ---
 
-### Closing Line (Traditional in Spirit)
+### Closing line (traditional in spirit)
 
 > May wisdom clarify perception.
 > May compassion guide response.
@@ -386,9 +386,9 @@ This is the **bodhisattva teaching**.
 
 ---
 
-## Bodhisattva Meditation
+## Bodhisattva meditation
 
-### *Awakening-in-Relation Practice*
+### *Awakening-in-relation practice*
 
 This is not a visualization of a deity.
 It is a **training in orientation**.
@@ -400,7 +400,7 @@ It is a **training in orientation**.
 
 ---
 
-## 1. Preparation — Establish the Ground
+## 1. Preparation — establish the ground
 
 Sit comfortably. Spine upright, body relaxed.
 Let the breath settle without controlling it.
@@ -414,7 +414,7 @@ Let it land as a **structural fact**.
 
 ---
 
-## 2. Opening Contemplation — The Bodhisattva Vow
+## 2. Opening contemplation — the Bodhisattva vow
 
 Silently reflect:
 
@@ -433,9 +433,9 @@ This intention is the **axis** of the meditation.
 
 ---
 
-## 3. Core Practice — Co-Arising of Wisdom and Compassion
+## 3. Core practice — co-arising of wisdom and compassion
 
-### Phase A: Wisdom (Seeing Clearly)
+### Phase a: wisdom (seeing clearly)
 
 Rest awareness on experience as it is:
 
@@ -456,7 +456,7 @@ This is **prajñā** — clarity without commentary.
 
 ---
 
-### Phase B: Compassion (Responding Without Grasping)
+### Phase b: compassion (responding without grasping)
 
 Now widen awareness to include others:
 
@@ -475,7 +475,7 @@ This is **karuṇā** — responsiveness without self-reference.
 
 ---
 
-### Phase C: Integration — Awakening in Motion
+### Phase c: integration — awakening in motion
 
 Now drop the distinction.
 
@@ -493,7 +493,7 @@ This is the **bodhisattva mode**:
 
 ---
 
-## 4. Working with Obstacles
+## 4. Working with obstacles
 
 If pride arises:
 
@@ -517,7 +517,7 @@ Obstacles are **diagnostics**, not failures.
 
 ---
 
-## 5. Dedication — Sealing the Practice
+## 5. Dedication — sealing the practice
 
 Conclude with dedication:
 
@@ -529,7 +529,7 @@ Dedication **stabilizes causality**.
 
 ---
 
-## 6. Off-Cushion Continuation — The Real Practice
+## 6. Off-cushion continuation — the real practice
 
 The bodhisattva vow lives **outside meditation**.
 
@@ -551,7 +551,7 @@ Just **consistent orientation**.
 
 ---
 
-## Key Insight to Carry
+## Key insight to carry
 
 > A bodhisattva is not someone who saves the world.
 > A bodhisattva is someone who **stops excluding others from awakening**.
@@ -563,10 +563,10 @@ Just **consistent orientation**.
 <details>
 <summary>Meditáció</summary>
 
-## Bodhisattva Meditation
+## Bodhisattva meditation
 
 
-### *Awakening-in-Relation Practice*
+### *Awakening-in-relation practice*
 
 This is not a visualization of a deity.
 It is a **training in orientation**.
@@ -578,7 +578,7 @@ It is a **training in orientation**.
 
 ---
 
-## 1. Preparation — Establish the Ground
+## 1. Preparation — establish the ground
 
 
 Sit comfortably. Spine upright, body relaxed.
@@ -593,7 +593,7 @@ Let it land as a **structural fact**.
 
 ---
 
-## 2. Opening Contemplation — The Bodhisattva Vow
+## 2. Opening contemplation — the Bodhisattva vow
 
 
 Silently reflect:
@@ -613,10 +613,10 @@ This intention is the **axis** of the meditation.
 
 ---
 
-## 3. Core Practice — Co-Arising of Wisdom and Compassion
+## 3. Core practice — co-arising of wisdom and compassion
 
 
-### Phase A: Wisdom (Seeing Clearly)
+### Phase a: wisdom (seeing clearly)
 
 Rest [awareness](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing) on experience as it is:
 
@@ -637,7 +637,7 @@ This is **prajñā** — clarity without commentary.
 
 ---
 
-### Phase B: Compassion (Responding Without Grasping)
+### Phase b: compassion (responding without grasping)
 
 Now widen awareness to include others:
 
@@ -656,7 +656,7 @@ This is **karuṇā** — responsiveness without self-reference.
 
 ---
 
-### Phase C: Integration — Awakening in Motion
+### Phase c: integration — awakening in motion
 
 Now drop the distinction.
 
@@ -674,7 +674,7 @@ This is the **bodhisattva mode**:
 
 ---
 
-## 4. Working with Obstacles
+## 4. Working with obstacles
 
 
 If pride arises:
@@ -699,7 +699,7 @@ Obstacles are **diagnostics**, not failures.
 
 ---
 
-## 5. Dedication — Sealing the Practice
+## 5. Dedication — sealing the practice
 
 
 Conclude with dedication:
@@ -712,7 +712,7 @@ Dedication **stabilizes causality**.
 
 ---
 
-## 6. Off-Cushion Continuation — The Real Practice
+## 6. Off-cushion continuation — the real practice
 
 
 The bodhisattva vow lives **outside meditation**.
@@ -735,7 +735,7 @@ Just **consistent orientation**.
 
 ---
 
-## Key Insight to Carry
+## Key insight to carry
 
 
 > A bodhisattva is not someone who saves the world.
@@ -749,7 +749,7 @@ This is **awakening in motion**.
 
 
 
-< [Kalu Rinpoche](../07_kalu_rinpoche/README.md) | [**Buddhista Tanítás: Milarepa és a Visszafordíthatatlan Átalakulás Törvénye**](../09_milarepa/README.md) >
+< [Kalu Rinpoche](../07_kalu_rinpoche/README.md) | [**Buddhista tanítás: Milarepa és a visszafordíthatatlan átalakulás törvénye**](../09_milarepa/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

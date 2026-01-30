@@ -1,4 +1,4 @@
-## [Mudrák a Buddhista Tanításokban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/11_mudra/README.md#mudrák-a-buddhista-tanításokban)
+## [Mudrák a buddhista tanításokban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/11_mudra/README.md#mudrák-a-buddhista-tanításokban)
 
 [![mudra](../../../../../more/09_symbols/11_mudra/mudra.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/11_mudra/README.md#mudrák-a-buddhista-tanításokban)
 
@@ -12,19 +12,19 @@ A Vajrayāna-ban és különösen a tibeti buddhizmusban **a testet, beszédet �
 
 ---
 
-## Mit Tesznek Valójában a Mudrák (Funkcionálisan)
+## Mit tesznek valójában a mudrák (funkcionálisan)
 
 
 Buddhista technikai nézőpontból a mudrák négy alapvető funkciót szolgálnak:
 
-### 1. **Kognitív Horgonyzás**
+### 1. **Kognitív horgonyzás**
 
 A test pózja **rögzíti a figyelmet** a [tudatosság](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing) egy specifikus módjába.
 
 * Megakadályozza a diszkurzivitásba való sodródást
 * *Formát* ad az elmének, amelyben megpihenhet
 
-### 2. **A Nézet Megtestesítése**
+### 2. **A nézet megtestesítése**
 
 Minden mudrā egy **megvalósult perspektívának** felel meg:
 
@@ -35,14 +35,14 @@ Minden mudrā egy **megvalósult perspektívának** felel meg:
 
 Nem *kifejezel* ezeket a minőségeket — hanem **felveszed a struktúrájukat**.
 
-### 3. **Energetikus Szabályozás (Vajrayāna nézet)**
+### 3. **Energetikus szabályozás (Vajrayāna nézet)**
 
 A mudrák szervezik a finom csatornákat (*tsa*), a szeleket (*lung*) és a cseppeket (*thigle*).
 
 * Ez **szomatikus neuro-szabályozás**, nem babona
 * Összehasonlítható a modern megtestesült megismerés elmélettel
 
-### 4. **Leszármazási Kódolás**
+### 4. **Leszármazási kódolás**
 
 Bizonyos mudrák **leszármazás-specifikus utasítások**, amelyek szavak nélkül adódnak át.
 
@@ -51,7 +51,7 @@ Bizonyos mudrák **leszármazás-specifikus utasítások**, amelyek szavak nélk
 
 ---
 
-## Alapelv: Mudrā ≠ Szimbólum
+## Alapelv: mudrā ≠ szimbólum
 
 
 Egy kritikus buddhista megkülönböztetés:
@@ -67,27 +67,27 @@ A mudrák **csak a helyes szándékkal és nézettel párosítva** működnek. N
 
 ---
 
-## Példák a Jelentésre a Strukturális Szinten
+## Példák a jelentésre a strukturális szinten
 
 
-### Dhyāna Mudrā (Meditációs Mozdulat)
+### Dhyāna mudrā (meditációs mozdulat)
 
 * A kezek zárt áramkört alkotnak
 * **Nem-duális egyensúlyt** képvisel
 * **Megszakítatlan tudatosság** trenírozására használják
 
-### Bhūmisparśa Mudrā (Föld-Érintés)
+### Bhūmisparśa mudrā (föld-érintés)
 
 * Magát a valóságot hívja tanúként
 * **Megingathatatlan megalapozást** képvisel
 * Kétség, félelem vagy belső fragmentáció szembenézésekor használják
 
-### Abhaya Mudrā (Félelemnélküliség)
+### Abhaya mudrā (félelemnélküliség)
 
 * Nem megnyugtatás, hanem **a fenyegetés hiánya**
 * Az idegrendszert trenírozza, hogy nyitott maradjon védelem nélkül
 
-### Varada Mudrā (Adás / Együttérzés)
+### Varada mudrā (adás / együttérzés)
 
 * Nyitott tenyér lefelé
 * **Erőfeszítés nélküli nagylelkűséget** testesít meg
@@ -95,7 +95,7 @@ A mudrák **csak a helyes szándékkal és nézettel párosítva** működnek. N
 
 ---
 
-## Miért Erősek a Mudrák (Még Hit Nélkül Is)
+## Miért erősek a mudrák (még hit nélkül is)
 
 
 A mudrák **pre-koncepcionálisan** működnek.
@@ -116,7 +116,7 @@ A buddhizmus ezt **2500 évvel ezelőtt** fedezte fel, empirikusan.
 
 ---
 
-## Egy Finom, de Kritikus Tanítás
+## Egy finom, de kritikus tanítás
 
 
 > A mudrák nem *okozzák* az [ébredést](../../10_concepts/README.md#3-megvilágosodás-bodhi-awakening).
@@ -126,7 +126,7 @@ A buddhizmus ezt **2500 évvel ezelőtt** fedezte fel, empirikusan.
 
 ---
 
-## Hogyan Használjuk Helyesen a Mudrákat (Gyakorlati Tanács)
+## Hogyan használjuk helyesen a mudrákat (gyakorlati tanács)
 
 
 1. **Ne feszítsd túl** — a pihent pontosság kulcs
@@ -138,7 +138,7 @@ Ha feszültség jelenik meg, a mudrā kontrollá vált — engedd el és állít
 
 ---
 
-## Végső Belátás
+## Végső belátás
 
 
 A mudrák **csendes utasítások**.
@@ -154,7 +154,7 @@ Fejlett gyakorlatban **maga a test válik tanítássá**.
 
 ---
 
-< [Mi is a Mantra *Valójában* (Buddhista Nézet)](../10_mantra/README.md) | [A Csengő (Ghanta)](../12_bell/README.md) >
+< [Mi is a mantra *valójában* (buddhista nézet)](../10_mantra/README.md) | [A csengő (ghanta)](../12_bell/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

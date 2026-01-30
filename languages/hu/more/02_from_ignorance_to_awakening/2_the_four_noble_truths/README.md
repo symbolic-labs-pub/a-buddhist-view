@@ -13,7 +13,7 @@ Ez a keretrendszert *tapasztalatiak* teszi, nem filozófiaivá.
 
 ---
 
-## 1. Van szenvedés — **Dukkha**
+## 1. Van szenvedés — **dukkha**
 
 
 ### Mit jelent ez a buddhizmusban
@@ -48,7 +48,7 @@ Három réteg van:
 
 ---
 
-## 2. A szenvedésnek vannak okai — **Samudaya**
+## 2. A szenvedésnek vannak okai — **samudaya**
 
 
 ### Mi okozza a szenvedést?
@@ -79,7 +79,7 @@ Nem elnyomni, nem ítélni — **világosan látni és elengedni**.
 
 ---
 
-## 3. A szenvedés megszünhet — **Nirodha**
+## 3. A szenvedés megszünhet — **nirodha**
 
 
 ### Mit jelent valójában a megszűnés
@@ -117,7 +117,7 @@ Nem hinni benne — **közvetlenül tudni**.
 
 ---
 
-## 4. Van út — **Magga**
+## 4. Van út — **magga**
 
 
 ### Miért szükséges az út
@@ -207,7 +207,7 @@ Azt mondják:
 
 ---
 
-< [A létezés három jellemzője — buddhista magyarázat](../1_the_three_marks_of_existence/README.md) | [Függő keletkezés (Paṭicca-samuppāda)](../3_dependent_origination/README.md) >
+< [A létezés három jellemzője — buddhista magyarázat](../1_the_three_marks_of_existence/README.md) | [Függő keletkezés (paṭicca-samuppāda)](../3_dependent_origination/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

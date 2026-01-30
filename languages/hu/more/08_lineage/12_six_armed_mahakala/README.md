@@ -1,17 +1,17 @@
-## [Mahākāla as the Discipline of Awakening](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
+## [Mahākāla as the discipline of awakening](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
 
 [![six_armed_mahakala.png](../../../../../more/08_lineage/12_six_armed_mahakala/six_armed_mahakala.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
 
 <details>
 <summary>Tanítás</summary>
 
-# The Teaching of the Wrathful Protector
+# The teaching of the wrathful protector
 
 
-## Mahākāla as the Discipline of Awakening
+## Mahākāla as the discipline of awakening
 
 
-### 1. Why Wrath Appears on the Path
+### 1. Why wrath appears on the path
 
 In Buddhism, **wrath is not anger**.
 
@@ -28,7 +28,7 @@ It is **surgical clarity**.
 
 ---
 
-### 2. What Mahākāla Actually Protects
+### 2. What Mahākāla actually protects
 
 A common misunderstanding is that protectors guard **people**, **comfort**, or **success**.
 
@@ -53,7 +53,7 @@ Thus the teaching is uncompromising:
 
 ---
 
-### 3. The Six Arms — Mastery Over the Six Realms
+### 3. The six arms — mastery over the six realms
 
 The six arms symbolize **command over the six realms of cyclic existence**:
 
@@ -77,7 +77,7 @@ The teaching here is precise:
 
 ---
 
-### 4. Wrathful Compassion vs. Emotional Compassion
+### 4. Wrathful compassion vs. emotional compassion
 
 Ordinary [compassion](../../02_from_ignorance_to_awakening/7_compassion/README.md#az-együttérzés-mint-strukturális-elv-a-buddhista-tanításban) often tries to **reduce discomfort**.
 
@@ -104,7 +104,7 @@ That is intentional.
 
 ---
 
-### 5. Inner Obstacles Are the True Adversary
+### 5. Inner obstacles are the true adversary
 
 Mahākāla’s fiercest activity is **internal**.
 
@@ -128,7 +128,7 @@ Mahākāla guards against the latter.
 
 ---
 
-### 6. Why This Practice Is Restricted
+### 6. Why this practice is restricted
 
 Wrathful protector practices are not restricted because they are “dangerous” in a mystical sense.
 
@@ -147,7 +147,7 @@ This preserves the **integrity of the path**.
 
 ---
 
-### 7. The Final Point: Mahākāla Is Not Other
+### 7. The final point: Mahākāla is not other
 
 At the deepest level, Mahākāla is **not a separate being**.
 
@@ -167,7 +167,7 @@ The function is **internalized**.
 
 ---
 
-## Closing Instruction
+## Closing instruction
 
 
 > **Do not ask the protector to make life easier.**
@@ -191,9 +191,9 @@ That is the real protection.
 <summary>Magyarázat</summary>
 
 
-## Mahākāla as the Discipline of Awakening
+## Mahākāla as the discipline of awakening
 
-### 1. Why Wrath Appears on the Path
+### 1. Why wrath appears on the path
 
 In Buddhism, **wrath is not anger**.
 
@@ -210,7 +210,7 @@ It is **surgical clarity**.
 
 ---
 
-### 2. What Mahākāla Actually Protects
+### 2. What Mahākāla actually protects
 
 A common misunderstanding is that protectors guard **people**, **comfort**, or **success**.
 
@@ -235,7 +235,7 @@ Thus the teaching is uncompromising:
 
 ---
 
-### 3. The Six Arms — Mastery Over the Six Realms
+### 3. The six arms — mastery over the six realms
 
 The six arms symbolize **command over the six realms of cyclic existence**:
 
@@ -259,7 +259,7 @@ The teaching here is precise:
 
 ---
 
-### 4. Wrathful Compassion vs. Emotional Compassion
+### 4. Wrathful compassion vs. emotional compassion
 
 Ordinary compassion often tries to **reduce discomfort**.
 
@@ -286,7 +286,7 @@ That is intentional.
 
 ---
 
-### 5. Inner Obstacles Are the True Adversary
+### 5. Inner obstacles are the true adversary
 
 Mahākāla’s fiercest activity is **internal**.
 
@@ -310,7 +310,7 @@ Mahākāla guards against the latter.
 
 ---
 
-### 6. Why This Practice Is Restricted
+### 6. Why this practice is restricted
 
 Wrathful protector practices are not restricted because they are “dangerous” in a mystical sense.
 
@@ -329,7 +329,7 @@ This preserves the **integrity of the path**.
 
 ---
 
-### 7. The Final Point: Mahākāla Is Not Other
+### 7. The final point: Mahākāla is not other
 
 At the deepest level, Mahākāla is **not a separate being**.
 
@@ -349,7 +349,7 @@ The function is **internalized**.
 
 ---
 
-## Closing Instruction
+## Closing instruction
 
 > **Do not ask the protector to make life easier.**
 > Ask him to make **awakening unavoidable**.
@@ -366,14 +366,14 @@ That is the real protection.
 
 ---
 
-# Black Six-Armed Mahākāla
+# Black six-armed Mahākāla
 
 > ⚠️ **Note on scope**
 > What follows is a **non-empowerment contemplative form** (a *practice of meaning*).
 > It does **not** replace lineage transmission (*wang, lung, tri*).
 > Its function is **stabilization, aspiration, and causal alignment**, not tantric authorization.
 
-## Protector Invocation Meditation
+## Protector invocation meditation
 
 *(For Protection of Realization and Discipline)*
 
@@ -383,7 +383,7 @@ That is the real protection.
 
 ---
 
-## 1. Preparation — Establish the Ground (2–3 minutes)
+## 1. Preparation — establish the ground (2–3 minutes)
 
 Sit in **stable meditation posture**.
 
@@ -398,7 +398,7 @@ Let the mind become **clear, sober, and alert** — not relaxed, not tense.
 
 ---
 
-## 2. Visualization — The Protector Presence (3–5 minutes)
+## 2. Visualization — the protector presence (3–5 minutes)
 
 In the space **in front of you**, slightly above eye level, visualize:
 
@@ -418,7 +418,7 @@ This is **compassion that does not negotiate with ego**.
 
 ---
 
-## 3. Invocation — Calling the Protector (3–5 minutes)
+## 3. Invocation — calling the protector (3–5 minutes)
 
 From your heart, recite slowly (aloud or silently):
 
@@ -437,7 +437,7 @@ After the verbal invocation, remain silent and **feel the presence stabilize**.
 
 ---
 
-## 4. Cutting Phase — Inner Obstacle Removal (5–10 minutes)
+## 4. Cutting phase — inner obstacle removal (5–10 minutes)
 
 Now shift focus inward.
 
@@ -462,7 +462,7 @@ Feel the **space that remains**.
 
 ---
 
-## 5. Absorption — Protector and Mind Unite (3–5 minutes)
+## 5. Absorption — protector and mind unite (3–5 minutes)
 
 Mahākāla dissolves into **black light**.
 
@@ -480,7 +480,7 @@ Rest in this state **without visualization**.
 
 ---
 
-## 6. Dedication — Seal the Practice (1 minute)
+## 6. Dedication — seal the practice (1 minute)
 
 Dedicate the energy:
 
@@ -494,7 +494,7 @@ Remain still for a few breaths.
 
 ---
 
-## Key Practice Notes (Important)
+## Key practice notes (important)
 
 * This is a **protector invocation**, not a tantric self-generation.
 * It should **support** Mahāmudrā, śamatha-vipaśyanā, or retreat discipline.
@@ -503,7 +503,7 @@ Remain still for a few breaths.
 
 ---
 
-## When to Use This Practice
+## When to use this practice
 
 ✔ Before retreat or intensive practice
 ✔ When discipline weakens
@@ -516,7 +516,7 @@ Remain still for a few breaths.
 
 ---
 
-### Core Insight
+### Core insight
 
 
 </details>
@@ -526,7 +526,7 @@ Remain still for a few breaths.
 <details>
 <summary>Invokáció</summary>
 
-# Black Six-Armed Mahākāla
+# Black six-armed Mahākāla
 
 
 > ⚠️ **Note on scope**
@@ -534,7 +534,7 @@ Remain still for a few breaths.
 > It does **not** replace lineage transmission (*wang, lung, tri*).
 > Its function is **stabilization, aspiration, and causal alignment**, not tantric authorization.
 
-## Protector Invocation Meditation
+## Protector invocation meditation
 
 
 *(For Protection of Realization and Discipline)*
@@ -545,7 +545,7 @@ Remain still for a few breaths.
 
 ---
 
-## 1. Preparation — Establish the Ground (2–3 minutes)
+## 1. Preparation — establish the ground (2–3 minutes)
 
 
 Sit in **stable meditation posture**.
@@ -561,7 +561,7 @@ Let the mind become **clear, sober, and alert** — not relaxed, not tense.
 
 ---
 
-## 2. Visualization — The Protector Presence (3–5 minutes)
+## 2. Visualization — the protector presence (3–5 minutes)
 
 
 In the space **in front of you**, slightly above eye level, visualize:
@@ -582,7 +582,7 @@ This is **compassion that does not negotiate with ego**.
 
 ---
 
-## 3. Invocation — Calling the Protector (3–5 minutes)
+## 3. Invocation — calling the protector (3–5 minutes)
 
 
 From your heart, recite slowly (aloud or silently):
@@ -602,7 +602,7 @@ After the verbal invocation, remain silent and **feel the presence stabilize**.
 
 ---
 
-## 4. Cutting Phase — Inner Obstacle Removal (5–10 minutes)
+## 4. Cutting phase — inner obstacle removal (5–10 minutes)
 
 
 Now shift focus inward.
@@ -628,7 +628,7 @@ Feel the **space that remains**.
 
 ---
 
-## 5. Absorption — Protector and Mind Unite (3–5 minutes)
+## 5. Absorption — protector and mind unite (3–5 minutes)
 
 
 Mahākāla dissolves into **black light**.
@@ -647,7 +647,7 @@ Rest in this state **without visualization**.
 
 ---
 
-## 6. Dedication — Seal the Practice (1 minute)
+## 6. Dedication — seal the practice (1 minute)
 
 
 Dedicate the energy:
@@ -662,7 +662,7 @@ Remain still for a few breaths.
 
 ---
 
-## Key Practice Notes (Important)
+## Key practice notes (important)
 
 
 * This is a **protector invocation**, not a tantric self-generation.
@@ -672,7 +672,7 @@ Remain still for a few breaths.
 
 ---
 
-## When to Use This Practice
+## When to use this practice
 
 
 ✔ Before retreat or intensive practice
@@ -686,7 +686,7 @@ Remain still for a few breaths.
 
 ---
 
-### Core Insight
+### Core insight
 
 > **Mahākāla does not protect you from difficulty.**
 > **He protects you from deviation.**
@@ -697,7 +697,7 @@ Remain still for a few breaths.
 
 ---
 
-< [Vadzsradhara és a Felismerés Tanítása](../11_vajradhara/README.md) | [Vadzsraszattva (Dordzsé Szempa)](../13_vajrasattva/README.md) >
+< [Vadzsradhara és a felismerés tanítása](../11_vajradhara/README.md) | [Vadzsraszattva (dordzsé szempa)](../13_vajrasattva/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

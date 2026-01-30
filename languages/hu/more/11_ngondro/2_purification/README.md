@@ -3,7 +3,7 @@ It is not moral self-judgment and not psychological catharsis—it is a **techni
 
 ---
 
-## 2. Vajrasattva — Purification of Obscurations
+## 2. Vajrasattva — purification of obscurations
 [![purification](../../../../../more/11_ngondro/2_purification/purification.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/2_purification/README.md#2-vajrasattva--purification-of-obscurations)
 ### Core function
 **Purification precedes realization.**
@@ -17,7 +17,7 @@ This Gyakorlat works on **three levels simultaneously**:
 
 ---
 
-## Who Vajrasattva Represents
+## Who Vajrasattva represents
 
 **Vajrasattva** is not an external god.
 He is the **principle of indestructible purity**—the fact that awakened [Tudatosság](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing) is *never actually stained*, only temporarily obscured.
@@ -31,11 +31,11 @@ You are **recognizing purity as already present** and dissolving what blocks tha
 
 ---
 
-## The Four Powers (Structural Core)
+## The four powers (structural core)
 
 Vajrasattva purification is effective because it applies the **Four Opponent Powers**, a precise causal framework:
 
-### 1. Power of Support
+### 1. Power of support
 You take refuge in:
 
 * Buddha ([awakening](../../10_concepts/README.md#3-megvilágosodás-bodhi-awakening))
@@ -46,7 +46,7 @@ This establishes **correct orientation**.
 
 ---
 
-### 2. Power of Regret (Not Guilt)
+### 2. Power of regret (not guilt)
 Regret here means:
 
 > *Clear recognition of cause → effect*
@@ -61,7 +61,7 @@ This aligns perfectly with modern cognitive deconditioning:
 
 ---
 
-### 3. Power of Remedy
+### 3. Power of remedy
 You recite the **100-syllable Vajrasattva [mantra](../../09_symbols/10_mantra/README.md#mi-is-a-mantra-valójában-buddhista-nézet)** (or a short form).
 
 The mantra is not symbolic—it is **patterned cognition**:
@@ -78,7 +78,7 @@ Visualization (optional but powerful):
 
 ---
 
-### 4. Power of Resolve
+### 4. Power of resolve
 You conclude with **structural intention**:
 
 > *“I will not repeat this pattern as best I can.”*
@@ -89,7 +89,7 @@ This seals the purification so it does not rebound.
 
 ---
 
-## Why This Gyakorlat Comes Second
+## Why this gyakorlat comes second
 
 [Ngöndro](../README.md#what-is-ngondro-in-mahyna-buddhism) is **ordered engineering**, not devotion folklore.
 
@@ -106,7 +106,7 @@ If you skip purification:
 
 ---
 
-## Key Insight (Often Missed)
+## Key insight (often missed)
 
 > **Purification does not make you pure.
 > It reveals that purity was never absent.**
@@ -115,7 +115,7 @@ Karma is not erased by effort—it is **rendered non-binding** when Tudatosság 
 
 ---
 
-## Signs the Gyakorlat Is Working
+## Signs the gyakorlat is working
 
 * Reduced compulsive reactivity
 * Less psychological “stickiness”
@@ -125,14 +125,14 @@ Karma is not erased by effort—it is **rendered non-binding** when Tudatosság 
 
 ---
 
-## One-Sentence Tanítás
+## One-sentence tanítás
 
 **Vajrasattva Gyakorlat restores the mind to functional clarity so that realization can actually take hold.**
 
 
 ---
 
-< [Az Első Ngöndro Gyakorlat](../1_prostrations/README.md) | [A Harmadik Ngöndro Gyakorlat](../3_mandala_offering/README.md) >
+< [Az első Ngöndro gyakorlat](../1_prostrations/README.md) | [A harmadik Ngöndro gyakorlat](../3_mandala_offering/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

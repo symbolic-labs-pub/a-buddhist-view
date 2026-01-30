@@ -12,7 +12,7 @@ Ehelyett megmutatja, **hogyan működik a valóság két elválaszthatatlan szin
 
 ---
 
-## 1. Konvencionális igazság (Saṃvṛti-satya)
+## 1. Konvencionális igazság (saṃvṛti-satya)
 
 
 Ez a **funkcionális, mindennapi szintje a valóságnak**.
@@ -42,7 +42,7 @@ A Buddha **konvencionális nyelven** tanított, a társadalomban élt, szabályo
 
 ---
 
-## 2. Végső igazság (Paramārtha-satya)
+## 2. Végső igazság (paramārtha-satya)
 
 
 A végső igazság arra mutat rá, **hogyan léteznek a dolgok valójában, amikor mélyen megvizsgálják őket**.
@@ -91,7 +91,7 @@ Ezek **nem két valóság**, hanem **ugyanazon valóság látásának két módj
 
 ---
 
-## 4. "A forma üresség; az üresség forma"
+## 4. "a forma üresség; az üresség forma"
 
 
 Ez a híres sor a Szív Szútrából **a két igazság egy mondatban**.
@@ -167,7 +167,7 @@ hanem **világosság az életben, ahogy van**.
 
 ---
 
-< [Üresség (Śūnyatā) a Mahāyāna buddhizmusban](../4_emptiness/README.md) | [**Buddha-természet (Tathāgatagarbha)** — magyarázva a buddhista tanításokon keresztül](../6_buddha_nature/README.md) >
+< [Üresség (śūnyatā) a Mahāyāna buddhizmusban](../4_emptiness/README.md) | [**Buddha-természet (tathāgatagarbha)** — magyarázva a buddhista tanításokon keresztül](../6_buddha_nature/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

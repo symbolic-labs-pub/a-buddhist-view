@@ -1,4 +1,4 @@
-## [A Csengő (Ghanta)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/12_bell/README.md#a-csengő-ghanta)
+## [A csengő (ghanta)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/12_bell/README.md#a-csengő-ghanta)
 
 [![bell](../../../../../more/09_symbols/12_bell/bell.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/12_bell/README.md#a-csengő-ghanta)
 
@@ -8,7 +8,7 @@ A **csengő (ghanta)** az egyik legfontosabb rituális tárgy a **[Vajrayāna](.
 
 ---
 
-### 1. Alapvető Jelentés: Bölcsesség és Üresség
+### 1. Alapvető jelentés: bölcsesség és üresség
 
 A csengő a **bölcsességet (prajñā)** jelenti, konkrétan **az [üresség (śūnyatā)](../../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism) megvalósítását**.
 
@@ -26,7 +26,7 @@ Amikor a csengő szól, **közvetlenül** tanítja a [múlandóságot](../../01_
 
 ---
 
-### 2. A Hang mint Közvetlen Belátás
+### 2. A hang mint közvetlen belátás
 
 A buddhista megértésben a hang nem díszítés—hanem **utasítás**.
 
@@ -49,7 +49,7 @@ A hang tanít, amit a szavak nem tudnak.
 
 ---
 
-### 3. Bal Kéz: Befogadóképesség és Tériesség
+### 3. Bal kéz: befogadóképesség és tériesség
 
 A csengőt hagyományosan a **bal kézben** tartják, amely szimbolizálja:
 
@@ -74,7 +74,7 @@ Az [ébredés](../../10_concepts/README.md#3-megvilágosodás-bodhi-awakening) *
 
 ---
 
-### 4. A Bölcsesség Női Elve
+### 4. A bölcsesség női elve
 
 A tantrikus szimbolizmusban a csengő a **női elvet** jelenti:
 
@@ -90,7 +90,7 @@ Hanem valami, amit **felismersz**.
 
 ---
 
-### 5. Miért Nem Használják a Csengőt Hétköznapian
+### 5. Miért nem használják a csengőt hétköznapian
 
 Hagyományosan:
 
@@ -106,7 +106,7 @@ Mert minden csengés egy emlékeztető:
 
 ---
 
-### 6. Belső Tanítás (A Legfontosabb)
+### 6. Belső tanítás (a legfontosabb)
 
 Végső soron a csengő befelé mutat.
 
@@ -121,7 +121,7 @@ Ha a csengőt helyesen használják, magyarázat nélkül tanítja ezt.
 
 ---
 
-< [Mudrák a Buddhista Tanításokban](../11_mudra/README.md) | [Koponya Csésze (Kapāla) — magyarázat a buddhista tanítások szerint](../13_skull_cup/README.md) >
+< [Mudrák a buddhista tanításokban](../11_mudra/README.md) | [Koponya csésze (kapāla) — magyarázat a buddhista tanítások szerint](../13_skull_cup/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

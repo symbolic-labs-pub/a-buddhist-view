@@ -1,4 +1,4 @@
-# [Függő keletkezés (Paṭicca-samuppāda)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#dependent-origination-paṭicca-samuppāda)
+# [Függő keletkezés (paṭicca-samuppāda)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#dependent-origination-paṭicca-samuppāda)
 
 [![dependent_origination.png](../../../../../more/02_from_ignorance_to_awakening/3_dependent_origination/dependent_origination.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#dependent-origination-paṭicca-samuppāda)
 
@@ -39,7 +39,7 @@ a dolgok **folyamatként valósak**, de **[üresek](../../10_concepts/01_emptine
 
 ---
 
-## A tizenkét láncszem (A klasszikus megfogalmazás)
+## A tizenkét láncszem (a klasszikus megfogalmazás)
 
 
 A Buddha gyakran tizenkét **egymástól függő láncszemként** (*nidānas*) fejezte ki a függő keletkezést. Ezek nem lineáris időrend, hanem egy **önmegerősítő hurok**.
@@ -84,7 +84,7 @@ A Buddha gyakran tizenkét **egymástól függő láncszemként** (*nidānas*) f
 
 ---
 
-## A döntő belátás: Ez visszafordítható
+## A döntő belátás: ez visszafordítható
 
 
 Ez a tanítás **nem fatalista**.
@@ -147,7 +147,7 @@ Ezért mondta a Buddha:
 
 ---
 
-< [A négy nemes igazság — ahogyan Buddha értette](../2_the_four_noble_truths/README.md) | [Üresség (Śūnyatā) a Mahāyāna buddhizmusban](../4_emptiness/README.md) >
+< [A négy nemes igazság — ahogyan Buddha értette](../2_the_four_noble_truths/README.md) | [Üresség (śūnyatā) a Mahāyāna buddhizmusban](../4_emptiness/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

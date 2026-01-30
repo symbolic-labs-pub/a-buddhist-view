@@ -15,7 +15,7 @@ Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a
 
 ---
 
-### Fontos Pontosítások
+### Fontos pontosítások
 
 * Egy **tanítót nem "választanak" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflekció révén
 * **A Menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
@@ -26,24 +26,24 @@ Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a
 
 ## Tartalomjegyzék
 
-- [Alapvető Tanítások](more/01_core_teachings/README.md)
-- [A Tudatlanságtól az Ébredésig](more/02_from_ignorance_to_awakening/README.md)
-- [Az Út a Szenvedés Megszüntetéséhez](more/03_the_path_to_end_suffering/README.md)
-- [A Három Test](more/04_kayas/README.md)
-- [Az Út Járművei](more/05_yanas/README.md)
-- [Köztes Állapotok és Újjászületés](more/06_intermediate_states_and_reincarnation/README.md)
-- [Jelen és Történelem](more/07_history/README.md)
-- [Leszármazási Vonalak és Buddhák](more/08_lineage/README.md)
+- [Alapvető tanítások](more/01_core_teachings/README.md)
+- [A tudatlanságtól az ébredésig](more/02_from_ignorance_to_awakening/README.md)
+- [Az út a szenvedés megszüntetéséhez](more/03_the_path_to_end_suffering/README.md)
+- [A három test](more/04_kayas/README.md)
+- [Az út járművei](more/05_yanas/README.md)
+- [Köztes állapotok és újjászületés](more/06_intermediate_states_and_reincarnation/README.md)
+- [Jelen és történelem](more/07_history/README.md)
+- [Leszármazási vonalak és buddhák](more/08_lineage/README.md)
 - [Szimbólumok](more/09_symbols/README.md)
 - [Fogalmak](more/10_concepts/README.md)
-- [Előkészítő Gyakorlatok](more/11_ngondro/README.md)
-- [Gyakran Ismételt Kérdések](more/80_faq/README.md)
+- [Előkészítő gyakorlatok](more/11_ngondro/README.md)
+- [Gyakran ismételt kérdések](more/80_faq/README.md)
 ---
 
 <details>
 <summary> A Tanítások (Dharma) </summary>
 
-## A Tanítások (Dharma)
+## A tanítások (Dharma)
 
 Még ha a Buddhizmust többnyire vallásként közelítik meg, **nem** igényel vak hitet vagy hit ugrást.
 
@@ -71,7 +71,7 @@ A meditáció fordítja el a kulcsot.
 <details>
 <summary>A Közösség: Útitársaink (Sangha)</summary>
 
-## A Közösség: Útitársaink (Sangha)
+## A közösség: útitársaink (Sangha)
 
 A buddhista meditációs gyakorlatok ma széles körben elérhetők, de a leghatékonyabb kezdési mód meglepően egyszerű: találj egy közeli buddhista központot vagy közösséget és csatlakozz néhány irányított meditációs üléshez.
 
@@ -107,13 +107,13 @@ Yama nem gonosz istenség. Emlékeztet bennünket, hogy minden feltételezett do
 <details>
 <summary>Homok Mandala-k</summary>
 
-## Homok Mandala-k
+## Homok mandala-k
 
 A mandala-kat rendkívüli gonddal és precizitással hozzák létre színes homok használatával. A folyamat kényes és időigényes, gyakran sok hét fókuszált, türelmes munkát igényel. Mégis, amint a mandala elkészül, szándékosan elsöprik—egyetlen pillanatban—egy tisztelt tanító által.
 
 ![sand_mandala.png](../../more/images/sand_mandala.jpg)
 
-_forrás: [Local Profile](https://www.localprofile.com/arts-culture/tibetan-monk-mandala-sand-painting-at-the-crow-museum-9770562)_
+_forrás: [Local profile](https://www.localprofile.com/arts-culture/tibetan-monk-mandala-sand-painting-at-the-crow-museum-9770562)_
 
 Ez a szándékos pusztítás nem veszteség aktusa, hanem tanítás.
 
@@ -133,7 +133,7 @@ gonddal alkotva, teljesen értékelve és megbánás nélkül elengedve.
 
 ---
 
-< [Gyakran Ismételt Kérdések](more/80_faq/README.md) | [Alapvető Tanítások](more/01_core_teachings/README.md) >
+< [Gyakran ismételt kérdések](more/80_faq/README.md) | [Alapvető tanítások](more/01_core_teachings/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

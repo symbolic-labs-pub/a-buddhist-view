@@ -1,6 +1,6 @@
-## [The Third Ngöndro Gyakorlat](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/3_mandala_offering/README.md#the-third-ngöndro-Gyakorlat)
+## [The third Ngöndro gyakorlat](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/3_mandala_offering/README.md#the-third-ngöndro-Gyakorlat)
 [![mandala_offering](../../../../../more/11_ngondro/3_mandala_offering/mandala_offering.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/3_mandala_offering/README.md#the-third-ngöndro-practice)
-### **Mandala Offering (Offering the Universe)**
+### **Mandala offering (offering the universe)**
 In the [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle) path—especially within the **Kagyu school**—the **third Ngöndro Gyakorlat** is the **[Mandala](../../09_symbols/07_mandala/README.md#mandala--explained-according-to-buddhist-teachings) Offering**.
 Its function is precise and structural: **to dismantle attachment at its root and replace scarcity-based identity with enlightened abundance**.
 
@@ -8,7 +8,7 @@ This Gyakorlat trains the mind to **relinquish ownership itself**, not merely po
 
 ---
 
-## 1. What Is Being Offered?
+## 1. What is being offered?
 
 In the Mandala Offering, the practitioner symbolically offers **the entire universe**—not as metaphor, but as a **cognitive re-patterning exercise**.
 
@@ -26,7 +26,7 @@ This is why the mandala is called a **total offering**—it leaves no refuge for
 
 ---
 
-## 2. Why This Gyakorlat Is Necessary
+## 2. Why this gyakorlat is necessary
 
 From a deep Buddhist perspective, **[Szenvedés](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-van-szenvedés-dukkha) is maintained by subtle possession**, even spiritual possession:
 
@@ -49,7 +49,7 @@ It is **de-identification from control**.
 
 ---
 
-## 3. The Core Psychological Mechanism
+## 3. The core psychological mechanism
 
 The Gyakorlat works through **repetitive symbolic relinquishment**.
 
@@ -71,7 +71,7 @@ This is **neuro-symbolic retraining** using sacred geometry.
 
 ---
 
-## 4. Relationship to Karma (Cause & Effect)
+## 4. Relationship to karma (cause & effect)
 
 The third Ngöndro follows **Karma (Cause & Effect)** deliberately.
 
@@ -93,11 +93,11 @@ It creates the karmic condition for **unobstructed insight**.
 
 ---
 
-## 5. Devotion Without Externalization
+## 5. Devotion without externalization
 
 In the Kagyu understanding, the mandala is offered:
 
-* To the [**Three Jewels**](../../01_core_teachings/the_three_jewels/README.md#a-három-ékszer-hármas-ékkő-ti-ratana)
+* To the [**Three jewels**](../../01_core_teachings/the_three_jewels/README.md#a-három-ékszer-hármas-ékkő-ti-ratana)
 * To the **root guru**
 * To the **lineage**
 * Ultimately to **awakened mind itself**
@@ -110,7 +110,7 @@ The offering returns as **recognition**, not reward.
 
 ---
 
-## 6. Why It Prepares for Guru Yoga
+## 6. Why it prepares for Guru yoga
 
 [Guru Yoga](../4_guru_yoga/README.md#samsras-unsatisfactoriness-guru-yoga) (the fourth Ngöndro)](#the-third-ngöndro-Gyakorlat)) requires:
 
@@ -128,13 +128,13 @@ Without this Gyakorlat, Guru Yoga easily becomes psychological dependence.
 
 ---
 
-## 7. One Sentence Summary
+## 7. One sentence summary
 
 **The Mandala Offering trains the practitioner to experience total abundance without ownership—so realization can arise without obstruction.**
 
 ---
 
-## Structural Insight (Advanced)
+## Structural insight (advanced)
 
 Think of the Mandala Offering as:
 
@@ -148,7 +148,7 @@ Only **false claims of possession** are released.
 
 ---
 
-< [2. Vadzsraszattva — A Homályosságok Tisztítása](../2_purification/README.md) | [A Negyedik Ngöndro Gyakorlat](../4_guru_yoga/README.md) >
+< [2. Vadzsraszattva — a homályosságok tisztítása](../2_purification/README.md) | [A negyedik Ngöndro gyakorlat](../4_guru_yoga/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

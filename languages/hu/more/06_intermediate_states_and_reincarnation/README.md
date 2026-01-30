@@ -1,14 +1,14 @@
-## [Köztes Állapotok (*Bardo*) és Újratestesülés](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/06_intermediate_states_and_reincarnation/README.md#köztes-állapotok-bardo-és-újratestesülés)
+## [Köztes állapotok (*bardo*) és újratestesülés](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/06_intermediate_states_and_reincarnation/README.md#köztes-állapotok-bardo-és-újratestesülés)
 [![the_six_bardos.png](../../../../more/06_intermediate_states_and_reincarnation/the_six_bardos.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/06_intermediate_states_and_reincarnation/README.md#intermediate-states-bardo-and-reincarnation)
 
 <details>
 <summary>Tanítás</summary>
 
-## Buddhista Tanítás a Hat Bardóról
+## Buddhista tanítás a hat bardóról
 
 *(Gyakorlati Tanítás a bardo térképből lepárolva)*
 
-### A Tanítás
+### A tanítás
 Minden tapasztalat **időközökben** bontakozik ki.
 Amikor egy forma feloldódik és egy új még nem megszilárdult, **szabadság lehetséges**.
 
@@ -18,7 +18,7 @@ A tibeti tanítás a hat bardóról nem elmélet a halálról — ez egy **kézi
 
 ---
 
-### Az Alapvető Belátás
+### Az alapvető belátás
 > **A [Szenvedés](../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-van-szenvedés-dukkha) nem azért folytatódik, mert változás történik,
 > hanem mert a Tudatosság nem ismeri fel a változást, amint az bekövetkezik.**
 
@@ -30,8 +30,8 @@ Ebben a fellazulásban két lehetőség jelenik meg:
 
 ---
 
-### A Hat Bardó mint Egy Tanítás
-#### 1. Az Élet Bardója
+### A hat Bardó mint egy tanítás
+#### 1. Az élet bardója
 Itt történik a tréning.
 
 * Minden reakció karmikus magot plántál
@@ -42,7 +42,7 @@ Itt történik a tréning.
 
 ---
 
-#### 2. Az Álom Bardója
+#### 2. Az álom bardója
 Itt az elme erőfeszítés nélkül teremt világokat.
 
 **Tanítás:**
@@ -52,7 +52,7 @@ Tréningezz könnyedén. Vedd észre a [Múlandóságot](../01_core_teachings/im
 
 ---
 
-#### 3. A Meditáció Bardója
+#### 3. A meditáció bardója
 Itt a szilárd én érzése elvékonyodik.
 
 **Tanítás:**
@@ -62,7 +62,7 @@ A nyitottsággal való ismertség most később bizalmassá válik.
 
 ---
 
-#### 4. A Halál Pillanatának Bardója
+#### 4. A halál pillanatának bardója
 Az elemek feloldódnak. A Fogalmak elhullanak.
 A **Tiszta Fény** megjelenik.
 
@@ -73,7 +73,7 @@ Semmi új nem jön létre itt. Csak a látás számít.
 
 ---
 
-#### 5. A Valóság Bardója
+#### 5. A valóság bardója
 Látomások keletkeznek — békések, haragosak, elsöprők.
 
 **Tanítás:**
@@ -86,7 +86,7 @@ Ha félelmetes → menekülés
 
 ---
 
-#### 6. A Létesülés Bardója
+#### 6. A létesülés bardója
 A lendület visszatér. A szokás formát keres.
 
 **Tanítás:**
@@ -96,7 +96,7 @@ A tisztaság gyengíti a lendületet. A zavar erősíti azt.
 
 ---
 
-### Újratestesülés: A Csendes Lecke
+### Újratestesülés: a csendes lecke
 Az újratestesülés **nem büntetés**.
 Ez **befejezetlen felismerés, amely önmagát ismétli**.
 
@@ -107,7 +107,7 @@ Láss át a mintán → a ciklus véget ér
 
 ---
 
-### Az Egysoros Utasítás
+### Az egysoros utasítás
 > **Ismerd fel bármit, ami keletkezik, mint magát a Tudatosságot.**
 
 Ha ezt megteszed:
@@ -119,7 +119,7 @@ Ha ezt megteszed:
 
 ---
 
-### Záró Tanítás
+### Záró tanítás
 A bardók nem várnak rád a halál után.
 **Most** történnek:
 
@@ -147,15 +147,15 @@ A *bardo* is any **transitional phase** in which consciousness is not fixed in a
 
 ---
 
-## What is a *Bardo*?
+## What is a *bardo*?
 
 A *bardo* is a **gap, interval, or threshold**—a moment when habitual identity loosens and **transformation is possible**. Tibetan tradition systematizes this insight into **six bardos**, offering a precise **map for [awakening](../10_concepts/README.md#3-megvilágosodás-bodhi-awakening)**.
 
 ---
 
-## The Six Bardos
+## The six bardos
 
-### 1. **The Bardo of This Life** (*Shiné Bardo*)
+### 1. **The Bardo of this life** (*shiné bardo*)
 This is ordinary waking life.
 
 * Karma is actively created here
@@ -166,7 +166,7 @@ This is ordinary waking life.
 
 ---
 
-### 2. **The Dream Bardo** (*Milam Bardo*)
+### 2. **The dream Bardo** (*milam bardo*)
 * Consciousness is more fluid
 * Dream yoga and lucid Tudatosság can arise
 * Serves as training for post-death states
@@ -175,7 +175,7 @@ This is ordinary waking life.
 
 ---
 
-### 3. **The Meditáció Bardo** (*Samten Bardo*)
+### 3. **The meditáció Bardo** (*samten bardo*)
 * Deep meditative absorption (*[samādhi](../01_core_teachings/the_noble_eightfold_path/README.md#8-helyes-koncentracio-samm-samdhi)*)
 * The sense of a solid self dissolves
 * Direct recognition of mind’s nature is possible
@@ -184,7 +184,7 @@ This is ordinary waking life.
 
 ---
 
-### 4. **The Bardo of the Moment of Death** (*Chikhai Bardo*)
+### 4. **The Bardo of the moment of death** (*chikhai bardo*)
 * The physical elements dissolve
 * The **Clear Light of mind** appears
 * A direct opportunity for Felszabadulás
@@ -193,7 +193,7 @@ This is ordinary waking life.
 
 ---
 
-### 5. **The Bardo of Reality** (*Chönyi Bardo*)
+### 5. **The Bardo of reality** (*chönyi bardo*)
 * Peaceful and wrathful deities appear
 * These are **projections of one’s own mind**
 * Fear leads to confusion; recognition leads to Felszabadulás
@@ -202,7 +202,7 @@ This is ordinary waking life.
 
 ---
 
-### 6. **The Bardo of Becoming** (*Sidpa Bardo*)
+### 6. **The Bardo of becoming** (*sidpa bardo*)
 * Karmic momentum reasserts itself
 * Attraction and aversion arise
 * Consciousness is drawn toward a new reincarnation
@@ -211,7 +211,7 @@ This is ordinary waking life.
 
 ---
 
-## What Is Reincarnation in Tibetan Buddhism?
+## What is reincarnation in tibetan Buddhism?
 
 There is **no eternal soul** that transmigrates.
 
@@ -230,7 +230,7 @@ This is **continuity without identity**.
 
 ---
 
-## What Determines Reincarnation?
+## What determines reincarnation?
 
 1. **Karma** (intentional actions)
 2. **Mental state at death**
@@ -241,7 +241,7 @@ This is **continuity without identity**.
 
 ---
 
-## Why Is the Tibetan System So Detailed?
+## Why is the tibetan system so detailed?
 
 Tibetan Buddhism offers a **practical technology of dying and reincarnation**:
 
@@ -253,7 +253,7 @@ This is why texts such as the **Bardo Thödol** exist—designed to be **heard**
 
 ---
 
-## Core Tanítás in One Line
+## Core tanítás in one line
 
 > The question is not whether reincarnation occurs,
 > but whether **you recognize what is happening**.
@@ -270,7 +270,7 @@ For one trained in Tudatosság during life, death becomes **not a threat, but a 
 <details>
 <summary>Meditáció</summary>
 
-## A Six Bardos Meditáció
+## A six bardos meditáció
 
 *A complete contemplative Gyakorlat based on Tibetan Buddhist insight*
 
@@ -281,7 +281,7 @@ You are training **recognition in transitions**.
 
 ---
 
-## Core Principle (hold this lightly)
+## Core principle (hold this lightly)
 
 > **Whatever arises is not a problem.
 > Not recognizing it is.**
@@ -290,7 +290,7 @@ The Gyakorlat is about **seeing**, not controlling.
 
 ---
 
-## Structure of the Gyakorlat
+## Structure of the gyakorlat
 
 * **Duration**: 20–40 minutes
 * **Posture**: Seated, stable, relaxed
@@ -300,7 +300,7 @@ This Gyakorlat has **six phases**, mirroring the six bardos.
 
 ---
 
-## 1. Life Bardo Meditáció
+## 1. Life Bardo meditáció
 
 *Stabilizing Tudatosság in ordinary experience*
 
@@ -323,7 +323,7 @@ This establishes **confidence in Tudatosság during life**.
 
 ---
 
-## 2. Dream Bardo Meditáció
+## 2. Dream Bardo meditáció
 
 *Seeing experience as constructed*
 
@@ -345,7 +345,7 @@ This weakens fixation and prepares the mind for non-physical states.
 
 ---
 
-## 3. Meditáció Bardo Meditáció
+## 3. Meditáció Bardo meditáció
 
 *Resting in openness*
 
@@ -368,7 +368,7 @@ This builds **familiarity with groundless clarity**.
 
 ---
 
-## 4. Death Moment Meditáció
+## 4. Death moment meditáció
 
 *Practicing dissolution*
 
@@ -391,7 +391,7 @@ This trains fearlessness toward dissolution.
 
 ---
 
-## 5. Reality Bardo Meditáció
+## 5. Reality Bardo meditáció
 
 *Meeting intense appearances*
 
@@ -414,7 +414,7 @@ This dissolves fear of strong inner experience.
 
 ---
 
-## 6. Becoming Bardo Meditáció
+## 6. Becoming Bardo meditáció
 
 *Interrupting momentum*
 
@@ -437,7 +437,7 @@ This weakens karmic momentum at its root.
 
 ---
 
-## Closing Integration (5 minutes)
+## Closing integration (5 minutes)
 
 Rest naturally.
 
@@ -450,7 +450,7 @@ Dedicate the Gyakorlat to clarity—for yourself and others.
 
 ---
 
-## How This Gyakorlat Works (Quietly, Precisely)
+## How this gyakorlat works (quietly, precisely)
 
 * **Life bardo** → stabilizes mindfulness
 * **Dream bardo** → loosens fixation
@@ -463,7 +463,7 @@ Practiced daily, this Meditáció **pre-trains the mind** so that death becomes 
 
 ---
 
-## Minimal Daily Version (10 minutes)
+## Minimal daily version (10 minutes)
 
 1. Sit (2 min)
 2. Watch thoughts arise and dissolve (3 min)
@@ -474,7 +474,7 @@ That alone is sufficient.
 
 ---
 
-## Final Instruction
+## Final instruction
 
 > You do not prepare for death by thinking about death.
 > You prepare by **recognizing Tudatosság whenever things change**.
@@ -490,7 +490,7 @@ Train there.
 
 ---
 
-< [1) Hogyan *strukturálják* az utat](../05_yanas/zen_and_theravada/README.md) | [A Kagyü Iskola Alapvető Orientációja](../07_history/README.md) >
+< [1) Hogyan *strukturálják* az utat](../05_yanas/zen_and_theravada/README.md) | [A Kagyü iskola alapvető orientációja](../07_history/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

@@ -120,7 +120,7 @@ Amikor ezt megértik:
 
 ---
 
-< [Mala (Imazsinór) — Magyarázat a Buddhista Tanítások Szerint](../06_mala/README.md) | [1. Tisztaság *Elutasítás Nélkül*](../08_lotus/README.md) >
+< [Mala (imazsinór) — magyarázat a buddhista tanítások szerint](../06_mala/README.md) | [1. Tisztaság *elutasítás nélkül*](../08_lotus/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

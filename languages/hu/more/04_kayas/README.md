@@ -1,16 +1,16 @@
-## [A Három Kāya (Trikāya)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/04_kayas/README.md#a-három-kāya-trikāya)
+## [A három kāya (Trikāya)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/04_kayas/README.md#a-három-kāya-trikāya)
 [![kayas.png](../../../../more/04_kayas/kayas.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/04_kayas/README.md#the-three-kāyas-trikāya)
 
 <details>
 <summary>Tanítás</summary>
 
-# Tanítás az Ébredés Három Testéről
+# Tanítás az ébredés három testéről
 
 *(Hogyan Egyek a Valóság, a Tapasztalat és az [Együttérzés](../02_from_ignorance_to_awakening/7_compassion/README.md#az-együttérzés-mint-strukturális-elv-a-buddhista-tanításban))*
 
 ---
 
-## Bevezetés: Miért Beszélt Buddha "Testekről"
+## Bevezetés: miért beszélt Buddha "testekről"
 
 Buddha nem absztrakt eszmének tanította a [Megvilágosodást](../10_concepts/README.md#3-megvilágosodás-bodhi-awakening).
 **A valóság megélt módjaként** tanította.
@@ -23,7 +23,7 @@ Ezek **dimenziók, amelyeket fel kell ismerni**.
 
 ---
 
-## 1. Dharmakāya — Az Igazság Teste
+## 1. Dharmakāya — az igazság teste
 
 A legmélyebb szinten az ébredés [**üres**](../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism).
 
@@ -53,7 +53,7 @@ Az igazi üresség **élő**.
 
 ---
 
-## 2. Sambhogakāya — Az Élvezet Teste
+## 2. Sambhogakāya — az élvezet teste
 
 Mivel az üresség nem halott, természetesen **tud**.
 
@@ -87,7 +87,7 @@ A tisztaságnak **birtoktalannak** kell maradnia.
 
 ---
 
-## 3. Nirmāṇakāya — Az Emanáció Teste
+## 3. Nirmāṇakāya — az emanáció teste
 
 Amikor az üresség tiszta, természetesen **válaszol**.
 
@@ -117,7 +117,7 @@ Az igazi Együttérzés **erőfeszítés nélküli és pontos**.
 
 ---
 
-## A Három Egysége
+## A három egysége
 
 A három kāya nem három dolog.
 
@@ -138,7 +138,7 @@ Mindhárom-at **egyszerre** ismered fel.
 
 ---
 
-## A Gyakorló Hibája — és a Korrekció
+## A gyakorló hibája — és a korrekció
 
 **Gyakori hibák**
 
@@ -157,7 +157,7 @@ Mindhárom-at **egyszerre** ismered fel.
 
 ---
 
-## Hogyan Gyakorolják Ezt a Tanítást
+## Hogyan gyakorolják ezt a tanítást
 
 * Ülj és ismerd fel a nyitottságot → **Dharmakāya**
 * Vedd észre az élénk tudást → **Sambhogakāya**
@@ -170,7 +170,7 @@ Hanem a **folytonosság**.
 
 ---
 
-## Záró Utasítás
+## Záró utasítás
 
 Ne próbálj Buddha lenni.
 Ne próbálj fenntartani egy állapotot.
@@ -191,7 +191,7 @@ Amikor semmi nincs blokkolva,
 <details open>
 <summary>Explanation</summary>
 
-### 1. **Dharmakāya** — *Az Igazság Teste*
+### 1. **Dharmakāya** — *az igazság teste*
 **Lényeg:** Maga a végső valóság
 **Természet:** Üresség (*śūnyatā*) elválaszthatatlan a Tudatosságtól
 
@@ -219,7 +219,7 @@ Amikor semmi nincs blokkolva,
 
 ---
 
-### 2. **Sambhogakāya** — *Az Élvezet / Boldogság Teste*
+### 2. **Sambhogakāya** — *az élvezet / boldogság teste*
 
 
 
@@ -251,7 +251,7 @@ Amikor semmi nincs blokkolva,
 
 ---
 
-### 3. **Nirmāṇakāya** — *Az Emanáció Teste*
+### 3. **Nirmāṇakāya** — *az emanáció teste*
 
 
 
@@ -284,7 +284,7 @@ Amikor semmi nincs blokkolva,
 
 ---
 
-## Hogyan Viszonyulnak a Kāyák (Kulcsfontosságú Tibeti Belátás)
+## Hogyan viszonyulnak a kāyák (kulcsfontosságú tibeti belátás)
 
 Ezek **nem három különálló dolog**.
 
@@ -302,7 +302,7 @@ Mindhárom **egyidejűleg jelen van** az [ébredésben](../10_concepts/README.md
 
 ---
 
-## Haladó Tibeti Kiterjesztések (Röviden)
+## Haladó tibeti kiterjesztések (röviden)
 
 Néhány tibeti rendszer **öt kāyáról** beszél:
 
@@ -313,7 +313,7 @@ Ezek **finomítások**, nem ellentmondások.
 
 ---
 
-## Miért Fontosak a Kāyák Gyakorlatilag
+## Miért fontosak a kāyák gyakorlatilag
 
 A tibeti buddhizmus a kāyákat használja, hogy válaszoljon:
 
@@ -328,7 +328,7 @@ Biztosítják, hogy a buddhizmus elkerülje:
 
 ---
 
-## Egy Mondatos Összefoglalás
+## Egy mondatos összefoglalás
 
 > A **Dharmakāya** az ébredés mint igazság,
 > a **Sambhogakāya** az ébredés mint fénylő jelentés,
@@ -341,7 +341,7 @@ Biztosítják, hogy a buddhizmus elkerülje:
 <details>
 <summary>Meditáció</summary>
 
-# Trikāya Meditációs Szekvencia
+# Trikāya meditációs szekvencia
 
 *(Az Alaptól → Fénylésig → Együttérzésig)*
 
@@ -367,7 +367,7 @@ Biztosítják, hogy a buddhizmus elkerülje:
 
 ---
 
-## Phase I — Dharmakāya
+## Phase i — Dharmakāya
 
 **Resting as Open Tudatosság** (10–15 minutes)
 
@@ -416,7 +416,7 @@ Rest here.
 
 ---
 
-## Phase II — Sambhogakāya
+## Phase ii — Sambhogakāya
 
 **Allowing Luminous Presence** (8–12 minutes)
 
@@ -465,7 +465,7 @@ Rest.
 
 ---
 
-## Phase III — Nirmāṇakāya
+## Phase iii — Nirmāṇakāya
 
 **Együttérzés in Form** (8–12 minutes)
 
@@ -508,7 +508,7 @@ If images arise of helping, listening, or presence — let them pass naturally.
 
 ---
 
-## Integration — The Three as One (3–5 minutes)
+## Integration — the three as one (3–5 minutes)
 
 Now notice:
 
@@ -540,7 +540,7 @@ Before standing:
 
 ---
 
-## Daily-Life Micro-Gyakorlat (Very Important)
+## Daily-life micro-gyakorlat (very important)
 
 Several times a day, pause for **3 seconds**:
 
@@ -552,7 +552,7 @@ This is how the Meditáció **enters life**.
 
 ---
 
-## Signs You’re Practicing Correctly
+## Signs you’re practicing correctly
 
 * Less reactivity
 * More space before speech
@@ -568,7 +568,7 @@ This is how the Meditáció **enters life**.
 
 ---
 
-< [Mit Jelent Valójában a "Szenvedés Megszüntetése"](../03_the_path_to_end_suffering/README.md) | [1. Dharmakāya → *Alap Felismerés*](mahamudra_and_dzogcsen/README.md) >
+< [Mit jelent valójában a "szenvedés megszüntetése"](../03_the_path_to_end_suffering/README.md) | [1. Dharmakāya → *alap felismerés*](mahamudra_and_dzogcsen/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

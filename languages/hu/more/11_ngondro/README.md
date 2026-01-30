@@ -1,4 +1,4 @@
-# [The Előkészítő Gyakorlatok (Ngöndro)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/README.md#the-preliminary-practices-ngöndro)
+# [The előkészítő gyakorlatok (Ngöndro)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/README.md#the-preliminary-practices-ngöndro)
 [![ngondro.png](../../../../more/11_ngondro/ngondro.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/README.md#the-preliminary-practices-ngöndro)
 
 > At this point you've arrived to a serious Tanítás, requiring lots of Gyakorlat. If you consider to proceed with the Előkészítő Gyakorlatok and still not contacted a local Buddhist center or Közösség yet, please do it now. 
@@ -16,7 +16,7 @@ Ngöndro is **structural conditioning**: it rewires motivation, perception, and 
 
 ---
 
-## 1. Where Ngöndro Fits in Mahāyāna
+## 1. Where Ngöndro fits in Mahāyāna
 
 In classical Mahāyāna terms, Ngöndro integrates:
 
@@ -29,9 +29,9 @@ Tibetan lineages systematized this into a **precise psycho-spiritual curriculum*
 
 ---
 
-## 2. The Two Layers of Ngöndro
+## 2. The two layers of Ngöndro
 
-### A. **Outer Ngöndro** – Cognitive Reorientation
+### A. **Outer Ngöndro** – cognitive reorientation
 These contemplations recalibrate *how reality is valued*:
 
 1. **Precious Human Birth**
@@ -50,7 +50,7 @@ These contemplations recalibrate *how reality is valued*:
 
 ---
 
-### B. **Inner Ngöndro** – Embodied Transformation
+### B. **Inner Ngöndro** – embodied transformation
 These are **quantified practices** (often 100,000+ repetitions), not symbolic gestures.
 
 1. [**Refuge & Prostrations**](1_prostrations/README.md#the-first-ngöndro-gyakorlat)
@@ -60,17 +60,17 @@ These are **quantified practices** (often 100,000+ repetitions), not symbolic ge
    * Mind re-anchors trust
      → Dismantles pride and self-referentiality
 
-2. [**Vajrasattva Purification**](2_purification/README.md#2-vajrasattva-purification-of-obscurations)
+2. [**Vajrasattva purification**](2_purification/README.md#2-vajrasattva-purification-of-obscurations)
 
    * Purifies obscurations through Tudatosság + remorse + resolve
    * Not moral guilt, but **causal hygiene**
 
-3. [**Mandala Offering**](3_mandala_offering/README.md#the-third-ngöndro-gyakorlat)
+3. [**Mandala offering**](3_mandala_offering/README.md#the-third-ngöndro-gyakorlat)
 
    * Systematic relinquishing of attachment
    * Trains abundance *without ownership*
 
-4. [**Guru Yoga**](4_guru_yoga/README.md#the-fourth-ngöndro-gyakorlat)
+4. [**Guru yoga**](4_guru_yoga/README.md#the-fourth-ngöndro-gyakorlat)
 
    * Devotion to awakened mind as *recognizable within oneself*
    * Collapses the false split between "Tanító" and "nature of mind"
@@ -79,7 +79,7 @@ These are **quantified practices** (often 100,000+ repetitions), not symbolic ge
 
 ---
 
-## 3. Why Ngöndro Is Necessary (Not Optional)
+## 3. Why Ngöndro is necessary (not optional)
 
 From a systems perspective:
 
@@ -97,7 +97,7 @@ Many realized masters completed Ngöndro **multiple times**—not because they w
 
 ---
 
-## 4. A Modern Analogy (Engineering View)
+## 4. A modern analogy (engineering view)
 
 Think of Ngöndro as:
 
@@ -109,7 +109,7 @@ Skipping it is like deploying a powerful optimizer on corrupted data.
 
 ---
 
-## 5. What Ngöndro Is *Not*
+## 5. What Ngöndro is *not*
 
 * ❌ Not superstition
 * ❌ Not blind ritual
@@ -119,7 +119,7 @@ Skipping it is like deploying a powerful optimizer on corrupted data.
 
 ---
 
-## 6. Key Insight
+## 6. Key insight
 
 > **Ngöndro is already awakening—
 > just practiced until it becomes irreversible.**
@@ -127,7 +127,7 @@ Skipping it is like deploying a powerful optimizer on corrupted data.
 
 ---
 
-< [A Negyedik Ngöndro Gyakorlat](4_guru_yoga/README.md) | [Gyakran Ismételt Kérdések](../80_faq/README.md) >
+< [A negyedik Ngöndro gyakorlat](4_guru_yoga/README.md) | [Gyakran ismételt kérdések](../80_faq/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

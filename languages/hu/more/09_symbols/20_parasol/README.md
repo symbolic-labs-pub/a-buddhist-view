@@ -1,4 +1,4 @@
-## [Az Ernyő (Chatra) — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/20_parasol/README.md#az-ernyő-chatra--a-buddhista-tanítások-szerint)
+## [Az ernyő (chatra) — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/20_parasol/README.md#az-ernyő-chatra--a-buddhista-tanítások-szerint)
 
 [![parasol](../../../../../more/09_symbols/20_parasol/parasol.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/20_parasol/README.md#az-ernyő-chatra--a-buddhista-tanítások-szerint)
 
@@ -8,7 +8,7 @@ Az **Ernyő** a buddhizmus **Nyolc Jótékony Szimbólumának (Aṣṭamaṅgala
 
 ---
 
-### Alapvető Jelentés
+### Alapvető jelentés
 
 **Védelem a [szenvedéstől](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-van-szenvedés-dukkha) az ébredett [tudatosságon](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing) keresztül.**
 
@@ -21,7 +21,7 @@ Az ernyő **azt az elmét** jelenti, amely megtanulta, hogyan ne égjen meg a fe
 
 ---
 
-### Mitől Véd (Nem Amit Az Emberek Feltételeznek)
+### Mitől véd (nem amit az emberek feltételeznek)
 
 Az ernyő **nem** szimbolizálja:
 
@@ -40,7 +40,7 @@ Ez **kognitív védelem**, nem misztikus defense.
 
 ---
 
-### Strukturális Tanítás
+### Strukturális tanítás
 
 A buddhista pszichológiában:
 
@@ -57,7 +57,7 @@ Az ernyő tanítja:
 
 ---
 
-### Etikai Dimenzió (Gyakran Figyelmen Kívül Hagyott)
+### Etikai dimenzió (gyakran figyelmen kívül hagyott)
 
 Az ernyő szorosan kapcsolódik **az [etikai magatartáshoz (śīla)](../../01_core_teachings/the_noble_eightfold_path/README.md#2-etikus-magatartas-la)**.
 
@@ -71,7 +71,7 @@ Etika nélkül a [meditáció](../../08_lineage/README.md) olyan, mint napon ül
 
 ---
 
-### Királyi Szimbólum → Belső Szuverenitás
+### Királyi szimbólum → belső szuverenitás
 
 A buddhizmusban **az igazi király az elme uralása**.
 
@@ -89,7 +89,7 @@ Ez az oka annak, hogy ernyők megjelennek:
 
 ---
 
-### Vajrayāna Perspektíva (Mélyebb Réteg)
+### Vajrayāna perspektíva (mélyebb réteg)
 
 A [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle)-ban az ernyő azt is jelenti:
 
@@ -101,7 +101,7 @@ Itt a védelem nem kezdőknek—hanem **fejlett gyakorlóknak**, akiknek meg kel
 
 ---
 
-### Egy Mondatos Tanítás
+### Egy mondatos tanítás
 
 > **Az Ernyő azt tanítja, hogy az ébredés nem kitettség—hanem intelligens menedék.**
 
@@ -112,7 +112,7 @@ hanem **tudni, hogyan állj benne anélkül, hogy megégess**.
 
 ---
 
-< [Az Aranyhalak — a buddhista tanítások szerint](../19_golden_fish/README.md) | [🏺 A Kincs Váza (Skt. *Nidhāna-kumbha*, Tib. *Bumpa*)](../21_treasure_vase/README.md) >
+< [Az aranyhalak — a buddhista tanítások szerint](../19_golden_fish/README.md) | [🏺 A kincs váza (skt. *nidhāna-kumbha*, tib. *bumpa*)](../21_treasure_vase/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

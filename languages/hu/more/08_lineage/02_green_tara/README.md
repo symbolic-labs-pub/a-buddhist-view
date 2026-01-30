@@ -1,16 +1,16 @@
-## [**Kagyü Tanítás Zöld Tārāról: Együttérzés, Ami Nem Habozik**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/02_green_tara/README.md)
+## [**Kagyü tanítás zöld tārāról: együttérzés, ami nem habozik**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/02_green_tara/README.md)
 
 [![green_tara](../../../../../more/08_lineage/02_green_tara/green_tara.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/08_lineage/02_green_tara/README.md#a-kagyü-teaching-on-green-tārā-compassion-that-does-not-hesitate)
 
 <details>
 <summary>Tanítás</summary>
 
-## **Kagyü Tanítás Zöld Tārāról:
+## **Kagyü tanítás zöld tārāról:
 
 
 Együttérzés, Ami Nem Habozik**
 
-### 1. **A Megcélzott Probléma**
+### 1. **A megcélzott probléma**
 
 A legtöbb [szenvedés](../../../../../more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha) nem azért merül fel, mert a lényekből hiányzik az együttérzés.
 Azért merül fel, mert **a tisztaság késik**.
@@ -27,7 +27,7 @@ Zöld Tārā ezt a pontos hibapont kezeli.
 
 ---
 
-### 2. **Kit Képvisel Zöld Tārā**
+### 2. **Kit képvisel zöld Tārā**
 
 **Zöld Tārā** nem egy különálló istennő, aki kívülről avatkozik be.
 
@@ -48,7 +48,7 @@ Kinyújtott lába ezt az igazságot szimbolizálja:
 
 ---
 
-### 3. **Nézet: A Félelem Jelzés, Nem Ellenség**
+### 3. **Nézet: a félelem jelzés, nem ellenség**
 
 A végső nézetből:
 
@@ -71,7 +71,7 @@ Zöld Tārā egyesíti a [két igazságot](../../../../../more/02_from_ignorance
 
 ---
 
-### 4. **Meditáció: Az Elérhetőség Edzése**
+### 4. **Meditáció: az elérhetőség edzése**
 
 Zöld Tārā gyakorlása nem boldogságra vagy elmerülésre irányul.
 
@@ -93,7 +93,7 @@ Ez a meditáció **funkcióvá** válik.
 
 ---
 
-### 5. **Viselkedés: Együttérzés Mint Időszerű Cselekvés**
+### 5. **Viselkedés: együttérzés mint időszerű cselekvés**
 
 Ebben a tanításban az együttérzést nem csupán szándék alapján mérik.
 
@@ -118,7 +118,7 @@ Ezért hangsúlyozzák gyakorlását:
 
 ---
 
-### 6. **Gyakori Félreértés Korrigálva**
+### 6. **Gyakori félreértés korrigálva**
 
 Zöld Tārā **nem** bátorít impulzivitásra.
 
@@ -135,7 +135,7 @@ Cselekvése abból fakad:
 
 ---
 
-### 7. **Gyümölcs: A Gyakorlat Jele**
+### 7. **Gyümölcs: a gyakorlat jele**
 
 Amikor Zöld Tārā gyakorlata megérik:
 
@@ -153,7 +153,7 @@ Ez az ébredett cselekvés a hétköznapi életben.
 
 ---
 
-## **Záró Utasítás**
+## **Záró utasítás**
 
 
 Ne várj arra, hogy a félelem eltűnjön cselekvés előtt.
@@ -172,7 +172,7 @@ Ez Zöld Tārā élő tanítása.
 <details open>
 <summary>Magyarázat</summary>
 
-### 1. **A Megcélzott Probléma**
+### 1. **A megcélzott probléma**
 
 A legtöbb szenvedés nem azért merül fel, mert a lényekből hiányzik az együttérzés.
 Azért merül fel, mert **a tisztaság késik**.
@@ -189,7 +189,7 @@ Zöld Tārā ezt a pontos hibapont kezeli.
 
 ---
 
-### 2. **Kit Képvisel Zöld Tārā**
+### 2. **Kit képvisel zöld Tārā**
 
 **Zöld Tārā** nem egy különálló istennő, aki kívülről avatkozik be.
 
@@ -210,7 +210,7 @@ Kinyújtott lába ezt az igazságot szimbolizálja:
 
 ---
 
-### 3. **Nézet: A Félelem Jelzés, Nem Ellenség**
+### 3. **Nézet: a félelem jelzés, nem ellenség**
 
 A végső nézetből:
 
@@ -233,7 +233,7 @@ Zöld Tārā egyesíti a két igazságot:
 
 ---
 
-### 4. **Meditáció: Az Elérhetőség Edzése**
+### 4. **Meditáció: az elérhetőség edzése**
 
 Zöld Tārā gyakorlása nem boldogságra vagy elmerülésre irányul.
 
@@ -255,7 +255,7 @@ Ez a meditáció **funkcióvá** válik.
 
 ---
 
-### 5. **Viselkedés: Együttérzés Mint Időszerű Cselekvés**
+### 5. **Viselkedés: együttérzés mint időszerű cselekvés**
 
 Ebben a tanításban az együttérzést nem csupán szándék alapján mérik.
 
@@ -280,7 +280,7 @@ Ezért hangsúlyozzák gyakorlását:
 
 ---
 
-### 6. **Gyakori Félreértés Korrigálva**
+### 6. **Gyakori félreértés korrigálva**
 
 Zöld Tārā **nem** bátorít impulzivitásra.
 
@@ -297,7 +297,7 @@ Cselekvése abból fakad:
 
 ---
 
-### 7. **Gyümölcs: A Gyakorlat Jele**
+### 7. **Gyümölcs: a gyakorlat jele**
 
 Amikor Zöld Tārā gyakorlata megérik:
 
@@ -315,7 +315,7 @@ Ez az ébredett cselekvés a hétköznapi életben.
 
 ---
 
-## **Záró Utasítás**
+## **Záró utasítás**
 
 Ne várj arra, hogy a félelem eltűnjön cselekvés előtt.
 Ne várj bizonyosságra válasz előtt.
@@ -328,7 +328,7 @@ Ez Zöld Tārā élő tanítása.
 
 ---
 
-## **Zöld Tārā: Azonnali Együttérző Cselekvés Meditációja**
+## **Zöld Tārā: azonnali együttérző cselekvés meditációja**
 
 *(Félelemnélküliség, tisztaság és cselekvési készenlét edzése)*
 
@@ -339,7 +339,7 @@ Ez Zöld Tārā élő tanítása.
 
 ---
 
-### 1. **Előkészítés – A Mező Letelepítése**
+### 1. **Előkészítés – a mező letelepítése**
 
 Ülj kényelmesen, gerinc egyenesen, de ellazultan.
 A kezek természetesen pihennek.
@@ -360,7 +360,7 @@ Hagyd, hogy a figyelem letelepedjen a **szívközpontban**—nem érzelmileg, ha
 
 ---
 
-### 2. **Vizualizáció – Zöld Tārā Jelenléte**
+### 2. **Vizualizáció – zöld Tārā jelenléte**
 
 Vizualizáld **Zöld Tārā** megjelenését **előtted**, élénken és élve.
 
@@ -380,7 +380,7 @@ Nem távoli.
 
 ---
 
-### 3. **Megidézés – Azonnali Válasz**
+### 3. **Megidézés – azonnali válasz**
 
 Gyengéden ismételd (hangosan vagy csendben):
 
@@ -398,7 +398,7 @@ Ez a mantra nem a kényelemért való—hanem a **pánik nélküli mozgásért**
 
 ---
 
-### 4. **Megtestesülés – Látomásból Funkcióba**
+### 4. **Megtestesülés – látomásból funkcióba**
 
 Most változtasd meg a vizualizációt:
 
@@ -421,7 +421,7 @@ Az **elérhetőséget** edzed, nem az elemzést.
 
 ---
 
-### 5. **Szemlélődés – A Központi Utasítás**
+### 5. **Szemlélődés – a központi utasítás**
 
 Gyengéden gondolkodj (egy sor egyszerre, szünetekkel):
 
@@ -433,7 +433,7 @@ Hagyd, hogy a megértés **szomatikusan** merüljön fel, nem intellektuálisan.
 
 ---
 
-### 6. **Alkalmazás – Napi Élet Integráció**
+### 6. **Alkalmazás – napi élet integráció**
 
 Befejezés előtt tegyél egy egyszerű szándékot:
 
@@ -449,7 +449,7 @@ Egy **egyetlen mantra ismétlés** a napi életben elég a reaktiváláshoz.
 
 ---
 
-### 7. **Felajánlás (Opcionális, Kagyü stílus)**
+### 7. **Felajánlás (opcionális, Kagyü stílus)**
 
 Csendben ajánld fel:
 
@@ -458,7 +458,7 @@ Csendben ajánld fel:
 
 ---
 
-## Gyakorlati Jegyzetek (Fontos)
+## Gyakorlati jegyzetek (fontos)
 
 * Ez **nem nyugtató meditáció** — hanem egy **funkcionális**
 * A haladás a következőkként mutatkozik:
@@ -470,7 +470,7 @@ Csendben ajánld fel:
 
 ---
 
-## Lényeg Összefoglaló
+## Lényeg összefoglaló
 
 Zöld Tārā gyakorlása ezt a képességet edzi:
 
@@ -481,7 +481,7 @@ Zöld Tārā gyakorlása ezt a képességet edzi:
 <details>
 <summary>Meditáció</summary>
 
-## **Zöld Tārā: Azonnali Együttérző Cselekvés Meditációja**
+## **Zöld Tārā: azonnali együttérző cselekvés meditációja**
 
 
 *(Félelemnélküliség, tisztaság és cselekvési készenlét edzése)*
@@ -493,7 +493,7 @@ Zöld Tārā gyakorlása ezt a képességet edzi:
 
 ---
 
-### 1. **Előkészítés – A Mező Letelepítése**
+### 1. **Előkészítés – a mező letelepítése**
 
 Ülj kényelmesen, gerinc egyenesen, de ellazultan.
 A kezek természetesen pihennek.
@@ -514,7 +514,7 @@ Hagyd, hogy a figyelem letelepedjen a **szívközpontban**—nem érzelmileg, ha
 
 ---
 
-### 2. **Vizualizáció – Zöld Tārā Jelenléte**
+### 2. **Vizualizáció – zöld Tārā jelenléte**
 
 Vizualizáld **Zöld Tārā** megjelenését **előtted**, élénken és élve.
 
@@ -534,7 +534,7 @@ Nem távoli.
 
 ---
 
-### 3. **Megidézés – Azonnali Válasz**
+### 3. **Megidézés – azonnali válasz**
 
 Gyengéden ismételd (hangosan vagy csendben):
 
@@ -552,7 +552,7 @@ Ez a mantra nem a kényelemért való—hanem a **pánik nélküli mozgásért**
 
 ---
 
-### 4. **Megtestesülés – Látomásból Funkcióba**
+### 4. **Megtestesülés – látomásból funkcióba**
 
 Most változtasd meg a vizualizációt:
 
@@ -575,7 +575,7 @@ Az **elérhetőséget** edzed, nem az elemzést.
 
 ---
 
-### 5. **Szemlélődés – A Központi Utasítás**
+### 5. **Szemlélődés – a központi utasítás**
 
 Gyengéden gondolkodj (egy sor egyszerre, szünetekkel):
 
@@ -587,7 +587,7 @@ Hagyd, hogy a megértés **szomatikusan** merüljön fel, nem intellektuálisan.
 
 ---
 
-### 6. **Alkalmazás – Napi Élet Integráció**
+### 6. **Alkalmazás – napi élet integráció**
 
 Befejezés előtt tegyél egy egyszerű szándékot:
 
@@ -603,7 +603,7 @@ Egy **egyetlen mantra ismétlés** a napi életben elég a reaktiváláshoz.
 
 ---
 
-### 7. **Felajánlás (Opcionális, Kagyü stílus)**
+### 7. **Felajánlás (opcionális, Kagyü stílus)**
 
 Csendben ajánld fel:
 
@@ -612,7 +612,7 @@ Csendben ajánld fel:
 
 ---
 
-## Gyakorlati Jegyzetek (Fontos)
+## Gyakorlati jegyzetek (fontos)
 
 
 * Ez **nem nyugtató meditáció** — hanem egy **funkcionális**
@@ -625,7 +625,7 @@ Csendben ajánld fel:
 
 ---
 
-## Lényeg Összefoglaló
+## Lényeg összefoglaló
 
 
 Zöld Tārā gyakorlása ezt a képességet edzi:
@@ -639,7 +639,7 @@ Zöld Tārā gyakorlása ezt a képességet edzi:
 
 
 
-< [Fehér Tārā Meditáció](../01_white_tara/README.md) | [Mahākāla Védelmező Megidézés](../03_mahakala/README.md) >
+< [Fehér Tārā meditáció](../01_white_tara/README.md) | [Mahākāla védelmező megidézés](../03_mahakala/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

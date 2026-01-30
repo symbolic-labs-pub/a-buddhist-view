@@ -5,7 +5,7 @@ A Buddha azt tanította, hogy **minden feltételekhez kötött jelenség** (mind
 
 ---
 
-### 1. **Mulandóság (Anicca)**
+### 1. **Mulandóság (anicca)**
 
 **"Minden, ami keletkezik, elmúlik."**
 
@@ -36,7 +36,7 @@ A mulandóság világos látása kezdi felszámolni a ragaszkodást.
 
 ---
 
-### 2. **Kielégületlenség (Dukkha)**
+### 2. **Kielégületlenség (dukkha)**
 
 **"A mulandó dolgokhoz való ragaszkodás elkerülhetetlenül csalódáshoz vezet."**
 
@@ -68,7 +68,7 @@ Még az öröm is Dukkha-vá válik, amikor:
 
 ---
 
-### 3. **Nem-én (Anattā)**
+### 3. **Nem-én (anattā)**
 
 **"Nem található állandó, független én."**
 
@@ -166,7 +166,7 @@ Együtt alkotják **a buddhizmus ontológiai magját**.
 
 ---
 
-< [A három ékszer (hármas drágakő) — *Ti-ratana*](../../01_core_teachings/the_three_jewels/README.md) | [A négy nemes igazság — ahogyan Buddha értette](../2_the_four_noble_truths/README.md) >
+< [A három ékszer (hármas drágakő) — *ti-ratana*](../../01_core_teachings/the_three_jewels/README.md) | [A négy nemes igazság — ahogyan Buddha értette](../2_the_four_noble_truths/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

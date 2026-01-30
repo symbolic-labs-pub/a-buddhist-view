@@ -1,4 +1,4 @@
-## [🏺 A Kincs Váza (Skt. *Nidhāna-kumbha*, Tib. *Bumpa*)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/21_treasure_vase/README.md#-a-kincs-váza-skt-nidhāna-kumbha-tib-bumpa)
+## [🏺 A kincs váza (skt. *nidhāna-kumbha*, tib. *bumpa*)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/21_treasure_vase/README.md#-a-kincs-váza-skt-nidhāna-kumbha-tib-bumpa)
 
 [![treasure_vase](../../../../../more/09_symbols/21_treasure_vase/treasure_vase.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/21_treasure_vase/README.md#-a-kincs-váza-skt-nidhāna-kumbha-tib-bumpa)
 
@@ -8,7 +8,7 @@ A **Kincs Váza** a buddhizmus **Nyolc Jótékony Szimbólumának** egyike. **A 
 
 ---
 
-### 1. Alapvető Jelentés — *Bőség Kimerülés Nélkül*
+### 1. Alapvető jelentés — *bőség kimerülés nélkül*
 
 A Kincs Váza **a ki nem fogyó gazdagságot** szimbolizálja:
 
@@ -23,7 +23,7 @@ A hétköznapi tartályokkal ellentétben a vázáról azt mondják, hogy **mind
 
 ---
 
-### 2. Filozófiai Tanítás — *Az Üresség mint a Gazdagság Forrása*
+### 2. Filozófiai tanítás — *az üresség mint a gazdagság forrása*
 
 Mélyebb szinten a Kincs Váza **a Śūnyatā ([üresség](../../10_concepts/01_emptiness/README.md#emptiness-nyat-in-vajrayna-buddhism))** szimbóluma **potenciálként** kifejezve.
 
@@ -35,7 +35,7 @@ Ebben az értelemben a Kincs Váza tanítja, hogy **az üresség nem hiány, han
 
 ---
 
-### 3. Etikai Dimenzió — *Helyes Viszony az Erőforrásokhoz*
+### 3. Etikai dimenzió — *helyes viszony az erőforrásokhoz*
 
 A Kincs Váza közvetlenül szemben áll két szélsőséggel:
 
@@ -52,7 +52,7 @@ A bőség nem személyes trófea; hanem **megosztott állapot**.
 
 ---
 
-### 4. Vajrayāna Perspektíva — *Rituális és Energetikus Funkció*
+### 4. Vajrayāna perspektíva — *rituális és energetikus funkció*
 
 A [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle) buddhizmusban a Kincs Váza szintén szó szerinti:
 
@@ -64,7 +64,7 @@ Itt a bőséget **energetikus koherenciaként** értik, nem pénzként.
 
 ---
 
-### 5. Pszichológiai Belátás — *Biztonság Ragaszkodás Nélkül*
+### 5. Pszichológiai belátás — *biztonság ragaszkodás nélkül*
 
 Az elme-edzés szintjén:
 
@@ -80,7 +80,7 @@ A Kincs Vázát megtestesítő gyakorló:
 
 ---
 
-### 6. Sűrített Tanítás
+### 6. Sűrített tanítás
 
 > **A Kincs Váza azt tanítja, hogy amikor a ragaszkodás véget ér, a bőség megjelenik.
 > A gazdagság a legjobban nyitott kezeken és nyitott elmén keresztül áramlik.**
@@ -90,7 +90,7 @@ Nem gazdagság ígérete—hanem **hogyan viszonyul az elme a birtokláshoz** ko
 
 ---
 
-< [Az Ernyő (Chatra) — a buddhista tanítások szerint](../20_parasol/README.md) | [Győzelmi Zászló (Skt. *Dhvaja*) — Buddhista Jelentés](../22_victory_banner/README.md) >
+< [Az ernyő (chatra) — a buddhista tanítások szerint](../20_parasol/README.md) | [Győzelmi zászló (skt. *dhvaja*) — buddhista jelentés](../22_victory_banner/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

@@ -1,4 +1,4 @@
-## [Imakerék (Mani Kerék) — Magyarázat a Buddhista Tanítások Szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/03_prayer_wheel/README.md#imakerék-mani-kerék--magyarázat-a-buddhista-tanítások-szerint)
+## [Imakerék (mani kerék) — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/03_prayer_wheel/README.md#imakerék-mani-kerék--magyarázat-a-buddhista-tanítások-szerint)
 
 [![prayer_wheel](../../../../../more/09_symbols/03_prayer_wheel/prayer_wheel.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/03_prayer_wheel/README.md#imakerék-mani-kerék--magyarázat-a-buddhista-tanítások-szerint)
 
@@ -8,7 +8,7 @@ Az **imakerék** (*mani kerék*) nem egy rövidítés, babona vagy mechanikus tr
 
 ---
 
-## 1. Mit Jelent Valójában az Imakerék
+## 1. Mit jelent valójában az imakerék
 
 
 Alapvetően az imakerék **a [függő keletkezést](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás) testesíti meg cselekvésben**.
@@ -27,7 +27,7 @@ Ez egyesíti a **Három Kaput** (test, beszéd, elme), amely **a gyakorlás telj
 
 ---
 
-## 2. Miért Számít az Óramutató Járása Szerinti Forgás
+## 2. Miért számít az óramutató járása szerinti forgás
 
 
 Az óramutató járása szerinti mozgás nem önkényes.
@@ -44,7 +44,7 @@ Tehát az óramutató járása szerinti forgás **a [Dharma](../../01_core_teach
 
 ---
 
-## 3. "Minden Fordulat Egyenlő Egy Recitációval" — Mit Jelent Ez Valójában
+## 3. "minden fordulat egyenlő egy recitációval" — mit jelent ez valójában
 
 
 Ez **nem** azt jelenti, hogy mechanikusan halmozódik az érdem.
@@ -61,7 +61,7 @@ Egy szétszórt személy, aki 1000 mantrát recitál, kevesebb tisztaságot nyer
 
 ---
 
-## 4. A Mélyebb Cél: A Nem-Fragmentáció Tanítása
+## 4. A mélyebb cél: a nem-fragmentáció tanítása
 
 
 Az imakerék valami finom, de kritikus dolgot tanít:
@@ -86,7 +86,7 @@ Ez az oka annak, hogy imakerékek **utakon, falakon, hidakon és falvakban** jel
 
 ---
 
-## 5. Miért Ellenjavallott a Gyorsaság
+## 5. Miért ellenjavallott a gyorsaság
 
 
 Az ego által hajtott gyors pörgés ("több fordulat = több érdem") **elhibázza a lényeget**.
@@ -107,7 +107,7 @@ A Vajrayāna-ban **az elme minősége határozza meg az eredményt**, nem a mozg
 
 ---
 
-## 6. Mi *Nem* az Imakerék
+## 6. Mi *nem* az imakerék
 
 
 **Nem**:
@@ -127,7 +127,7 @@ Tudatossággal **mozgásban lévő gyakorlat** lesz.
 
 ---
 
-## 7. Az Alapvető Tanítás Egy Sorban
+## 7. Az alapvető tanítás egy sorban
 
 
 > Az imakerék azt tanítja, hogy az ébredés nem valami, amire megállítod az életet—
@@ -136,7 +136,7 @@ Tudatossággal **mozgásban lévő gyakorlat** lesz.
 
 ---
 
-< [Dorje (Vajra) — magyarázat a buddhista tanítások szerint](../02_dorje/README.md) | [Imazászlók (Lungta) — Magyarázat a Buddhista Tanítások Szerint](../04_prayer_flags/README.md) >
+< [Dorje (vajra) — magyarázat a buddhista tanítások szerint](../02_dorje/README.md) | [Imazászlók (lungta) — magyarázat a buddhista tanítások szerint](../04_prayer_flags/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

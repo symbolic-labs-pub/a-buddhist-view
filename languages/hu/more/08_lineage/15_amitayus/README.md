@@ -1,16 +1,16 @@
-## [Amitāyus — The Buddha of Boundless Life](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
+## [Amitāyus — the Buddha of boundless life](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
 
 [![amitayus](../../../../../more/08_lineage/15_amitayus/amitayus.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
 
 <details>
 <summary>Tanítás</summary>
 
-## **The Teaching of Boundless Life**
+## **The teaching of boundless life**
 
 
 *A Buddhist instruction revealed through Amitāyus practice*
 
-### 1. The Problem the Teaching Addresses
+### 1. The problem the teaching addresses
 
 Ordinary beings fear death and pursue longevity as **extension of possession**:
 more time to secure identity, comfort, memory, name.
@@ -26,7 +26,7 @@ The teaching of **Amitāyus** addresses this root cause.
 
 ---
 
-### 2. The Central Insight
+### 2. The central insight
 
 **Longevity is not duration.
 Longevity is continuity of awakened awareness.**
@@ -39,7 +39,7 @@ he reveals **why time collapses or stabilizes**.
 
 ---
 
-### 3. Two Forms, One Truth
+### 3. Two forms, one truth
 
 Buddhist teaching presents two inseparable aspects:
 
@@ -53,7 +53,7 @@ Continuity without clarity decays into habit.
 
 ---
 
-### 4. The Vase of Long Life (Teaching Symbol)
+### 4. The vase of long life (teaching symbol)
 
 Amitāyus holds a vase of *amṛta* (deathless nectar).
 
@@ -69,7 +69,7 @@ The vase is filled **automatically** when causes are correct.
 
 ---
 
-### 5. The Ethical Dimension
+### 5. The ethical dimension
 
 Amitāyus is inseparable from conduct.
 
@@ -89,7 +89,7 @@ Clarity conserves life.
 
 ---
 
-### 6. Why Longevity Practice Is Not Selfish
+### 6. Why longevity practice is not selfish
 
 In [Mahāyāna](../../05_yanas/README.md#limitation-from-mahyna-view) and [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle), one does not pray for long life to enjoy it.
 
@@ -111,7 +111,7 @@ Thus Amitāyus practice is often dedicated to:
 
 ---
 
-### 7. The Meditative Instruction Encoded
+### 7. The meditative instruction encoded
 
 The meditation teaches three structural truths:
 
@@ -130,7 +130,7 @@ This is why the meditation emphasizes:
 
 ---
 
-### 8. Death Reinterpreted
+### 8. Death reinterpreted
 
 Amitāyus does not deny death.
 
@@ -146,7 +146,7 @@ Thus longevity practice is also **preparation for dying well**.
 
 ---
 
-### 9. The Final Teaching Sentence
+### 9. The final teaching sentence
 
 The entire teaching of Amitāyus can be stated precisely:
 
@@ -159,7 +159,7 @@ It is observation.
 
 ---
 
-### 10. Closing Instruction
+### 10. Closing instruction
 
 Do not ask:
 
@@ -184,7 +184,7 @@ That is the teaching of Amitāyus.
 
 ---
 
-### Core Meaning in Buddhist Teaching
+### Core meaning in buddhist teaching
 
 Amitāyus does **not** promise immortality of the ego or body. His teaching is subtler and more rigorous:
 
@@ -196,7 +196,7 @@ In this sense, Amitāyus represents **life-force purified by realization**.
 
 ---
 
-### Iconography (Why He Looks the Way He Does)
+### Iconography (why he looks the way he does)
 
 Each element of Amitāyus’ depiction is instructional:
 
@@ -210,7 +210,7 @@ This is **symbolic anatomy**, not decoration.
 
 ---
 
-### Function of Amitāyus Practice
+### Function of Amitāyus practice
 
 In Vajrayāna contexts, Amitāyus practice is used to:
 
@@ -223,7 +223,7 @@ Longevity here means *time made meaningful*.
 
 ---
 
-### Philosophical Insight
+### Philosophical insight
 
 Amitāyus teaches a precise causal law:
 
@@ -234,7 +234,7 @@ Thus, longevity is **ethical, meditative, and cognitive**—not merely biologica
 
 ---
 
-### Relationship to Other Buddhas
+### Relationship to other buddhas
 
 * **Amitābha** → infinite light (clarity of mind)
 * **Amitāyus** → infinite life (continuity of realization)
@@ -246,7 +246,7 @@ You could say:
 
 ---
 
-### Meditative Principle (Concise)
+### Meditative principle (concise)
 
 When contemplating Amitāyus, the practitioner reflects:
 
@@ -258,7 +258,7 @@ This is **life aligned with awakening**, not survival.
 
 ---
 
-### Essential Summary
+### Essential summary
 
 Amitāyus is not about living forever.
 He is about **living without inner erosion**.
@@ -272,7 +272,7 @@ He is about **living without inner erosion**.
 <details>
 <summary>Meditáció</summary>
 
-## **Amitāyus Longevity Meditation**
+## **Amitāyus longevity meditation**
 
 
 > ⚠️ **Note on scope**
@@ -302,7 +302,7 @@ Silently establish the motivation:
 
 ---
 
-## 1. Refuge & Orientation (1–2 minutes)
+## 1. Refuge & orientation (1–2 minutes)
 
 
 Bring awareness to the **field of awakened support**:
@@ -335,7 +335,7 @@ Let the image be **clear but gentle**.
 
 ---
 
-## 3. Identity Alignment (3–5 minutes)
+## 3. Identity alignment (3–5 minutes)
 
 
 Shift from observer to resonance.
@@ -362,7 +362,7 @@ Presence deepens.
 
 ---
 
-## 4. Longevity Mantra (Optional, 5–10 minutes)
+## 4. Longevity mantra (optional, 5–10 minutes)
 
 
 If you use [mantra](../../09_symbols/10_mantra/README.md#mi-is-a-mantra-valójában-buddhista-nézet), recite softly or mentally:
@@ -400,7 +400,7 @@ life no longer leaking through distraction.
 
 ---
 
-## 6. Dedication of Life (2 minutes)
+## 6. Dedication of life (2 minutes)
 
 
 Conclude with deliberate dedication:
@@ -415,7 +415,7 @@ Feel resolve—not emotion.
 
 ---
 
-## Key Teaching Encoded in This Practice
+## Key teaching encoded in this practice
 
 
 * **Longevity is not biological luck**
@@ -428,7 +428,7 @@ He **removes what shortens them**.
 
 ---
 
-## When This Practice Is Especially Appropriate
+## When this practice is especially appropriate
 
 
 * During illness or recovery
@@ -441,7 +441,7 @@ He **removes what shortens them**.
 ---
 
 
-< [**Amitābha** — a buddhista tanítások szerint](../14_amitabha/README.md) | [**Vairócana** — az **Egyetemes Megvilágosodás** Buddhája](../16_vairocana/README.md) >
+< [**Amitābha** — a buddhista tanítások szerint](../14_amitabha/README.md) | [**Vairócana** — az **egyetemes megvilágosodás** buddhája](../16_vairocana/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

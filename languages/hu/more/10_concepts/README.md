@@ -1,12 +1,12 @@
-# [Fogalmak](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/10_concepts/README.md#Fogalmak)[![bodhi_tree.png](../../../../more/10_concepts/bodhi_tree.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/10_concepts/README.md#concepts)
+# [Fogalmak](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/10_concepts/README.md#Fogalmak)[![bodhi_tree.png](../../../../more/10_concepts/bodhi_tree.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/10_concepts/readme.md#concepts)
  
-# Table of Contens
+# Table of contens
 - [Emptiness](#1-emptiness-śūnyatā)
 - [Tudatosság](#2-tudatosság-rigpa-vijñāna-knowing)
 - [Megvilágosodás](#what-megvilágosodás-is)
 
 
-## 1. **Emptiness (Śūnyatā)**
+## 1. **Emptiness (śūnyatā)**
 
 
 
@@ -57,7 +57,7 @@ Emptiness removes **ontological fixation**, not appearance.
 
 ---
 
-## 2. **Tudatosság (Rigpa / Vijñāna / Knowing)**
+## 2. **Tudatosság (rigpa / vijñāna / knowing)**
 
 
 
@@ -67,7 +67,7 @@ Emptiness removes **ontological fixation**, not appearance.
 
 
 ### Two levels (often confused)
-#### 1. Ordinary Tudatosság (vijñāna)
+#### 1. Ordinary tudatosság (vijñāna)
 * Dualistic
 * Subject–object based
 * Fragmented into:
@@ -77,7 +77,7 @@ Emptiness removes **ontological fixation**, not appearance.
   * thinking
 * Reactive, conditioned
 
-#### 2. Primordial Tudatosság (rigpa / jñāna)
+#### 2. Primordial tudatosság (rigpa / jñāna)
 * Non-dual
 * Self-knowing
 * Luminous
@@ -105,7 +105,7 @@ Tudatosság is not a thing — it is **knowing itself**, empty of owner.
 
 ---
 
-## 3. **Megvilágosodás (Bodhi / Awakening)**
+## 3. **Megvilágosodás (bodhi / awakening)**
 
 
 
@@ -114,14 +114,14 @@ Tudatosság is not a thing — it is **knowing itself**, empty of owner.
 
 
 
-### What Megvilágosodás is **not**
+### What megvilágosodás is **not**
 * A peak experience
 * Bliss trance
 * Permanent altered state
 * Moral perfection
 * Escaping the world
 
-### What Megvilágosodás **is**
+### What megvilágosodás **is**
 **Stable recognition of:**
 
 * emptiness as the nature of phenomena
@@ -156,7 +156,7 @@ Megvilágosodás is **not becoming something else** — it is ceasing misrecogni
 
 ---
 
-## How the Three Interlock (Critical Insight)
+## How the three interlock (critical insight)
 
 | Aspect            | Function                 |
 | ----------------- | ------------------------ |
@@ -171,7 +171,7 @@ Megvilágosodás is **not becoming something else** — it is ceasing misrecogni
 
 ---
 
-## Practical Diagnostic (Very Important)
+## Practical diagnostic (very important)
 
 If someone says:
 
@@ -191,7 +191,7 @@ True realization:
 
 ---
 
-## One-Sentence Summary
+## One-sentence summary
 
 > **Emptiness** is how things exist,
 > **Tudatosság** is how they are known,
@@ -200,7 +200,7 @@ True realization:
 
 ---
 
-< [Üresség (Śūnyatā) a Vadzsrajāna Buddhizmusban](01_emptiness/README.md) | [Az Első Ngöndro Gyakorlat](../11_ngondro/1_prostrations/README.md) >
+< [Üresség (śūnyatā) a vadzsrajāna buddhizmusban](01_emptiness/README.md) | [Az első Ngöndro gyakorlat](../11_ngondro/1_prostrations/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

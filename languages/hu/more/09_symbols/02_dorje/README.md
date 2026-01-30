@@ -1,4 +1,4 @@
-## [Dorje (Vajra) — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/02_dorje/README.md#dorje-vajra--magyarazat-a-buddhista-tanitasok-szerint)
+## [Dorje (vajra) — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/02_dorje/README.md#dorje-vajra--magyarazat-a-buddhista-tanitasok-szerint)
 
 [![dorje](../../../../../more/09_symbols/02_dorje/dorje.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/02_dorje/README.md#dorje-vajra--magyarazat-a-buddhista-tanitasok-szerint)
 
@@ -116,7 +116,7 @@ A dorje azt tanítja, hogy **az ébredés elpusztíthatatlan tisztaság – egy�
 
 ---
 
-< [Áldó Zsinór (Védő Zsinór) — Buddhista Jelentés](../01_blessing_cord/README.md) | [Imakerék (Mani Kerék) — Magyarázat a Buddhista Tanításokon Keresztül](../03_prayer_wheel/README.md) >
+< [Áldó zsinór (védő zsinór) — buddhista jelentés](../01_blessing_cord/README.md) | [Imakerék (mani kerék) — magyarázat a buddhista tanításokon keresztül](../03_prayer_wheel/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

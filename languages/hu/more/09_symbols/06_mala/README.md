@@ -1,4 +1,4 @@
-## [Mala (Imazsinór) — Magyarázat a Buddhista Tanítások Szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/06_mala/README.md#mala-imazsinór--magyarázat-a-buddhista-tanítások-szerint)
+## [Mala (imazsinór) — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/06_mala/README.md#mala-imazsinór--magyarázat-a-buddhista-tanítások-szerint)
 
 [![mala](../../../../../more/09_symbols/06_mala/mala.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/06_mala/README.md#mala-imazsinór--magyarázat-a-buddhista-tanítások-szerint)
 
@@ -26,7 +26,7 @@ Minden gyöngy önmagában nem szimbolikus—csak akkor lesz jelentőségteljes,
 
 ---
 
-### 2. A **Guru Gyöngy** (Meru)
+### 2. A **Guru gyöngy** (meru)
 
 A nagyobb gyöngyöt **nem számolják**.
 
@@ -62,7 +62,7 @@ Ez nem babona—hanem **szomatikus pszichológia**:
 
 ---
 
-### 4. A Mala mint **járó elme**
+### 4. A mala mint **járó elme**
 
 A mala externalizálja azt, amit a [meditáció](../../08_lineage/README.md) belsőleg tréniróz:
 
@@ -115,7 +115,7 @@ A mala sikeres **csak akkor, amikor eltűnik a tudatosságban**.
 
 ---
 
-### Összefoglalás (Hagyományos Nézet)
+### Összefoglalás (hagyományos nézet)
 
 * A mala **nem ad áldásokat**
 * **Felfedi a folytonosságot**
@@ -128,7 +128,7 @@ Arra **treníroznak, hogy ne hagyd hátra a tudatosságot**.
 
 ---
 
-< [1. Mi is a Sztúpa *Valójában* (Az Építészeten Túl)](../05_stupa/README.md) | [1. Mi is a mandala *valójában* (ontológiailag)](../07_mandala/README.md) >
+< [1. Mi is a sztúpa *valójában* (az építészeten túl)](../05_stupa/README.md) | [1. Mi is a mandala *valójában* (ontológiailag)](../07_mandala/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

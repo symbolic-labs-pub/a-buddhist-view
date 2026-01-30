@@ -1,18 +1,18 @@
-## [**Vairocana** — the Buddha of **Universal Illumination**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/16_vairocana/README.md#vairocana--the-buddha-of-universal-illumination)
+## [**Vairocana** — the Buddha of **universal illumination**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/16_vairocana/README.md#vairocana--the-buddha-of-universal-illumination)
 
 [![vairocana](../../../../../more/08_lineage/16_vairocana/vairocana.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/16_vairocana/README.md#vairocana--the-buddha-of-universal-illumination)
 
 <details>
 <summary>Tanítás</summary>
 
-## A Buddhist Teaching on **Vairocana**
+## A buddhist teaching on **Vairocana**
 
 
-### *Universal Illumination as the Path of Recognition*
+### *Universal illumination as the path of recognition*
 
 ---
 
-### 1. The View (Not a Belief, but an Orientation)
+### 1. The view (not a belief, but an orientation)
 
 All experience arises within a single field of [awareness](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing).
 This field is not owned, created, or controlled by a self.
@@ -27,7 +27,7 @@ Ignorance is not darkness—it is **failure to recognize light**.
 
 ---
 
-### 2. The Core Problem: Fragmentation
+### 2. The core problem: fragmentation
 
 Ordinary perception divides reality into:
 
@@ -47,7 +47,7 @@ but because it believes they exist **separately**.
 
 ---
 
-### 3. The Central Insight
+### 3. The central insight
 
 [Awakening](../../10_concepts/README.md#3-megvilágosodás-bodhi-awakening) does not occur by escaping the world.
 It occurs when the world is **seen correctly**.
@@ -62,7 +62,7 @@ This unity of **emptiness and clarity** is Vairocana’s [wisdom](../../01_core_
 
 ---
 
-### 4. The Practice: Inclusion, Not Rejection
+### 4. The practice: inclusion, not rejection
 
 Do not try to silence experience.
 Do not purify by force.
@@ -83,7 +83,7 @@ This unmoving openness is the living presence of Vairocana.
 
 ---
 
-### 5. Transformation of Ignorance
+### 5. Transformation of ignorance
 
 Other teachings transform specific poisons:
 
@@ -101,7 +101,7 @@ Confusion collapses when the field is seen as whole.
 
 ---
 
-### 6. Ethical Consequence
+### 6. Ethical consequence
 
 When nothing is outside awareness:
 
@@ -113,7 +113,7 @@ When nothing is outside awareness:
 
 ---
 
-### 7. The Cosmos as Teacher
+### 7. The cosmos as teacher
 
 Reality is not silent.
 
@@ -129,7 +129,7 @@ Every moment instructs.
 
 ---
 
-### 8. Maturation of the Path
+### 8. Maturation of the path
 
 At first, awareness is glimpsed.
 Then it is stabilized.
@@ -145,7 +145,7 @@ This is called **dwelling in the [Dharmakāya](../../04_kayas/README.md#1-dharma
 
 ---
 
-### 9. Closing Teaching
+### 9. Closing teaching
 
 > Awakening is not a new experience.
 > It is the end of misreading experience.
@@ -163,7 +163,7 @@ This is called **dwelling in the [Dharmakāya](../../04_kayas/README.md#1-dharma
 
 ---
 
-## 1. Core Meaning
+## 1. Core meaning
 
 **Vairocana** literally means *“The All-Illuminating One.”*
 He embodies **Dharma as such**—reality seen clearly, without distortion.
@@ -177,7 +177,7 @@ He corresponds to **Dharmakāya** (the *truth body* of the Buddha), the **ground
 
 ---
 
-## 2. Place in the Five Dhyāni Buddhas
+## 2. Place in the five dhyāni buddhas
 
 Vairocana sits at the **center** of the **Five Dhyāni (Wisdom) Buddhas** system.
 
@@ -194,7 +194,7 @@ While other Buddhas transform specific poisons (anger, desire, pride), **Vairoca
 
 ---
 
-## 3. Philosophical Role
+## 3. Philosophical role
 
 Vairocana represents:
 
@@ -215,7 +215,7 @@ In this view:
 
 ---
 
-## 4. Scriptural Foundation
+## 4. Scriptural foundation
 
 Vairocana is central in:
 
@@ -228,7 +228,7 @@ Reality is not neutral—it is **instructional**.
 
 ---
 
-## 5. Practice Meaning (Vajrayāna)
+## 5. Practice meaning (Vajrayāna)
 
 Meditation on Vairocana trains:
 
@@ -244,7 +244,7 @@ This is why Vairocana is often depicted **radiant, symmetrical, and central**—
 
 ---
 
-## 6. Practical Insight
+## 6. Practical insight
 
 From Vairocana’s perspective:
 
@@ -256,7 +256,7 @@ From Vairocana’s perspective:
 
 ---
 
-## 7. One-Line Teaching
+## 7. One-line teaching
 
 
 </details>
@@ -266,7 +266,7 @@ From Vairocana’s perspective:
 <details>
 <summary>Meditáció</summary>
 
-## **Vairocana Meditation Practice**
+## **Vairocana meditation practice**
 
 
 > ⚠️ **Note on scope**
@@ -276,7 +276,7 @@ From Vairocana’s perspective:
 
 ---
 
-### *Universal Illumination — Recognition Rather Than Construction*
+### *Universal illumination — recognition rather than construction*
 
 This practice is **non-dual, inclusive, and stabilizing**.
 It does not aim to create a special state; it trains **correct recognition**.
@@ -305,7 +305,7 @@ Silently acknowledge:
 
 ---
 
-## 2. Establish the Field (3–5 minutes)
+## 2. Establish the field (3–5 minutes)
 
 
 Bring attention to **what is already present**:
@@ -327,7 +327,7 @@ This open presence is the **field**.
 
 ---
 
-## 3. Vairocana Visualization (Optional but Powerful)
+## 3. Vairocana visualization (optional but powerful)
 
 
 If visualization is natural for you:
@@ -346,7 +346,7 @@ The visualization is a **pointer**, not a deity external to you.
 
 ---
 
-## 4. Core Recognition Practice (10–20 minutes)
+## 4. Core recognition practice (10–20 minutes)
 
 
 Rest in awareness and observe:
@@ -372,7 +372,7 @@ This recognition is the **wisdom of Vairocana**:
 
 ---
 
-## 5. Inclusion Training (Key Instruction)
+## 5. Inclusion training (key instruction)
 
 
 When distraction occurs:
@@ -410,7 +410,7 @@ Vairocana is **present in both**.
 
 ---
 
-## 7. Integration into Daily Life
+## 7. Integration into daily life
 
 
 After the session, silently carry this instruction:
@@ -430,7 +430,7 @@ This is **post-meditation Vairocana practice**.
 
 ---
 
-## 8. Signs of Correct Practice
+## 8. Signs of correct practice
 
 
 ✔ Reduced need to control experience
@@ -443,7 +443,7 @@ If you feel dull, dissociated, or blank → **reintroduce vivid sensory awarenes
 
 ---
 
-## 9. Closing Dedication (Optional)
+## 9. Closing dedication (optional)
 
 
 Silently conclude:
@@ -453,7 +453,7 @@ Silently conclude:
 
 ---
 
-### Summary Formula
+### Summary formula
 
 > **Awareness does not awaken.
 > Misrecognition ends.**
@@ -463,7 +463,7 @@ Silently conclude:
 
 ---
 
-< [Amitāyus — A Határtalan Élet Buddhája](../15_amitayus/README.md) | [Fehér Tārā (Sitatārā) – A Hosszú Élet és Együttérzés Anyja](../README.md) >
+< [Amitāyus — a határtalan élet buddhája](../15_amitayus/README.md) | [Fehér Tārā (Sitatārā) – a hosszú élet és együttérzés anyja](../README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

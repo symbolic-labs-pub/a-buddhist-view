@@ -1,4 +1,4 @@
-# Leszármazási Vonal Birtokosai
+# Leszármazási vonal birtokosai
 
 ![lineage_holders.png](../../../../more/07_history/lineage_holders.png)
 
@@ -85,7 +85,7 @@ A **Karmapa** a **Karma Kagyu** leszármazási vonal feje (egy Kagyu iskola), am
 
 ---
 
-## 1) A Karma Kagyu "gerinc"
+## 1) A karma Kagyu "gerinc"
 
 A Karma Kagyu a tágabb **[Kagyu hagyományon](https://www.rigpawiki.org/index.php?title=The_Kagyu_Tradition)** belül helyezkedik el (a négy fő tibeti iskola egyike). A Kagyu ezen keresztül nyomon követhető:
 **Marpa (fordító) → Milarepa → Gampopa → (Karma Kagyu ág) → Karmapa-k (tulku vonal).** ([Rigpa Wiki][2])
@@ -94,14 +94,14 @@ A **16. Karmapa-nál** kezdünk, így ott kezdődik a részletes idővonal.
 
 ---
 
-## 2) Őszentsége a 16. Karmapa (1924–1981): kulcs események és miért számít
+## 2) Őszentsége a 16. karmapa (1924–1981): kulcs események és miért számít
 
 **Őszentsége a 16. Karmapa Rangjung Rigpe Dorje (született 1924, meghalt 1981)** széles körben elismerve **újjáépítette a Karma Kagyu intézményes bázisát száműzetésben** és **jelentős nyugati bázisokat hozott létre**. ([Karmapa Official][3])
 
-### Központi idővonal (Kr.u.)
+### Központi idővonal (kr.u.)
 
 * **1959** — Elhagyja Tibetet és Sikkim-be (India) megy. ([Wikipedia][4])
-* **1962–1966** — Újjáépíti a **[Rumtek Kolostort](https://en.wikipedia.org/wiki/Rumtek_Monastery)** mint a **Karmapa száműzetési székhelyét**; **1966-ban felavatták**. ([Wikipedia][4])
+* **1962–1966** — Újjáépíti a **[Rumtek kolostort](https://en.wikipedia.org/wiki/Rumtek_Monastery)** mint a **Karmapa száműzetési székhelyét**; **1966-ban felavatták**. ([Wikipedia][4])
 * **1972** — Nagy zarándoklat India-szerte főbb tanítványokkal (beleértve Shamar Rinpoche-t). ([Karmapa Official][3])
 * **1974** — **Első jelentős Karmapa látogatás Nyugaton** (Európa/USA/Kanada); Fekete Korona ceremóniák széles körben tanúsítva. ([Karmapa Official][3])
 * **1974 január közepén** — Találkozik **VI. Pál pápával** Rómában az európai turné során. ([Karmapa Official][3])
@@ -117,7 +117,7 @@ A **16. Karmapa-nál** kezdünk, így ott kezdődik a részletes idővonal.
 
 ---
 
-## 3) 1981 után: a "Négy Szív Fiú" régensség (a kritikus csomópont)
+## 3) 1981 Után: a "négy szív fiú" régensség (a kritikus csomópont)
 
 A 16. Karmapa elhunyta után tanácsot/régensséget alakítottak négy fő tanítványa ("szív fiak"), általában így sorolva:
 
@@ -130,9 +130,9 @@ Ez a régensség struktúra központi, mert a későbbi szakadás nagyrészt ahh
 
 ---
 
-## 4) A 17. Karmapa elismerési szakadás (1992 → jelen): két ág
+## 4) A 17. karmapa elismerési szakadás (1992 → jelen): két ág
 
-### A Ág — **Ogyen Trinley Dorje** (elismerve 1992; trónra ült Tsurphu-ban)
+### A ág — **ogyen trinley dorje** (elismerve 1992; trónra ült tsurphu-ban)
 
 Kulcs, nagy bizonyosságú mérföldkövek:
 
@@ -142,7 +142,7 @@ Kulcs, nagy bizonyosságú mérföldkövek:
 
 Ez az ág gyakran társul a hivatalos **[kagyuoffice.org](https://kagyuoffice.org/karmapa/)** web jelenléttel. ([Kagyu Office][11])
 
-### B Ág — **Trinley Thaye Dorje** (bemutatva 1994; trónra ült 1996)
+### B ág — **trinley thaye dorje** (bemutatva 1994; trónra ült 1996)
 
 Kulcs mérföldkövek:
 
@@ -178,7 +178,7 @@ Ez az "egység útvonal" számít, mert átalakítja, hogy a "leszármazási von
 
 ---
 
-## 7) A Shamarpa vonal mint párhuzamos "ág törzs" a Karma Kagyu-n belül
+## 7) A shamarpa vonal mint párhuzamos "ág törzs" a karma kagyu-n belül
 
 A Karma Kagyu-n belül a **Shamarpa**-t hagyományosan kivételesen vezető pozícióban tekintik—gyakran a **Karmapa után másodikként** írják le.
 
@@ -188,7 +188,7 @@ A Karma Kagyu-n belül a **Shamarpa**-t hagyományosan kivételesen vezető poz�
 
 ---
 
-## 8) "Ágak" a tágabb Tibeti Buddhizmus értelemben (kicsinyítés)
+## 8) "ágak" a tágabb tibeti buddhizmus értelemben (kicsinyítés)
 
 ### Kagyu ágak (strukturális)
 

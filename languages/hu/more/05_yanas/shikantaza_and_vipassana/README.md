@@ -51,7 +51,7 @@ Stability comes from repeated cycles:
 
 ---
 
-## 2) Shikantaza (Zen “just sitting”) — “global Tudatosság with minimal intervention”
+## 2) Shikantaza (Zen “just sitting”) — “global tudatosság with minimal intervention”
 
 ### Object model
 No privileged object. Everything appears in a **single field**.
@@ -92,7 +92,7 @@ Repeatedly returning to **non-interference** rewires attention:
 
 ---
 
-## 3) Mahāmudrā (Kagyu/Sakya, etc.) — “object-to-Tudatosság pivot (nondual shamatha/insight)”
+## 3) Mahāmudrā (kagyu/sakya, etc.) — “object-to-tudatosság pivot (nondual shamatha/insight)”
 
 [Mahāmudrā](../../04_kayas/mahamudra_and_dzogcsen/README.md#mahmudr-nature-of-mind) usually has two phases (or two “modes”):
 
@@ -144,7 +144,7 @@ You train “nondual stability”:
 
 ---
 
-## 4) Dzogchen (Nyingma, etc.) — “recognition of rigpa + self-Felszabadulás (no fabrication)”
+## 4) Dzogchen (Nyingma, etc.) — “recognition of rigpa + self-felszabadulás (no fabrication)”
 
 [Dzogchen](../../04_kayas/mahamudra_and_dzogcsen/README.md#dzogchen-rigpa-direct-introduction) is more “recognition-first” (ideally via *direct introduction*), then stabilization.
 
@@ -237,7 +237,7 @@ And when you’re off:
 
 ---
 
-< [Mi az a Yāna?](../README.md) | [1) Hogyan *strukturálják* az utat](../zen_and_theravada/README.md) >
+< [Mi az a yāna?](../README.md) | [1) Hogyan *strukturálják* az utat](../zen_and_theravada/README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

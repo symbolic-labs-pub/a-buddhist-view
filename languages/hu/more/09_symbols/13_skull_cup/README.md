@@ -1,4 +1,4 @@
-## [Koponya Csésze (Kapāla) — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/13_skull_cup/README.md#koponya-csésze-kapāla--magyarázat-a-buddhista-tanítások-szerint)
+## [Koponya csésze (kapāla) — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/13_skull_cup/README.md#koponya-csésze-kapāla--magyarázat-a-buddhista-tanítások-szerint)
 
 [![skull_cup](../../../../../more/09_symbols/13_skull_cup/skull_cup.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/13_skull_cup/README.md#koponya-csésze-kapāla--magyarázat-a-buddhista-tanítások-szerint)
 
@@ -8,7 +8,7 @@ A **Kapāla**, vagy koponya csésze, az egyik legközvetlenebb és kompromisszum
 
 ---
 
-### 1. **Az Ego Átalakulása**
+### 1. **Az ego átalakulása**
 
 A Vajrayāna-ban az egót nem udvariasan finomítják—hanem **szembesítik és átalakítják**.
 
@@ -27,7 +27,7 @@ Ez ego-dekonstrukció **közvetlen szimbolikus sokkon** keresztül, nem fokozato
 
 ---
 
-### 2. **A Halál mint Tanító (A Múlandóság Intimivé Téve)**
+### 2. **A halál mint tanító (a múlandóság intimivé téve)**
 
 A [múlandóságot (*anicca*)](../../01_core_teachings/impermanence/README.md#2-a-múlandóság-anicca-strukturális-nem-véletlen) gyakran intellektuálisan értik meg.
 A Kapāla **a testbe kényszeríti**.
@@ -48,7 +48,7 @@ Ily módon a halál nem ellenség.
 
 ---
 
-### 3. **Tisztítás Felajánláson Keresztül**
+### 3. **Tisztítás felajánláson keresztül**
 
 Hagyományosan a Kapāla **szimbolikus anyagokat** tart (nektár, torma vagy a szennyeződések rituális reprezentációi).
 
@@ -66,7 +66,7 @@ Még a legsötétebb érzelmek is **nyers üzemanyag az [ébredéshez](../../10_
 
 ---
 
-### 4. **Miért Csak Fejlett Vajrayāna-ban**
+### 4. **Miért csak fejlett vajrayāna-ban**
 
 A Kapālát **nem tanítják korán** egy okból.
 
@@ -92,7 +92,7 @@ Ez **sebészeti szimbolizmus**, nem látványosság.
 
 ---
 
-### 5. **Belső Jelentés (Az Igazi Kapāla)**
+### 5. **Belső jelentés (az igazi kapāla)**
 
 Végső soron a Kapāla **nem külső**.
 
@@ -124,7 +124,7 @@ Ez az oka annak, hogy a Kapāla csak azokhoz tartozik, akik készek **pislogás 
 
 ---
 
-< [A Csengő (Ghanta)](../12_bell/README.md) | [Mala Számlálók — magyarázat a buddhista tanítások szerint](../14_mala_counters/README.md) >
+< [A csengő (ghanta)](../12_bell/README.md) | [Mala számlálók — magyarázat a buddhista tanítások szerint](../14_mala_counters/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

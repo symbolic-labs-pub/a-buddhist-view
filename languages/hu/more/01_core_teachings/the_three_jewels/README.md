@@ -1,11 +1,11 @@
-## [A Három Ékszer (Hármas Ékkő) — *Ti-ratana*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/the_three_jewels/README.md#the-three-jewels-triple-gem--ti-ratana)
+## [A három ékszer (hármas ékkő) — *ti-ratana*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/the_three_jewels/README.md#the-three-jewels-triple-gem--ti-ratana)
 
 [![the_three_jewels](../../../../../more/01_core_teachings/the_three_jewels/the_three_jewels.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/the_three_jewels/README.md#the-three-jewels-triple-gem--ti-ratana)
 A klasszikus buddhista tanításban a **menedékvétel** a Három Ékszerben nem hit-fogadalom, hanem az **élet gyakorlati irányultsága**—elkötelezettség arra, hogy felébredjünk a valóságra, ahogyan van, és ennek megfelelően éljünk. A menedék azt jelenti, *"ami megvéd a [szenvedéstől](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha)"* (Pāli: *saraṇa*).
 
 ---
 
-## 1) **Buddha** — az Ébredett, és maga az ébredés
+## 1) **Buddha** — az ébredett, és maga az ébredés
 
 Történelmileg a Buddha **Sziddhártha Gautamá**ra utal, aki a felszabadulást az elme és a valóság természetébe való közvetlen betekintésen keresztül valósította meg.
 
@@ -23,16 +23,16 @@ Doktrinálisan a **Buddhá**nak három elválaszthatatlan jelentése van:
 
 A **Dharma (Dhamma)** egyidejűleg két szinten működik:
 
-### a) **Tanítások**
+### A) **tanítások**
 
-* A [Négy Nemes Igazság](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#the-four-noble-truths--as-the-buddha-meant-them)
-* A [Nemes Nyolcrétű Ösvény](../the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban)
-* A [Függő Keletkezés (*paṭicca-samuppāda*)](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás)
+* A [Négy nemes igazság](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#the-four-noble-truths--as-the-buddha-meant-them)
+* A [Nemes nyolcrétű ösvény](../the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban)
+* A [Függő keletkezés (*paṭicca-samuppāda*)](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás)
 * A [múlandóság (*anicca*)](../impermanence/README.md#2-a-múlandóság-anicca-strukturális-nem-véletlen), az [én-nélküliség (*anattā*)](../../02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md#3-nem-en-anatt), a kielégítetlenség (*dukkha*)
 
 Ezek **diagnosztikai és terápiás** tanítások, nem metafizikai doktrínák.
 
-### b) **Maga a valóság**
+### B) **maga a valóság**
 
 A Dharma azt is jelenti, hogy *"ahogyan a dolgok valójában vannak"*:
 
@@ -62,9 +62,9 @@ A Buddha többször hangsúlyozta, hogy az **izoláció gyengíti a gyakorlatot*
 
 ---
 
-## A Három Ékszer Funkcionális Egysége
+## A három ékszer funkcionális egysége
 
-A [Három Ékszer](#a-három-ékszer-funkcionális-egysége) nem különálló tárgyak, hanem **egy integrált rendszer**:
+A [Három ékszer](#a-három-ékszer-funkcionális-egysége) nem különálló tárgyak, hanem **egy integrált rendszer**:
 
 | Ékszer      | Funkció a gyakorlatban                 |
 | ---------- | ------------------------------------ |
@@ -101,7 +101,7 @@ De a menedék nem egyetlen esemény. Mélyül, ahogy:
 
 ---
 
-< [Mit Jelent a Nemes Nyolcrétű Ösvény (a buddhizmusban)](../the_noble_eightfold_path/README.md) | [A Létezés Három Jele — Buddhista Magyarázat](../../02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md) >
+< [Mit jelent a nemes nyolcrétű ösvény (a buddhizmusban)](../the_noble_eightfold_path/README.md) | [A létezés három jele — buddhista magyarázat](../../02_from_ignorance_to_awakening/1_the_three_marks_of_existence/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

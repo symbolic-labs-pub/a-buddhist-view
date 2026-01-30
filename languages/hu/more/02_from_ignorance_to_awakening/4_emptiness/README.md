@@ -1,4 +1,4 @@
-## [Üresség (Śūnyatā) a Mahāyāna buddhizmusban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/02_from_ignorance_to_awakening/4_emptiness/README.md#üresség-śūnyatā-a-mahāyāna-buddhizmusban)
+## [Üresség (śūnyatā) a Mahāyāna buddhizmusban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/02_from_ignorance_to_awakening/4_emptiness/README.md#üresség-śūnyatā-a-mahāyāna-buddhizmusban)
 
 [![emptiness](../../../../../more/02_from_ignorance_to_awakening/4_emptiness/emptiness.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/02_from_ignorance_to_awakening/4_emptiness/README.md#emptiness-śūnyatā-in-mahāyāna-buddhism)
 A **Mahāyāna buddhizmusban** az **üresség (Śūnyatā)** az a **központi filozófiai és tapasztalati belátás**, amely felszabadítja a lényeket a [szenvedésből](../2_the_four_noble_truths/README.md#1-van-szenvedés-dukkha). Ez nem hiedelem, hanem a *valóság helyes látásmódja*.
@@ -52,7 +52,7 @@ Ezek *ugyanazon valóság megértésének két módja*.
 
 ---
 
-### 3. Nāgārjuna és a Madhyamaka belátás
+### 3. Nāgārjuna és a madhyamaka belátás
 
 A filozófus **Nāgārjuna** sebészeti pontossággal artikulálta az ürességet.
 
@@ -75,7 +75,7 @@ Ez egy **korrekciós belátás**, nem helyettesítő hiedelem.
 
 ---
 
-### 4. A Szív Szútra: A kanonikus kifejezés
+### 4. A szív szútra: a kanonikus kifejezés
 
 A leghíresebb Mahāyāna tanítás az üresség kapcsán a **Szív Szútra**.
 
@@ -93,7 +93,7 @@ A forma helyes látása *az* az üresség látása.
 
 ---
 
-### 5. Üresség és együttérzés (Miért nem hideg filozófia ez)
+### 5. Üresség és együttérzés (miért nem hideg filozófia ez)
 
 Gyakori félreértés, hogy az üresség a távolságtartáshoz vagy apátiához vezet.
 
@@ -152,7 +152,7 @@ A Mahāyāna buddhizmusban az **üresség (Śūnyatā)** azt jelenti:
 
 ---
 
-< [Függő keletkezés (Paṭicca-samuppāda)](../3_dependent_origination/README.md) | [A két igazság a buddhista tanításban](../5_the_two_truths/README.md) >
+< [Függő keletkezés (paṭicca-samuppāda)](../3_dependent_origination/README.md) | [A két igazság a buddhista tanításban](../5_the_two_truths/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

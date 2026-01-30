@@ -8,7 +8,7 @@ A szabály ugyanaz, mint a meditációval, amit eddig tanulhattál. A dolog az, 
 
 ---
 
-## [Fehér Tārā (Sitatārā) – A Hosszú Élet és Együttérzés Anyja](01_white_tara/README.md)
+## [Fehér Tārā (Sitatārā) – a hosszú élet és együttérzés anyja](01_white_tara/README.md)
 
 | [![white_tara_small](../../../../more/08_lineage/01_white_tara/white_tara_small.png)](01_white_tara/README.md#white-tārā--the-teaching-of-sustaining-conditions) |
 
@@ -24,7 +24,7 @@ A Fehér Tārā nem elvont irgalom—ő a **gondoskodás, amely fenntartja az [�
 
 ---
 
-## [Zöld Tārā (Syamatārā) – Gyors Együttérzés Cselekvésben](02_green_tara/README.md)
+## [Zöld Tārā (Syamatārā) – gyors együttérzés cselekvésben](02_green_tara/README.md)
 
 [![green_tara_small](../../../../more/08_lineage/02_green_tara/green_tara_small.png)](02_green_tara/README.md#a-kagyü-teaching-on-green-tārā-compassion-that-does-not-hesitate)
 
@@ -40,7 +40,7 @@ A Zöld Tārā megtanítja a gyakorlót, hogy **tisztaságból cselekedjen, ne h
 
 ---
 
-## [Mahākāla – Fekete Köpeny Védelmező (Dharma Őr)](03_mahakala/README.md)
+## [Mahākāla – fekete köpeny védelmező (Dharma őr)](03_mahakala/README.md)
 
 [![mahakala_small](../../../../more/08_lineage/03_mahakala/mahakala_small.png)](03_mahakala/README.md#mahākāla-and-the-dharma-of-non-regression)
 
@@ -56,7 +56,7 @@ Mahākāla **az energia, amely megakadályozza a regressziót**.
 
 ---
 
-## [Ezerkarú Avalokiteśvara (Chenrezig) – Végtelen Együttérzés](04_avalokitesvara/README.md)
+## [Ezerkarú Avalokiteśvara (Chenrezig) – végtelen együttérzés](04_avalokitesvara/README.md)
 
 [![avalokitesvara_small](../../../../more/08_lineage/04_avalokitesvara/avalokitesvara_small.png)](04_avalokitesvara/README.md#the-teaching-of-infinite-responsiveness)
 
@@ -72,7 +72,7 @@ Ez a gyakorlat **puhítja az önre-fixációt, miközben erősíti az elhatároz
 
 ---
 
-## [Guru Rinpoche / Padmasambhava – A Tantrikus Mester](05_padmasambhava/README.md)
+## [Guru Rinpoche / Padmasambhava – a tantrikus mester](05_padmasambhava/README.md)
 
 [![padmasambhava_small](../../../../more/08_lineage/05_padmasambhava/padmasambhava_small.png)](05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
 
@@ -88,7 +88,7 @@ Guru Rinpoche mutatja, hogy **az ébredés alkalmazkodik a feltételekhez**.
 
 ---
 
-## [Gyógyító Buddha (Kék Bhaisajyaguru) – Gyógyító Bölcsesség](06_medicine_buddha/README.md)
+## [Gyógyító Buddha (kék bhaisajyaguru) – gyógyító bölcsesség](06_medicine_buddha/README.md)
 
 [![medicine_buddha_small](../../../../more/08_lineage/06_medicine_buddha/medicine_buddha_small.png)](06_medicine_buddha/README.md#a-buddhist-teaching)
 
@@ -104,7 +104,7 @@ A gyógyítás itt azt jelenti, **világosan látni, mit kell megváltoztatni**.
 
 ---
 
-## [Kalu Rinpoche – Modern Kagyü Mester](07_kalu_rinpoche/README.md)
+## [Kalu Rinpoche – modern Kagyü mester](07_kalu_rinpoche/README.md)
 
 [![kalu_rinpoche_small](../../../../more/08_lineage/07_kalu_rinpoche/kalu_rinpoche_small.jpg)](07_kalu_rinpoche/README.md#kalu-rinpoche)
 
@@ -120,7 +120,7 @@ Jelentősége:
 
 ---
 
-## [Bodhisattva – Az Ébredés-Mindenkiért Fogadalma](08_bodhisattva/README.md)
+## [Bodhisattva – az ébredés-mindenkiért fogadalma](08_bodhisattva/README.md)
 
 [![bodhisattva_small](../../../../more/08_lineage/08_bodhisattva/bodhisattva_small.png)](08_bodhisattva/README.md#awakening-is-not-private)
 
@@ -136,7 +136,7 @@ Egy bodhisattva **mozgásban levő ébredés**.
 
 ---
 
-## Strukturális Betekintés (Kagyü Lencse)
+## Strukturális betekintés (Kagyü lencse)
 
 Ezek az alakok **nem imádat tárgyai**, hanem **funkcionális archetípusok**:
 
@@ -150,7 +150,7 @@ Együtt egy **gyakorlati ökoszisztémát** alkotnak, nem egy panteont.
 
 ---
 
-## [Milarepa — A Radikális Átalakulás Archetípusa](09_milarepa/README.md)
+## [Milarepa — a radikális átalakulás archetípusa](09_milarepa/README.md)
 
 [![milarepa_small](../../../../more/08_lineage/09_milarepa/milarepa_small.png)](09_milarepa/README.md#a-buddhist-teaching-milarepa-and-the-law-of-irreversible-transformation)
 
@@ -172,7 +172,7 @@ Milarepa mutatja, hogy **semmi sem diskvalifikálja az ébredést, kivéve a gya
 
 ---
 
-## [Marpa a Fordító — Az Autentikus Átvitel Birtokosa](10_marpa/README.md)
+## [Marpa a fordító — az autentikus átvitel birtokosa](10_marpa/README.md)
 
 [![marpa_small](../../../../more/08_lineage/10_marpa/marpa_small.png)](10_marpa/README.md#a-buddhist-teaching-marpa-the-translator-the-dharma-that-refuses-to-be-softened)
 
@@ -194,7 +194,7 @@ Marpa a **ébredés strukturális integritását** képviseli—az igazságot to
 
 ---
 
-## [Vajradhara — A Mahāmudrā Forrása](11_vajradhara/README.md)
+## [Vajradhara — a Mahāmudrā forrása](11_vajradhara/README.md)
 
 [![vajradhara_small](../../../../more/08_lineage/11_vajradhara/vajradhara_small.png)](11_vajradhara/README.md#vajradhara-and-the-teaching-of-recognition)
 
@@ -216,7 +216,7 @@ Vajradhara **ébredés a fogalmak előtt**.
 
 ---
 
-## [Fekete Hatkarú Mahākāla — Ezoterikus Dharma Védelmező](12_six_armed_mahakala/README.md)
+## [Fekete hatkarú Mahākāla — ezoterikus Dharma védelmező](12_six_armed_mahakala/README.md)
 
 [![six_armed_mahakala_small](../../../../more/08_lineage/12_six_armed_mahakala/six_armed_mahakala_small.png)](12_six_armed_mahakala/README.md#mahākāla-as-the-discipline-of-awakening)
 
@@ -238,7 +238,7 @@ Ez a Mahākāla nem a kényelmet védi—**a megvalósítást védi**.
 
 ---
 
-## Strukturális Betekintés (Kagyü Perspektíva)
+## Strukturális betekintés (Kagyü perspektíva)
 
 Együtt, ez a négy egy **teljes vertikális tengelyt alkot a Kagyü útban**:
 
@@ -256,7 +256,7 @@ Nem szimbolikus díszítések; **funkcionális szükségletek** egy **közvetlen
 
 ---
 
-< [**Vairocana** — az **Egyetemes Megvilágosodás** Buddhája](16_vairocana/README.md) | [Áldáskötél (Védelmi Kötél) — Buddhista Jelentés](../09_symbols/01_blessing_cord/README.md) >
+< [**Vairocana** — az **egyetemes megvilágosodás** buddhája](16_vairocana/README.md) | [Áldáskötél (védelmi kötél) — buddhista jelentés](../09_symbols/01_blessing_cord/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

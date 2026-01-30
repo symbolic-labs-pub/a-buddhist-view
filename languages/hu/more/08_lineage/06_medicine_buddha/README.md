@@ -5,10 +5,10 @@
 <details>
 <summary>Tanítás</summary>
 
-## A Buddhist Teaching
+## A buddhist teaching
 
 
-### *Healing Is Clear Seeing*
+### *Healing is clear seeing*
 
 **Teaching focus:** Medicine Buddha (Bhaisajyaguru)
 **View:** [Wisdom](../../01_core_teachings/the_noble_eightfold_path/README.md#1-bölcsesség-pa)
@@ -17,7 +17,7 @@
 
 ---
 
-### 1. The Misunderstanding of Healing
+### 1. The misunderstanding of healing
 
 Ordinary beings believe healing means **removing pain**.
 
@@ -35,7 +35,7 @@ but due to **unexamined conditions**.
 
 ---
 
-### 2. The Medicine Buddha’s Reorientation
+### 2. The medicine buddha’s reorientation
 
 The Medicine Buddha does not promise rescue.
 
@@ -50,7 +50,7 @@ Healing therefore begins not with intervention, but with **accurate perception**
 
 ---
 
-### 3. Blue as the Color of Precision
+### 3. Blue as the color of precision
 
 The deep blue of the Medicine Buddha is not symbolic comfort.
 
@@ -70,7 +70,7 @@ This is why healing wisdom is calm:
 
 ---
 
-### 4. Three Domains of Healing
+### 4. Three domains of healing
 
 The Medicine Buddha teaching addresses **three inseparable domains**:
 
@@ -97,7 +97,7 @@ and relaxes where it is not.
 
 ---
 
-### 5. Healing Is Not Emotional Comfort
+### 5. Healing is not emotional comfort
 
 From this teaching:
 
@@ -114,7 +114,7 @@ It is **functional liberation**.
 
 ---
 
-### 6. Awakening Adapts to Conditions
+### 6. Awakening adapts to conditions
 
 The final instruction of the Medicine Buddha aligns with a core Kagyü insight:
 
@@ -132,7 +132,7 @@ not as one wishes it to be.
 
 ---
 
-### 7. The Result of This Teaching
+### 7. The result of this teaching
 
 When this teaching is integrated:
 
@@ -159,7 +159,7 @@ That question itself is medicine.
 <summary>Magyarázat</summary>
 
 
-### *Healing Is Clear Seeing*
+### *Healing is clear seeing*
 
 **Teaching focus:** Medicine Buddha (Bhaisajyaguru)
 **View:** Wisdom
@@ -168,7 +168,7 @@ That question itself is medicine.
 
 ---
 
-### 1. The Misunderstanding of Healing
+### 1. The misunderstanding of healing
 
 Ordinary beings believe healing means **removing pain**.
 
@@ -186,7 +186,7 @@ but due to **unexamined conditions**.
 
 ---
 
-### 2. The Medicine Buddha’s Reorientation
+### 2. The medicine buddha’s reorientation
 
 The Medicine Buddha does not promise rescue.
 
@@ -201,7 +201,7 @@ Healing therefore begins not with intervention, but with **accurate perception**
 
 ---
 
-### 3. Blue as the Color of Precision
+### 3. Blue as the color of precision
 
 The deep blue of the Medicine Buddha is not symbolic comfort.
 
@@ -221,7 +221,7 @@ This is why healing wisdom is calm:
 
 ---
 
-### 4. Three Domains of Healing
+### 4. Three domains of healing
 
 The Medicine Buddha teaching addresses **three inseparable domains**:
 
@@ -248,7 +248,7 @@ and relaxes where it is not.
 
 ---
 
-### 5. Healing Is Not Emotional Comfort
+### 5. Healing is not emotional comfort
 
 From this teaching:
 
@@ -265,7 +265,7 @@ It is **functional liberation**.
 
 ---
 
-### 6. Awakening Adapts to Conditions
+### 6. Awakening adapts to conditions
 
 The final instruction of the Medicine Buddha aligns with a core Kagyü insight:
 
@@ -283,7 +283,7 @@ not as one wishes it to be.
 
 ---
 
-### 7. The Result of This Teaching
+### 7. The result of this teaching
 
 When this teaching is integrated:
 
@@ -304,9 +304,9 @@ That question itself is medicine.
 
 ---
 
-## Medicine Buddha Meditation
+## Medicine Buddha meditation
 
-### *Healing as Clear Seeing*
+### *Healing as clear seeing*
 
 **Meditation target:** Medicine Buddha (Bhaisajyaguru)
 **Function:** Healing through insight into cause and effect
@@ -319,7 +319,7 @@ That question itself is medicine.
 
 ---
 
-### 1. Preparation — Establishing the Ground
+### 1. Preparation — establishing the ground
 
 Sit in a stable posture.
 Let the spine be upright but unforced.
@@ -335,7 +335,7 @@ This prepares the mind for **precision rather than urgency**.
 
 ---
 
-### 2. Visualization — Blue Clarity Appears
+### 2. Visualization — blue clarity appears
 
 Visualize the **Medicine Buddha** in front of you or above the crown of your head.
 
@@ -351,13 +351,13 @@ Let the image stabilize.
 
 ---
 
-### 3. Receiving Healing — Mind, Karma, Conditions
+### 3. Receiving healing — mind, karma, conditions
 
 From the Medicine Buddha’s heart, a **blue light** radiates and enters your body.
 
 Let it move in **three passes**:
 
-#### First pass — Mind
+#### First pass — mind
 
 * Thoughts slow
 * Confusion becomes readable
@@ -367,7 +367,7 @@ Silently note:
 
 > *“I see clearly.”*
 
-#### Second pass — Karma
+#### Second pass — karma
 
 * Habitual reactions appear as **patterns**, not identities
 * You see how actions produce results
@@ -377,7 +377,7 @@ Silently note:
 
 > *“Causes have consequences.”*
 
-#### Third pass — Conditions
+#### Third pass — conditions
 
 * External obstacles are seen as **modifiable conditions**
 * What can be changed becomes obvious
@@ -389,7 +389,7 @@ Silently note:
 
 ---
 
-### 4. Core Contemplation — Healing as Insight
+### 4. Core contemplation — healing as insight
 
 Now drop the visualization.
 
@@ -408,7 +408,7 @@ This is the heart of Medicine Buddha practice:
 
 ---
 
-### 5. Integration — Action Without Drama
+### 5. Integration — action without drama
 
 Before closing, bring to mind **one small adjustment** you could realistically make:
 
@@ -426,7 +426,7 @@ This aligns with the principle:
 
 ---
 
-### 6. Dedication — Stabilizing the Result
+### 6. Dedication — stabilizing the result
 
 End with a quiet dedication:
 
@@ -438,7 +438,7 @@ Open the eyes slowly.
 
 ---
 
-## Practice Notes (Important)
+## Practice notes (important)
 
 * This meditation works best **without emotional dramatization**
 * It is especially effective during:
@@ -451,7 +451,7 @@ Open the eyes slowly.
 
 ---
 
-## Structural Insight (Why This Works)
+## Structural insight (why this works)
 
 This practice is powerful because it:
 
@@ -468,10 +468,10 @@ Healing here means:
 <details>
 <summary>Meditáció</summary>
 
-## Medicine Buddha Meditation
+## Medicine Buddha meditation
 
 
-### *Healing as Clear Seeing*
+### *Healing as clear seeing*
 
 **Meditation target:** Medicine Buddha (Bhaisajyaguru)
 **Function:** Healing through insight into cause and effect
@@ -484,7 +484,7 @@ Healing here means:
 
 ---
 
-### 1. Preparation — Establishing the Ground
+### 1. Preparation — establishing the ground
 
 Sit in a stable posture.
 Let the spine be upright but unforced.
@@ -500,7 +500,7 @@ This prepares the mind for **precision rather than urgency**.
 
 ---
 
-### 2. Visualization — Blue Clarity Appears
+### 2. Visualization — blue clarity appears
 
 Visualize the **Medicine Buddha** in front of you or above the crown of your head.
 
@@ -516,13 +516,13 @@ Let the image stabilize.
 
 ---
 
-### 3. Receiving Healing — Mind, Karma, Conditions
+### 3. Receiving healing — mind, karma, conditions
 
 From the Medicine Buddha’s heart, a **blue light** radiates and enters your body.
 
 Let it move in **three passes**:
 
-#### First pass — Mind
+#### First pass — mind
 
 * Thoughts slow
 * Confusion becomes readable
@@ -532,7 +532,7 @@ Silently note:
 
 > *“I see clearly.”*
 
-#### Second pass — Karma
+#### Second pass — karma
 
 * Habitual reactions appear as **patterns**, not identities
 * You see how actions produce results
@@ -542,7 +542,7 @@ Silently note:
 
 > *“Causes have consequences.”*
 
-#### Third pass — Conditions
+#### Third pass — conditions
 
 * External obstacles are seen as **modifiable conditions**
 * What can be changed becomes obvious
@@ -554,7 +554,7 @@ Silently note:
 
 ---
 
-### 4. Core Contemplation — Healing as Insight
+### 4. Core contemplation — healing as insight
 
 Now drop the visualization.
 
@@ -573,7 +573,7 @@ This is the heart of Medicine Buddha practice:
 
 ---
 
-### 5. Integration — Action Without Drama
+### 5. Integration — action without drama
 
 Before closing, bring to mind **one small adjustment** you could realistically make:
 
@@ -591,7 +591,7 @@ This aligns with the principle:
 
 ---
 
-### 6. Dedication — Stabilizing the Result
+### 6. Dedication — stabilizing the result
 
 End with a quiet dedication:
 
@@ -603,7 +603,7 @@ Open the eyes slowly.
 
 ---
 
-## Practice Notes (Important)
+## Practice notes (important)
 
 
 * This meditation works best **without emotional dramatization**
@@ -617,7 +617,7 @@ Open the eyes slowly.
 
 ---
 
-## Structural Insight (Why This Works)
+## Structural insight (why this works)
 
 
 This practice is powerful because it:
@@ -636,7 +636,7 @@ Healing here means:
 
 
 
-< [Buddhist Teaching: **Awakening as Skillful Adaptation**](../05_padmasambhava/README.md) | [Kalu Rinpoche](../07_kalu_rinpoche/README.md) >
+< [Buddhist teaching: **awakening as skillful adaptation**](../05_padmasambhava/README.md) | [Kalu Rinpoche](../07_kalu_rinpoche/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

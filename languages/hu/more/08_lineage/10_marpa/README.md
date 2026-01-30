@@ -1,14 +1,14 @@
-## [**A Buddhist Teaching: Marpa the Translator — The Dharma That Refuses to Be Softened**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened)
+## [**A buddhist teaching: Marpa the translator — the Dharma that refuses to be softened**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened)
 
 [![marpa.png](../../../../../more/08_lineage/10_marpa/marpa.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/10_marpa/README.md#a-buddhist-teaching-marpa-the-translator--the-dharma-that-refuses-to-be-softened)
 
 <details>
 <summary>Tanítás</summary>
 
-## **A Buddhist Teaching: Marpa the Translator — The Dharma That Refuses to Be Softened**
+## **A buddhist teaching: Marpa the translator — the Dharma that refuses to be softened**
 
 
-### **1. The Problem This Teaching Addresses**
+### **1. The problem this teaching addresses**
 
 Many practitioners fail **not because the Dharma is too difficult**, but because it is **quietly altered** to fit comfort, identity, or emotional need.
 
@@ -20,7 +20,7 @@ The figure who embodies resistance to this failure is **Marpa Lotsāwa**.
 
 ---
 
-### **2. Marpa’s Function in the Kagyü Path**
+### **2. Marpa’s function in the Kagyü path**
 
 Marpa is not revered for mystical poetry or saintly gentleness.
 He is revered because he **did not distort transmission**.
@@ -37,7 +37,7 @@ Without figures like Marpa, [awakening](../../10_concepts/README.md#3-megvilágo
 
 ---
 
-### **3. Compassion Is Not Always Gentle**
+### **3. Compassion is not always gentle**
 
 A core misunderstanding this teaching dismantles:
 
@@ -54,7 +54,7 @@ True compassion aims at **liberation**, not reassurance.
 
 ---
 
-### **4. Lineage as an Engineering Problem**
+### **4. Lineage as an engineering problem**
 
 In Buddhism, lineage is often spoken of reverently—but Marpa shows it is also **technical**.
 
@@ -75,7 +75,7 @@ Eventually, the path collapses into inspiration without transformation.
 
 ---
 
-### **5. The Teaching of Structural Integrity**
+### **5. The teaching of structural integrity**
 
 Marpa represents a core Dharma principle:
 
@@ -92,7 +92,7 @@ Anything else is spiritual aesthetics.
 
 ---
 
-### **6. What This Teaching Asks of the Practitioner**
+### **6. What this teaching asks of the practitioner**
 
 Marpa’s teaching does not ask:
 
@@ -110,7 +110,7 @@ This is why few choose this path—and why it works.
 
 ---
 
-### **7. The Dharma That Can Be Trusted**
+### **7. The Dharma that can be trusted**
 
 The Buddha’s teaching survives not because it is beautiful,
 but because people like Marpa **refused to improve it**.
@@ -134,7 +134,7 @@ It is a teaching for those who want the real thing.
 <summary>Magyarázat</summary>
 
 
-### **1. The Problem This Teaching Addresses**
+### **1. The problem this teaching addresses**
 
 Many practitioners fail **not because the Dharma is too difficult**, but because it is **quietly altered** to fit comfort, identity, or emotional need.
 
@@ -146,7 +146,7 @@ The figure who embodies resistance to this failure is **Marpa Lotsāwa**.
 
 ---
 
-### **2. Marpa’s Function in the Kagyü Path**
+### **2. Marpa’s function in the Kagyü path**
 
 Marpa is not revered for mystical poetry or saintly gentleness.
 He is revered because he **did not distort transmission**.
@@ -163,7 +163,7 @@ Without figures like Marpa, awakening becomes folklore.
 
 ---
 
-### **3. Compassion Is Not Always Gentle**
+### **3. Compassion is not always gentle**
 
 A core misunderstanding this teaching dismantles:
 
@@ -180,7 +180,7 @@ True compassion aims at **liberation**, not reassurance.
 
 ---
 
-### **4. Lineage as an Engineering Problem**
+### **4. Lineage as an engineering problem**
 
 In Buddhism, lineage is often spoken of reverently—but Marpa shows it is also **technical**.
 
@@ -201,7 +201,7 @@ Eventually, the path collapses into inspiration without transformation.
 
 ---
 
-### **5. The Teaching of Structural Integrity**
+### **5. The teaching of structural integrity**
 
 Marpa represents a core Dharma principle:
 
@@ -218,7 +218,7 @@ Anything else is spiritual aesthetics.
 
 ---
 
-### **6. What This Teaching Asks of the Practitioner**
+### **6. What this teaching asks of the practitioner**
 
 Marpa’s teaching does not ask:
 
@@ -236,7 +236,7 @@ This is why few choose this path—and why it works.
 
 ---
 
-### **7. The Dharma That Can Be Trusted**
+### **7. The Dharma that can be trusted**
 
 The Buddha’s teaching survives not because it is beautiful,
 but because people like Marpa **refused to improve it**.
@@ -253,7 +253,7 @@ It is a teaching for those who want the real thing.
 
 ---
 
-## **Meditation Practice: Marpa the Translator — Integrity of Transmission**
+## **Meditation practice: Marpa the translator — integrity of transmission**
 
 **Purpose**
 This practice cultivates **lineage fidelity, discipline, and uncompromising clarity**. It trains the mind to receive truth **without dilution**, sentimentality, or self-deception—mirroring the role of **Marpa Lotsāwa** as the structural backbone of realization.
@@ -265,7 +265,7 @@ This practice cultivates **lineage fidelity, discipline, and uncompromising clar
 
 ---
 
-### 1. Preparation — *Entering the Lineage Field* (3–5 minutes)
+### 1. Preparation — *entering the lineage field* (3–5 minutes)
 
 * Sit upright, stable, unadorned. Let the body be *functional*, not performative.
 * Breathe naturally until the mind settles into alert stillness.
@@ -277,7 +277,7 @@ Silently set the intention:
 
 ---
 
-### 2. Visualization — *The Translator at the Threshold* (5–7 minutes)
+### 2. Visualization — *the translator at the threshold* (5–7 minutes)
 
 * Visualize Marpa before you: weathered, grounded, unsmiling—not harsh, not gentle.
 * He holds a bundle of manuscripts—symbol of **precise transmission**.
@@ -293,7 +293,7 @@ Let this presence stabilize your attention.
 
 ---
 
-### 3. Contemplation — *The Cost of Authenticity* (7–10 minutes)
+### 3. Contemplation — *the cost of authenticity* (7–10 minutes)
 
 Gently introduce these reflections, one at a time:
 
@@ -306,7 +306,7 @@ Let the questions **pressurize the mind**, the way Marpa pressed his disciple **
 
 ---
 
-### 4. Somatic Anchor — *Integrity in the Body* (3–5 minutes)
+### 4. Somatic anchor — *integrity in the body* (3–5 minutes)
 
 * Bring attention to the spine.
 * Feel its vertical alignment as **structural truth**.
@@ -316,7 +316,7 @@ This trains the nervous system to remain present **without negotiation**.
 
 ---
 
-### 5. Silent Abidance — *Undiluted Reception* (5–10 minutes)
+### 5. Silent abidance — *undiluted reception* (5–10 minutes)
 
 Release all imagery and inquiry.
 Rest in open awareness with one constraint only:
@@ -331,7 +331,7 @@ This is the heart of Marpa’s transmission: **nothing added, nothing removed**.
 
 ---
 
-### 6. Dedication — *Sealing the Transmission* (1–2 minutes)
+### 6. Dedication — *sealing the transmission* (1–2 minutes)
 
 Conclude with a simple dedication:
 
@@ -341,7 +341,7 @@ Let the practice end **without emotional closure**—clean, unfinished, real.
 
 ---
 
-## **Practice Notes & Integration**
+## **Practice notes & integration**
 
 * This meditation pairs well with **ethical discipline** and **long-term commitment**.
 * If discomfort arises, treat it as **evidence of contact**, not failure.
@@ -359,7 +359,7 @@ Let the practice end **without emotional closure**—clean, unfinished, real.
 <details>
 <summary>Meditáció</summary>
 
-## **Meditation Practice: Marpa the Translator — Integrity of Transmission**
+## **Meditation practice: Marpa the translator — integrity of transmission**
 
 
 **Purpose**
@@ -372,7 +372,7 @@ This practice cultivates **lineage fidelity, discipline, and uncompromising clar
 
 ---
 
-### 1. Preparation — *Entering the Lineage Field* (3–5 minutes)
+### 1. Preparation — *entering the lineage field* (3–5 minutes)
 
 * Sit upright, stable, unadorned. Let the body be *functional*, not performative.
 * Breathe naturally until the mind settles into alert stillness.
@@ -384,7 +384,7 @@ Silently set the intention:
 
 ---
 
-### 2. Visualization — *The Translator at the Threshold* (5–7 minutes)
+### 2. Visualization — *the translator at the threshold* (5–7 minutes)
 
 * Visualize Marpa before you: weathered, grounded, unsmiling—not harsh, not gentle.
 * He holds a bundle of manuscripts—symbol of **precise transmission**.
@@ -400,7 +400,7 @@ Let this presence stabilize your attention.
 
 ---
 
-### 3. Contemplation — *The Cost of Authenticity* (7–10 minutes)
+### 3. Contemplation — *the cost of authenticity* (7–10 minutes)
 
 Gently introduce these reflections, one at a time:
 
@@ -413,7 +413,7 @@ Let the questions **pressurize the mind**, the way Marpa pressed his disciple **
 
 ---
 
-### 4. Somatic Anchor — *Integrity in the Body* (3–5 minutes)
+### 4. Somatic anchor — *integrity in the body* (3–5 minutes)
 
 * Bring attention to the spine.
 * Feel its vertical alignment as **structural truth**.
@@ -423,7 +423,7 @@ This trains the nervous system to remain present **without negotiation**.
 
 ---
 
-### 5. Silent Abidance — *Undiluted Reception* (5–10 minutes)
+### 5. Silent abidance — *undiluted reception* (5–10 minutes)
 
 Release all imagery and inquiry.
 Rest in open [awareness](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing) with one constraint only:
@@ -438,7 +438,7 @@ This is the heart of Marpa’s transmission: **nothing added, nothing removed**.
 
 ---
 
-### 6. Dedication — *Sealing the Transmission* (1–2 minutes)
+### 6. Dedication — *sealing the transmission* (1–2 minutes)
 
 Conclude with a simple dedication:
 
@@ -448,7 +448,7 @@ Let the practice end **without emotional closure**—clean, unfinished, real.
 
 ---
 
-## **Practice Notes & Integration**
+## **Practice notes & integration**
 
 
 * This meditation pairs well with **ethical discipline** and **long-term commitment**.
@@ -469,7 +469,7 @@ Return to this practice whenever the path feels vague, sentimental, or self-serv
 
 
 
-< [**Buddhista Tanítás: Milarepa és a Visszafordíthatatlan Átalakulás Törvénye**](../09_milarepa/README.md) | [Vadzsradhara és a Felismerés Tanítása](../11_vajradhara/README.md) >
+< [**Buddhista tanítás: Milarepa és a visszafordíthatatlan átalakulás törvénye**](../09_milarepa/README.md) | [Vadzsradhara és a felismerés tanítása](../11_vajradhara/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

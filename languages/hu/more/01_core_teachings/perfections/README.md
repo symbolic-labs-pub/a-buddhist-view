@@ -1,4 +1,4 @@
-## [Mit Jelent a "Pāramitā" a Buddhizmusban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/perfections/README.md)
+## [Mit jelent a "pāramitā" a buddhizmusban](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/perfections/README.md)
 [![perfections](../../../../../more/01_core_teachings/perfections/perfections.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/perfections/README.md#what-pāramitā-means-in-buddhism)
 A **Pāramitā** szó szerint azt jelenti, *"ami átért a túlsó partra."*
 Buddhista értelemben ez nem metafizikai hely—hanem **szabadság a tudatlanságtól (avidyā)** és a ragaszkodás szokásaitól, amelyek [szenvedést (dukkha)](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-there-is-suffering--dukkha) generálnak.
@@ -9,7 +9,7 @@ A [Mahāyāna](../../05_yanas/README.md#limitation-from-mahyna-view)ban a pāram
 
 ---
 
-## 1. **Dāna (Nagylelkűség)** — A Markolás Feloldása
+## 1. **Dāna (nagylelkűség)** — a markolás feloldása
 
 **Kezelt fő probléma:** ragaszkodás és szűkösség-tudat
 
@@ -30,7 +30,7 @@ Mélyebb szinteken az ember ad:
 
 ---
 
-## 2. **Śīla (Etikus Magatartás)** — A Karma és az Elme Stabilizálása
+## 2. **Śīla (etikus magatartás)** — a karma és az elme stabilizálása
 
 **Kezelt fő probléma:** zavarból eredő káros cselekvés
 
@@ -51,7 +51,7 @@ A Śīla magában foglalja:
 
 ---
 
-## 3. **Kṣānti (Türelem)** — Szabadság a Reaktivitástól
+## 3. **Kṣānti (türelem)** — szabadság a reaktivitástól
 
 **Kezelt fő probléma:** averz és harag
 
@@ -72,7 +72,7 @@ A haragot a **tudatlanság pillanatának** tekintik—egy zsugorodásnak egy ham
 
 ---
 
-## 4. **Vīrya (Szorgalmas Erőfeszítés)** — Helyes Energia, Nem Túlerőltetés
+## 4. **Vīrya (szorgalmas erőfeszítés)** — helyes energia, nem túlerőltetés
 
 **Kezelt fő probléma:** letargia, elkerülés, rosszul irányított erőfeszítés
 
@@ -93,7 +93,7 @@ A helyes erőfeszítés:
 
 ---
 
-## 5. **Dhyāna (Meditatív Koncentráció)** — Az Elme Egységesítése
+## 5. **Dhyāna (meditatív koncentráció)** — az elme egységesítése
 
 **Kezelt fő probléma:** figyelemelterelés és széttagoltság
 
@@ -117,7 +117,7 @@ A Mahāyānában a [koncentráció](../the_noble_eightfold_path/README.md#8-hely
 
 ---
 
-## 6. **Prajñā (Bölcsesség)** — A Valóság Látása, Ahogyan Van
+## 6. **Prajñā (bölcsesség)** — a valóság látása, ahogyan van
 
 **Kezelt fő probléma:** tudatlanság (avidyā)
 
@@ -139,7 +139,7 @@ A Mahāyānában a prajñā elválaszthatatlan az **együttérzéstől**—mert 
 
 ---
 
-## Hogyan Működnek Együtt a Pāramitāk
+## Hogyan működnek együtt a pāramitāk
 
 Nem **szekvenciális lépések**, hanem egy **kölcsönösen erősítő rendszer**:
 
@@ -155,7 +155,7 @@ Bölcsességgel az **ébredés spontán kifejezéseivé** válnak.
 
 ---
 
-## Egy Mondatban (Buddhista Nézőpont)
+## Egy mondatban (buddhista nézőpont)
 
 > A pāramitāk nem megszerzendő erények, hanem **létmódok, amelyek előtűnnek, ahogy a tudatlanság halványodik**.
 
@@ -163,7 +163,7 @@ Bölcsességgel az **ébredés spontán kifejezéseivé** válnak.
 
 ---
 
-< ["Minden Feltételezett Dolog Múlandó"](../impermanence/README.md) | [Mit Jelent a Nemes Nyolcrétű Ösvény (a buddhizmusban)](../the_noble_eightfold_path/README.md) >
+< ["minden feltételezett dolog múlandó"](../impermanence/README.md) | [Mit jelent a nemes nyolcrétű ösvény (a buddhizmusban)](../the_noble_eightfold_path/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

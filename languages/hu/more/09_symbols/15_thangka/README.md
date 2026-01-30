@@ -1,4 +1,4 @@
-## [Thangka — Az Út Vizuális Átadása](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/15_thangka/README.md#thangka--az-út-vizuális-átadása)
+## [Thangka — az út vizuális átadása](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/15_thangka/README.md#thangka--az-út-vizuális-átadása)
 
 [![thangka](../../../../../more/09_symbols/15_thangka/thangka.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/15_thangka/README.md#thangka--az-út-vizuális-átadása)
 
@@ -6,7 +6,7 @@
 
 A buddhista tanításokban a **thangka** nem vallási művészet díszítő értelemben. Hanem egy **funkcionális kognitív eszköz**—egy **hordozható mandala**, amelyet az észlelés trenírozására, a figyelem stabilizálására és a megvalósítás generációkon át való átadására terveztek.
 
-### 1. Thangka mint *Hordozható Mandala*
+### 1. Thangka mint *hordozható mandala*
 
 A [mandala](../07_mandala/README.md#mandala--explained-according-to-buddhist-teachings) **az ébredett elme strukturált reprezentációja**.
 A thangka ezt a struktúrát **feltekerhető, mobil formába** sűríti, lehetővé téve a gyakorlóknak, hogy *a teljes utat* magukkal vigyék.
@@ -17,7 +17,7 @@ Kulcs belátás:
 
 Minden elem (közép, irányok, színek, arányok) tükrözi, hogyan kellene a [tudatosságnak](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing) megszerveznie magát a gyakorlás során.
 
-### 2. Vizuális Átadás (Szavakon Túl)
+### 2. Vizuális átadás (szavakon túl)
 
 A buddhizmus felismeri, hogy **a megvalósítás nem kódolható teljesen nyelvben**.
 A thangkák **nem-verbális leszármazási hordozókként** működnek:
@@ -30,7 +30,7 @@ Ez az oka annak, hogy a thangkákat *"látó tanításoknak"* nevezik, nem illus
 
 > Amit a szövegek szekvenciálisan magyaráznak, a thangkák **egyidejűleg** mutatják be.
 
-### 3. Vizualizációs Edzés (Elme Mérnökség)
+### 3. Vizualizációs edzés (elme mérnökség)
 
 A [Vajrayāna](../../05_yanas/README.md#4-vajrayna-tantrayna-mantrayna-the-diamond-vehicle) gyakorlatban a thangkákat **[istenség jóga](../../03_the_path_to_end_suffering/README.md#helyes-cselekvés) és vizualizációra** használják:
 
@@ -46,7 +46,7 @@ Ez trenírozza:
 
 A cél nem képzelet, hanem **kontrollált észlelés**.
 
-### 4. Miért Tekerednek a Thangkák
+### 4. Miért tekerednek a thangkák
 
 Maga a fizikai forma tanítás:
 
@@ -62,7 +62,7 @@ Ez tükrözi:
 
 Semmi szent sem tartós látható formában.
 
-### 5. Szent Pontosság, Nem Művészi Szabadság
+### 5. Szent pontosság, nem művészi szabadság
 
 Egy hagyományos thangka festő évekig tanuld:
 
@@ -74,7 +74,7 @@ Ez egy alapvető buddhista elvet tükröz:
 
 > Az ébredés **összhang** által fedeztetik fel, nem feltalálással.
 
-### 6. Thangka a Napi Gyakorlatban
+### 6. Thangka a napi gyakorlatban
 
 Praktikusan a thangkákat arra használják:
 
@@ -87,7 +87,7 @@ Praktikusan a thangkákat arra használják:
 
 ---
 
-### Sűrített Tanítás
+### Sűrített tanítás
 
 **A thangka az elme térképe, amely az elmét trenírozza látva.**
 Nem szimbolikus művészet—hanem **működési [dharma](../../01_core_teachings/the_three_jewels/README.md#2-dharma-az-ösvény-és-a-valóság-törvénye)**.
@@ -95,7 +95,7 @@ Nem szimbolikus művészet—hanem **működési [dharma](../../01_core_teaching
 
 ---
 
-< [Mala Számlálók — magyarázat a buddhista tanítások szerint](../14_mala_counters/README.md) | [Végtelen Csomó (Śrīvatsa) — a buddhista tanítások szerint](../16_endless_knot/README.md) >
+< [Mala számlálók — magyarázat a buddhista tanítások szerint](../14_mala_counters/README.md) | [Végtelen csomó (śrīvatsa) — a buddhista tanítások szerint](../16_endless_knot/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

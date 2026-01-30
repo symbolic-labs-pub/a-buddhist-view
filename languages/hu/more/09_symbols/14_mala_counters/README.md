@@ -1,4 +1,4 @@
-## [Mala Számlálók — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/14_mala_counters/README.md#mala-számlálók--magyarázat-a-buddhista-tanítások-szerint)
+## [Mala számlálók — magyarázat a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/14_mala_counters/README.md#mala-számlálók--magyarázat-a-buddhista-tanítások-szerint)
 
 [![mala_counters](../../../../../more/09_symbols/14_mala_counters/mala_counters.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/14_mala_counters/README.md#mala-számlálók--magyarázat-a-buddhista-tanítások-szerint)
 
@@ -115,7 +115,7 @@ csendes, ismételt, nem látványos hűség ahhoz, amit valaki választott.**
 
 ---
 
-< [Koponya Csésze (Kapāla) — magyarázat a buddhista tanítások szerint](../13_skull_cup/README.md) | [Thangka — Az Út Vizuális Átadása](../15_thangka/README.md) >
+< [Koponya csésze (kapāla) — magyarázat a buddhista tanítások szerint](../13_skull_cup/README.md) | [Thangka — az út vizuális átadása](../15_thangka/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

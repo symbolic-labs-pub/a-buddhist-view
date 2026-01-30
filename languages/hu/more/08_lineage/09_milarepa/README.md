@@ -1,8 +1,8 @@
-# [Milarepa — A Radikális Átalakulás Példája](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/09_milarepa/README.md#milarepa--a-radikalis-atalakulás-peldaja)
+# [Milarepa — a radikális átalakulás példája](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/09_milarepa/README.md#milarepa--a-radikalis-atalakulás-peldaja)
 
 ![Milarepa](../../../../../more/08_lineage/09_milarepa/milarepa.png)
 
-## Ki Volt Milarepa?
+## Ki volt Milarepa?
 
 **Milarepa** (1040-1123) **a legihletőbb figura** a Kagyu hagyományban — **gyilkosból lett szent**, aki **egyetlen életben elérte a teljes megvilágosodást**. Ismert **dalairól** (*doha*), hegyi meditációiról, és **zöld bőréről** (a *gtum-mo* gyakorlattól).
 
@@ -12,15 +12,15 @@
 * A **legnehezebb karma is tisztítható**
 * Az ébredés **nem fokozatokhoz kötött** — ha elég intenzív a gyakorlat, egy életben elérhető
 
-## Milarepa Élete — Sötétségből Fénybe
+## Milarepa élete — sötétségből fénybe
 
-### Gyerekkor és Tragédia
+### Gyerekkor és tragédia
 
 Milarepa **gazdag családba született**, de **apja korán meghalt**. Rokonai **ellopták az örökséget**, és Milarepát és anyját **szegénységbe taszították**.
 
 Anyja **dühös és bosszúálló** volt, és **rávette Milerepát, hogy tanuljon fekete mágiát**.
 
-### Fekete Mágia És Gyilkosság
+### Fekete mágia és gyilkosság
 
 Milarepa **fekete mágiát tanult**, majd **varázslat által összeomlasztott egy házat**, megölve **35 embert** (rokonait és vendégeiket) **egy esküvőn**.
 
@@ -32,7 +32,7 @@ Milarepa **fekete mágiát tanult**, majd **varázslat által összeomlasztott e
 
 > *"Mit tettem? Ez nem bosszú — ez *dukkha* létrehozása."*
 
-### A Keresés Marpáért
+### A keresés marpáért
 
 Milarepa **kereste a *Dharma*-t**, hogy **megtisztítsa karmáját**. Találkozott egy *Nyingma* tanítóval, de **nem volt elég**.
 
@@ -40,7 +40,7 @@ Végül **hallott Marpáról**, a nagy fordítóról és mesterről.
 
 **Milarepa elment Marpához**, és **könyörgött, hogy fogadja el tanítványnak**.
 
-### Marpa Próbatételei — Tizenkét Év Tisztítás
+### Marpa próbatételei — tizenkét év tisztítás
 
 Marpa **azonnal látta Milarepa karmáját**. Tudta: **tanítás előtt a karma tisztításra szorul**.
 
@@ -59,7 +59,7 @@ Milarepa háta **véres és sebekkel teli** volt a kövek cipelésétől. **Majd
 
 > Marpa: *"Most készen állsz. A tornyok a karmát tisztították. Most gyakorolj."*
 
-### Hegyi Visszavonulás — Az Ébredés Útja
+### Hegyi visszavonulás — az ébredés útja
 
 Milarepa **hegyekbe ment**, és **egyedül meditált barlangokban**.
 
@@ -71,7 +71,7 @@ Milarepa **hegyekbe ment**, és **egyedül meditált barlangokban**.
 
 **Eredmény:** Milarepa **teljes *Mahāmudrā* megvalósítást ért el** — látta a tudat természetét közvetlenül.
 
-### A Dalok (*Doha*) — Spontán Megvalósítás
+### A dalok (*doha*) — spontán megvalósítás
 
 Milarepa **dalokban (*doha*) tanított** — nem előre megírt szövegekben, hanem **spontán énekelt versekben**.
 
@@ -84,21 +84,21 @@ Milarepa **dalokban (*doha*) tanított** — nem előre megírt szövegekben, ha
 
 **Kagyu stílus:** Milarepa dalai **nem intellektuálisak**, hanem **közvetlenek és tapasztalatiak** — így jutnak el közvetlenül a szívhez.
 
-## Milarepa Tanításainak Lényege
+## Milarepa tanításainak lényege
 
-### 1. A Karma Tisztítható
+### 1. A karma tisztítható
 
 Milarepa **35 embert ölt**, mégis **teljes ébredést ért el**.
 
 **Üzenet:** **Semmi múlt nem diszkvalifikál** — csak a **gyakorlás hiánya**.
 
-### 2. Intenzitás Felülmúlja Az Időt
+### 2. Intenzitás felülmúlja az időt
 
 Milarepa **nem töltött évtizedeket tanulással**. Ehelyett **hegyekben meditált intenzíven**.
 
 **Kagyu hangsúly:** Ha **intenzíven gyakorolsz**, az ébredés **egyetlen életen belül** elérhető.
 
-### 3. Lemondás Nem Veszteség
+### 3. Lemondás nem veszteség
 
 Milarepa **feladta a kényelmet, társadalmi státuszt, családot** — **barlangokban élt, éhezett**.
 
@@ -106,7 +106,7 @@ Milarepa **feladta a kényelmet, társadalmi státuszt, családot** — **barlan
 
 **Üzenet:** **A ragaszkodás elkerülhetetlenül szenvedéshez vezet** — a lemondás szabadít.
 
-## Milarepa És Gampopa — Az Átvitel
+## Milarepa és gampopa — az átvitel
 
 Milarepa **fő tanítványa Gampopa lett**, aki **szerzetes** volt (ellentétben Milarepával, aki nem volt).
 
@@ -121,7 +121,7 @@ Marpa → Milarepa → Gampopa → Dusum Khyenpa (1. Karmapa)
 
 **Kagyu funkció:** Milarepa **a vad meditátor prototípusa** — aki megmutatja, hogy **a kolostorokon kívül is lehet teljes ébredés**.
 
-## Milarepa Jelensége — Miért Olyan Ihletően?
+## Milarepa jelensége — miért olyan ihletően?
 
 **1. Emberi — nem mitikus**
 
@@ -135,7 +135,7 @@ Milarepa **a legsötétebb karmából** jött — és **mégis elérte a legmaga
 
 Milarepa története **nem elméleti** — ez **gyakorlati útmutató**: tisztítás → intenzív gyakorlat → ébredés.
 
-## Gyakorlati Integráció
+## Gyakorlati integráció
 
 **Meditációban:**
 
@@ -155,7 +155,7 @@ Milarepa **a remény megtestesítője**: **bárki, bárhonnan, bármilyen múltt
 
 ---
 
-< [Bodhisattva – Az Ébredés-Mindenkiért Fogadalma](../08_bodhisattva/README.md) | [Marpa a Fordító — Az Autentikus Átvitel Birtokosa](../10_marpa/README.md) >
+< [Bodhisattva – az ébredés-mindenkiért fogadalma](../08_bodhisattva/README.md) | [Marpa a fordító — az autentikus átvitel birtokosa](../10_marpa/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

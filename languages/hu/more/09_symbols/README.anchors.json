@@ -1,0 +1,23 @@
+{
+  "source_file": "/home/miki/code7/a-buddhist-view/more/09_symbols/README.md",
+  "target_file": "/home/miki/code7/a-buddhist-view/languages/hu/more/09_symbols/README.md",
+  "language": "hu",
+  "anchors": [
+    {
+      "english": "symbols",
+      "translated": "szimbólumok",
+      "heading": "Szimbólumok"
+    },
+    {
+      "english": "structural-insight-very-important",
+      "translated": "strukturális-betekintés-nagyon-fontos",
+      "heading": "Strukturális Betekintés (Nagyon Fontos)"
+    },
+    {
+      "english": "synthesis",
+      "translated": "szintézis",
+      "heading": "Szintézis"
+    }
+  ],
+  "generated_at": "2026-01-28T00:00:00Z"
+}

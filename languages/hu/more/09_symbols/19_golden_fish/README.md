@@ -1,4 +1,4 @@
-## [Az Aranyhalak — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/19_golden_fish/README.md#az-aranyhalak--a-buddhista-tanítások-szerint)
+## [Az aranyhalak — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/19_golden_fish/README.md#az-aranyhalak--a-buddhista-tanítások-szerint)
 
 [![golden_fish](../../../../../more/09_symbols/19_golden_fish/golden_fish.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/19_golden_fish/README.md#az-aranyhalak--a-buddhista-tanítások-szerint)
 
@@ -96,7 +96,7 @@ A szimbólum finoman emlékeztet:
 
 ---
 
-< [🐚 A Kagyló (Śaṅkha) a Buddhista Tanításokban](../18_conch_shell/README.md) | [Az Ernyő (Chatra) — a buddhista tanítások szerint](../20_parasol/README.md) >
+< [🐚 A kagyló (śaṅkha) a buddhista tanításokban](../18_conch_shell/README.md) | [Az ernyő (chatra) — a buddhista tanítások szerint](../20_parasol/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

@@ -72,7 +72,7 @@ flowchart TB
 
 ---
 
-# Egyetlen Láng, Sok Lámpa
+# Egyetlen láng, sok lámpa
 
 Amikor a Tibeti Buddhizmus-t csak iskolák, címek és ruhák gyűjteményeként tekintjük, mélyebb koherenciája kihagyható. Mégis amikor a leszármazási vonal lencséjén keresztül nézzük, sokkal organikusabb dologként tárja fel magát: **egyetlen láng, amelyet lámpáról lámpára visznek**, adaptálva alakját anélkül, hogy elvesztené fényét.
 
@@ -84,7 +84,7 @@ Radikálisan különböznek temperamentumban, módszerben és társadalmi szerep
 
 ---
 
-## 1. Gautama Buddha: A Forrás Iskola Nélkül
+## 1. Gautama Buddha: a forrás iskola nélkül
 
 **Gautama Buddha** (i.e. 5. század) nem tibeti alakként áll külön, hanem **magának a kísérletnek a forrása**. Betekintése nem metafizikai spekuláció volt, hanem diagnózis:
 
@@ -99,7 +99,7 @@ Fontos, hogy Buddha **nem alapított "buddhizmust".** Egy *módszert* alapított
 
 ---
 
-## 2. Tilopa és Naropa: Ébredés Intézmények Nélkül
+## 2. Tilopa és naropa: ébredés intézmények nélkül
 
 **Tilopa** (10-11. század) és **Naropa** esetében a leszármazási vonal a **mahasiddha-k** világába kerül—olyan alakok, akik szándékosan elutasították a társadalmi tiszteletreméltóságot.
 
@@ -114,7 +114,7 @@ Ez az elv ismételten visszhangzik a tibeti történelemben.
 
 ---
 
-## 3. Marpa és Milarepa: Átvitel Emberi Áron Keresztül
+## 3. Marpa és Milarepa: átvitel emberi áron keresztül
 
 **Marpa a Fordító** elhozta ezeket a tanításokat Tibetbe, nem misztikusként, hanem **házigazdaként, kereskedőként és fordítóként**. Szerepe nem a szentség volt, hanem a *pontosság*. Érintetlenül megőrizte a tanításokat, még akkor is, ha ezt durvaság révén kellett tennie.
 
@@ -126,7 +126,7 @@ Milarepa dalai mutatják, hogy a megvalósítás nem steril derű. Nyers, emberi
 
 ---
 
-## 4. Gampopa: A Nagy Integráció
+## 4. Gampopa: a nagy integráció
 
 **Gampopa** végrehajtotta a buddhista történelem egyik legfontosabb szintézisét. Először a Kadampa szerzetesi hagyományban képezték, egyesítette:
 
@@ -138,7 +138,7 @@ Ez a fúzió lehetővé tette a Kagyu leszármazási vonal **skálázását**—
 
 ---
 
-## 5. Dusum Khyenpa és a Karmapa Elv
+## 5. Dusum khyenpa és a karmapa elv
 
 **Dusum Khyenpa**, az Első Karmapa esetében valami példa nélküli jelenik meg: **a tulku rendszer mint tudatos folytonossági mechanizmus**.
 
@@ -150,7 +150,7 @@ A válasz a felelősség folytonossága volt, nem a hatalom.
 
 ---
 
-## 6. Je Tsongkhapa és Gedun Drupa: Precizitás Mint Együttérzés
+## 6. Je tsongkhapa és gedun drupa: precizitás mint együttérzés
 
 A Kagyu áramlattal párhuzamosan **Je Tsongkhapa** alapította a Gelug hagyományt a 14-15. században. Zsenialitása nem új betekintés feltalálása volt, hanem **az episztemikus tisztaságon való ragaszkodás**.
 
@@ -162,7 +162,7 @@ Ez a vonal később a Dalai Lama intézményt mint **erkölcsi hangot a szektari
 
 ---
 
-## 7. Rangjung Rigpe Dorje: Leszármazási Vonal Száműzetésben
+## 7. Rangjung rigpe dorje: leszármazási vonal száműzetésben
 
 A **16. Karmapa**, Rangjung Rigpe Dorje olyan kihívással nézett szembe, amellyel egyetlen korábbi birtokos sem: **magának a tibeti civilizációnak a pusztulása**.
 
@@ -176,7 +176,7 @@ Bemutatta, hogy a leszármazási vonal nem földrajzilag kötött. **A megvalós
 
 ---
 
-## 8. Trinley Thaye Dorje: Leszármazási Vonal Modern Körülmények Között
+## 8. Trinley thaye dorje: leszármazási vonal modern körülmények között
 
 **Trinley Thaye Dorje**, az elismert 17. Karmapa-k egyike, modern korlátok alatti leszármazási vonalat képvisel: diaszpóra, jogrendszerek, média felügyelet és globális gyakorlók.
 
@@ -188,7 +188,7 @@ A válasz még kibontakozóban van.
 
 ---
 
-## 9. Rejtett Egység
+## 9. Rejtett egység
 
 Bár ezek az alakok különböző iskolákhoz tartoznak—különösen Kagyu és Gelug—**nem versenytársak**. A Tibeti Buddhizmus mindig tudta, hogy a módszerek azért különböznek, mert **a lények különböznek**.
 
@@ -202,7 +202,7 @@ A képeden mosolyognak, mert nem aggódnak az ortodoxia miatt. A leszármazási 
 
 ---
 
-## Következtetés: Miért Számít Még Ez a Leszármazási Vonal
+## Következtetés: miért számít még ez a leszármazási vonal
 
 Ez a leszármazási vonal nem a múltról szól. **Arról szól, hogyan éli túl a bölcsesség az időt**.
 

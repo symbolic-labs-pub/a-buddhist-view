@@ -35,7 +35,7 @@ A klasszikus szövegek ismételten hangsúlyozzák ezt az egyensúlyt. A Buddha 
 
 ## 2. Miért fejeződik ki a belátás természetesen együttérzésként
 
-### a) Az én / más határok lágyulása
+### A) az én / más határok lágyulása
 
 A függő keletkezésen keresztül az ember látja, hogy:
 
@@ -51,7 +51,7 @@ Ezért írják le a felébredt lényeket **spontánul** cselekvőnek, nem hősie
 
 ---
 
-### b) A ártalom tudatlanság-vezéreltnek látszik
+### B) a ártalom tudatlanság-vezéreltnek látszik
 
 Egy kulcsfontosságú buddhista váltás ez az újraértelmezés:
 
@@ -70,7 +70,7 @@ Ebből a nézőpontból az együttérzés nem szentimentális — **pontos diagn
 
 ---
 
-## 3. A Mahāyāna feloldás: A Bodhisattva ideál
+## 3. A Mahāyāna feloldás: a Bodhisattva ideál
 
 A [Mahāyāna](../../05_yanas/README.md#limitation-from-mahyna-view) buddhizmus radikalizálja ezt a logikát.
 
@@ -139,7 +139,7 @@ Ez **az, aminek az ébredés látszik, amikor mozog**.
 
 ---
 
-< [**Buddha-természet (Tathāgatagarbha)** — magyarázva a buddhista tanításokon keresztül](../6_buddha_nature/README.md) | [1. A létezés három jellemzője](../README.md) >
+< [**Buddha-természet (tathāgatagarbha)** — magyarázva a buddhista tanításokon keresztül](../6_buddha_nature/README.md) | [1. A létezés három jellemzője](../README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

@@ -1,4 +1,4 @@
-## [Végtelen Csomó (Śrīvatsa) — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/16_endless_knot/README.md#végtelen-csomó-śrīvatsa--a-buddhista-tanítások-szerint)
+## [Végtelen csomó (śrīvatsa) — a buddhista tanítások szerint](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/16_endless_knot/README.md#végtelen-csomó-śrīvatsa--a-buddhista-tanítások-szerint)
 
 [![endless_knot](../../../../../more/09_symbols/16_endless_knot/endless_knot.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/16_endless_knot/README.md#végtelen-csomó-śrīvatsa--a-buddhista-tanítások-szerint)
 
@@ -6,7 +6,7 @@
 
 A **Végtelen Csomó** nem díszítő minta. Hanem **vizuális tanítás arról, hogyan működik valójában a valóság**.
 
-### 1. Kölcsönös Függés (Pratītyasamutpāda)
+### 1. Kölcsönös függés (pratītyasamutpāda)
 
 A csomónak **nincs kezdete és vége**. Minden vonal csak azért létezik, mert a többivel össze van szőve.
 
@@ -35,7 +35,7 @@ A valóság **komplex, kontextuális és rekurzív**.
 
 ---
 
-### 3. A Karma mint struktúra, nem végzet
+### 3. A karma mint struktúra, nem végzet
 
 A buddhista tanításban **a karma nem végzet**.
 
@@ -94,7 +94,7 @@ Emlékezteti a gyakorlót:
 
 ---
 
-< [Thangka — Az Út Vizuális Átadása](../15_thangka/README.md) | [Dharma Kerék (Dharmachakra) — a buddhista tanítások szerint](../17_dharma_wheel/README.md) >
+< [Thangka — az út vizuális átadása](../15_thangka/README.md) | [Dharma kerék (dharmachakra) — a buddhista tanítások szerint](../17_dharma_wheel/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

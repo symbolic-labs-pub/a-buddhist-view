@@ -1,4 +1,4 @@
-## [Mi is a Mantra *Valójában* (Buddhista Nézet)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/10_mantra/README.md#mi-is-a-mantra-valójában-buddhista-nézet)
+## [Mi is a mantra *valójában* (buddhista nézet)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/10_mantra/README.md#mi-is-a-mantra-valójában-buddhista-nézet)
 
 [![mantra](../../../../../more/09_symbols/10_mantra/mantra.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/10_mantra/README.md#mi-is-a-mantra-valójában-buddhista-nézet)
 
@@ -24,7 +24,7 @@ A klasszikus buddhista nyelvben a mantra a **beszéd gyakorlathoz (vāg)** tarto
 
 ---
 
-## Miért Számít a Hang a Buddhizmusban
+## Miért számít a hang a buddhizmusban
 
 
 A buddhizmus **az elmét és az észlelést mintázott folyamatokként** kezeli.
@@ -42,10 +42,10 @@ Ez az oka annak, hogy a mantrát **közvetlen módszernek** tekintik, különös
 
 ---
 
-## A Mantra Működésének Három Szintje
+## A mantra működésének három szintje
 
 
-### 1. **Durva Szint — Figyelem Edzése**
+### 1. **Durva szint — figyelem edzése**
 
 * Az ismétlés megszakítja a diszkurzív gondolkodást
 * Az elme **egy stabil tárgyat** kap
@@ -58,7 +58,7 @@ Eredmény:
 
 ---
 
-### 2. **Finom Szint — Mintázat Kódolás**
+### 2. **Finom szint — mintázat kódolás**
 
 Mélyebb szinteken a mantra:
 
@@ -76,7 +76,7 @@ Ez az oka annak, hogy sok mantrát **nem fordítanak le**.
 
 ---
 
-### 3. **Nagyon Finom Szint — Felismerés**
+### 3. **Nagyon finom szint — felismerés**
 
 Fejlett szakaszokban:
 
@@ -93,7 +93,7 @@ Ezen a ponton:
 
 ---
 
-## Példa: *Om Mani Padme Hum*
+## Példa: *om mani padme hum*
 
 
 Hagyományosan úgy értelmezik, mint:
@@ -116,7 +116,7 @@ de **nem** aktiválja azt.
 
 ---
 
-## Miért Nevezik a Mantrát "Elme Védelemnek"
+## Miért nevezik a mantrát "elme védelemnek"
 
 
 Tibetiben a mantrát gyakran úgy írják le, mint:
@@ -133,7 +133,7 @@ Ez *kognitív higiénia*, nem babona.
 
 ---
 
-## Gyakori Félreértések (Korrigálva)
+## Gyakori félreértések (korrigálva)
 
 
 | Félreértés              | Buddhista Tisztázás                    |
@@ -145,7 +145,7 @@ Ez *kognitív higiénia*, nem babona.
 
 ---
 
-## A Mantra Viszonya Más Gyakorlatokhoz
+## A mantra viszonya más gyakorlatokhoz
 
 
 A mantra integrálódik:
@@ -160,7 +160,7 @@ A Vajrayāna-ban a mantra soha nem izolált — **egy rendszer része**.
 
 ---
 
-## Az Alapvető Belátás
+## Az alapvető belátás
 
 
 > **A mantra frekvencia fegyelem, nem megerősítés.**
@@ -177,7 +177,7 @@ Ezen a ponton a mantra megtette a dolgát.
 
 ---
 
-< [1. Tisztaság *Elutasítás Nélkül*](../08_lotus/README.md) | [Mudrák a Buddhista Tanításokban](../11_mudra/README.md) >
+< [1. Tisztaság *elutasítás nélkül*](../08_lotus/README.md) | [Mudrák a buddhista tanításokban](../11_mudra/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

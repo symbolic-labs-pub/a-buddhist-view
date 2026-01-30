@@ -1,18 +1,18 @@
-## [Buddhist Teaching: **Awakening as Skillful Adaptation**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
+## [Buddhist teaching: **awakening as skillful adaptation**](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
 
 [![padmasambhava.png](../../../../../more/08_lineage/05_padmasambhava/padmasambhava.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/05_padmasambhava/README.md#buddhist-teaching-awakening-as-skillful-adaptation)
 
 <details>
 <summary>Tanítás</summary>
 
-## Buddhist Teaching: **Awakening as Skillful Adaptation**
+## Buddhist teaching: **awakening as skillful adaptation**
 
 
-### Based on the Principle of **Guru Rinpoche**
+### Based on the principle of **Guru Rinpoche**
 
 ---
 
-### 1. The Problem the Teaching Addresses
+### 1. The problem the teaching addresses
 
 Most spiritual struggle comes from **misunderstanding [awakening](../../10_concepts/README.md#3-megvilágosodás-bodhi-awakening)**.
 
@@ -33,7 +33,7 @@ It teaches **freedom within conditions**.
 
 ---
 
-### 2. Core Teaching: Awakening Is Not a State — It Is a Capacity
+### 2. Core teaching: awakening is not a state — it is a capacity
 
 Guru Rinpoche embodies a central Vajrayāna insight:
 
@@ -51,7 +51,7 @@ There is only **unobstructed responsiveness**.
 
 ---
 
-### 3. Wrathful and Peaceful Are Not Opposites
+### 3. Wrathful and peaceful are not opposites
 
 In ordinary thinking:
 
@@ -78,7 +78,7 @@ Peaceful forms:
 
 ---
 
-### 4. Why This Teaching Is Dangerous Without Grounding
+### 4. Why this teaching is dangerous without grounding
 
 This teaching is **not permission for ego**.
 
@@ -104,7 +104,7 @@ Clarity without adaptation is impotence.
 
 ---
 
-### 5. The Middle Way of Vajrayāna Action
+### 5. The middle way of Vajrayāna action
 
 This teaching avoids two extremes:
 
@@ -126,7 +126,7 @@ Guru Rinpoche represents the **third mode**:
 
 ---
 
-### 6. Practical Implication for Practitioners
+### 6. Practical implication for practitioners
 
 Ask not:
 
@@ -144,7 +144,7 @@ This shifts practice from:
 
 ---
 
-### 7. Final Teaching Statement
+### 7. Final teaching statement
 
 > Awakening is not purity.
 > Awakening is **accuracy**.
@@ -161,11 +161,11 @@ This shifts practice from:
 <summary>Magyarázat</summary>
 
 
-### Based on the Principle of **Guru Rinpoche**
+### Based on the principle of **Guru Rinpoche**
 
 ---
 
-### 1. The Problem the Teaching Addresses
+### 1. The problem the teaching addresses
 
 Most spiritual struggle comes from **misunderstanding awakening**.
 
@@ -186,7 +186,7 @@ It teaches **freedom within conditions**.
 
 ---
 
-### 2. Core Teaching: Awakening Is Not a State — It Is a Capacity
+### 2. Core teaching: awakening is not a state — it is a capacity
 
 Guru Rinpoche embodies a central Vajrayāna insight:
 
@@ -204,7 +204,7 @@ There is only **unobstructed responsiveness**.
 
 ---
 
-### 3. Wrathful and Peaceful Are Not Opposites
+### 3. Wrathful and peaceful are not opposites
 
 In ordinary thinking:
 
@@ -231,7 +231,7 @@ Peaceful forms:
 
 ---
 
-### 4. Why This Teaching Is Dangerous Without Grounding
+### 4. Why this teaching is dangerous without grounding
 
 This teaching is **not permission for ego**.
 
@@ -257,7 +257,7 @@ Clarity without adaptation is impotence.
 
 ---
 
-### 5. The Middle Way of Vajrayāna Action
+### 5. The middle way of Vajrayāna action
 
 This teaching avoids two extremes:
 
@@ -279,7 +279,7 @@ Guru Rinpoche represents the **third mode**:
 
 ---
 
-### 6. Practical Implication for Practitioners
+### 6. Practical implication for practitioners
 
 Ask not:
 
@@ -297,7 +297,7 @@ This shifts practice from:
 
 ---
 
-### 7. Final Teaching Statement
+### 7. Final teaching statement
 
 > Awakening is not purity.
 > Awakening is **accuracy**.
@@ -307,7 +307,7 @@ This shifts practice from:
 
 ---
 
-### 1. Preparation — Establish the Ground (2–3 minutes)
+### 1. Preparation — establish the ground (2–3 minutes)
 
 Sit comfortably with a straight spine.
 Let the breath settle naturally.
@@ -326,7 +326,7 @@ Allow the mind to become clear and alert—neither tense nor dull.
 
 ---
 
-### 2. Visualization — Presence of the Master (5–7 minutes)
+### 2. Visualization — presence of the master (5–7 minutes)
 
 Visualize **Guru Rinpoche** appearing in front of you, or above the crown of your head.
 
@@ -343,7 +343,7 @@ Let the image stabilize.
 
 ---
 
-### 3. Core Contemplation — Adaptive Awakening (8–10 minutes)
+### 3. Core contemplation — adaptive awakening (8–10 minutes)
 
 Reflect silently:
 
@@ -376,7 +376,7 @@ Do not imitate behavior—
 
 ---
 
-### 4. Mantric Stabilization (optional, 5 minutes)
+### 4. Mantric stabilization (optional, 5 minutes)
 
 Softly recite (aloud or silently):
 
@@ -392,7 +392,7 @@ Let sound, breath, and awareness synchronize.
 
 ---
 
-### 5. Dissolution — Integration (3–5 minutes)
+### 5. Dissolution — integration (3–5 minutes)
 
 Visualize Guru Rinpoche dissolving into light,
 which then dissolves **into your heart**.
@@ -404,7 +404,7 @@ Nothing to reject.
 
 ---
 
-### 6. Closing Dedication
+### 6. Closing dedication
 
 Conclude with this reflection:
 
@@ -414,7 +414,7 @@ Conclude with this reflection:
 
 ---
 
-## Key Insight of the Practice
+## Key insight of the practice
 
 This meditation trains **non-fragile awakening**.
 
@@ -430,7 +430,7 @@ This meditation trains **non-fragile awakening**.
 <details>
 <summary>Meditáció</summary>
 
-### 1. Preparation — Establish the Ground (2–3 minutes)
+### 1. Preparation — establish the ground (2–3 minutes)
 
 Sit comfortably with a straight spine.
 Let the breath settle naturally.
@@ -449,7 +449,7 @@ Allow the mind to become clear and alert—neither tense nor dull.
 
 ---
 
-### 2. Visualization — Presence of the Master (5–7 minutes)
+### 2. Visualization — presence of the master (5–7 minutes)
 
 Visualize **Guru Rinpoche** appearing in front of you, or above the crown of your head.
 
@@ -466,7 +466,7 @@ Let the image stabilize.
 
 ---
 
-### 3. Core Contemplation — Adaptive Awakening (8–10 minutes)
+### 3. Core contemplation — adaptive awakening (8–10 minutes)
 
 Reflect silently:
 
@@ -499,7 +499,7 @@ Do not imitate behavior—
 
 ---
 
-### 4. Mantric Stabilization (optional, 5 minutes)
+### 4. Mantric stabilization (optional, 5 minutes)
 
 Softly recite (aloud or silently):
 
@@ -515,7 +515,7 @@ Let sound, breath, and awareness synchronize.
 
 ---
 
-### 5. Dissolution — Integration (3–5 minutes)
+### 5. Dissolution — integration (3–5 minutes)
 
 Visualize Guru Rinpoche dissolving into light,
 which then dissolves **into your heart**.
@@ -527,7 +527,7 @@ Nothing to reject.
 
 ---
 
-### 6. Closing Dedication
+### 6. Closing dedication
 
 Conclude with this reflection:
 
@@ -537,7 +537,7 @@ Conclude with this reflection:
 
 ---
 
-## Key Insight of the Practice
+## Key insight of the practice
 
 
 This meditation trains **non-fragile awakening**.
@@ -555,7 +555,7 @@ he is **activated**.
 
 
 
-< [A Végtelen Reagálás Tanítása](../04_avalokitesvara/README.md) | [Gyógyító Buddha](../06_medicine_buddha/README.md) >
+< [A végtelen reagálás tanítása](../04_avalokitesvara/README.md) | [Gyógyító Buddha](../06_medicine_buddha/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

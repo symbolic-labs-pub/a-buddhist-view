@@ -1,11 +1,11 @@
-## [The Fourth Ngöndro Gyakorlat](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/4_guru_yoga/README.md#the-fourth-ngöndro-Gyakorlat)
+## [The fourth Ngöndro gyakorlat](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/4_guru_yoga/README.md#the-fourth-ngöndro-Gyakorlat)
 [![guru_yoga](../../../../../more/11_ngondro/4_guru_yoga/guru_yoga.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/11_ngondro/4_guru_yoga/README.md#the-fourth-ngöndro-practice)
-### **Samsāra’s Unsatisfactoriness → Guru Yoga**
+### **Samsāra’s unsatisfactoriness → Guru yoga**
 In the Kagyu understanding of **Ngöndro**, the **fourth Gyakorlat** completes the *outer turning of the mind* and *opens the inner path*. It is the hinge where **renunciation matures into direct recognition**.
 
 ---
 
-## 1) Samsāra’s Unsatisfactoriness (Duḥkha of Cyclic Existence)
+## 1) Samsāra’s unsatisfactoriness (duḥkha of cyclic existence)
 
 This contemplation is **not pessimism** and not moral judgment. It is *diagnosis*.
 
@@ -34,14 +34,14 @@ That cut creates *space*.
 
 ---
 
-## 2) Guru Yoga (The Turning Point)
+## 2) Guru yoga (the turning point)
 
 When hope in samsāra collapses, the mind is finally *available*.
 
 Guru Yoga is not worship.
 It is **recognition training**.
 
-### What “Guru” actually means
+### What “guru” actually means
 * The guru is **not a personality**
 * The guru is **not an external authority**
 * The guru is the **living function of awakened mind**, made *recognizable*
@@ -53,7 +53,7 @@ In Kagyu, the guru is the **interface** between:
 
 ---
 
-## 3) Devotion as a Cognitive Technology
+## 3) Devotion as a cognitive technology
 
 Devotion here is **precision alignment**, not emotion.
 
@@ -75,7 +75,7 @@ This is why Kagyu emphasizes **lineage continuity** over philosophical novelty.
 
 ---
 
-## 4) The 17th Karmapa Thaye Dorje in This Context
+## 4) The 17th karmapa thaye dorje in this context
 
 In contemporary Kagyu Gyakorlat, **17th Karmapa Thaye [Dorje](../../09_symbols/02_dorje/README.md#dorje-vajra--explained-according-to-buddhist-teachings)** functions as a **living reference point** of lineage integrity.
 
@@ -91,7 +91,7 @@ The Karmapa principle is *structural*, not personal:
 
 ---
 
-## 5) Why Guru Yoga Comes Last in Ngöndro
+## 5) Why Guru yoga comes last in Ngöndro
 
 The sequence matters.
 
@@ -106,7 +106,7 @@ Guru Yoga **shows what was always there**.
 
 ---
 
-## 6) Core Insight of the Fourth Gyakorlat
+## 6) Core insight of the fourth gyakorlat
 
 > **Felszabadulás is not achieved by fixing experience,
 > but by recognizing the nature of the one experiencing.**
@@ -122,7 +122,7 @@ It **removes the final obstruction**: the belief that awakening belongs to someo
 
 ---
 
-< [A Harmadik Ngöndro Gyakorlat](../3_mandala_offering/README.md) | [Az Előkészítő Gyakorlatok (Ngöndro)](../README.md) >
+< [A harmadik Ngöndro gyakorlat](../3_mandala_offering/README.md) | [Az előkészítő gyakorlatok (Ngöndro)](../README.md) >
 
 _source: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

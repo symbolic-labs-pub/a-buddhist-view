@@ -1,15 +1,15 @@
-## [**Amitābha** — according to Buddhist teachings](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/14_amitabha/README.md#amitābha--according-to-buddhist-teachings)
+## [**Amitābha** — according to buddhist teachings](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/14_amitabha/README.md#amitābha--according-to-buddhist-teachings)
 
 [![amitabha](../../../../../more/08_lineage/14_amitabha/amitabha.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/08_lineage/14_amitabha/README.md#amitābha--according-to-buddhist-teachings)
 
 <details>
 <summary>Tanítás</summary>
 
-## A Buddhist Teaching on **Amitābha**
+## A buddhist teaching on **Amitābha**
 
 **The Path of Infinite Light and Trust**
 
-### 1. The Human Condition
+### 1. The human condition
 
 All beings seek happiness and fear suffering, yet wander endlessly in **saṃsāra** because the mind is obscured by ignorance, attachment, and habitual patterns. Even when we understand the Dharma intellectually, our capacity to practice is weakened by distraction, emotional turbulence, and karmic momentum.
 
@@ -19,7 +19,7 @@ The teaching of Amitābha arises from this compassion.
 
 ---
 
-### 2. The Great Vow
+### 2. The great vow
 
 In immeasurable past ages, the bodhisattva Dharmākara contemplated the suffering of beings and made a vow unlike any other:
 
@@ -31,7 +31,7 @@ This is not myth in the ordinary sense. It is **a teaching about how awakening m
 
 ---
 
-### 3. The Pure Land Is a Skillful Means
+### 3. The pure land is a skillful means
 
 The **Pure Land (Sukhāvatī)** is described as a realm without the conditions that reinforce ignorance:
 
@@ -49,7 +49,7 @@ Both understandings are valid within the Dharma.
 
 ---
 
-### 4. The Practice of Remembrance
+### 4. The practice of remembrance
 
 The core practice is **mindfulness of the Buddha** (*buddhānusmṛti*).
 
@@ -70,7 +70,7 @@ It means **trusting a path that does not rely on egoic control**.
 
 ---
 
-### 5. Other-Power and Self-Power
+### 5. Other-power and self-power
 
 Most spiritual struggle comes from trying to **force awakening through self-power alone**.
 
@@ -85,7 +85,7 @@ It is **non-grasping participation**.
 
 ---
 
-### 6. The Deeper Meaning
+### 6. The deeper meaning
 
 At the deepest level, the teachings say:
 
@@ -101,7 +101,7 @@ The Buddha of Infinite Light reveals what has always been present.
 
 ---
 
-### 7. Instruction for Practice
+### 7. Instruction for practice
 
 A simple and complete instruction:
 
@@ -117,7 +117,7 @@ Awareness replaces effort.
 
 ---
 
-### 8. The Result
+### 8. The result
 
 Through this practice:
 
@@ -131,7 +131,7 @@ the mind turns toward liberation.
 
 ---
 
-### 9. Closing Reflection
+### 9. Closing reflection
 
 Amitābha’s teaching reminds us:
 
@@ -148,13 +148,13 @@ For beings living in complex, exhausted, fragmented times, this path remains **r
 <details open>
 <summary>Magyarázat</summary>
 
-## **Amitābha in Buddhist Teachings**
+## **Amitābha in buddhist teachings**
 
 **Amitābha** (Sanskrit: *Amitābha*; Tibetan: *’Od dpag med*; Chinese: *Āmítuó Fó*; Japanese: *Amida Butsu*) is one of the most revered Buddhas in **Mahāyāna Buddhism**, especially within **Pure Land** traditions. His name means **“Infinite Light”** (and closely related, *Amitāyus*, “Infinite Life”), pointing to limitless wisdom and compassion.
 
 ---
 
-## 1. Origin and Vows
+## 1. Origin and vows
 
 According to the **Larger Sukhāvatīvyūha Sūtra**, Amitābha was once a bodhisattva named **Dharmākara**. After making **48 great vows**, he vowed not to attain Buddhahood until he had established a pure realm where all beings—regardless of capacity—could awaken.
 
@@ -166,7 +166,7 @@ This vow forms the doctrinal heart of Pure Land practice.
 
 ---
 
-## 2. The Pure Land: Sukhāvatī
+## 2. The pure land: sukhāvatī
 
 Amitābha presides over **Sukhāvatī**, the **Western Pure Land**, a realm described not as a heaven but as an **optimal environment for enlightenment**:
 
@@ -179,7 +179,7 @@ Rebirth in Sukhāvatī is seen as a **skillful means** (*upāya*): enlightenment
 
 ---
 
-## 3. Core Practice: Mindfulness of Amitābha
+## 3. Core practice: mindfulness of Amitābha
 
 The central practice is **Buddha-remembrance** (*buddhānusmṛti*), commonly expressed as:
 
@@ -197,7 +197,7 @@ Advanced texts emphasize that **recitation stabilizes awareness**, aligns the mi
 
 ---
 
-## 4. Symbolism and Iconography
+## 4. Symbolism and iconography
 
 Amitābha is typically depicted:
 
@@ -210,7 +210,7 @@ Esoterically, Amitābha corresponds to the **lotus family** and the transformati
 
 ---
 
-## 5. Philosophical Interpretation (Deeper Layer)
+## 5. Philosophical interpretation (deeper layer)
 
 From a non-dual Mahāyāna perspective:
 
@@ -228,7 +228,7 @@ Thus, Pure Land is not escapism—it is **a pragmatic path of awakening through 
 
 ---
 
-## 6. Amitābha Across Traditions
+## 6. Amitābha across traditions
 
 * **Chinese Pure Land:** Emphasizes chanting + ethical life
 * **Japanese Jōdo / Jōdo Shinshū:** Radical reliance on Amitābha’s vow (other-power)
@@ -237,7 +237,7 @@ Thus, Pure Land is not escapism—it is **a pragmatic path of awakening through 
 
 ---
 
-## 7. Why Amitābha Matters Today
+## 7. Why Amitābha matters today
 
 Amitābha represents:
 
@@ -255,7 +255,7 @@ In contemporary terms: **Amitābha is a fault-tolerant enlightenment protocol**�
 <details>
 <summary>Meditáció</summary>
 
-## **A Pure Land Meditation Practice — Amitābha Path of Vow and Trust**
+## **A pure land meditation practice — Amitābha path of vow and trust**
 
 
 > ⚠️ **Note on scope**
@@ -265,7 +265,7 @@ In contemporary terms: **Amitābha is a fault-tolerant enlightenment protocol**�
 
 ---
 
-## 1. Intention (Orientation of the Mind)
+## 1. Intention (orientation of the mind)
 
 
 Sit comfortably. Formal posture is helpful but not required.
@@ -284,7 +284,7 @@ This step **reorients agency**:
 
 ---
 
-## 2. Grounding the Breath (Stabilization)
+## 2. Grounding the breath (stabilization)
 
 
 For 1–3 minutes:
@@ -298,7 +298,7 @@ Pure Land practice works best on a **settled but ordinary mind**, not a forced o
 
 ---
 
-## 3. Name-Recitation (Core Practice)
+## 3. Name-recitation (core practice)
 
 
 Begin **audible or silent recitation**:
@@ -328,7 +328,7 @@ If thoughts arise:
 
 ---
 
-## 4. Subtle Visualization (Optional, Later)
+## 4. Subtle visualization (optional, later)
 
 
 Only if the mind naturally stabilizes:
@@ -346,7 +346,7 @@ If visualization fades → return to recitation.
 
 ---
 
-## 5. Trust Phase (The Essential Point)
+## 5. Trust phase (the essential point)
 
 
 At some point, let go of **doing** the practice.
@@ -363,7 +363,7 @@ This is the **heart of Pure Land**:
 
 ---
 
-## 6. Dedication of Merit (Closure)
+## 6. Dedication of merit (closure)
 
 
 Conclude with:
@@ -375,7 +375,7 @@ Stop reciting. Sit quietly for a few breaths.
 
 ---
 
-## 7. Integration into Daily Life (Critical)
+## 7. Integration into daily life (critical)
 
 
 Pure Land practice **must leak into life**:
@@ -393,7 +393,7 @@ This is why Pure Land has survived centuries—it **meets people where they actu
 
 ---
 
-## Key Clarifications (Very Important)
+## Key clarifications (very important)
 
 
 * ❌ This is **not** blind faith
@@ -406,7 +406,7 @@ This is why Pure Land has survived centuries—it **meets people where they actu
 
 ---
 
-## One-Line Essence
+## One-line essence
 
 
 > **Pure Land meditation trains the mind to rest in compassion when control is exhausted.**
@@ -418,7 +418,7 @@ This is why Pure Land has survived centuries—it **meets people where they actu
 
 ---
 
-< [Vadzsraszattva (Dordzsé Szempa)](../13_vajrasattva/README.md) | [Amitāyus — A Határtalan Élet Buddhája](../15_amitayus/README.md) >
+< [Vadzsraszattva (dordzsé szempa)](../13_vajrasattva/README.md) | [Amitāyus — a határtalan élet buddhája](../15_amitayus/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

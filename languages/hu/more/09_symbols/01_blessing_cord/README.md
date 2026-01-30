@@ -1,4 +1,4 @@
-## [Áldászsinór (Védőzsinór) — Buddhista Jelentés](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/01_blessing_cord/README.md#blessing-cord-protection-cord--buddhist-meaning)
+## [Áldászsinór (védőzsinór) — buddhista jelentés](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/09_symbols/01_blessing_cord/README.md#blessing-cord-protection-cord--buddhist-meaning)
 
 [![blessing_cord](../../../../../more/09_symbols/01_blessing_cord/blessing_cord.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/more/09_symbols/01_blessing_cord/README.md#blessing-cord-protection-cord--buddhist-meaning)
 
@@ -144,7 +144,7 @@ hanem **hordozható [tudatosság](../../01_core_teachings/the_noble_eightfold_pa
 
 ---
 
-< [Fehér Tārā (Sitatārā) – A Hosszú Élet & Együttérzés Anyja](../../08_lineage/README.md) | [Dorje (Vajra) — magyarázat a buddhista tanítások szerint](../02_dorje/README.md) >
+< [Fehér Tārā (Sitatārā) – a hosszú élet & együttérzés anyja](../../08_lineage/README.md) | [Dorje (vajra) — magyarázat a buddhista tanítások szerint](../02_dorje/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 

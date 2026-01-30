@@ -1,4 +1,4 @@
-## [Emptiness (Śūnyatā) in Vajrayāna Buddhism](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/10_concepts/01_emptiness/README.md#emptiness-śūnyatā-in-vajrayāna-buddhism)
+## [Emptiness (śūnyatā) in Vajrayāna Buddhism](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/10_concepts/01_emptiness/README.md#emptiness-śūnyatā-in-vajrayāna-buddhism)
 [![Kyabje_Kalu_Rinpoche.png](../../../../../more/10_concepts/01_emptiness/Kyabje_Kalu_Rinpoche.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/10_concepts/01_emptiness/README.md#emptiness-śūnyatā-in-vajrayāna-buddhism)
 
 _This section was inspired by [Kyabje Kalu Rinpoche](https://treasuryoflives.org/biographies/view/kalu-rinpoche/12180) a fantastic master of teachings on emptiness._
@@ -7,13 +7,13 @@ _This section was inspired by [Kyabje Kalu Rinpoche](https://treasuryoflives.org
 <details>
 <summary>Tanítás</summary>
 
-## A Vajrayāna Tanítás on Emptiness
+## A Vajrayāna tanítás on emptiness
 
 **Emptiness as the Freedom of Appearance**
 
 ---
 
-### 1. The ground Tanítás
+### 1. The ground tanítás
 The Buddha did not teach emptiness to negate the world,
 but to **free the mind from fixation**.
 
@@ -72,7 +72,7 @@ Seeing it repeatedly dissolves it.
 
 ---
 
-### 4. Emptiness and Szenvedés
+### 4. Emptiness and szenvedés
 Szenvedés does not arise because phenomena appear.
 Szenvedés arises because appearances are **grasped as solid**.
 
@@ -111,7 +111,7 @@ it is freedom from a false center.
 
 ---
 
-### 6. Emptiness in action: Együttérzés
+### 6. Emptiness in action: együttérzés
 Because nothing is fixed:
 
 * Change is possible
@@ -150,7 +150,7 @@ This is Felszabadulás **within** the world.
 
 ---
 
-### Closing Tanítás
+### Closing tanítás
 > **Emptiness is not the absence of reality.**
 > **It is the absence of clinging to reality.**
 >
@@ -238,7 +238,7 @@ Not analyzed.
 
 ---
 
-### 4. Why emptiness liberates Szenvedés
+### 4. Why emptiness liberates szenvedés
 Szenvedés persists because we treat:
 
 * Thoughts as solid
@@ -334,7 +334,7 @@ Yet everything appears.
 <details>
 <summary>Meditáció</summary>
 
-## Emptiness Recognition Meditáció
+## Emptiness recognition meditáció
 
 *(Vajrayāna / Mahāmudrā–Dzogchen style)*
 
@@ -343,7 +343,7 @@ Do it simply, precisely, and without strain.
 
 ---
 
-### 1. Preparation — Set the view (1–2 minutes)
+### 1. Preparation — set the view (1–2 minutes)
 Sit comfortably, spine upright but relaxed.
 Eyes open, gaze soft and unfocused.
 
@@ -373,7 +373,7 @@ This is important:
 
 ---
 
-### 3. Looking directly at a thought (core Gyakorlat)
+### 3. Looking directly at a thought (core gyakorlat)
 When a thought appears—any thought—gently turn attention toward it.
 
 Ask **silently**, not intellectually:
@@ -482,7 +482,7 @@ Silently conclude:
 
 ---
 
-## Key Gyakorlat instructions (very important)
+## Key gyakorlat instructions (very important)
 
 * ❌ Do not *think* about emptiness
 

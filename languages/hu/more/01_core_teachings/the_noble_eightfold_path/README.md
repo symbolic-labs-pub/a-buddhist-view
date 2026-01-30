@@ -1,4 +1,4 @@
-## [Mit Jelent a Nemes Nyolcrétű Ösvény (a buddhizmusban)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban)
+## [Mit jelent a nemes nyolcrétű ösvény (a buddhizmusban)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/the_noble_eightfold_path/README.md#mit-jelent-a-nemes-nyolcrétű-ösvény-a-buddhizmusban)
 
 [![the_noble_eightfold_path](../../../../../more/01_core_teachings/the_noble_eightfold_path/the_noble_eightfold_path.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/the_noble_eightfold_path/README.md#what-the-noble-eightfold-path-is-in-buddhism)
 A Buddha saját megfogalmazásában a **Nemes Nyolcrétű Ösvény (ariya aṭṭhaṅgika magga)**:
@@ -20,7 +20,7 @@ Ehelyett a felszabadulás akkor keletkezik, amikor **a nézet, a magatartás és
 
 ---
 
-## A Háromrétű Struktúra (ahogy a szuttákban tanítják)
+## A háromrétű struktúra (ahogy a szuttákban tanítják)
 
 A Nyolcrétű Ösvényt hagyományosan **három képzésre (tisikkhā)** csoportosítják:
 
@@ -35,9 +35,9 @@ Ez a struktúra nem elméleti — tükrözi az *okozati függőséget*:
 
 ---
 
-## 1. Bölcsesség (Paññā)
+## 1. Bölcsesség (paññā)
 
-### 1. Helyes Nézet (Sammā-diṭṭhi)
+### 1. Helyes nézet (sammā-diṭṭhi)
 **Alapvető jelentése a buddhizmusban:**
 A Helyes Nézet nem filozófia — hanem *pontos észlelése* annak, ahogy a dolgok valójában működnek.
 
@@ -66,7 +66,7 @@ Helyes Nézet nélkül:
 
 ---
 
-### 2. Helyes Szándék (Sammā-saṅkappa)
+### 2. Helyes szándék (sammā-saṅkappa)
 A Helyes Szándék az elme **affektív összehangolása**.
 
 A Buddha három tulajdonságot nevez meg:
@@ -83,7 +83,7 @@ A Helyes Szándék gyengíti a vágyakozást (*taṇhā*) annak érzelmi gyöker
 
 ---
 
-## 2. Etikus Magatartás (Śīla)
+## 2. Etikus magatartás (śīla)
 
 Az etika a buddhizmusban **funkcionális**, nem moralisztikus.
 
@@ -97,7 +97,7 @@ Hanem azt:
 
 ---
 
-### 3. Helyes Beszéd (Sammā-vācā)
+### 3. Helyes beszéd (sammā-vācā)
 Negatívan és pozitívan is definiálva:
 
 Kerülendő:
@@ -120,7 +120,7 @@ A beszéd azért hangsúlyos, mert:
 
 ---
 
-### 4. Helyes Cselekvés (Sammā-kammanta)
+### 4. Helyes cselekvés (sammā-kammanta)
 Lefedi a testi viselkedést:
 
 * nem-ártás
@@ -131,7 +131,7 @@ A Buddha közvetlenül összekapcsolja a testi önmegtartóztatást a **bűnbán
 
 ---
 
-### 5. Helyes Megélhetés (Sammā-ājīva)
+### 5. Helyes megélhetés (sammā-ājīva)
 A megélhetés nem okozhat rendszeresen kárt.
 
 A klasszikus tilalmak:
@@ -148,14 +148,14 @@ A mélyebb elv:
 
 ---
 
-## 3. Mentális Fegyelem (Samādhi)
+## 3. Mentális fegyelem (samādhi)
 
 Ezt a szakaszt gyakran félreértik úgy, mint "csak meditáció".
 A buddhizmusban ez a **mentális energia dinamikus képzése**.
 
 ---
 
-### 6. Helyes Erőfeszítés (Sammā-vāyāma)
+### 6. Helyes erőfeszítés (sammā-vāyāma)
 Négyrétű erőfeszítés:
 
 1. Az egészségtelen állapotok megakadályozása
@@ -173,7 +173,7 @@ A Buddha többször figyelmeztetett:
 
 ---
 
-### 7. Helyes Tudatosság (Sammā-sati)
+### 7. Helyes tudatosság (sammā-sati)
 A Satipaṭṭhāna Sutta *pontosan* definiálja mint a [tudatosságot](../../10_concepts/README.md#2-tudatosság-rigpa-vijñāna-knowing):
 
 * testről
@@ -194,7 +194,7 @@ Magában foglalja:
 
 ---
 
-### 8. Helyes Koncentráció (Sammā-samādhi)
+### 8. Helyes koncentráció (sammā-samādhi)
 Kifejezetten a **jhānára** (meditatív elmerülés) utal.
 
 Kulcspontok:
@@ -209,7 +209,7 @@ A buddhizmusban:
 
 ---
 
-## Strukturális Betekintés (buddhista okságiság)
+## Strukturális betekintés (buddhista okságiság)
 
 Az összefoglalásod pontos és mélyen buddhista:
 
@@ -226,7 +226,7 @@ Ezért nevezte a Buddha *ösvénynek*, nem létrának.
 
 ---
 
-## Végső Buddhista Keretezés
+## Végső buddhista keretezés
 
 A Buddha saját szavaival (átfogalmazva):
 
@@ -243,7 +243,7 @@ A **Nemes Nyolcrétű Ösvény** ennek a felszabadulásnak a **mérnöki munkáj
 
 ---
 
-< [Mit Jelent a "Pāramitā" a Buddhizmusban](../perfections/README.md) | [A Három Ékszer (Hármas Ékkő) — *Ti-ratana*](../the_three_jewels/README.md) >
+< [Mit jelent a "pāramitā" a buddhizmusban](../perfections/README.md) | [A három ékszer (hármas ékkő) — *ti-ratana*](../the_three_jewels/README.md) >
 
 _forrás: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
 
