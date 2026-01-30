@@ -1,16 +1,16 @@
-# [Buddhista Nézet](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/hu/master/README.md)
+# [Egy buddhista nézet](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/hu/master/README.md)
 
 
 ![gautama.png](../../more/images/gautama.png)
 
 
-Ha valódi érdeklődés és elkötelezettség merül fel, a klasszikus buddhista út a következő megközelítést ajánlja:
+Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a következő megközelítést ajánlja:
 
 * **Lépj kapcsolatba egy buddhista központtal vagy közösséggel** közeledben, amely autentikus leszármazási vonalat tart fenn
 * **Vegyél részt tanításokon és meditációs üléseken**, kultivál járatosságot mind a nézettel, mind a gyakorlattal
 * **Támaszkodj egy képzett tanítóra (lama, kalyāṇamitra)**, akinek viselkedése, megértése és együttérzése bizalmat ébreszt
-* **Formálisan vedd fel a Menedéket** Buddha-ban, Dharma-ban és Saṅgha-ban, megalapítva az út alapjait
-* **Szerezz szóbeli átviteleket (*lung*) és gyakorlati utasításokat (*tri*)** közvetlenül képzett tanítódtól, biztosítva a leszármazási vonal folytonosságát
+* **Formálisan vegyél Menedéket** Buddhában, Dharmában és Saṅghában, létrehozva az út alapjait
+* **Szerezz szóbeli átviteleket (*lung*) és gyakorlati utasításokat (*tri*)** közvetlenül képzett tanítódtól, biztosítva a származási vonal folytonosságát
 * **Kezdd el az Előkészítő Gyakorlatokat (*Ngöndro*)**, amelyek előkészítik az elmét és stabilizálják a megvalósítást
 
 ---
@@ -19,8 +19,8 @@ Ha valódi érdeklődés és elkötelezettség merül fel, a klasszikus buddhist
 
 * Egy **tanítót nem "választanak" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflektálás révén
 * **A Menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
-* **Az átvitelek elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a leszármazási vonaltól és közvetlen bevezetéstől
-* **Az előkészítő gyakorlatok nem javítók**—teljes utak, amelyek tisztítják a homályosításokat és érlelik a betekintést
+* **Az átadások elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a leszármazási vonaltól és közvetlen bevezetéstől
+* **Az előkészítő gyakorlatok nem gyógyítanak**—teljes utak, amelyek tisztítják a homályosításokat és érlelik a betekintést
 
 ---
 
