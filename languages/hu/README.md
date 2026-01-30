@@ -10,7 +10,7 @@ Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a
 * **Vegyél részt tanításokon és meditációs üléseken**, tegyél szert járatosságra mind a nézetben, mind a gyakorlatban 
 * **Támaszkodj egy képzett tanítóra (lama, kalyāṇamitra)**, akinek viselkedése, megértése és együttérzése bizalmat ébreszt benned
 * **Formálisan vegyél menedéket** Buddhában, Dharmában és Saṅghában, létrehozva az út alapjait
-* **Kapj szóbeli átadásokat (*lung*) és gyakorlati utasításokat (*tri*)** közvetlenül képzett tanítódtól, biztosítva a származási vonal folytonosságát
+* **Részesülj szóbeli átadásokban (*lung*) és gyakorlati utasításokban (*tri*)** közvetlenül képzett tanítód által, biztosítva a származási vonal folytonosságát
 * **Kezdd el az Előkészítő Gyakorlatokat (*Ngöndro*)**, amelyek előkészítik az elmét és stabilizálják a megvalósítást
 
 ---
