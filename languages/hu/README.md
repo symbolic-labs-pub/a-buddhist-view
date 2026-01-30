@@ -6,21 +6,21 @@
 
 Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a következő megközelítést ajánlja:
 
-* **Lépj kapcsolatba egy buddhista központtal vagy közösséggel** közeledben, amely autentikus leszármazási vonalat tart fenn
-* **Vegyél részt tanításokon és meditációs üléseken**, kultivál járatosságot mind a nézettel, mind a gyakorlattal
-* **Támaszkodj egy képzett tanítóra (lama, kalyāṇamitra)**, akinek viselkedése, megértése és együttérzése bizalmat ébreszt
-* **Formálisan vegyél Menedéket** Buddhában, Dharmában és Saṅghában, létrehozva az út alapjait
-* **Szerezz szóbeli átviteleket (*lung*) és gyakorlati utasításokat (*tri*)** közvetlenül képzett tanítódtól, biztosítva a származási vonal folytonosságát
+* **Lépj kapcsolatba egy buddhista központtal vagy közösséggel** a közeledben, amely autentikus származási vonalat tart fenn
+* **Vegyél részt tanításokon és meditációs üléseken**, tegyél szert járatosságra mind a nézetben, mind a gyakorlatban 
+* **Támaszkodj egy képzett tanítóra (lama, kalyāṇamitra)**, akinek viselkedése, megértése és együttérzése bizalmat ébreszt benned
+* **Formálisan vegyél menedéket** Buddhában, Dharmában és Saṅghában, létrehozva az út alapjait
+* **Kapj szóbeli átadásokat (*lung*) és gyakorlati utasításokat (*tri*)** közvetlenül képzett tanítódtól, biztosítva a származási vonal folytonosságát
 * **Kezdd el az Előkészítő Gyakorlatokat (*Ngöndro*)**, amelyek előkészítik az elmét és stabilizálják a megvalósítást
 
 ---
 
 ### Fontos Pontosítások
 
-* Egy **tanítót nem "választanak" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflektálás révén
+* Egy **tanítót nem "választanak" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflekció révén
 * **A Menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
 * **Az átadások elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a leszármazási vonaltól és közvetlen bevezetéstől
-* **Az előkészítő gyakorlatok nem gyógyítanak**—teljes utak, amelyek tisztítják a homályosításokat és érlelik a betekintést
+* **Az előkészítő gyakorlatok nem gyógyítanak** — teljes utak, amelyek tisztítják a homályosságot és érlelik a betekintést
 
 ---
 
@@ -61,10 +61,10 @@ A meditáció az a módszer, amellyel a buddhista tanításokat hitelesítik. Í
 Az élet legtöbb területén az csak tanulás révén elegendő lehet—vizsgákat tehetsz, karriert építhetsz és problémákat oldhatsz meg anélkül, hogy valaha meditálnál. A Buddhizmus azonban nem így strukturált.
 
 A buddhista tanítások tanulmányozása meditáció nélkül olyan, mint egy új jármű fogadása:
-megvizsgálod alakját, csodálod tervezését, belenézel, még a kulcsot is tartod—
-de soha nem ülsz a vezető ülésbe és soha nem indítod be a motort.
+megvizsgálod alakját, csodálod tervezését, belenézel, még a kulcsot is a markodban tartod — 
+de soha nem ülsz be a vezető ülésbe és soha nem indítod be a motort.
 
-A meditáció az, ami elfordítja a kulcsot.
+A meditáció fordítja el a kulcsot.
 
 </details>
 
