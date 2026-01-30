@@ -4,22 +4,22 @@
 ![gautama.png](../../more/images/gautama.png)
 
 
-Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a következő megközelítést ajánlja:
+Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista útat a következő megközelítéssel célszerű járni:
 
 * **Lépj kapcsolatba egy buddhista központtal vagy közösséggel** a közeledben, amely autentikus származási vonalat tart fenn
-* **Vegyél részt tanításokon és meditációs üléseken**, tegyél szert járatosságra mind a nézetben, mind a gyakorlatban 
+* **Vegyél részt tanításokon és meditációs üléseken**, tegyél szert járatasságra mind a nézetben, mind a gyakorlatban 
 * **Támaszkodj egy képzett tanítóra (lama, kalyāṇamitra)**, akinek viselkedése, megértése és együttérzése bizalmat ébreszt benned
-* **Formálisan vegyél menedéket** Buddhában, Dharmában és Saṅghában, létrehozva az út alapjait
-* **Kapj szóbeli átadásokat (*lung*) és gyakorlati utasításokat (*tri*)** közvetlenül képzett tanítódtól, biztosítva a származási vonal folytonosságát
+* **Formálisan vegyél menedéket** a Buddhában, Dharmában és Saṅghában, létrehozva az út alapjait
+* **Részesülj szóbeli átadásokban (*lung*) és gyakorlati utasításokban (*tri*)** közvetlenül képzett tanítódtól, biztosítva a származási vonal folytonosságát
 * **Kezdd el az Előkészítő Gyakorlatokat (*Ngöndro*)**, amelyek előkészítik az elmét és stabilizálják a megvalósítást
 
 ---
 
 ### Fontos pontosítások
 
-* Egy **tanítót nem "választanak" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflekció révén
-* **A Menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
-* **Az átadások elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a leszármazási vonaltól és közvetlen bevezetéstől
+* Egy **tanítót nem "választunk" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflekció révén
+* **A menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
+* **Az átadások elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a származási vonaltól és közvetlen bevezetéstől
 * **Az előkészítő gyakorlatok nem gyógyítanak** — teljes utak, amelyek tisztítják a homályosságot és érlelik a betekintést
 
 ---
