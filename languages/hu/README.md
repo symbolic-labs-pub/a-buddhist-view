@@ -4,7 +4,7 @@
 ![gautama.png](../../more/images/gautama.png)
 
 
-Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista út a következő megközelítést ajánlja:
+Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista úton a következő megközelítés ajánlott:
 
 * **Lépj kapcsolatba egy buddhista központtal vagy közösséggel** a közeledben, amely autentikus származási vonalat tart fenn
 * **Vegyél részt tanításokon és meditációs üléseken**, tegyél szert járatosságra mind a nézetben, mind a gyakorlatban 
