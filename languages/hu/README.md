@@ -10,7 +10,7 @@ Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista útat
 * **Vegyél részt tanításokon és meditációs üléseken**, tegyél szert járatasságra mind a nézetben, mind a gyakorlatban 
 * **Támaszkodj egy képzett tanítóra (lama, kalyāṇamitra)**, akinek viselkedése, megértése és együttérzése bizalmat ébreszt benned
 * **Formálisan vegyél menedéket** a Buddhában, Dharmában és Saṅghában, létrehozva az út alapjait
-* **Részesülj szóbeli átadásokban (*lung*) és gyakorlati utasításokban (*tri*)** közvetlenül képzett tanítód által, biztosítva a származási vonal folytonosságát
+* **Részesülj szóbeli átadásokban (*lung*) és gyakorlati utasításokban (*tri*)** közvetlenül képzett tanítódtól, biztosítva a származási vonal folytonosságát
 * **Kezdd el az Előkészítő Gyakorlatokat (*Ngöndro*)**, amelyek előkészítik az elmét és stabilizálják a megvalósítást
 
 ---
@@ -19,7 +19,7 @@ Valódi érdeklődés és elkötelezettség esetén a klasszikus buddhista útat
 
 * Egy **tanítót nem "választunk" felelőtlenül**; a bizalom fokozatosan fejlődik megfigyelés és reflekció révén
 * **A menedék nem szimbolikus**—életünk határozott átorientációját képviseli az ébredés felé
-* **Az átadások elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a leszármazási vonaltól és közvetlen bevezetéstől
+* **Az átadások elengedhetetlenek a Vajrayāna-ban**, mivel a megvalósítás elválaszthatatlan a származási vonaltól és közvetlen bevezetéstől
 * **Az előkészítő gyakorlatok nem gyógyítanak** — teljes utak, amelyek tisztítják a homályosságot és érlelik a betekintést
 
 ---
