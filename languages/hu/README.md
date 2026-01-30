@@ -1,4 +1,4 @@
-# [Egy buddhista nézet](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/hu/master/README.md)
+# [Egy buddhista nézőpont](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/hu/master/README.md)
 
 
 ![gautama.png](../../more/images/gautama.png)
