@@ -1,6 +1,6 @@
 ## ["Tüm Koşullu Şeyler Geçicidir"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/impermanence/README.md#tüm-koşullu-şeyler-geçicidir)
 
-[![impermanence](impermanence.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/impermanence/README.md#tüm-koşullu-şeyler-geçicidir)
+[![impermanence](../../../../../more/01_core_teachings/impermanence/impermanence.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/impermanence/README.md#tüm-koşullu-şeyler-geçicidir)
 **(Pāli: *sabbe saṅkhārā aniccā*)**
 
 ### 1. *saṅkhārā* gerçekten ne anlama gelir

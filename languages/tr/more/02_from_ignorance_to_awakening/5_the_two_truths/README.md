@@ -1,6 +1,6 @@
 ## [Budist Öğretişte İki Doğruluk](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#budist-öğretişte-iki-doğruluk)
 
-[![the_two_truths](the_two_truths.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#budist-öğretişte-iki-doğruluk)
+[![the_two_truths](../../../../../more/02_from_ignorance_to_awakening/5_the_two_truths/the_two_truths.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/5_the_two_truths/README.md#budist-öğretişte-iki-doğruluk)
 *(Saṃvṛti-satya & Paramārtha-satya)*
 
 **İki Doğruluk** öğretişi Budizmde bir **kesinlik aracıdır**. İki yaygın hatayı engeller:

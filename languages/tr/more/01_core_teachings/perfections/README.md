@@ -1,6 +1,6 @@
 ## ["Pāramitā" Budizmde ne anlama gelir](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/perfections/README.md#pāramitā-budizmde-ne-anlama-gelir)
 
-[![perfections](perfections.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/perfections/README.md#pāramitā-budizmde-ne-anlama-gelir)
+[![perfections](../../../../../more/01_core_teachings/perfections/perfections.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/perfections/README.md#pāramitā-budizmde-ne-anlama-gelir)
 **Pāramitā** kelimenin tam anlamında *"diğer kıyıya gitti."*
 Budist terimlerinde, bu metafizik bir yer değildir—bu **cehaletten özgürlüktür (avidyā)** ve yapışma alışkanlıkları [ıstırap (dukkha)](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-vardır-ıstırap--dukkha) oluşturur.
 

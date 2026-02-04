@@ -1,6 +1,6 @@
 ## [Üç Mücevher (Üçlü Mücevher) — *Ti-ratana*](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/the_three_jewels/README.md#üç-mücevher-üçlü-mücevher--ti-ratana)
 
-[![the_three_jewels](the_three_jewels.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/the_three_jewels/README.md#üç-mücevher-üçlü-mücevher--ti-ratana)
+[![the_three_jewels](../../../../../more/01_core_teachings/the_three_jewels/the_three_jewels.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/the_three_jewels/README.md#üç-mücevher-üçlü-mücevher--ti-ratana)
 Klasik Budist öğretişinde, **Üç Mücevherde sığınma almak** bir inanç taahhüdü değildir ancak **hayatın pratik oryantasyonu**—gerçekliği olduğu gibi uyandırmak ve buna göre yaşamak taahhüdü. Sığınma *"[ıstıraptan](../../02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#1-vardır-ıstırap--dukkha) korunan" anlamına gelir* (Pāli: *saraṇa*).
 
 ---

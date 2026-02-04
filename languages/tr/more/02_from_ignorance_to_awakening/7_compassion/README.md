@@ -1,6 +1,6 @@
 ## Budist Öğretişte Yapısal İlke Olarak Şefkat
 
-![compassion](compassion.png)
+![compassion](../../../../../more/02_from_ignorance_to_awakening/7_compassion/compassion.png)
 *(Neden bu isteğe bağlı değil, ancak kaçınılmazdır)*
 
 Budizmde, **şefkat (karuṇā)-ve-mettā-işlevsel olarak-ayrılamaz)** ahlaki eklenti veya kişilik özellliği değildir. Bu **gerçeklik içine öğrenmenin yapısal sonucudur**. Bilgelik derinleştiğinde, şefkat **ortaya çıkmalıdır**—tıpkı ısı ateş ortaya çıkması gibi.

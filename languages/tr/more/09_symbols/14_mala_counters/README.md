@@ -1,5 +1,11 @@
-# Budist Semboller
+## Mala Sayaçları — Sayma Araçları
+
+[![14_mala_counters.png](../../../../../more/09_symbols/14_mala_counters/14_mala_counters.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/09_symbols/14_mala_counters/README.md)
+
+Mala Sayaçları — Sayma Araçları, Budizmde önemli bir semboldür.
 
 Bu sayfa Türkçeye çevrilmektedir. Tam çeviri yakında eklenecektir.
 
 _kaynak: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
+
+---

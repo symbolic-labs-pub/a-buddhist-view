@@ -1,6 +1,6 @@
 ## [Dört Muasır Doğruluk — Budda'nın Anlamında Olduğu Gibi](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#dört-muasır-doğruluk--budda'nın-anlamında-olduğu-gibi)
 
-[![the_four_noble_truths](the_four_noble_truths.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#dört-muasır-doğruluk--budda'nın-anlamında-olduğu-gibi)
+[![the_four_noble_truths](../../../../../more/02_from_ignorance_to_awakening/2_the_four_noble_truths/the_four_noble_truths.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/2_the_four_noble_truths/README.md#dört-muasır-doğruluk--budda'nın-anlamında-olduğu-gibi)
 **Dört Muasır Doğruluk** gerçeklik hakkında inançlar değildir.
 Bunlar **anlaşılacak, yerine getirilecek ve gerçekleştirilecek görevlerdir**.
 

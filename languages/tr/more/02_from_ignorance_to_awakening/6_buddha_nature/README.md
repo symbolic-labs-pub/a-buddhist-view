@@ -1,6 +1,6 @@
 ## [**Budda-Doğası (Tathāgatagarbha)** — Budist Öğretişler Aracılığıyla Açıklanmıştır](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/6_buddha_nature/README.md#budda-doğası-tathāgatagarbha--budist-öğretişler-aracılığıyla-açıklanmıştır)
 
-[![buddha_nature](buddha_nature.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/6_buddha_nature/README.md#budda-doğası-tathāgatagarbha--budist-öğretişler-aracılığıyla-açıklanmıştır)
+[![buddha_nature](../../../../../more/02_from_ignorance_to_awakening/6_buddha_nature/buddha_nature.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/6_buddha_nature/README.md#budda-doğası-tathāgatagarbha--budist-öğretişler-aracılığıyla-açıklanmıştır)
 ### Öğretişi gerçekten ne söylüyor
 
 **Budda-Doğası** (*Sanskrit: Tathāgatagarbha, "Budda'nın rahim/embriyosu"*) **tüm duyarlı varlıkların uyandırılmaya doğal kapasitesine sahip olduğunu** öğretir.

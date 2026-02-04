@@ -1,6 +1,6 @@
 # [Bağımlı Kaynaklanma (Paṭicca-samuppāda)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#bağımlı-kaynaklanma-paṭicca-samuppāda)
 
-[![dependent_origination.png](dependent_origination.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#bağımlı-kaynaklanma-paṭicca-samuppāda)
+[![dependent_origination.png](../../../../../more/02_from_ignorance_to_awakening/3_dependent_origination/dependent_origination.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/3_dependent_origination/README.md#bağımlı-kaynaklanma-paṭicca-samuppāda)
 
 **— Budda'nın ıstırapın nasıl ortaya çıktığı ve durduğu hakkındaki analizi**
 

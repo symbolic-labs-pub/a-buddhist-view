@@ -1,6 +1,6 @@
 ## [Budizmde Asil Sekizli Yol *ne* (Budizmde)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/the_noble_eightfold_path/README.md#budizmde-asil-sekizli-yol-nedir)
 
-[![the_noble_eightfold_path](the_noble_eightfold_path.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/the_noble_eightfold_path/README.md#budizmde-asil-sekizli-yol-nedir)
+[![the_noble_eightfold_path](../../../../../more/01_core_teachings/the_noble_eightfold_path/the_noble_eightfold_path.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/01_core_teachings/the_noble_eightfold_path/README.md#budizmde-asil-sekizli-yol-nedir)
 Budda'nın kendi çerçevelenmesinde, **Asil Sekizli Yol (ariya aṭṭhaṅgika magga)** şunlardır:
 
 * **dördüncü Muasır Doğruluk**

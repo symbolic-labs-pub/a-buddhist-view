@@ -1,6 +1,6 @@
 ## [Boşluk (Śūnyatā) Mahāyāna Budizminde](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/4_emptiness/README.md#boşluk-śūnyatā-mahāyāna-budizminde)
 
-[![emptiness](emptiness.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/4_emptiness/README.md#boşluk-śūnyatā-mahāyāna-budizminde)
+[![emptiness](../../../../../more/02_from_ignorance_to_awakening/4_emptiness/emptiness.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/tr/master/more/02_from_ignorance_to_awakening/4_emptiness/README.md#boşluk-śūnyatā-mahāyāna-budizminde)
 **Mahāyāna Budizminde**, **Boşluk (Śūnyatā)** canlıları [ıstıraptan](../2_the_four_noble_truths/README.md#1-vardır-ıstırap--dukkha) özgürleştiren **merkezi felsefi ve deneysel öğrenme**dir. Bu inanç değildir, *gerçekliği görünün doğru yoludur*.
 
 ---
