@@ -1,0 +1,448 @@
+## [Amitāyus — The Buddha of Boundless Life](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/hr/master/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
+
+[![amitayus](amitayus.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/languages/hr/master/more/08_lineage/15_amitayus/README.md#amitāyus--the-buddha-of-boundless-life)
+
+<details>
+<summary>Učenje</summary>
+
+## **The Učenje of Boundless Life**
+
+
+*A budistički instruction revealed through Amitāyus praksa*
+
+### 1. The Problem the Učenje Addresses
+
+Ordinary beings fear death and pursue longevity as **extension of possession**:
+more time to secure identitet, comfort, memory, name.
+
+Buddhism observes something more precise:
+
+> Life does not end primarily because the body fails.
+> Life erodes because **[awareness](../../10_concepts/README.md#2-awareness-rigpa-vijñāna-knowing) leaks**.
+
+Distraction, grasping, aggression, and confusion drain vitality long before the final breath.
+
+The učenje of **Amitāyus** addresses this root cause.
+
+---
+
+### 2. The Central Insight
+
+**Longevity is not duration.
+Longevity is continuity of awakened awareness.**
+
+A life filled with confusion is short even if it lasts a hundred years.
+A life aligned with clarity is long even if it is brief.
+
+Thus Amitāyus does not promise *more time* —
+he reveals **why time collapses or stabilizes**.
+
+---
+
+### 3. Two Forms, One Truth
+
+budistički učenje presents two inseparable aspects:
+
+* **Amitābha** — clarity, illumination, truth seen
+* **Amitāyus** — continuity, stability, truth sustained
+
+Light without continuity flashes and fades.
+Continuity without clarity decays into habit.
+
+[Buđenje](../../10_concepts/README.md#3-enlightenment-bodhi-buđenje) requires **both**.
+
+---
+
+### 4. The Vase of Long Life (Učenje Symbol)
+
+Amitāyus holds a vase of *amṛta* (deathless nectar).
+
+This does **not** mean a magical substance.
+
+It teaches:
+
+* Vitality flows when [ethics](../../01_core_teachings/the_noble_eightfold_path/README.md#2-ethical-conduct-śīla) are clean
+* Life stabilizes when the mind is undivided
+* Longevity increases when [suosjećanje](../../02_from_ignorance_to_awakening/7_compassion/README.md#suosjećanje-as-a-structural-principle-in-budistički-učenje) replaces self-defense
+
+The vase is filled **automatically** when causes are correct.
+
+---
+
+### 5. The Ethical Dimension
+
+Amitāyus is inseparable from conduct.
+
+The učenje states:
+
+> Actions rooted in violence shorten life.
+> Actions rooted in care extend it.
+
+This is not moralism.
+It is **causal physics of mind**.
+
+Aggression burns energy.
+Greed fragments attention.
+Deception creates internal friction.
+
+Clarity conserves life.
+
+---
+
+### 6. Why Longevity Praksa Is Not Selfish
+
+In [Mahāyāna](../../05_yanas/README.md#limitation-from-mahāyāna-view) and [Vajrayāna](../../05_yanas/README.md#4-vajrayāna-tantrayāna-mantrayāna---the-diamond-vehicle), one does not pray for long life to enjoy it.
+
+One aspires:
+
+> “May this life last long enough
+> to complete realization
+> and benefit beings.”
+
+Longevity without purpose is karmic debt.
+Longevity with [mudrost](../../01_core_teachings/the_noble_eightfold_path/README.md#1-mudrost-paññā) is **service**.
+
+Thus Amitāyus praksa is often dedicated to:
+
+* učitelji
+* elders
+* loza holders
+* communities sustaining the [Dharma](../../01_core_teachings/the_three_jewels/README.md#2-dharma--the-put-and-the-law-of-reality)
+
+---
+
+### 7. The Meditative Instruction Encoded
+
+The meditacija teaches three structural truths:
+
+1. **Stability extends life**
+2. **Clarity prevents decay**
+3. **Self-forgetting preserves vitality**
+
+When awareness no longer wastes energy maintaining a false self,
+life naturally **slows, deepens, and coheres**.
+
+This is why the meditacija emphasizes:
+
+* calm posture
+* unified breath
+* absence of striving
+
+---
+
+### 8. Death Reinterpreted
+
+Amitāyus does not deny death.
+
+He reframes it:
+
+> Death is the collapse of confused continuity,
+> not the end of awareness.
+
+A life trained in continuity does not break suddenly.
+It **transitions**.
+
+Thus longevity praksa is also **preparation for dying well**.
+
+---
+
+### 9. The Final Učenje Sentence
+
+The entire učenje of Amitāyus can be stated precisely:
+
+> **What is aligned does not decay.
+> What is clear does not rush.
+> What is compassionate does not end prematurely.**
+
+This is not belief.
+It is observation.
+
+---
+
+### 10. Closing Instruction
+
+Do not ask:
+
+> “How can I live longer?”
+
+Ask instead:
+
+> “Where does my life leak?”
+
+Where attention is reclaimed,
+life naturally **lengthens itself**.
+
+That is the učenje of Amitāyus.
+
+</details>
+
+
+---
+
+<details open>
+<summary>Explanation</summary>
+
+---
+
+### Core Meaning in budistički Učenje
+
+Amitāyus does **not** promise immortality of the ego or body. His učenje is subtler and more rigorous:
+
+* **Life is lengthened when obscurations are removed**
+* **Vitality increases when mind and conduct align with Dharma**
+* **Longevity is a *function of mudrost*, not chance**
+
+In this sense, Amitāyus represents **life-force purified by realization**.
+
+---
+
+### Iconography (Why He Looks the Way He Does)
+
+Each element of Amitāyus’ depiction is instructional:
+
+* **Red body** – life-energy refined into suosjećanje and warmth
+* **Seated in meditacija posture** – longevity arises from *stability*, not activity
+* **Vase of long life (amṛta)** – inexhaustible vitality born from insight
+* **Ornamented (sambhogakāya)** – awakened qualities *fully enjoyed*, not renounced
+* **Serene, youthful appearance** – freedom from decay caused by ignorance
+
+This is **symbolic anatomy**, not decoration.
+
+---
+
+### Function of Amitāyus Praksa
+
+In Vajrayāna contexts, Amitāyus praksa is used to:
+
+* Support **long life of practitioners, učitelji, and loze**
+* Restore **vitality depleted by illness, trauma, or imbalance**
+* Stabilize **conditions necessary for deep meditacija**
+* Extend time **not for pleasure, but for realization**
+
+Longevity here means *time made meaningful*.
+
+---
+
+### Philosophical Insight
+
+Amitāyus teaches a precise causal law:
+
+> **Short life is often the karmic result of confusion, aggression, and neglect of mind.
+> Long life is the natural expression of clarity, restraint, and suosjećanje.**
+
+Thus, longevity is **ethical, meditative, and cognitive**—not merely biological.
+
+---
+
+### Relationship to Other Buddhas
+
+* **Amitābha** → infinite light (clarity of mind)
+* **Amitāyus** → infinite life (continuity of realization)
+* **Pure Land** → environment where both are perfected together
+
+You could say:
+
+> *Amitābha reveals truth; Amitāyus gives you time to live it.*
+
+---
+
+### Meditative Principle (Concise)
+
+When contemplating Amitāyus, the practitioner reflects:
+
+* *May my life be long enough to awaken fully*
+* *May my vitality serve suosjećanje, not distraction*
+* *May clarity protect life, and life protect clarity*
+
+This is **life aligned with buđenje**, not survival.
+
+---
+
+### Essential Summary
+
+Amitāyus is not about living forever.
+He is about **living without inner erosion**.
+
+**Longevity = sustained clarity.
+
+</details>
+
+---
+
+<details>
+<summary>Meditacija</summary>
+
+## **Amitāyus Longevity Meditacija**
+
+
+> ⚠️ **Note on scope**
+> What follows is a **non-empowerment contemplative form** (a *praksa of meaning*).
+> It does **not** replace loza transmission (*wang, lung, tri*).
+> Its function is **stabilization, aspiration, and causal alignment**, not tantric authorization.
+
+---
+
+## 0. Preparation (2–3 minutes)
+
+
+**Posture**
+
+* Seated upright ([lotus](../../09_symbols/08_lotus/README.md#the-lotus-in-budistički-učenje), half-lotus, or stable chair)
+* Spine vertical, chin slightly tucked
+* Hands resting in **equanimity mudrā** or on knees
+
+**Mindset**
+
+* Not seeking longer life *for self*, but **to complete buđenje for the benefit of beings**
+
+Silently establish the motivation:
+
+> *“May this life be long enough, clear enough, and stable enough
+> to fully realize the Dharma and benefit others.”*
+
+---
+
+## 1. Utočište & Orientation (1–2 minutes)
+
+
+Bring awareness to the **field of awakened support**:
+
+> *I take utočište in Buddha, Dharma, and Sangha—
+> not as external saviors,
+> but as awakened structure already present.*
+
+Feel the body relax into **trust**.
+
+Longevity begins when **fear dissolves**.
+
+---
+
+## 2. Visualization of Amitāyus (5–7 minutes)
+
+
+Visualize **Amitāyus** appearing in the space before you, at eye level:
+
+* Body of **deep ruby red light**
+* Youthful, serene, luminous
+* Seated on a lotus and moon disc
+* Holding a **vase of amṛta** (nectar of deathless awareness)
+* Surrounded by a soft field of **golden-red radiance**
+
+This is **sambhogakāya**—perfect form, not flesh.
+
+Do not strain.
+Let the image be **clear but gentle**.
+
+---
+
+## 3. Identity Alignment (3–5 minutes)
+
+
+Shift from observer to resonance.
+
+Silently reflect:
+
+> *Amitāyus is not outside me.*
+> *His boundless life is the natural continuity of awakened mind.*
+
+From Amitāyus’ heart, a **warm red-golden light** flows:
+
+* Enters your crown
+* Fills the body
+* Stabilizes at the heart
+
+This light:
+
+* Repairs karmic fatigue
+* Dissolves inner decay
+* Reconnects **life force with mudrost**
+
+Feel **time slow down**.
+Presence deepens.
+
+---
+
+## 4. Longevity Mantra (Optional, 5–10 minutes)
+
+
+If you use [mantra](../../09_symbols/10_mantra/README.md#what-a-mantra-is-buddhist-view), recite softly or mentally:
+
+> **OM AMARANI JIVANTIYE SVAHA**
+
+(Meaning: *O deathless one, sustain life and awareness*)
+
+With each recitation:
+
+* The nectar fills the vase
+* The light stabilizes your breath
+* Life becomes **coherent**, not merely extended
+
+If mantra feels artificial, rest instead in **wordless continuity**.
+
+---
+
+## 5. Absorption (3–5 minutes)
+
+
+Let the visualization **dissolve into light**.
+
+Amitāyus melts into your heart.
+No form remains.
+
+Rest in:
+
+* Clear awareness
+* Steady breath
+* Timeless presence
+
+This is the **true longevity**:
+life no longer leaking through distraction.
+
+---
+
+## 6. Dedication of Life (2 minutes)
+
+
+Conclude with deliberate dedication:
+
+> *May whatever length this life has
+> be used without waste.*
+> *May clarity protect vitality.*
+> *May vitality serve buđenje.*
+> *May all beings have the conditions for realization.*
+
+Feel resolve—not emotion.
+
+---
+
+## Key Učenje Encoded in This Praksa
+
+
+* **Longevity is not biological luck**
+* **Longevity is karmic coherence**
+* **Clarity reduces entropy**
+* **Buđenje preserves life**
+
+Amitāyus does not *add* years.
+He **removes what shortens them**.
+
+---
+
+## When This Praksa Is Especially Appropriate
+
+
+* During illness or recovery
+* When praksa feels fragmented or rushed
+* When working to support učitelji, elders, or loze
+* When facing fear of time, aging, or death
+
+</details>
+
+---
+
+
+< [**Amitābha** — according to budistički učenja](../14_amitabha/README.md) | [**Vairocana** — the Buddha of **Universal Illumination**](../16_vairocana/README.md) >
+
+_izvor: [github.com/symbolic-labs-pub](https://github.com/symbolic-labs-pub)_
+
+---
