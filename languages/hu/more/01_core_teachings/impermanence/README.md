@@ -1,9 +1,9 @@
-## ["minden feltételezett dolog múlandó"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/impermanence/README.md)
+## ["minden feltételhez kötött dolog múlandó"](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/impermanence/README.md)
 [![impermanence](../../../../../more/01_core_teachings/impermanence/impermanence.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/impermanence/README.md#all-conditioned-things-are-impermanent)
 **(Pāli: *sabbe saṅkhārā aniccā*)**
 
 ### 1. Mit jelent valójában a *saṅkhārā*
-A buddhista tanításban a *saṅkhārā* **minden feltételezett jelenségre** vonatkozik—bármire, ami:
+A buddhista tanításban a *saṅkhārā* **minden feltételhez kötött jelenségre** vonatkozik—bármire, ami:
 
 * **okok és feltételek** következtében keletkezik
 * más tényezőktől függ a létezésében
@@ -22,7 +22,7 @@ A feltétlen valóság (*asaṅkhata*) ezzel szemben csak a **Nibbānára** vona
 ### 2. A múlandóság (*anicca*) strukturális, nem véletlen
 A Buddha valóság-elemzése szerint:
 
-> Ami feltételezett, **annak változnia kell**, mert a fenntartó feltételek maguk is instabilak.
+> Ami feltételhez kötött, **annak változnia kell**, mert a fenntartó feltételek maguk is instabilak.
 
 Ez nem költői megfigyelés—ez **törvényszerű betekintés** az okságba (*paṭicca-samuppāda*, [függő keletkezés](../../02_from_ignorance_to_awakening/3_dependent_origination/README.md#a-tizenkét-láncszem-a-klasszikus-megfogalmazás)).
 
