@@ -2,7 +2,7 @@
 
 [![core_teachings.png](../../../../more/01_core_teachings/core_teachings.png)](https://github.com/symbolic-labs-pub/a-buddhist-view/blob/master/languages/hu/more/01_core_teachings/README.md#core-teachings)
 
-## 1.["minden feltételezett dolog múlandó"](impermanence/README.md)
+## 1.["minden feltételekhez kötött dolog múlandó"](impermanence/README.md)
 
 
 *(Pāli: **sabbe saṅkhārā aniccā**)*
@@ -10,7 +10,7 @@
 
 Ez az elv kimondja, hogy **minden, ami okok és feltételek következtében keletkezik, végül megváltozik és elmúlik**.
 
-* A "feltételezett" azt jelenti, hogy **okoktól függ** (fizikai, mentális, társadalmi, karmikus).
+* A "feltételelhez kötött" azt jelenti, hogy **okoktól függ** (fizikai, mentális, társadalmi, karmikus).
 * Semmi összetett dolognak—tárgyaknak, érzelmeknek, identitásoknak, intézményeknek—nincs állandó léte.
 * A [múlandóság](impermanence/README.md#2-a-múlandóság-anicca-strukturális-nem-véletlen) **minden szinten** érvényesül:
 
